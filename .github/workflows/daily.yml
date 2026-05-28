@@ -116,7 +116,7 @@ jobs:
                 fi
               fi
             done
-          fi
+          done
 
           # Catchup branch — covers GitHub Actions silently dropping scheduled
           # triggers (which happens to ~30% of cron runs, especially at the
@@ -235,10 +235,10 @@ jobs:
         run: npm run build-site
 
       - name: Publish to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./daily_reports
-          publish_branch: gh-pages
-          keep_files: false  # we restored everything above, so a clean publish is fine
-          commit_message: 'daily: report for ${{ github.run_id }}'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          folder: ./daily_reports
+          branch: gh-pages
+          clean: true               # corresponds to keep_files: false
+          commit-message: 'daily: report for ${{ github.run_id }}'
