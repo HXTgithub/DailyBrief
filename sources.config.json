@@ -44,7 +44,7 @@
     "url": "https://juejin.cn/rss",
     "category": "tech",
     "subcategory": "cn-community",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh"
     ]
@@ -81,7 +81,7 @@
     "category": "tech",
     "subcategory": "ai-news",
     "lang": "zh",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh"
     ]
