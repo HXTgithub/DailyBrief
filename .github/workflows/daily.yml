@@ -56,6 +56,7 @@ jobs:
     steps:
       - name: Check schedule
         id: check
+        shell: bash   
         env:
           REPORT_TZ: ${{ vars.REPORT_TZ }}
           REPORT_HOUR: ${{ vars.REPORT_HOUR }}
