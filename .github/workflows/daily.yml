@@ -1,5 +1,5 @@
 name: Daily Brief
-
+#1.0
 # Generate a fresh daily report and publish to GitHub Pages.
 #
 # One-time setup for forkers (see README → "Run on GitHub Actions"):
