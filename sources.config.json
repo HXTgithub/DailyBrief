@@ -60,7 +60,7 @@
     "locales": [
       "en"
     ]
-  }，
+  },
   {
     "id": "lobsters",
     "name": "Lobsters",
@@ -76,18 +76,18 @@
   {
     "id": "qbitai",
     "name": "量子位",
-    "type": "rss"，
+    "type": "rss",
     "url": "https://www.qbitai.com/feed",
     "category": "tech",
     "subcategory": "ai-news",
     "lang": "zh",
-    "enabled": true，
+    "enabled": true,
     "locales": [
       "zh"
     ]
   },
   {
-    "id": "openai-news"，
+    "id": "openai-news",
     "name": "OpenAI News",
     "type": "rss",
     "url": "https://openai.com/news/rss.xml",
@@ -98,10 +98,10 @@
       "zh",
       "en"
     ]
-  }，
+  },
   {
     "id": "deepmind-blog",
-    "name": "DeepMind Blog"，
+    "name": "DeepMind Blog",
     "type": "rss",
     "url": "https://deepmind.google/blog/rss.xml",
     "category": "tech",
@@ -124,7 +124,7 @@
       "zh",
       "en"
     ]
-  }，
+  },
   {
     "id": "huggingface-papers",
     "name": "HuggingFace Trending Papers",
@@ -336,19 +336,19 @@
   {
     "id": "bbc-tech",
     "name": "BBC Technology",
-    "type": "rss"，
+    "type": "rss",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "category": "tech",
     "subcategory": "overseas",
     "enabled": false,
     "locales": [
-      "zh"，
+      "zh",
       "en"
     ]
   },
   {
     "id": "bloomberg-markets",
-    "name": "Bloomberg Markets"，
+    "name": "Bloomberg Markets",
     "type": "rss",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
     "category": "finance",
@@ -362,7 +362,7 @@
   {
     "id": "wsj-markets",
     "name": "WSJ Markets",
-    "type": "rss"，
+    "type": "rss",
     "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
     "category": "finance",
     "subcategory": "news",
