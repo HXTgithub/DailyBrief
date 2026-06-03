@@ -58,6 +58,7 @@
     "subcategory": "overseas-community",
     "enabled": true,
     "locales": [
+      "zh",
       "en"
     ]
   },
@@ -70,6 +71,7 @@
     "subcategory": "overseas-community",
     "enabled": true,
     "locales": [
+      "zh",
       "en"
     ]
   },
@@ -288,7 +290,7 @@
     "url": "https://blog.cloudflare.com/rss/",
     "category": "tech",
     "subcategory": "blog-weekly",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -301,7 +303,7 @@
     "url": "https://github.blog/engineering/feed/",
     "category": "tech",
     "subcategory": "blog-weekly",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -405,7 +407,8 @@
     "url": "https://www.ftchinese.com/rss/news",
     "category": "finance",
     "subcategory": "news",
-    "enabled": false,
+    "lang": "zh",
+    "enabled": true,
     "locales": [
       "zh"
     ]
@@ -496,7 +499,7 @@
     "category": "tech",
     "subcategory": "overseas-community",
     "useCurl": true,
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "en"
     ],
@@ -534,7 +537,8 @@
     "url": "https://rsshub.app/wallstreetcn/news/global",
     "category": "finance",
     "subcategory": "news",
-    "enabled": false,
+    "lang": "zh",
+    "enabled": true,
     "locales": [
       "zh"
     ]
@@ -572,7 +576,7 @@
     "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -585,7 +589,7 @@
     "url": "https://feeds.npr.org/1004/rss.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -598,7 +602,7 @@
     "url": "https://rss.dw.com/rdf/rss-chi-all",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh"
     ]
@@ -610,7 +614,7 @@
     "url": "https://www.aljazeera.com/xml/rss/all.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -623,7 +627,7 @@
     "url": "https://thediplomat.com/feed/",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
