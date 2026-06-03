@@ -214,6 +214,8 @@ const SOURCE_DISPLAY_LIMITS: Record<string, number> = {
 const PRESERVE_FETCH_ORDER_SOURCES = new Set([
   "attentionvc-ai",
   "huggingface-papers",
+  "hackernews",
+  "lobsters",
 ]);
 
 function displayLimitFor(
@@ -442,6 +444,12 @@ function formatDate(d: Date | undefined): string {
 
 // ----- raw article renderers -----
 
+function heatLevel(score: number): "high" | "mid" | "low" {
+  if (score >= 100) return "high";
+  if (score >= 30) return "mid";
+  return "low";
+}
+
 function renderArticleHtml(a: ArticleInput, showSource = false): string {
   const title = escapeHtml(a.title);
   const url = escapeHtml(a.url);
@@ -456,8 +464,11 @@ function renderArticleHtml(a: ArticleInput, showSource = false): string {
   // News-style summary label for finance/politics, project-intro style for GH/tech.
   const newsy = a.category === "finance" || a.category === "politics";
   const summaryLabel = newsy ? STR.summaryLabelNews : STR.summaryLabelIntro;
+  const heatBadge = a.score != null && a.score > 0
+    ? `<span class="article-heat ${heatLevel(a.score)}">▲ ${a.score}</span>`
+    : "";
   return `<article class="article">
-  <h3 class="article-title"><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></h3>
+  <h3 class="article-title"><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a>${heatBadge}</h3>
   ${meta ? `<p class="article-stats">${meta}</p>` : ""}
   ${metaLine ? `<p class="article-meta">${metaLine}</p>` : ""}
   ${excerpt ? `<p class="article-excerpt">${excerpt}</p>` : ""}
@@ -905,6 +916,18 @@ export function renderHtml(
     margin: 0 0 0.4rem;
     font-feature-settings: "tnum";
   }
+  .article-heat {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+  .article-heat.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .article-heat.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .article-heat.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
   .article-excerpt {
     margin: 0;
     color: var(--fg-soft);

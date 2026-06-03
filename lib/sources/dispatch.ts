@@ -3,6 +3,7 @@ import { fetchGithubTrending } from "./github-trending";
 import { fetchHackerNews } from "./hackernews";
 import { fetchHuggingfacePapers } from "./huggingface-papers";
 import { fetchLinuxDo } from "./linuxdo";
+import { fetchLobsters } from "./lobsters";
 import { fetchRss } from "./rss";
 import { fetchV2ex } from "./v2ex";
 import type { RawArticle, SourceDef } from "./types";
@@ -13,6 +14,7 @@ import type { RawArticle, SourceDef } from "./types";
  */
 export async function fetchSource(source: SourceDef): Promise<RawArticle[]> {
   if (source.id === "hackernews") return fetchHackerNews(source.id);
+  if (source.id === "lobsters") return fetchLobsters(source.id);
   if (source.id === "github-trending") return fetchGithubTrending(source.id);
   if (source.id === "v2ex-hot") return fetchV2ex(source.id);
   if (source.id === "linuxdo") return fetchLinuxDo(source.id);

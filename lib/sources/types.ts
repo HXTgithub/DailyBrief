@@ -66,4 +66,11 @@ export interface RawArticle {
    * used by GitHub Trending for "Language · ★stars · forks · stars today".
    */
   meta?: string;
+  /**
+   * Engagement / heat score from the source (HN points, Lobsters score,
+   * V2EX replies, etc.). When present, the community panel renders a
+   * color-coded rank badge and preserves the fetcher's sort order instead
+   * of re-sorting by date.
+   */
+  score?: number;
 }

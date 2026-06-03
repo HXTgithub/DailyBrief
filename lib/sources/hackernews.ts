@@ -31,7 +31,7 @@ export async function fetchHackerNews(
         .catch(() => null),
     ),
   );
-  return items
+  const articles = items
     .filter((it): it is HnItem => Boolean(it && it.title))
     .map((it) => ({
       sourceId,
@@ -42,5 +42,8 @@ export async function fetchHackerNews(
         : `${it.score ?? 0} points · ${it.descendants ?? 0} comments`,
       publishedAt: it.time ? new Date(it.time * 1000) : undefined,
       category: "tech" as const,
+      score: it.score ?? 0,
     }));
+  articles.sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
+  return articles;
 }
