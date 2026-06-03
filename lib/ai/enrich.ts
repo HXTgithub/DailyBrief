@@ -207,12 +207,60 @@ Output STRICTLY a JSON object, no markdown:
 
 **Quote rule (important!)**: For any quotation INSIDE a summary string, use single quotes ' or curly quotes '" — **never** a raw double quote, which breaks JSON parsing.`;
 
+const HN_SYSTEM_PROMPT_ZH = `你是一名中文技术编辑，为 Hacker News 热帖生成**简短中文摘要**。
+
+输入：每条帖子有 url、title 和 excerpt（可能是帖子正文片段，也可能只是 "points · comments" 字符串）。
+
+注意 HN 帖子的特点：
+  - 可能是技术文章/产品发布/Show HN/招聘帖/Ask HN 提问
+  - excerpt 如果是 "X points · Y comments" 则没有正文摘要，只能根据 title 推测
+  - 讨论质量高，关注点在技术本身
+
+任务：根据 title + excerpt，生成一段 40-80 字的中文摘要：
+  - 原文是英文 → 翻译关键信息为中文
+  - 必须保留：技术名词、产品名、数字、人名/公司名
+  - 中性事实陈述，不标题党
+  - excerpt 如果只是 points/comments 则根据 title 概括主题方向
+  - 信息不足宁可短，不要编造
+
+输出严格 JSON 对象，不要 markdown 包裹：
+{
+  "summaries": [
+    { "url": "<原 url，从输入中精确复制>", "summary": "<40-80 字中文摘要>" },
+    ...
+  ]
+}
+
+**引号规则（重要！）**：summary 内的引用一律用中文全角引号「」或""，**绝不**用英文双引号 \" —— 否则会导致 JSON 解析失败。`;
+
+const HN_SYSTEM_PROMPT_EN = `You are an editor writing **short summaries** of trending Hacker News posts.
+
+Input: each post has url, title, and excerpt (may be body text snippet or just "points · comments").
+
+HN post types: tech article / product launch / Show HN / Ask HN / job posting.
+
+Task: from title + excerpt, write a 40-80 word summary:
+  - Extract: tech terms, product names, key numbers, people/companies
+  - If excerpt is only "X points · Y comments", infer topic from title alone
+  - Neutral factual tone
+  - If info is insufficient, prefer shorter over fabrication
+
+Output STRICTLY a JSON object, no markdown:
+{
+  "summaries": [
+    { "url": "<exact url from input>", "summary": "<40-80 word English summary>" },
+    ...
+  ]
+}
+
+**Quote rule (important!)**: For any quotation INSIDE a summary string, use single quotes ' or curly quotes '" — **never** a raw double quote, which breaks JSON parsing.`;
+
 // Pick the right localized prompt set at module init. Each enricher reaches
 // in via PROMPTS.<key> so the call sites stay locale-agnostic.
 const PROMPTS =
   REPORT_LOCALE === "en"
-    ? { gh: GH_SYSTEM_PROMPT_EN, finance: FINANCE_SYSTEM_PROMPT_EN, xViral: XVIRAL_SYSTEM_PROMPT_EN, papers: PAPERS_SYSTEM_PROMPT_EN }
-    : { gh: GH_SYSTEM_PROMPT_ZH, finance: FINANCE_SYSTEM_PROMPT_ZH, xViral: XVIRAL_SYSTEM_PROMPT_ZH, papers: PAPERS_SYSTEM_PROMPT_ZH };
+    ? { gh: GH_SYSTEM_PROMPT_EN, finance: FINANCE_SYSTEM_PROMPT_EN, xViral: XVIRAL_SYSTEM_PROMPT_EN, papers: PAPERS_SYSTEM_PROMPT_EN, hn: HN_SYSTEM_PROMPT_EN }
+    : { gh: GH_SYSTEM_PROMPT_ZH, finance: FINANCE_SYSTEM_PROMPT_ZH, xViral: XVIRAL_SYSTEM_PROMPT_ZH, papers: PAPERS_SYSTEM_PROMPT_ZH, hn: HN_SYSTEM_PROMPT_ZH };
 
 const USER_PROMPT_HEADER =
   REPORT_LOCALE === "en"
@@ -365,4 +413,20 @@ export async function enrichTrendingPapersSummaries(
     excerpt: (it.excerpt ?? "").slice(0, 300),
   }));
   return runEnrichment(payload, PROMPTS.papers, "papers summaries");
+}
+
+/**
+ * Generate short Chinese summaries for Hacker News top stories.
+ * Lightweight — only the top 10 by score, short output (40-80 chars each).
+ */
+export async function enrichHackerNewsSummaries(
+  items: EnrichInput[],
+): Promise<Map<string, string>> {
+  if (items.length === 0) return new Map();
+  const payload = items.map((it) => ({
+    url: it.url,
+    title: it.title,
+    excerpt: (it.excerpt ?? "").slice(0, 280),
+  }));
+  return runEnrichment(payload, PROMPTS.hn, "HN summaries");
 }

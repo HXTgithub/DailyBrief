@@ -13,6 +13,7 @@ import { getModelTag, validateBackendCredentials } from "../lib/ai/llm";
 import {
   enrichFinanceNewsSummaries,
   enrichGithubTrendingSummaries,
+  enrichHackerNewsSummaries,
   enrichTrendingPapersSummaries,
   enrichXViralSummaries,
 } from "../lib/ai/enrich";
@@ -145,6 +146,31 @@ async function enrichTrendingPapers(articles: ArticleInput[]): Promise<void> {
 }
 
 /**
+ * Hacker News top-10 enrichment — fetcher already sorts by score desc,
+ * so we just take the top slice and batch-summarize in one LLM call.
+ */
+async function enrichHN(articles: ArticleInput[]): Promise<void> {
+  const top10 = articles
+    .filter((a) => a.sourceId === "hackernews")
+    .slice(0, 10);
+  if (top10.length === 0) return;
+  console.log(
+    `[daily] enriching ${top10.length} HN posts with ${REPORT_LOCALE} summaries…`,
+  );
+  const t0 = Date.now();
+  const summaries = await enrichHackerNewsSummaries(
+    top10.map((a) => ({ url: a.url, title: a.title, excerpt: a.excerpt })),
+  );
+  for (const a of top10) {
+    const s = summaries.get(a.url);
+    if (s) a.summary = s;
+  }
+  console.log(
+    `[daily] HN enrichment done in ${((Date.now() - t0) / 1000).toFixed(1)}s, matched ${summaries.size}/${top10.length}`,
+  );
+}
+
+/**
  * Shared implementation for "merged subgroup" enrichment: collect all
  * enabled articles in (category, subcategory), sort by date desc, take
  * the display cap (from MERGED_SUBGROUP_LIMITS), and ask the LLM to
@@ -251,9 +277,10 @@ async function main() {
     throw new Error("no articles fetched — aborting");
   }
 
-  // Enrich GH Trending, papers, finance news, and politics with summaries.
+  // Enrich GH Trending, papers, HN, finance news, and politics with summaries.
   await enrichGhTrending(articles);
   await enrichTrendingPapers(articles);
+  await enrichHN(articles);
   await enrichFinanceNews(articles);
   await enrichPolitics(articles);
   await enrichAiNews(articles);
