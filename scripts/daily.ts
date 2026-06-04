@@ -33,12 +33,26 @@ import { todayKey } from "../lib/utils";
 
 const OUTPUT_DIR = "daily_reports";
 
+function fetchWithTimeout<T>(promise: Promise<T>, ms: number, label: string): Promise<T> {
+  return new Promise((resolve, reject) => {
+    const timer = setTimeout(() => reject(new Error(`${label} timed out after ${ms}ms`)), ms);
+    promise.then(
+      (v) => { clearTimeout(timer); resolve(v); },
+      (e) => { clearTimeout(timer); reject(e); },
+    );
+  });
+}
+
 async function fetchAll(): Promise<ArticleInput[]> {
   const articles: ArticleInput[] = [];
   const enabled = sources.filter((s) => s.enabled !== false);
   for (const source of enabled) {
     try {
-      const items = await fetchSource(source);
+      const items = await fetchWithTimeout(
+        fetchSource(source),
+        30_000,
+        source.id,
+      );
       console.log(`  ${source.id.padEnd(20)} ${items.length}`);
       articles.push(...items.map((it) => ({ ...it, source: source.name })));
     } catch (e) {
