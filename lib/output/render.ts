@@ -572,45 +572,45 @@ export function renderHtml(
 <title>${STR.siteTitle} · ${date}</title>
 <style>
   :root {
-    --bg: #fafaf9;
+    --bg: #F9FAFB;
     --bg-elevated: #ffffff;
-    --fg: #18181b;
-    --fg-soft: #3f3f46;
-    --muted: #71717a;
-    --rule: #e4e4e7;
-    --card: #f4f4f5;
-    --link: #1d4ed8;
-    --accent: #18181b;
-    --accent-fg: #fafaf9;
-    --rank-high-bg: #fee2e2;
-    --rank-high-fg: #991b1b;
-    --rank-mid-bg: #fef3c7;
-    --rank-mid-fg: #92400e;
-    --rank-low-bg: #e0e7ff;
-    --rank-low-fg: #3730a3;
-    --hero-grad-from: #fafaf9;
-    --hero-grad-to: #f4f4f5;
+    --fg: #1E2A3E;
+    --fg-soft: #4A5568;
+    --muted: #8B9CB0;
+    --rule: #EDF2F7;
+    --card: #F5F7FA;
+    --link: #6B9B6D;
+    --accent: #2D3748;
+    --accent-fg: #ffffff;
+    --rank-high-bg: #E6F0E8;
+    --rank-high-fg: #4A7C4F;
+    --rank-mid-bg: #FDF2E0;
+    --rank-mid-fg: #9A6B30;
+    --rank-low-bg: #E8EFF7;
+    --rank-low-fg: #4A6080;
+    --hero-grad-from: #F9FAFB;
+    --hero-grad-to: #F5F7FA;
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #0a0a0a;
-      --bg-elevated: #18181b;
-      --fg: #fafafa;
-      --fg-soft: #d4d4d8;
-      --muted: #a1a1aa;
-      --rule: #27272a;
-      --card: #18181b;
-      --link: #93c5fd;
-      --accent: #fafafa;
-      --accent-fg: #0a0a0a;
-      --rank-high-bg: rgba(239,68,68,0.18);
-      --rank-high-fg: #fca5a5;
-      --rank-mid-bg: rgba(245,158,11,0.18);
-      --rank-mid-fg: #fcd34d;
-      --rank-low-bg: rgba(99,102,241,0.18);
-      --rank-low-fg: #a5b4fc;
-      --hero-grad-from: #18181b;
-      --hero-grad-to: #0a0a0a;
+      --bg: #0F1419;
+      --bg-elevated: #1A2027;
+      --fg: #E8ECF0;
+      --fg-soft: #B0BEC5;
+      --muted: #6B7D8B;
+      --rule: #263038;
+      --card: #1A2027;
+      --link: #8FBC94;
+      --accent: #D0D8E0;
+      --accent-fg: #0F1419;
+      --rank-high-bg: rgba(111,158,115,0.18);
+      --rank-high-fg: #8FBC94;
+      --rank-mid-bg: rgba(201,158,98,0.18);
+      --rank-mid-fg: #D4B87A;
+      --rank-low-bg: rgba(120,150,190,0.18);
+      --rank-low-fg: #96ADC8;
+      --hero-grad-from: #1A2027;
+      --hero-grad-to: #0F1419;
     }
   }
   * { box-sizing: border-box; }
@@ -620,7 +620,7 @@ export function renderHtml(
     color: var(--fg);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
       "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-    line-height: 1.6;
+    line-height: 1.7;
     -webkit-font-smoothing: antialiased;
   }
   main { max-width: 960px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
@@ -652,11 +652,11 @@ export function renderHtml(
   }
   .archive-link:hover { color: var(--accent); border-bottom-style: solid; }
   .hero-card {
-    background: linear-gradient(135deg, var(--hero-grad-from) 0%, var(--hero-grad-to) 100%);
+    background: var(--bg-elevated);
     border: 1px solid var(--rule);
-    border-left: 4px solid var(--accent);
+    border-left: 3px solid var(--link);
     padding: 1rem 1.4rem;
-    border-radius: 0.6rem;
+    border-radius: 0.5rem;
   }
   .hero-eyebrow {
     font-size: 0.7rem;
@@ -675,15 +675,15 @@ export function renderHtml(
   .overview-card {
     margin: 0.7rem 0 0;
     padding: 0.7rem 1.1rem;
-    background: var(--card);
+    background: var(--bg-elevated);
     border-radius: 0.5rem;
-    border-left: 3px solid var(--muted);
+    border-left: 3px solid var(--link);
   }
   .overview-card .eyebrow { display: block; margin-bottom: 0.3rem; }
   .overview-text {
     margin: 0;
-    font-size: 0.88rem;
-    line-height: 1.65;
+    font-size: 0.92rem;
+    line-height: 1.75;
     color: var(--fg-soft);
   }
 
@@ -759,11 +759,10 @@ export function renderHtml(
     border: 1px solid var(--rule);
     border-radius: 0.5rem;
     padding: 0.7rem 0.95rem;
-    transition: border-color 0.15s, transform 0.15s;
+    transition: border-color 0.15s;
   }
   .brief:hover {
-    border-color: var(--muted);
-    transform: translateY(-1px);
+    border-color: var(--link);
   }
   .brief-head {
     display: flex;
@@ -800,13 +799,13 @@ export function renderHtml(
   .brief-summary {
     margin: 0;
     color: var(--fg-soft);
-    font-size: 0.86rem;
-    line-height: 1.55;
+    font-size: 0.9rem;
+    line-height: 1.65;
   }
 
   .editor-card {
-    background: var(--card);
-    border-left: 3px solid var(--muted);
+    background: var(--bg-elevated);
+    border-left: 3px solid var(--link);
     border-radius: 0.5rem;
     padding: 1rem 1.3rem;
     margin: 1.5rem 0 1.2rem;
@@ -815,8 +814,8 @@ export function renderHtml(
   .editor-text {
     margin: 0;
     font-size: 0.95rem;
-    line-height: 1.7;
-    color: var(--fg);
+    line-height: 1.75;
+    color: var(--fg-soft);
   }
   .keywords { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; }
   .keyword {
@@ -902,9 +901,9 @@ export function renderHtml(
   .article:first-child { padding-top: 0; }
   .article:last-child { border-bottom: none; }
   .article-title {
-    font-size: 1rem;
-    margin: 0 0 0.3rem;
-    font-weight: 500;
+    font-size: 1.05rem;
+    margin: 0 0 0.35rem;
+    font-weight: 600;
     line-height: 1.45;
   }
   .article-title a { color: var(--fg); text-decoration: none; }
@@ -931,27 +930,26 @@ export function renderHtml(
   .article-excerpt {
     margin: 0;
     color: var(--fg-soft);
-    font-size: 0.9rem;
-    line-height: 1.6;
+    font-size: 0.93rem;
+    line-height: 1.7;
   }
   .article-summary {
     margin: 0.55rem 0 0;
-    padding: 0.6rem 0.85rem;
+    padding: 0.65rem 0.9rem;
     background: var(--card);
     border-left: 2px solid var(--link);
     border-radius: 0.3rem;
-    font-size: 0.9rem;
-    line-height: 1.6;
-    color: var(--fg);
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: var(--fg-soft);
   }
   .summary-label {
     display: inline-block;
-    font-size: 0.68rem;
+    font-size: 0.7rem;
     color: var(--link);
     margin-right: 0.4rem;
     font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.06em;
   }
 
   .empty {
@@ -1022,9 +1020,9 @@ export function renderHtml(
   .trading-overview-card {
     margin: 0 0 1.5rem;
     padding: 1rem 1.3rem;
-    background: var(--card);
+    background: var(--bg-elevated);
     border-radius: 0.5rem;
-    border-left: 3px solid var(--accent);
+    border-left: 3px solid var(--link);
   }
   .trading-overview-card .eyebrow { display: block; margin-bottom: 0.4rem; }
   .trading-overview-text { font-size: 0.92rem; line-height: 1.75; color: var(--fg-soft); margin: 0; }
