@@ -550,7 +550,7 @@
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -563,7 +563,7 @@
     "url": "https://www.theguardian.com/world/rss",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
