@@ -134,7 +134,7 @@
     "url": "https://huggingface.co/api/daily_papers",
     "category": "tech",
     "subcategory": "trending-papers",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
