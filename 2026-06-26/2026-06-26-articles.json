@@ -6,160 +6,160 @@
       "title": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
       "excerpt": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "meta": "TypeScript · ★ 19,126 · 🍴 1,644 · 📈 1,407 stars today",
+      "meta": "TypeScript · ★ 19,157 · 🍴 1,645 · 📈 1,475 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "DESIGN.md 是一种格式规范，让 AI 编码代理持久化、结构化地理解设计系统。它定义了描述视觉身份的方法，帮助 AI 在生成代码时保持一致的设计语言，适用于需要统一品牌风格的前端开发场景。"
+      "summary": "DESIGN.md 规范文件格式，让编码 agent 持久、结构化地理解设计系统的视觉 identity。适用于需要 AI agent 自动遵循设计规范的前端开发或设计系统维护场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "excerpt": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "meta": "Python · ★ 22,012 · 🍴 2,471 · 📈 3,553 stars today",
+      "meta": "Python · ★ 22,038 · 🍴 2,474 · 📈 3,434 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenMontage 是全球首个开源智能体视频制作系统，集成了 12 条流水线、52 个工具和 500 余项代理技能。它能将 AI 编码助手转变为完整的视频制作工作室，适合内容创作者和开发者自动化视频生产。"
+      "summary": "全球首个开源智能视频制作系统，内置 12 条流水线、52 种工具及 500+ agent 技能。可将 AI 编码助手转变为完整视频制作工作室，适合内容创作者和自动化视频生产。"
     },
     {
       "sourceId": "github-trending",
       "title": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "excerpt": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "meta": "Python · ★ 1,824 · 🍴 295 · 📈 201 stars today",
+      "meta": "Python · ★ 1,844 · 🍴 296 · 📈 309 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ai-berkshire 是基于 Claude Code 的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位大师的方法论，通过多智能体并行研究进行投资分析。适合价值投资者使用 AI 进行深度基本面研究和决策辅助。"
+      "summary": "基于 Claude Code 的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位大师的方法论，通过多 Agent 并行进行深度分析。适用于量化投资研究和基本面分析。"
     },
     {
       "sourceId": "github-trending",
       "title": "mauriceboe/TREK",
       "url": "https://github.com/mauriceboe/TREK",
       "excerpt": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "meta": "TypeScript · ★ 6,616 · 🍴 605 · 📈 112 stars today",
+      "meta": "TypeScript · ★ 6,635 · 🍴 606 · 📈 241 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "TREK 是一个自托管旅行计划工具，支持实时协作、交互式地图、PWA、SSO 登录、预算管理和打包清单等功能。适合注重隐私的旅行爱好者或团队共同规划行程，部署在自己的服务器上。"
+      "summary": "自托管旅行规划器，支持实时协作、交互地图、PWA、SSO、预算管理和打包清单。适合团队或家庭共同规划行程，数据完全自主掌控。"
     },
     {
       "sourceId": "github-trending",
       "title": "apple/container",
       "url": "https://github.com/apple/container",
       "excerpt": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "meta": "Swift · ★ 43,189 · 🍴 1,266 · 📈 1,366 stars today",
+      "meta": "Swift · ★ 43,200 · 🍴 1,268 · 📈 1,351 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "apple/container 是苹果官方推出的 Linux 容器工具，基于轻量级虚拟机在 Mac 上运行容器。使用 Swift 编写，针对 Apple Silicon 优化，适合开发者在本机测试和部署 Linux 环境而无需完整虚拟机。"
+      "summary": "苹果官方工具，在 Mac 上通过轻量级虚拟机创建并运行 Linux 容器。使用 Swift 编写，专为 Apple Silicon 优化，适合需要本地运行 Linux 环境的 Mac 开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "excerpt": "Clone any website with one command using AI coding agents",
-      "meta": "TypeScript · ★ 20,394 · 🍴 3,005 · 📈 1,021 stars today",
+      "meta": "TypeScript · ★ 20,409 · 🍴 3,007 · 📈 1,024 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ai-website-cloner-template 允许通过一条命令利用 AI 编码代理克隆任意网站。适合快速复制现有网页结构进行二次开发或学习，减轻手动抓取和重建的工作量。"
+      "summary": "利用 AI 编码 agent，一条命令即可克隆任意网站。适用于快速备份网站、学习前端结构或迁移内容。"
     },
     {
       "sourceId": "github-trending",
       "title": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "excerpt": "Open source alternative to Semrush and Ahrefs",
-      "meta": "TypeScript · ★ 2,498 · 🍴 295 · 📈 57 stars today",
+      "meta": "TypeScript · ★ 2,502 · 🍴 296 · 📈 57 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "open-seo 是 Semrush 和 Ahrefs 的开源替代品，提供 SEO 分析工具。网站运营者可以免费使用它进行关键词研究、竞争对手分析和站点审核，无需付费订阅商业工具。"
+      "summary": "开源替代 Semrush 和 Ahrefs 的 SEO 工具，提供网站分析、关键词研究等功能。适合预算有限但需要专业 SEO 数据的中小企业或个人站长。"
     },
     {
       "sourceId": "github-trending",
       "title": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "excerpt": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "meta": "TypeScript · ★ 115,773 · 🍴 17,166 · 📈 836 stars today",
+      "meta": "TypeScript · ★ 115,786 · 🍴 17,168 · 📈 767 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "gstack 提供 Garry Tan 使用的 Claude Code 配置，包含 23 个专有工具，能模拟 CEO、设计师、工程经理、发布经理、文档工程师和 QA 等多种角色。适合开发者一键获得结构化 AI 辅助工作流，提升开发效率。"
+      "summary": "Garry Tan 的 Claude Code 配置模板，包含 23 个自认为最佳的工具，模拟 CEO、设计师、工程经理等角色。帮助开发者快速搭建 AI agent 驱动的项目管理流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "aws/agent-toolkit-for-aws",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "excerpt": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "meta": "Python · ★ 1,124 · 🍴 114 · 📈 15 stars today",
+      "meta": "Python · ★ 1,126 · 🍴 114 · 📈 47 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "agent-toolkit-for-aws 是 AWS 官方推出的 AI 代理开发工具包，提供 MCP 服务器、技能和插件，帮助开发者快速在 AWS 上构建智能代理应用。适合需要将 AI 代理与 AWS 服务（如 Lambda、S3）集成的场景。"
+      "summary": "AWS 官方支持的 MCP 服务器、技能和插件集合，帮助 AI agent 在 AWS 平台上构建应用。适合需要在 AWS 上集成 AI agent 的云开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "excerpt": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · ",
-      "meta": "Python · ★ 21,205 · 🍴 2,445 · 📈 600 stars today",
+      "meta": "Python · ★ 21,216 · 🍴 2,447 · 📈 571 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目提供 817 个结构化的网络安全技能定义，覆盖 MITRE ATT&CK、NIST CSF 2.0 等六大框架，遵循 agentskills.io 标准。安全团队可将这些技能集成到 AI 代理中，实现自动化威胁检测、响应和合规评估。"
+      "summary": "为 AI agent 提供 817 项结构化网络安全技能，覆盖 MITRE ATT&CK、NIST CSF 等六大框架。适合安全团队训练 agent 执行威胁检测、事件响应等任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "excerpt": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "meta": "TypeScript · ★ 19,791 · 🍴 1,705 · 📈 196 stars today",
+      "meta": "TypeScript · ★ 19,791 · 🍴 1,706 · 📈 163 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "page-agent 是阿里巴巴开源的 JavaScript 页面内 GUI 代理，允许用户通过自然语言指令控制网页界面。适合用于网页自动化测试、辅助导航或为残障人士提供语音操控网页的能力。"
+      "summary": "基于 JavaScript 的网页内 GUI agent，允许用户用自然语言控制网页界面。适用于自动化测试、假人操作或无障碍辅助。"
     },
     {
       "sourceId": "github-trending",
       "title": "IceWhaleTech/CasaOS",
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "excerpt": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "meta": "Go · ★ 34,799 · 🍴 1,991 · 📈 202 stars today",
+      "meta": "Go · ★ 34,811 · 🍴 1,992 · 📈 223 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "CasaOS 是一个开源个人云系统，界面简洁易用，适合在家庭服务器或 NAS 上部署。它提供应用商店、文件管理、媒体服务等功能，帮助用户轻松搭建私有云，替代商业云存储服务。"
+      "summary": "简洁易用的开源个人云系统，提供文件管理、应用商店等功能。适合家庭用户或极客搭建私有云盘、媒体服务器等。"
     },
     {
       "sourceId": "github-trending",
       "title": "opendatalab/MinerU",
       "url": "https://github.com/opendatalab/MinerU",
       "excerpt": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "meta": "Python · ★ 69,536 · 🍴 5,882 · 📈 524 stars today",
+      "meta": "Python · ★ 69,553 · 🍴 5,885 · 📈 644 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "MinerU 将 PDF、Office 等复杂文档转换为 LLM 可直接处理的 Markdown 或 JSON 格式。数据科学家和 AI 工程师可将其用于文档解析、RAG 系统构建，为智能体工作流提供高质量的结构化输入。"
+      "summary": "将 PDF、Office 等复杂文档转换为 LLM 可直接使用的 Markdown 或 JSON 格式。适用于构建 Agentic 工作流时的文档预处理环节。"
     },
     {
       "sourceId": "github-trending",
       "title": "Free-TV/IPTV",
       "url": "https://github.com/Free-TV/IPTV",
       "excerpt": "M3U Playlist for free TV channels",
-      "meta": "Python · ★ 18,193 · 🍴 2,677 · 📈 141 stars today",
+      "meta": "Python · ★ 18,200 · 🍴 2,678 · 📈 139 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Free-TV/IPTV 提供免费电视直播频道的 M3U 播放列表，用户可在支持 IPTV 的播放器中观看全球公开的电视节目。适合喜欢看免费电视、不愿订阅付费服务的用户。"
+      "summary": "免费的 M3U 格式电视直播频道播放列表，涵盖多个国家/地区。适合 IPTV 播放器用户或需要免费电视源的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "shanraisshan/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "excerpt": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "meta": "HTML · ★ 60,504 · 🍴 6,061 · 📈 450 stars today",
+      "meta": "HTML · ★ 60,516 · 🍴 6,063 · 📈 287 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "claude-code-best-practice 收录了从「氛围编程」到「智能体工程」的最佳实践，帮助开发者掌握 Claude Code 的高效用法。内容包括提示技巧、工作流设计等，适合希望从随意使用进阶到系统化 AI 编程的开发者。"
+      "summary": "Claude Code 最佳实践指南，从 vibe coding 过渡到 agentic engineering。包含实用技巧和案例，帮助开发者更高效地使用 Claude Code。"
     },
     {
       "sourceId": "github-trending",
       "title": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "excerpt": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "meta": "Python · ★ 52,733 · 🍴 10,920 · 📈 347 stars today",
+      "meta": "Python · ★ 52,737 · 🍴 10,920 · 📈 398 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "MediaCrawler 是一个多平台社交媒体爬虫，支持小红书、抖音、快手、B 站、微博、百度贴吧、知乎等平台的笔记、视频、帖子及评论抓取。适合数据采集、舆情分析和内容研究等场景，提供结构化数据输出。"
+      "summary": "多平台媒体爬虫，支持小红书、抖音、快手、B 站、微博、百度贴吧、知乎等平台的笔记/视频/帖子及评论数据抓取。适合自媒体分析和数据采集。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -174,7 +174,7 @@
       "sourceId": "v2ex-hot",
       "title": " Apple 平板和电脑涨价",
       "url": "https://www.v2ex.com/t/1222904",
-      "excerpt": "33 回复 · Apple 节点",
+      "excerpt": "34 回复 · Apple 节点",
       "publishedAt": "2026-06-25T13:16:49.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -183,7 +183,7 @@
       "sourceId": "v2ex-hot",
       "title": "我现在用 AI 干活太快 领导有些震惊 怎么办 你们是怎么装的",
       "url": "https://www.v2ex.com/t/1222834",
-      "excerpt": "26 回复 · 程序员 节点",
+      "excerpt": "27 回复 · 程序员 节点",
       "publishedAt": "2026-06-25T08:44:04.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -192,7 +192,7 @@
       "sourceId": "v2ex-hot",
       "title": "程序员适合培养哪些爱好？",
       "url": "https://www.v2ex.com/t/1222922",
-      "excerpt": "22 回复 · 程序员 节点",
+      "excerpt": "23 回复 · 程序员 节点",
       "publishedAt": "2026-06-25T14:50:23.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -289,19 +289,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "iPhone 屏幕防油渍防指纹涂层",
-      "url": "https://www.v2ex.com/t/1222645",
-      "excerpt": "9 回复 · Apple 节点",
-      "publishedAt": "2026-06-24T16:11:45.000Z",
+      "title": "今天重开了 Cursor Pro（新人半价 $10），竟然发现 GLM 5.2 可以免费蹬",
+      "url": "https://www.v2ex.com/t/1222905",
+      "excerpt": "9 回复 · 程序员 节点",
+      "publishedAt": "2026-06-25T13:22:34.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "今天重开了 Cursor Pro（新人半价 $10），竟然发现 GLM 5.2 可以免费蹬",
-      "url": "https://www.v2ex.com/t/1222905",
-      "excerpt": "8 回复 · 程序员 节点",
-      "publishedAt": "2026-06-25T13:22:34.000Z",
+      "title": "iPhone 屏幕防油渍防指纹涂层",
+      "url": "https://www.v2ex.com/t/1222645",
+      "excerpt": "9 回复 · Apple 节点",
+      "publishedAt": "2026-06-24T16:11:45.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -426,7 +426,7 @@
       "sourceId": "linuxdo",
       "title": "气笑了，兄弟们，第一次见API密钥管理面板变成评论区的，所谓的低价opencode其实本质上就是一号多卖，别买了兄弟们，大半夜的，还是绷不住笑了",
       "url": "https://linux.do/t/topic/2475923",
-      "excerpt": "刚打算给新的任务弄个GLM5.2的API给新的任务对接上，然后美美睡觉，结果发现好热闹，我买的是给邮箱的，但我说实话，就算是你给支付链接也差不多，很快就会被封的，太变态了，API评论区越来越多受害者了 这个店铺已经被迫关停了 130 个帖子 - 74 位参与者 阅读完整话题",
+      "excerpt": "刚打算给新的任务弄个GLM5.2的API给新的任务对接上，然后美美睡觉，结果发现好热闹，我买的是给邮箱的，但我说实话，就算是你给支付链接也差不多，很快就会被封的，太变态了，API评论区越来越多受害者了 这个店铺已经被迫关停了 133 个帖子 - 76 位参与者 阅读完整话题",
       "publishedAt": "2026-06-25T14:23:59.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -588,7 +588,7 @@
       "sourceId": "linuxdo",
       "title": "朋友想拉我一起开个科技公司，求前景展望。",
       "url": "https://linux.do/t/topic/2472422",
-      "excerpt": "背景先说下，坐标上海，本人属于金融从业人员，本硕因为家长强制规划都选择了金融，但是从小对计算机感兴趣（纯纯爱打游戏）。年初入了ai这个大门，发现coding很有意思，能把自己的很多想法实现。（搞了个预测世界杯比赛的小程序，搞了个酒馆为基础的股市圆桌会议，搞了个挂机小游戏，搞了个半成品量化工具） 现在情况就是和2个朋友能凑个50-100万的闲置资金，想先弄个公司，慢慢找项目，个人倾向WX或者DY小游戏开发，因为周边有很多爱氪金的。（先弄个免申报，成本很低。自己有别的公司，需要跑注册审批一类的杂事都有人去做） 佬们有什么建议或者好的想法吗~~ 81 个帖子 - 59 位参与者 阅读完整话题",
+      "excerpt": "背景先说下，坐标上海，本人属于金融从业人员，本硕因为家长强制规划都选择了金融，但是从小对计算机感兴趣（纯纯爱打游戏）。年初入了ai这个大门，发现coding很有意思，能把自己的很多想法实现。（搞了个预测世界杯比赛的小程序，搞了个酒馆为基础的股市圆桌会议，搞了个挂机小游戏，搞了个半成品量化工具） 现在情况就是和2个朋友能凑个50-100万的闲置资金，想先弄个公司，慢慢找项目，个人倾向WX或者DY小游戏开发，因为周边有很多爱氪金的。（先弄个免申报，成本很低。自己有别的公司，需要跑注册审批一类的杂事都有人去做） 佬们有什么建议或者好的想法吗~~ 84 个帖子 - 62 位参与者 阅读完整话题",
       "publishedAt": "2026-06-25T06:08:07.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -618,20 +618,9 @@
       "excerpt": "Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa",
       "publishedAt": "2026-06-25T15:48:07.000Z",
       "category": "tech",
-      "score": 877,
+      "score": 904,
       "source": "Hacker News",
-      "summary": "赫库兰尼姆（Herculaneum）卷轴首次被完整读取，相关预印本和代码已发布，标志着古代文本研究重大突破。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "url": "https://hackernewstrends.com",
-      "excerpt": "636 points · 143 comments",
-      "publishedAt": "2026-06-25T14:08:55.000Z",
-      "category": "tech",
-      "score": 636,
-      "source": "Hacker News",
-      "summary": "作者创建了基于18年Hacker News评论的趋势分析工具，类似Google Trends，可探索热门话题变化。"
+      "summary": "赫库兰尼姆古卷首次被完整解读，相关预印本及代码已公开。"
     },
     {
       "sourceId": "hackernews",
@@ -640,86 +629,86 @@
       "excerpt": "https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipa...",
       "publishedAt": "2026-06-25T13:02:56.000Z",
       "category": "tech",
-      "score": 596,
+      "score": 608,
       "source": "Hacker News",
-      "summary": "苹果因内存成本飙升，上调MacBook和iPad价格，影响多地消费者。"
+      "summary": "苹果公司因内存成本飙升，提高了MacBook和iPad的售价。"
     },
     {
       "sourceId": "hackernews",
       "title": "Om Malik has died",
       "url": "https://om.co/2026/06/24/1966-2026/",
-      "excerpt": "275 points · 29 comments",
+      "excerpt": "https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;om-malik-taught-silicon-vall...",
       "publishedAt": "2026-06-25T20:33:37.000Z",
       "category": "tech",
-      "score": 275,
+      "score": 303,
       "source": "Hacker News",
-      "summary": "知名科技博主Om Malik去世，享年60岁，业界纷纷悼念。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Oxide computer 3D rack guided tour",
-      "url": "https://explorer.oxide.computer/",
-      "excerpt": "271 points · 112 comments",
-      "publishedAt": "2026-06-22T15:21:04.000Z",
-      "category": "tech",
-      "score": 271,
-      "source": "Hacker News",
-      "summary": "Oxide Computer提供3D机架导览，展示其开源硬件设计，支持交互式探索。"
+      "summary": "科技界知名博主Om Malik去世，享年60岁，他曾深刻影响硅谷文化。"
     },
     {
       "sourceId": "hackernews",
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "excerpt": "255 points · 108 comments",
+      "excerpt": "290 points · 135 comments",
       "publishedAt": "2026-06-25T21:44:55.000Z",
       "category": "tech",
-      "score": 255,
+      "score": 290,
       "source": "Hacker News",
-      "summary": "文章指出互联网进入「请出示证件」时代，平台强制验证身份将严重威胁用户隐私。"
+      "summary": "文章探讨互联网进入“请出示证件”时代，将严重侵蚀用户隐私。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "excerpt": "274 points · 115 comments",
+      "publishedAt": "2026-06-22T15:21:04.000Z",
+      "category": "tech",
+      "score": 274,
+      "source": "Hacker News",
+      "summary": "Oxide计算机发布3D机架导览，展示其开放硬件基础设施。"
     },
     {
       "sourceId": "hackernews",
       "title": "IBM debuts sub-1 nanometer chip technology",
       "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "excerpt": "248 points · 143 comments",
+      "excerpt": "250 points · 145 comments",
       "publishedAt": "2026-06-25T15:33:37.000Z",
       "category": "tech",
-      "score": 248,
+      "score": 250,
       "source": "Hacker News",
-      "summary": "IBM发布全球首款亚1纳米芯片技术，突破半导体物理极限，提升能效。"
+      "summary": "IBM推出全球首款亚1纳米芯片技术，突破半导体工艺极限。"
     },
     {
       "sourceId": "hackernews",
       "title": "You can't unit test for taste",
       "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-      "excerpt": "238 points · 114 comments",
+      "excerpt": "239 points · 116 comments",
       "publishedAt": "2026-06-24T08:54:12.000Z",
       "category": "tech",
-      "score": 238,
+      "score": 239,
       "source": "Hacker News",
-      "summary": "文章认为代码品味无法通过单元测试衡量，强调人类判断在软件设计中的重要性。"
+      "summary": "文章指出品味无法通过单元测试衡量，软件开发中主观美学难以自动化验证。"
     },
     {
       "sourceId": "hackernews",
       "title": "Zig's new bitCast semantics and LLVM back end improvements",
       "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "excerpt": "206 points · 79 comments",
+      "excerpt": "210 points · 79 comments",
       "publishedAt": "2026-06-25T14:19:28.000Z",
       "category": "tech",
-      "score": 206,
+      "score": 210,
       "source": "Hacker News",
-      "summary": "Zig语言更新bitCast语义并改进LLVM后端，提升编译速度和代码生成质量。"
+      "summary": "Zig语言引入新的bitCast语义并改进LLVM后端，提升编译性能与代码生成。"
     },
     {
       "sourceId": "hackernews",
       "title": "Show HN: Chess-Inspired Roguelike",
       "url": "https://princechazz.com",
-      "excerpt": "191 points · 67 comments",
+      "excerpt": "201 points · 69 comments",
       "publishedAt": "2026-06-21T06:50:31.000Z",
       "category": "tech",
-      "score": 191,
+      "score": 201,
       "source": "Hacker News",
-      "summary": "作者展示一款受国际象棋启发的Roguelike游戏，融合策略与随机生成关卡。"
+      "summary": "Show HN：一款融合国际象棋元素的Roguelike游戏，兼具策略与随机性。"
     },
     {
       "sourceId": "hackernews",
@@ -728,17 +717,18 @@
       "excerpt": "Hi HN, Nick here. We’re launching OpenKnowledge (https:&#x2F;&#x2F;openknowledge.ai&#x2F;), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free&#x2F;local and OSS.We built this because we",
       "publishedAt": "2026-06-25T16:04:46.000Z",
       "category": "tech",
-      "score": 174,
-      "source": "Hacker News"
+      "score": 183,
+      "source": "Hacker News",
+      "summary": "Show HN：OpenKnowledge 开源AI笔记应用，支持Markdown、集成Claude/Codex等AI代理，可本地运行。"
     },
     {
       "sourceId": "hackernews",
       "title": "OS9Map",
       "url": "https://yllan.org/software/OS9Map/",
-      "excerpt": "170 points · 25 comments",
+      "excerpt": "174 points · 25 comments",
       "publishedAt": "2026-06-25T15:01:06.000Z",
       "category": "tech",
-      "score": 170,
+      "score": 174,
       "source": "Hacker News"
     },
     {
@@ -748,167 +738,177 @@
       "excerpt": "https:&#x2F;&#x2F;archive.ph&#x2F;aPMAr",
       "publishedAt": "2026-06-21T16:51:47.000Z",
       "category": "tech",
-      "score": 135,
+      "score": 139,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Political bias in AI: Where the AI models stand",
       "url": "https://trakkr.ai/bias",
-      "excerpt": "104 points · 213 comments",
+      "excerpt": "109 points · 219 comments",
       "publishedAt": "2026-06-25T13:08:31.000Z",
       "category": "tech",
-      "score": 104,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
-      "url": "https://github.com/decrazyo/anes",
-      "excerpt": "91 points · 31 comments",
-      "publishedAt": "2026-06-23T23:21:35.000Z",
-      "category": "tech",
-      "score": 91,
+      "score": 109,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Un-0: Generating Images with Coupled Oscillators",
       "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-      "excerpt": "87 points · 13 comments",
+      "excerpt": "95 points · 24 comments",
       "publishedAt": "2026-06-25T20:50:02.000Z",
       "category": "tech",
-      "score": 87,
+      "score": 95,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-      "excerpt": "85 points · 56 comments",
-      "publishedAt": "2026-06-25T20:36:05.000Z",
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
+      "excerpt": "94 points · 31 comments",
+      "publishedAt": "2026-06-23T23:21:35.000Z",
       "category": "tech",
-      "score": 85,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Tw-fade: pure CSS scroll-driven edge masking",
-      "url": "https://pete.design/tw-fade",
-      "excerpt": "83 points · 30 comments",
-      "publishedAt": "2026-06-22T15:12:36.000Z",
-      "category": "tech",
-      "score": 83,
+      "score": 94,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "A game where you're an OS and have to manage processes, memory and I/O events",
       "url": "https://github.com/plbrault/youre-the-os",
-      "excerpt": "58 points · 13 comments",
+      "excerpt": "68 points · 15 comments",
       "publishedAt": "2026-06-23T09:35:26.000Z",
       "category": "tech",
-      "score": 58,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "An oral history of Bank Python (2021)",
-      "url": "https://calpaterson.com/bank-python.html",
-      "excerpt": "55 points · 13 comments",
-      "publishedAt": "2026-06-25T20:14:35.000Z",
-      "category": "tech",
-      "score": 55,
+      "score": 68,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Military branches restore flu shot requirement after virus swept through base",
       "url": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-      "excerpt": "52 points · 20 comments",
+      "excerpt": "66 points · 24 comments",
       "publishedAt": "2026-06-25T22:16:55.000Z",
       "category": "tech",
-      "score": 52,
+      "score": 66,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "An oral history of Bank Python (2021)",
+      "url": "https://calpaterson.com/bank-python.html",
+      "excerpt": "59 points · 16 comments",
+      "publishedAt": "2026-06-25T20:14:35.000Z",
+      "category": "tech",
+      "score": 59,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The annotated PyTorch training loop",
       "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-      "excerpt": "51 points · 9 comments",
+      "excerpt": "55 points · 10 comments",
       "publishedAt": "2026-06-22T23:44:59.000Z",
       "category": "tech",
-      "score": 51,
+      "score": 55,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "GloriousEggroll's Proton has been rebased on Proton 11",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
-      "excerpt": "46 points · 13 comments",
+      "excerpt": "50 points · 20 comments",
       "publishedAt": "2026-06-24T08:04:23.000Z",
       "category": "tech",
-      "score": 46,
+      "score": 50,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Parallel Parentheses Matching",
       "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-      "excerpt": "41 points · 7 comments",
+      "excerpt": "44 points · 7 comments",
       "publishedAt": "2026-06-25T20:12:24.000Z",
       "category": "tech",
-      "score": 41,
+      "score": 44,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The Doorman's Fallacy in action",
       "url": "https://rozumem.xyz/posts/17",
-      "excerpt": "38 points · 58 comments",
+      "excerpt": "43 points · 63 comments",
       "publishedAt": "2026-06-25T20:00:35.000Z",
       "category": "tech",
-      "score": 38,
+      "score": 43,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Migrating from Proxmox to NixOS and Incus",
       "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
-      "excerpt": "31 points · 13 comments",
+      "excerpt": "34 points · 16 comments",
       "publishedAt": "2026-06-25T21:22:59.000Z",
       "category": "tech",
-      "score": 31,
+      "score": 34,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "RRB-Trees: Efficient Immutable Vectors (2012) [pdf]",
       "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content",
-      "excerpt": "31 points · 7 comments",
+      "excerpt": "32 points · 7 comments",
       "publishedAt": "2026-06-24T02:56:03.000Z",
       "category": "tech",
-      "score": 31,
+      "score": 32,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The last Romans are still around",
       "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
-      "excerpt": "30 points · 53 comments",
+      "excerpt": "31 points · 55 comments",
       "publishedAt": "2026-06-22T15:00:04.000Z",
       "category": "tech",
-      "score": 30,
+      "score": 31,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
       "url": "https://gchandbook.org/",
-      "excerpt": "6 points · 1 comments",
+      "excerpt": "15 points · 2 comments",
       "publishedAt": "2026-06-25T23:10:30.000Z",
       "category": "tech",
-      "score": 6,
+      "score": 15,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Silicon Valley Has an Empathy Vacuum (2016)",
+      "url": "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum",
+      "excerpt": "5 points · 1 comments",
+      "publishedAt": "2026-06-25T23:53:33.000Z",
+      "category": "tech",
+      "score": 5,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "What is the mechanical world picture?",
+      "url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
+      "excerpt": "4 points · 0 comments",
+      "publishedAt": "2026-06-23T16:01:23.000Z",
+      "category": "tech",
+      "score": 4,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Record type inference for dummies",
+      "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+      "excerpt": "3 points · 0 comments",
+      "publishedAt": "2026-06-23T13:04:38.000Z",
+      "category": "tech",
+      "score": 3,
       "source": "Hacker News"
     },
     {
@@ -1013,6 +1013,15 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "Pierre Zemb from Clever Cloud on FoundationDB",
+      "url": "https://theconsensus.dev/p/2026/06/18/pierre-zemb-from-clever-cloud.html",
+      "excerpt": "Comments",
+      "publishedAt": "2026-06-25T16:17:24.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "UK Wikipedia Workers seek union recognition",
       "url": "https://utaw.tech/news/wikipedia-recognition",
       "excerpt": "Comments",
@@ -1040,15 +1049,6 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Pierre Zemb from Clever Cloud on FoundationDB",
-      "url": "https://theconsensus.dev/p/2026/06/18/pierre-zemb-from-clever-cloud.html",
-      "excerpt": "Comments",
-      "publishedAt": "2026-06-25T16:17:24.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
       "title": "Announcing Silk: a silky smooth fiber runtime for ClickHouse",
       "url": "https://clickhouse.com/blog/silk",
       "excerpt": "Comments",
@@ -1062,6 +1062,15 @@
       "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
       "excerpt": "Comments",
       "publishedAt": "2026-06-24T14:27:02.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "I've gone full Nix: Proxmox to NixOS + Incus",
+      "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-06-25T22:44:47.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -1103,15 +1112,6 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "I've gone full Nix: Proxmox to NixOS + Incus",
-      "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-06-25T22:44:47.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
       "title": "Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true",
       "url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
       "excerpt": "Comments",
@@ -1130,19 +1130,19 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Flatpak.org Rewrite",
-      "url": "https://blog.jimmac.eu/posts/flatpak-org-zola/",
+      "title": "Akrites: Coordinated, confidential vulnerability remediation for the open source software critical infrastructure depends on",
+      "url": "https://akrites.org/",
       "excerpt": "Comments",
-      "publishedAt": "2026-06-25T17:04:58.000Z",
+      "publishedAt": "2026-06-25T23:56:00.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
     {
       "sourceId": "lobsters",
-      "title": "Free-threaded Python: past, present, and future",
-      "url": "https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/",
+      "title": "Flatpak.org Rewrite",
+      "url": "https://blog.jimmac.eu/posts/flatpak-org-zola/",
       "excerpt": "Comments",
-      "publishedAt": "2026-06-25T01:14:12.000Z",
+      "publishedAt": "2026-06-25T17:04:58.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -1244,7 +1244,7 @@
       "publishedAt": "2026-06-25T02:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 新研究论文显示，AI 智能体正通过处理更复杂、更长期的任务，提升各岗位的生产力，改变工作模式。"
+      "summary": "OpenAI发布研究论文，展示AI智能体如何通过完成更长、更复杂的任务来改变工作方式，并提升各岗位的生产力。"
     },
     {
       "sourceId": "openai-news",
@@ -1785,7 +1785,7 @@
       "publishedAt": "2026-06-26T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face Blog 介绍在 HF Jobs 上通过一条命令即可快速部署 vLLM 服务器，简化 AI 推理流程。"
+      "summary": "Hugging Face在博客中介绍，通过一条命令即可在HF Jobs上运行vLLM服务器，简化了大语言模型推理服务的部署流程。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1795,7 +1795,7 @@
       "publishedAt": "2026-06-25T16:11:42.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Allen AI 发布研究，分析混合标记预测模型在哪些类型标记上预测效果更好，探索混合训练方法的优势。"
+      "summary": "Allen AI在Hugging Face博客发文，探讨混合标记预测模型在哪些令牌上表现更优，为提升模型效率提供新思路。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -2057,7 +2057,7 @@
       "publishedAt": "2026-06-25T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 摘要：Jalapeño 芯片相关动态；Anthropic 指控阿里巴巴侵权；Google Gemini 推出计算机使用功能。"
+      "summary": "TLDR AI简报报道：Jalapeño芯片发布；Anthropic指控阿里巴巴；Gemini推出计算机使用功能。"
     },
     {
       "sourceId": "tldr-ai",
@@ -2238,7 +2238,7 @@
       "publishedAt": "2026-06-25T02:14:08.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 的 AINews 称「元控制夏季」来临，强调超越传统工程控制，实现更高层次的系统协调。"
+      "summary": "Latent Space的AINews专栏以“Meta-Harness Summer”为题，暗示Meta在工程框架领域的新动向，强调“元缰绳”时代的到来。"
     },
     {
       "sourceId": "latent-space",
@@ -2419,7 +2419,7 @@
       "publishedAt": "2026-06-25T14:22:59.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review 文章指出，AI 对零售的最大变革并非消费者可见的虚拟试穿或聊天机器人，而是后台产品决策机制（如搜索排名）的智能化。"
+      "summary": "MIT技术评论文章指出，AI正在重塑零售业，主要变化并非消费者可见的虚拟试穿或聊天助手，而是幕后产品搜索等决策环节的转变。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2511,7 +2511,7 @@
       "category": "tech",
       "meta": "@spandan_madan · 1.1K 粉丝 · 626.9K 阅 · 516 赞 · 28 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨生物细胞与GPU运行同一算法时的效率差异，引用2026年AI数据中心资本支出将超6900亿美元等数据，为硬件效率对比提供背景。"
+      "summary": "探讨AI数据中心投资热潮（2026年预计6900亿美元）与生物神经元计算效率的对比，分析GPU与细胞执行相同算法时的能效差异。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2522,7 +2522,7 @@
       "category": "tech",
       "meta": "@EngramLab · 1.2K 粉丝 · 255.7K 阅 · 537 赞 · 76 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍Engram，一款能学习用户工作并深度理解上下文的AI工具。声称现有模型仅依赖训练数据，而Engram通过扩展上下文计算实现个性化理解。"
+      "summary": "Engram发布全新AI系统，旨在从用户工作中持续学习，突破模型仅依赖训练数据的局限，实现上下文计算扩展。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2533,7 +2533,7 @@
       "category": "tech",
       "meta": "@sairahul1 · 120.1K 粉丝 · 249.0K 阅 · 502 赞 · 90 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "整理30个核心AI Agent工程概念，强调大部分开发者并不真正理解Agent底层原理，旨在帮助开发者掌握真实工程而非表面演示。"
+      "summary": "梳理30个AI代理核心工程概念，帮助开发者理解底层机制而非表面演示，应对每周涌现的新代理框架。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2544,7 +2544,7 @@
       "category": "tech",
       "meta": "@posthog · 21.8K 粉丝 · 162.4K 阅 · 512 赞 · 36 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Posthog看好循环架构。OpenClaw和Claude Code的创始人Peter Steinberger和Boris Cherny都推崇这一概念，认为循环式工作流能提升AI Agent迭代效率。"
+      "summary": "分析OpenClaw和Claude Code创作者均强调「循环」的重要性，认为通过反馈循环可提升AI Agent的自主优化能力。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2555,18 +2555,7 @@
       "category": "tech",
       "meta": "@const_reborn · 29.7K 粉丝 · 79.8K 阅 · 503 赞 · 116 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "讨论TAO网络中子网与TAO代币的双向挖矿机制。升级仅影响子网拥有者和动态TAO，通过线性最大化与布尔门控公式实现收益分配。"
-    },
-    {
-      "sourceId": "attentionvc-ai",
-      "title": "How we built the world’s fastest API for GLM-5.2 ",
-      "url": "https://x.com/philipkiely/status/2069212319746506968",
-      "excerpt": "GLM-5.2 is the biggest news in open models since DeepSeek-R1. It’s easy to see why. GLM-5.2 delivers comparable performance to GPT 5.5 and Opus 4.8 at a fraction of the cost, generally 70-80% less",
-      "publishedAt": "2026-06-23T00:13:55.000Z",
-      "category": "tech",
-      "meta": "@philipkiely · 8.6K 粉丝 · 73.1K 阅 · 544 赞 · 36 转",
-      "source": "X 推文 (AttentionVC)",
-      "summary": "介绍为GLM-5.2构建全球最快API的过程。GLM-5.2是自DeepSeek-R1以来最大的开源模型新闻，性能可比GPT-5.5和Opus-4.8，成本降低70-80%。"
+      "summary": "介绍Bittensor网络中子网与TAO代币的相互挖矿机制，通过线性与布尔门控制参数优化激励，仅影响子网所有者和动态TAO。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2577,7 +2566,7 @@
       "category": "tech",
       "meta": "@GoogleAIStudio · 179.4K 粉丝 · 41.0K 阅 · 605 赞 · 57 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Google AI Studio推出Gemini 3.5 Flash内置「电脑使用」工具，用于Agent任务。相比之前独立的Gemini 2.5电脑使用功能，性能更强，可直接在模型内调用。"
+      "summary": "Google AI Studio宣布Gemini 3.5 Flash内置「计算机使用」能力，可执行代理型任务，性能优于之前单独提供的Gemini 2.5版本。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2588,7 +2577,7 @@
       "category": "tech",
       "meta": "@zachlloydtweets · 11.4K 粉丝 · 39.2K 阅 · 504 赞 · 68 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "展示如何构建技能优化循环：Agent通过自动化反馈循环（使用自动评分器和电脑使用能力）自我评估并优化技能，适用于提升Agent在特定任务上的表现。"
+      "summary": "展示如何构建自动反馈循环，让Agent通过自动评分器和计算机使用评估自身技能表现，持续优化。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2599,7 +2588,7 @@
       "category": "tech",
       "meta": "@amitiitbhu · 23.6K 粉丝 · 35.7K 阅 · 514 赞 · 63 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "详解vLLM工作原理，包括其必要性、智能内存管理策略（如PagedAttention）以及在实际中如何高效服务大语言模型。"
+      "summary": "讲解vLLM的工作原理：为何需要它、内存管理巧妙之处，以及在真实世界中服务大语言模型的应用场景。"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -3710,13 +3699,60 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Trump Touts $11.1 Billion Aid Request to Woo Struggling Farmers",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-requests-11-1-billion-in-new-aid-for-struggling-farmers",
+      "excerpt": "President Donald Trump had a surprise for the farmers he invited to dinner at the White House on Thursday: a request to Congress for $11.1 billion in assistance that would amount to the second bailout of the year for the beleaguered agriculture sector.",
+      "publishedAt": "2026-06-25T15:29:33.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asian Stocks Decline at Open, Tech Leads Drop: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/asia-stocks-set-for-choppy-open-on-tech-volatility-markets-wrap",
+      "excerpt": "Stocks in Asia slipped after a volatile session on Wall Street, where renewed selling in megacap technology shares offset gains fueled by bullish reports from chipmakers.",
+      "publishedAt": "2026-06-25T22:05:08.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Oil Holds Gain as Traders Weigh Hormuz Flows After Ship Attack",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/latest-oil-market-news-and-analysis-for-june-26",
+      "excerpt": "Oil held the bulk of a gain after a cargo ship was attacked in the Strait of Hormuz, renewing concerns about safe passage through the vital waterway following a recent uptick in transits.",
+      "publishedAt": "2026-06-25T22:05:21.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Oil Prices Rise as Ship Struck in Hormuz",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/oil-prices-rise-as-ship-struck-in-hormuz-video",
+      "excerpt": "Oil prices turned higher after a ship was hit by an unknown projectile in the Strait of Hormuz, sustaining damage to the bridge. Bloomberg's Mica Soellner has the context. (Source: Bloomberg)",
+      "publishedAt": "2026-06-26T00:11:01.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "霍尔木兹海峡一艘船遭不明射弹击中，桥楼受损，国际油价随即走高。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Steadies Near $4,000 as Inflation Data Eases Rate-Hike Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/gold-steadies-near-4-000-as-inflation-data-eases-rate-hike-bets",
+      "excerpt": "Gold steadied near $4,000 an ounce as the latest US inflation gauge tempered expectations for an interest-rate hike, capping a tumultuous week that saw bullion slump to the lowest since November.",
+      "publishedAt": "2026-06-25T23:58:21.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "金价稳定在每盎司4000美元附近，因美国通胀数据缓解加息预期；此前一周金价曾跌至11月以来最低。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "BHP’s Incoming CEO Craig Tweaks Leadership Team Before Start",
       "url": "https://www.bloomberg.com/news/articles/2026-06-25/bhp-s-incoming-ceo-reshuffles-leadership-before-official-start",
       "excerpt": "BHP Group’s incoming Chief Executive Officer Brandon Craig has announced changes to the company’s leadership team before he officially assumes the role on July 1.",
       "publishedAt": "2026-06-25T23:21:22.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "必和必拓候任CEO Brandon Craig在7月1日正式上任前宣布调整公司领导团队。"
+      "summary": "必和必拓候任CEO Brandon Craig在7月1日正式上任前宣布调整领导团队。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3726,17 +3762,7 @@
       "publishedAt": "2026-06-25T23:30:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国硬件科技股近期大幅上涨，下一步挑战在于用业绩证明涨势合理性。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Asia Stocks Set for Choppy Open on Tech Volatility: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/asia-stocks-set-for-choppy-open-on-tech-volatility-markets-wrap",
-      "excerpt": "Stocks in Asia were set for a mixed start on Friday after a volatile session on Wall Street, where renewed selling in megacap technology shares offset gains fueled by bullish reports from chipmakers.",
-      "publishedAt": "2026-06-25T22:05:08.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "受华尔街波动影响，亚洲股市周五开盘料涨跌互现。美国大型科技股遭抛售，抵消了芯片制造商乐观报告带来的涨幅。"
+      "summary": "中国硬件科技股近期大幅上涨，但能否持续取决于后续财报能否支撑估值。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3755,17 +3781,7 @@
       "publishedAt": "2026-06-25T23:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "苹果供应商立讯精密（Lingyi iTech Guangdong）周五在香港上市，此前通过新股发行筹资83亿港元（约10.6亿美元），为香港今年最繁忙的上市月份之一。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Oil Holds Gain as Traders Weigh Hormuz Flows After Ship Attack",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/latest-oil-market-news-and-analysis-for-june-26",
-      "excerpt": "Oil held the bulk of a gain after a cargo ship was attacked in the Strait of Hormuz, renewing concerns about safe passage through the crucial waterway following a recent uptick in transits.",
-      "publishedAt": "2026-06-25T22:05:21.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "一艘货船在霍尔木兹海峡遭袭后，油价保持大部分涨幅。该事件再度引发对这条关键水道通行安全的担忧，此前过境运输量有所增加。"
+      "summary": "苹果供应商领益智造(Lingyi iTech)在香港IPO募资83亿港元(约10.6亿美元)，将于周五上市。本月是香港今年最繁忙的上市月份。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3784,7 +3800,7 @@
       "publishedAt": "2026-06-25T22:15:46.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "彭博电视《收盘》节目盘点了6月25日华尔街收盘动态，嘉宾包括花旗财富投资组合构建与分析主管Olaolu Aganga、Moderna CEO Stéphane Bancel等。"
+      "summary": "彭博电视收盘节目“The Close”6月25日播出，探讨华尔街收盘动态，嘉宾包括花旗财富投资组合负责人Olaolu Aganga、Moderna CEO Stéphane Bancel等。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3794,7 +3810,7 @@
       "publishedAt": "2026-06-25T22:05:50.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美元正创下一年来最佳月度表现，华尔街多家银行押注美元将迎来转折。沃什领导的美联储政策激活了美元多头。"
+      "summary": "美元录得一年来最佳月度表现，华尔街多家银行看好美元前景，因美联储沃什激活多头。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3955,33 +3971,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages",
       "excerpt": "Apple Inc. shares fell after it raised prices of all Macs, iPads, home devices and the Vision Pro on Thursday, seeking to offset cost hikes caused by an unprecedented shortage of memory chips and storage.",
       "publishedAt": "2026-06-25T12:39:45.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Trump Seeks $11.1 Billion in New Aid for Struggling Farmers",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-requests-11-1-billion-in-new-aid-for-struggling-farmers",
-      "excerpt": "President Donald Trump had a surprise for the farmers he invited for dinner at the White House later Thursday: a request to Congress for $11.1 billion in assistance that would amount to the second bailout of the year for the beleaguered agriculture sector.",
-      "publishedAt": "2026-06-25T15:29:33.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Confident In Growth Next Three Years: Casey CEO",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/confident-in-growth-next-three-years-casey-ceo-video",
-      "excerpt": "Casey CEO Darren Rebelez discusses company growth, business in Texas, competition, food expansion. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "publishedAt": "2026-06-25T19:55:38.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Bond Traders Trim Fed Rate-Hike Bets After Benign Inflation Data",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/treasuries-climb-as-benign-us-inflation-eases-bets-on-a-fed-hike",
-      "excerpt": "Bond traders priced in slightly lower expectations for a Federal Reserve interest-rate hike in the months ahead after the central bank’s favored inflation gauge rose less than estimated.",
-      "publishedAt": "2026-06-25T12:51:09.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -4173,7 +4162,7 @@
       "publishedAt": "2026-06-25T22:36:09.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "一艘集装箱船在霍尔木兹海峡遭「不明弹丸」袭击，国际海事组织宣布暂停对被困船只的疏散计划。"
+      "summary": "国际海事组织宣布暂停霍尔木兹海峡被困船舶的疏散计划，此前一艘集装箱船遭不明射弹袭击。"
     },
     {
       "sourceId": "ft-companies",
@@ -4399,7 +4388,7 @@
       "publishedAt": "2026-06-25T23:28:13.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "夏季假期开始，航空安全警告充电宝火灾风险。锂电池火灾是飞机头号安全威胁，过去一年托运行李中发现的相关设备数量几乎翻倍。"
+      "summary": "英国发出警告：锂电池火灾是飞机最大安全风险，过去一年行李箱中发现的充电宝数量几乎翻倍，暑假出行需注意。"
     },
     {
       "sourceId": "bbc-business",
@@ -4409,7 +4398,7 @@
       "publishedAt": "2026-06-25T23:03:48.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "生活成本上升迫使更多年轻人搬回与父母同住。文章分享如何避免冲突、实现和谐共处。"
+      "summary": "生活成本上升迫使更多年轻人搬回与父母同住，如何避免冲突成为关键。该文分享了成功经验。"
     },
     {
       "sourceId": "bbc-business",
@@ -4419,7 +4408,7 @@
       "publishedAt": "2026-06-25T23:19:48.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "两名青少年Owen Flowers和Thalha Jubair因参与网络攻击伦敦交通局（TfL）被判有罪，该攻击导致TfL巨大损失。警方在攻击发生数年前即已掌握其信息。"
+      "summary": "两名青少年Owen Flowers和Thalha Jubair因攻击伦敦交通局(TfL)被判有罪，警方多年前就已认识他们。此次攻击给TfL造成巨大损失。"
     },
     {
       "sourceId": "bbc-business",
@@ -4447,7 +4436,7 @@
       "publishedAt": "2026-06-25T23:05:05.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "初创公司正以新方法开发地热能，但经济可行性仍存疑问。地热资源丰富但成本高昂。"
+      "summary": "初创公司探索地热能新方法，但经济性仍存疑问。"
     },
     {
       "sourceId": "bbc-business",
