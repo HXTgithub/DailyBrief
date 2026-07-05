@@ -1,143 +1,137 @@
 {
-  "hero_headline": "GPT-5.5 Codex推理标记聚类致性能退化",
-  "daily_overview": "科技领域，OpenAI Codex因推理标记聚类致性能退化，Caveman技能以极简Token吸引关注，光象科技获数亿元融资布局物理原生模型。财经方面，美国清洁电力价格受AI需求与补贴到期双重影响飙升，热穹致东部大范围断电，稳定币与再生农业议题升温。时政方面，委内瑞拉地震死亡近3000人，英国首相候选人暗示税收调整空间，委内瑞拉债务重组谈判艰难。",
+  "hero_headline": "委内瑞拉地震死亡人数逼近3000人",
+  "daily_overview": "今日，委内瑞拉大地震死亡人数攀升至近3000人，国际救援与灾后重建成焦点。科技领域：科学家通过鼻喷雾成功逆转脑衰老，为神经疾病治疗带来突破；多家AI公司发布新模型与工具，ChatGPT全球采用率持续增长。财经方面：美国清洁能源电价因AI需求与补贴削减预期大幅上涨，东部热穹顶致电力危机加剧；德国经济迎来二次反弹契机，英国农民受热浪冲击转向再生农业。时政方面：英国工党候选人伯纳姆暗示税收政策或有微调，巴西财长强调信贷措施不干扰货币政策。",
   "tech_briefs": [
     {
-      "title": "GPT-5.5 Codex推理标记聚类导致性能退化",
-      "url": "https://github.com/openai/codex/issues/30364",
+      "title": "科学家用鼻喷雾「逆转」脑衰老",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
       "source": "Hacker News",
-      "summary": "用户报告OpenAI Codex因推理标记聚类影响性能，引发社区讨论。",
-      "importance": 9
-    },
-    {
-      "title": "Caveman Claude Code技能：用极简Token完成任务",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "source": "GitHub Trending",
-      "summary": "一个名为Caveman的Claude Code技能，通过模拟原始人说话风格减少65%的Token消耗。",
+      "summary": "德州农工大学研究显示，通过鼻喷雾递送特定分子，成功逆转小鼠和人类衰老相关的脑损伤，为治疗神经退行性疾病带来希望。",
       "importance": 8
     },
     {
-      "title": "光象科技完成数亿元天使轮融资，布局物理原生基座模型",
-      "url": "https://www.qbitai.com/2026/07/442958.html",
-      "source": "量子位",
-      "summary": "光象科技累计完成数亿元天使轮融资，将用于物理原生基座模型研发。",
+      "title": "OpenAI 发布 Codex 插件集成 Claude Code",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "source": "GitHub Trending",
+      "summary": "一个Claude Code插件，利用OpenAI Codex模型，让开发者通过自然语言指令审查代码或委托任务，提升编程效率。",
       "importance": 7
     },
     {
-      "title": "Google DeepMind与A24宣布首创研究合作",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "source": "DeepMind Blog",
-      "summary": "Google DeepMind与电影工作室A24达成研究合作，探索AI创意应用。",
-      "importance": 7
-    },
-    {
-      "title": "OpenAI：ChatGPT采用率全球增长",
+      "title": "OpenAI 数据显示 ChatGPT 全球采用率持续增长",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "source": "OpenAI News",
-      "summary": "OpenAI数据揭示ChatGPT用户量、使用频率及多语言覆盖持续增长。",
-      "importance": 8
+      "summary": "OpenAI发布Signal数据，显示ChatGPT用户数和使用频率在全球范围持续上升，覆盖更多地区和语言。",
+      "importance": 7
+    },
+    {
+      "title": "Google DeepMind 与独立电影公司 A24 达成研究合作",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "source": "DeepMind Blog",
+      "summary": "DeepMind与知名独立电影厂牌A24宣布首次研究合作，探索AI在叙事和电影制作中的应用。",
+      "importance": 6
+    },
+    {
+      "title": "Hugging Face 与 Cerebras 推 Gemini 4 实时语音 AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog",
+      "summary": "Hugging Face与芯片公司Cerebras合作，将Google的Gemma 4模型部署于Cerebras硬件，实现低延迟实时语音交互。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国清洁电力价格因AI需求与补贴削减即将飙升",
+      "title": "美国清洁能源电价因 AI 需求与补贴削减预计大幅上涨",
       "url": "https://www.ft.com/content/911ad6e1-154d-4d10-a7dc-2bd0fd6fbdc2",
       "source": "Financial Times",
-      "summary": "清洁电力购买协议价格预计大幅上涨，因AI需求激增及拜登时代补贴到期。",
-      "importance": 9
+      "summary": "FT分析指出，随着拜登时代补贴到期，科技巨头对清洁能源的需求激增，美国清洁电力合同价格预计将显著上升。",
+      "importance": 8
     },
     {
-      "title": "热穹笼罩美国东部，电价飙升、80万户断电",
+      "title": "美国东部热穹顶致用电激增，电价飙升",
       "url": "https://www.ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1",
       "source": "Financial Times",
-      "summary": "热穹导致近40°C高温，电力系统承压，超过80万家庭停电。",
+      "summary": "美国东部遭遇极端高温热穹顶，超80万户家庭断电，电网承压，电力价格大幅上升。",
       "importance": 8
     },
     {
-      "title": "稳定币是否应被视为货币？",
-      "url": "https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money",
-      "source": "The Economist Finance",
-      "summary": "经济学家讨论稳定币作为货币的安全性及监管政策。",
-      "importance": 7
-    },
-    {
-      "title": "英国农民因高温转向再生农业",
-      "url": "https://www.ft.com/content/96f06629-225a-4408-b0bb-d4869bb4c3bc",
-      "source": "Financial Times",
-      "summary": "高温导致农民减少化学药剂与深耕，改善土壤保水能力。",
-      "importance": 7
-    },
-    {
-      "title": "德国经济反弹迎来第二次机会",
+      "title": "德国经济迎来第二次增长反弹契机",
       "url": "https://www.bloomberg.com/news/articles/2026-07-04/germany-s-second-chance-for-growth-rebound-starts-now",
       "source": "Bloomberg Markets",
-      "summary": "德国经济数据显示伊朗战争影响，政府将推出刺激措施。",
-      "importance": 8
+      "summary": "彭博报道，即将公布的德国经济数据将显示伊朗战争累积影响，政府欲出台新刺激措施重振经济。",
+      "importance": 7
+    },
+    {
+      "title": "对冲基金 BlueCrest 创始人卷入英国税务纠纷",
+      "url": "https://www.ft.com/content/dbd16db5-56c0-4bbd-9d1b-435375d1e3af",
+      "source": "Financial Times",
+      "summary": "FT揭露亿万富翁对冲基金经理Michael Platt与英国税务机构的复杂博弈，其激进策略并非总能成功。",
+      "importance": 6
+    },
+    {
+      "title": "英国农民受热浪冲击后转向再生农业",
+      "url": "https://www.ft.com/content/96f06629-225a-4408-b0bb-d4869bb4c3bc",
+      "source": "Financial Times",
+      "summary": "高温促使英国农民减少化学投入和深耕，采用再生方法改善土壤保水能力，应对气候变化。",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "委内瑞拉地震官方死亡人数升至近3000",
+      "title": "英国工党候选人伯纳姆暗示税收政策或有调整空间",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "有望成为下任英国首相的伯纳姆表示，在遵守不提高增值税、所得税等承诺前提下，税收仍有小幅调整余地。",
+      "importance": 7
+    },
+    {
+      "title": "委内瑞拉地震官方死亡人数升至近3000人",
       "url": "https://www.bloomberg.com/news/articles/2026-07-04/venezuela-quake-death-toll-climbs-to-nearly-3-000",
       "source": "Bloomberg Markets",
-      "summary": "上周双地震致死人数升至约3000，救援持续。",
+      "summary": "委内瑞拉上周双震灾情持续恶化，官方统计遇难者接近3000人，救援工作仍在进行。",
       "importance": 9
     },
     {
-      "title": "英国首相候选人伯纳姆暗示税收有调整空间",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "伯纳姆表示可在不增加增值税、所得税和国民保险前提下进行税收调整。",
-      "importance": 8
-    },
-    {
-      "title": "委内瑞拉债务重组进展堪忧",
-      "url": "https://www.economist.com/finance-and-economics/2026/07/02/unpacking-venezuelas-peculiar-debt-restructuring",
-      "source": "The Economist Finance",
-      "summary": "债务重组谈判因数据模糊和IMF缺席变得异常复杂。",
-      "importance": 7
+      "title": "巴西财长杜里根称信贷措施不影响货币政策",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/brazil-s-durigan-says-credit-lines-won-t-affect-monetary-policy",
+      "source": "Bloomberg Markets",
+      "summary": "巴西财政部长杜里根在采访中表示，政府推出的信贷扩张不会干扰央行的货币政策独立性。",
+      "importance": 6
     }
   ],
-  "editor_note": "AI性能争议持续，清洁能源与自然灾害凸显治理挑战。稳定币监管和税收调整反映经济政策变局。",
+  "editor_note": "自然灾害与气候极端化正在重塑全球议程，而科技在拯救生命与提升效率之间寻找平衡。政策应对需兼顾韧性与可持续性。",
   "keywords": [
-    "GPT-5.5 Codex",
-    "清洁电力",
-    "稳定币",
-    "热穹",
     "委内瑞拉地震",
-    "再生农业",
-    "税收调整",
-    "AI性能"
+    "脑衰老逆转",
+    "AI模型迭代",
+    "清洁能源电价",
+    "热穹顶",
+    "英国大选",
+    "巴西货币政策",
+    "极端天气"
   ],
   "trading": {
-    "market_overview": "当前市场技术面呈现明显分化。美股方面，标普500 ETF（SPY）维持多头排列，RSI 53.5良性，但纳斯达克ETF（QQQ）略弱，RSI 48.1且MACD已死叉；科技权重股如Apple（AAPL）强势突破新高，RSI 60.3且MACD金叉，而Nvidia（NVDA）、Tesla（TSLA）则偏弱，RSI低于50且受均线压制。加密市场受恐慌情绪主导（恐慌贪婪指数22，极度恐慌），总市值2.27T，BTC主导率55.7%；主要币种如BTC、ETH短期MACD出现金叉但价格仍处于长期均线下方，呈空头排列。中概股全面承压，阿里巴巴（BABA）RSI 23.8超卖、空头排列，京东（JD）和腾讯（0700.HK）同样趋势偏空。商品外汇方面，原油（CL=F）RSI 28.9超卖但趋势仍弱，黄金（GC=F）MACD金叉但空头排列，美元指数（DXY）维持多头排列且接近52周高。综合来看，强势板块集中在少数个股和美元指数，而多数资产仍受下行趋势压制。",
+    "market_overview": "在当前数据周期内，美股整体技术面分化：标普500（SPY）维持多头排列但MACD动能减弱，纳指（QQQ）跌落20日均线；苹果（AAPL）因单日大涨4.84%逼近52周高，MACD金叉信号强劲。加密市场极度恐慌（恐慌贪婪指数23），总市值2.27T美元，比特币（BTC-USD）虽MACD金叉但仍处于空头排列，以太坊（ETH）近5日反弹10.23%但均线压制。中概股普遍承压，阿里巴巴（BABA）RSI低至23.8超卖，拼多多（PDD）MACD金叉但仍在空头。商品与外汇方面，黄金期货（GC=F）MACD金叉但均线空头，原油（CL=F）RSI 28.9超卖，美元指数（DX-Y.NYB）维持多头排列但MACD死叉。VIX指数持续下行，反映市场恐慌情绪缓解。",
     "watchlist": [
       {
         "symbol": "AAPL",
-        "display_name": "Apple",
+        "display_name": "Apple (AAPL)",
         "stance": "偏上行",
-        "rationale": "当前价格308.63，5日涨幅12.17%，RSI 60.3处于偏强区域。MACD金叉（MACD -0.686，信号 -0.9471），且价格位于所有均线上方（sma20 294.80，sma50 293.52，sma200 270.69），形成明确多头排列。距52周高点仅-2.76%，接近历史高位，显示强劲上升动量，技术指标偏上行。"
+        "rationale": "当前价格308.63美元，单日上涨4.84%，5日涨幅12.17%。RSI为60.3接近中线上方，MACD在0轴下方形成金叉（-0.686 > -0.9471），且价格高于20日（294.80）、50日（293.52）、200日（270.69）均线，呈现多头排列，距离52周高仅-2.76%，技术上行信号显著。"
       },
       {
         "symbol": "BABA",
         "display_name": "阿里巴巴 (BABA)",
         "stance": "偏下行",
-        "rationale": "当前价格96.14，RSI 23.8处于超卖区域，且MACD死叉（MACD -8.3141，信号 -7.8115）。价格远低于所有均线（sma20 107.43，sma50 122.90，sma200 147.08），空头排列明确。距52周高点-50.1%，5日涨幅仅1.13%，反弹无力，技术面持续弱势，偏下行。"
+        "rationale": "价格96.14美元，远低于20日（107.43）、50日（122.90）、200日（147.08）均线，呈空头排列。RSI仅为23.8，处于超卖区域；MACD柱状图-8.3141低于信号线-7.8115，无金叉迹象。尽管短期超卖可能触发反弹，但整体趋势仍偏弱。"
       },
       {
-        "symbol": "NVDA",
-        "display_name": "Nvidia",
+        "symbol": "SPY",
+        "display_name": "S&P 500 ETF (SPY)",
         "stance": "中性",
-        "rationale": "当前价格194.83，RSI 41.2略低于中性50，MACD死叉（MACD -4.0876，信号 -3.0872）。价格位于sma20（203.48）和sma50（209.80）下方，但高于sma200（191.03），趋势定义为中性。5日微跌-0.46%，1日跌-1.39%，多空力量均衡，无明显方向性信号。"
-      },
-      {
-        "symbol": "CL=F",
-        "display_name": "WTI 原油期货",
-        "stance": "偏下行",
-        "rationale": "当前价格68.78，RSI 28.9处于超卖区域，且MACD死叉（MACD -6.4072，信号 -6.0872）。价格低于所有主要均线（sma20 77.43，sma50 89.85，sma200 74.04），空头排列。距52周高点-42.43%，5日跌-0.65%，下行压力持续，技术指标偏弱。"
+        "rationale": "当前价格744.78美元，高于所有均线（sma20=741.08，sma50=737.43，sma200=692.29），仍处于多头排列。但RSI 53.5处于中性区间，MACD柱1.2969低于信号线1.6139，显示动能减弱。近1日微跌0.13%，5日涨1.43%，整体技术面缺乏明确方向。"
       }
     ],
-    "risk_caveat": "本报告仅基于公开行情数据进行技术指标解读，不构成任何投资建议。过去走势不代表未来表现，仅供技术指标解读参考。投资者应结合自身情况独立判断，注意风险。",
+    "risk_caveat": "过去走势不代表未来表现，本报告仅供技术指标解读参考，不构成任何投资建议。用户应独立评估风险，并结合自身情况做出决策。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -385,18 +379,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 63087.55,
-        "pct1Day": 0.8687468830636381,
-        "pct5Day": 4.903975044534339,
-        "pct52WeekHigh": -50.009100773094225,
-        "pct52WeekLow": 9.24673692139017,
-        "sma20": 62143.3478515625,
-        "sma50": 67045.101640625,
-        "sma200": 74826.5342578125,
-        "rsi14": 49.87661931740196,
-        "macd": -1493.9199681147584,
-        "macdSignal": -2028.7693234958492,
-        "macdHistogram": 534.8493553810908,
+        "currentPrice": 62997.83,
+        "pct1Day": 0.7252963295019831,
+        "pct5Day": 4.754785788635263,
+        "pct52WeekHigh": -50.08019536273416,
+        "pct52WeekLow": 9.091371603881608,
+        "sma20": 62138.86171875,
+        "sma50": 67043.3071875,
+        "sma200": 74826.08564453125,
+        "rsi14": 49.55201980085305,
+        "macd": -1501.0773310076547,
+        "macdSignal": -2030.2007960759067,
+        "macdHistogram": 529.123465068252,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -417,18 +411,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1779.09,
-        "pct1Day": 1.2850033159823633,
-        "pct5Day": 10.488360453485551,
-        "pct52WeekHigh": -64.08587220990715,
-        "pct52WeekLow": 18.093811394142087,
-        "sma20": 1675.7712951660155,
-        "sma50": 1816.2908325195312,
-        "sma200": 2268.076526489258,
-        "rsi14": 57.07286690317373,
-        "macd": -32.56230096467061,
-        "macdSignal": -60.774713777499585,
-        "macdHistogram": 28.212412812828973,
+        "currentPrice": 1774.87,
+        "pct1Day": 1.044755372374424,
+        "pct5Day": 10.226282154403599,
+        "pct52WeekHigh": -64.17106049114881,
+        "pct52WeekLow": 17.813669510775252,
+        "sma20": 1675.5602966308593,
+        "sma50": 1816.2064331054687,
+        "sma200": 2268.055426635742,
+        "rsi14": 56.73116973566415,
+        "macd": -32.89893680428372,
+        "macdSignal": -60.84204094548245,
+        "macdHistogram": 27.94310414119873,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -444,18 +438,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 81.67,
-        "pct1Day": -0.7414430857595968,
-        "pct5Day": 8.970607310339396,
-        "pct52WeekHigh": -67.74612682995411,
-        "pct52WeekLow": 35.18228670098942,
-        "sma20": 73.26886711120605,
-        "sma50": 75.41622268676758,
-        "sma200": 93.54901111602783,
-        "rsi14": 64.25681885329482,
-        "macd": 1.6355798681103693,
-        "macdSignal": -0.0338427733814225,
-        "macdHistogram": 1.6694226414917916,
+        "currentPrice": 81.48,
+        "pct1Day": -0.9723617316969724,
+        "pct5Day": 8.717094204070703,
+        "pct52WeekHigh": -67.82116339053094,
+        "pct52WeekLow": 34.86779380919087,
+        "sma20": 73.25936737060547,
+        "sma50": 75.41242279052734,
+        "sma200": 93.54806114196778,
+        "rsi14": 63.81419400824431,
+        "macd": 1.6204235868070072,
+        "macdSignal": -0.03687402964628883,
+        "macdHistogram": 1.657297616453296,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -769,19 +763,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 22,
+      "value": 23,
       "classification": "Extreme Fear",
       "classificationCn": "极度恐慌",
-      "timestamp": "2026-07-04T00:00:00.000Z"
+      "timestamp": "2026-07-05T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2271756336748.9966,
-      "total24hVolumeUsd": 52620204315.89088,
-      "marketCapChangePct24h": 0.8422614078918376,
-      "btcDominance": 55.69058451724938,
-      "ethDominance": 9.449389503952348,
+      "totalMarketCapUsd": 2268603149191.626,
+      "total24hVolumeUsd": 52511929542.11683,
+      "marketCapChangePct24h": 0.5339000975076259,
+      "btcDominance": 55.69389930756754,
+      "ethDominance": 9.446716914048082,
       "activeCryptocurrencies": 17362
     },
-    "generated_at": "2026-07-04T23:41:12.000Z"
+    "generated_at": "2026-07-05T00:12:53.911Z"
   }
 }

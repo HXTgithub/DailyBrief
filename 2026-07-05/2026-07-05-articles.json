@@ -6,180 +6,180 @@
       "title": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "excerpt": "Use Codex from Claude Code to review code or delegate tasks.",
-      "meta": "JavaScript · ★ 24,365 · 🍴 1,482 · 📈 716 stars today",
+      "meta": "JavaScript · ★ 24,391 · 🍴 1,482 · 📈 718 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Codex Plugin for Claude Code，允许在 Claude Code 中调用 Codex 进行代码审查或任务委派，打通两个 AI 编程助手的协作能力。"
+      "summary": "通过 Codex 插件将 OpenAI Codex 整合到 Claude Code 中，用于代码审查和任务委托。开发者可用自然语言触发 Codex 自动检查代码质量或分配子任务，提升 AI Agent 的协作效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "excerpt": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "meta": "JavaScript · ★ 83,933 · 🍴 4,677 · 📈 1,089 stars today",
+      "meta": "JavaScript · ★ 83,950 · 🍴 4,677 · 📈 1,089 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code 技能，通过模仿原始人说话风格（如使用短词、省略介词）减少约 65% token 消耗，适合希望降低 API 成本的开发者。"
+      "summary": "Claude Code 的穴居人风格技能，用简短、碎片化的语句代替正常表达，平均减少 65% token 消耗。适合希望降低 API 成本又保留核心功能的开发者，是 prompt 压缩的有趣实验。"
     },
     {
       "sourceId": "github-trending",
       "title": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "excerpt": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "meta": "TypeScript · ★ 23,083 · 🍴 2,006 · 📈 726 stars today",
+      "meta": "TypeScript · ★ 23,094 · 🍴 2,007 · 📈 742 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 JavaScript 的页面内 GUI 代理，用户可用自然语言控制网页界面，实现自动化操作，适用于浏览器自动化、数据抓取场景。"
+      "summary": "阿里巴巴开源的 JavaScript 页面内 GUI Agent，支持用自然语言指令操控网页元素。无需额外浏览器扩展，直接在页面加载脚本即可实现表单填写、点击、滚动等操作，适合自动化测试或辅助用户交互。"
     },
     {
       "sourceId": "github-trending",
       "title": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "excerpt": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "meta": "Python · ★ 36,001 · 🍴 3,651 · 📈 1,910 stars today",
+      "meta": "Python · ★ 36,024 · 🍴 3,652 · 📈 1,904 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源 AI 渗透测试工具，自动发现并协助修复应用漏洞，使用 AI 模型生成测试用例和攻击向量，适合安全工程师和 DevSecOps 流程。"
+      "summary": "开源 AI 驱动的渗透测试工具，自动发现 Web 应用中的安全漏洞并给出修复建议。利用大语言模型分析攻击面，生成测试用例并输出报告，适用于开发流程中的安全审计和 CI/CD 集成。"
     },
     {
       "sourceId": "github-trending",
       "title": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "excerpt": "Chrome DevTools for coding agents",
-      "meta": "TypeScript · ★ 45,764 · 🍴 2,978 · 📈 303 stars today",
+      "meta": "TypeScript · ★ 45,769 · 🍴 2,979 · 📈 304 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为编码代理提供 Chrome 开发者工具接口，让 AI 能直接调试、检查 DOM、网络请求等，适合构建 AI 驱动的测试和调试工作流。"
+      "summary": "为 AI 编码 Agent 提供 Chrome 开发工具接口的 MCP 实现。通过 Model Context Protocol，赋予 Agent 控制浏览器、查看网络请求、调试 DOM 的能力，适用于自动化前端开发和测试场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "excerpt": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &",
-      "meta": "Rust · ★ 15,226 · 🍴 1,668 · 📈 865 stars today",
+      "meta": "Rust · ★ 15,245 · 🍴 1,670 · 📈 718 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "隐私优先的 AI 会议助手，基于 Rust 实现 4 倍速 Parakeet/Whisper 实时转录、说话人分离和 Ollama 摘要，全部本地运行无需云服务。"
+      "summary": "基于 Rust 的隐私优先 AI 会议助手，使用 Parakeet/Whisper 实时转录（速度提升 4 倍），支持说话人区分和 Ollama 本地摘要。所有处理在本地完成，无需云端，适合机密会议场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "excerpt": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "meta": "JavaScript · ★ 48,888 · 🍴 7,978 · 📈 432 stars today",
+      "meta": "JavaScript · ★ 48,903 · 🍴 7,982 · 📈 471 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收集并公开从 Anthropic、OpenAI、Google 等模型提取的系统提示词，包括 Claude、ChatGPT、Gemini 的早期版本，供研究人员和 Prompt 工程师分析参考。"
+      "summary": "收集了 Anthropic、OpenAI、Google 等多个 AI 模型泄露的系统提示词，涵盖 Claude、ChatGPT、Gemini 等系列。可用于逆向分析模型的行为约束和偏好设定，辅助提示工程和安全研究。"
     },
     {
       "sourceId": "github-trending",
       "title": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "excerpt": "Machine Learning Systems",
-      "meta": "Python · ★ 26,552 · 🍴 3,164 · 📈 446 stars today",
+      "meta": "Python · ★ 26,557 · 🍴 3,164 · 📈 443 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "哈佛大学课程 CS249r《机器学习系统》的教材，涵盖系统设计、分布式训练、推理优化等主题，适合 ML 工程师和学生。"
+      "summary": "哈佛大学 CS249r 课程配套教材，系统讲解机器学习系统的设计与实现，涵盖训练、推理、部署等全流程。适合希望深入理解 ML 系统底层原理的工程师和学生。"
     },
     {
       "sourceId": "github-trending",
       "title": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
       "excerpt": "A beautiful, powerful, self-hosted rom manager and player.",
-      "meta": "Python · ★ 10,188 · 🍴 493 · 📈 400 stars today",
+      "meta": "Python · ★ 10,196 · 🍴 493 · 📈 398 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管的 ROM 管理器和游戏启动器，界面美观、功能强大，支持多种模拟器，适合怀旧游戏玩家集中管理并直接游玩游戏 ROM。"
+      "summary": "一款功能丰富、界面美观的自托管 ROM 管理器与模拟器前端，支持游戏分类、元数据刮削、跨平台游玩。适合拥有大量游戏 ROM 文件、喜欢本地管理的怀旧游戏玩家。"
     },
     {
       "sourceId": "github-trending",
       "title": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "excerpt": "agent multiplexer that lives in your terminal.",
-      "meta": "Rust · ★ 11,416 · 🍴 668 · 📈 706 stars today",
+      "meta": "Rust · ★ 11,427 · 🍴 669 · 📈 707 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "终端内的 AI Agent 多路复用器，可在同一终端会话中与多个 AI 代理交互，适合需要同时使用不同模型或工具的开发工作流。"
+      "summary": "终端里的 AI Agent 多路复用器，支持同时连接多个不同的 Agent（如 Claude、GPT 等），并在它们之间快速切换。适合需要对比或协作使用多个模型的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "excerpt": "Repository for skills to assist AI coding agents with .NET and C#",
-      "meta": "C# · ★ 3,800 · 🍴 288 · 📈 57 stars today",
+      "meta": "C# · ★ 3,801 · 🍴 289 · 📈 59 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软官方提供的 .NET / C# 技能仓库，为 AI 编码代理提供上下文感知的辅助能力，帮助代理更高效地生成和调试 .NET 代码。"
+      "summary": "微软官方仓库，收录辅助 AI 编码 Agent 处理 .NET 和 C# 开发任务的技能文件。包含项目创建、代码生成、测试等场景的提示，帮助 Agent 更准确地理解和生成 .NET 代码。"
     },
     {
       "sourceId": "github-trending",
       "title": "agentskills/agentskills",
       "url": "https://github.com/agentskills/agentskills",
       "excerpt": "Specification and documentation for Agent Skills",
-      "meta": "Python · ★ 22,318 · 🍴 1,410 · 📈 351 stars today",
+      "meta": "Python · ★ 22,325 · 🍴 1,411 · 📈 351 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "定义 Agent Skills 的规范和文档，为 AI 代理提供可复用、标准化的能力模块，便于代理理解和执行特定任务。"
+      "summary": "定义 Agent Skills 规范与文档的开源项目，为 AI 编码 Agent 提供标准化的技能接口和说明。开发者可基于此规范构建自定义技能，实现 Agent 能力的扩展。"
     },
     {
       "sourceId": "github-trending",
       "title": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "excerpt": "High performance self-hosted photo and video management solution.",
-      "meta": "TypeScript · ★ 105,612 · 🍴 6,029 · 📈 198 stars today",
+      "meta": "TypeScript · ★ 105,620 · 🍴 6,029 · 📈 201 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "高性能自托管的照片与视频管理方案，提供类似 Google Photos 的体验，支持多端同步、AI 识别、时间线浏览，注重隐私和数据控制。"
+      "summary": "高性能的自托管照片与视频管理解决方案，支持自动备份、AI 标签、人脸识别、地图浏览等功能。用于搭建私有云相册，替代 Google Photos 等第三方服务，所有数据本地存储。"
     },
     {
       "sourceId": "github-trending",
       "title": "chthollyphile/folia-major",
       "url": "https://github.com/chthollyphile/folia-major",
       "excerpt": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
-      "meta": "TypeScript · ★ 983 · 🍴 62 · 📈 131 stars today",
+      "meta": "TypeScript · ★ 984 · 🍴 63 · 📈 175 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专注于绚丽歌词动画的本地音乐播放器，支持 navidrome 和第三方网易云音乐，提供沉浸式歌词显示体验，适合音乐爱好者。"
+      "summary": "一款注重歌词动画效果的本地音乐播放器，支持 Navidrome 和第三方网易云音乐源。提供丰富的歌词动效，支持调色、粒子等视觉效果，适合追求音乐视觉体验的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .claude directory.",
-      "meta": "Shell · ★ 156,531 · 🍴 13,469 · 📈 1,013 stars today",
+      "meta": "Shell · ★ 156,540 · 🍴 13,471 · 📈 973 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "TypeScript 专家 Matt Pocock 分享的 Claude Code 技能集，直接取自其 .claude 目录，帮助开发者提升代码生成和调试效率。"
+      "summary": "来自知名开发者 Matt Pocock 的 Claude Code 技能集，直接从其 .claude 目录提取。包含针对 TypeScript、React 等场景的实用技能，可供其他开发者直接导入以提升 Agent 效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "CoplayDev/unity-mcp",
       "url": "https://github.com/CoplayDev/unity-mcp",
       "excerpt": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "meta": "C# · ★ 11,583 · 🍴 1,262 · 📈 68 stars today",
+      "meta": "C# · ★ 11,590 · 🍴 1,262 · 📈 69 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Unity MCP 桥接 AI 助手与 Unity 编辑器，让 LLM 能够管理资源、控制场景、编辑脚本、自动化任务，加速游戏开发流程。"
+      "summary": "Unity MCP 作为 AI 助手与 Unity 编辑器之间的桥梁，通过 Model Context Protocol 让大语言模型直接管理资源、控制场景、编辑脚本和自动化任务。适合需要 AI 辅助游戏开发的 Unity 开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "excerpt": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commerc",
-      "meta": "Python · ★ 20,140 · 🍴 2,758 · 📈 197 stars today",
+      "meta": "Python · ★ 20,145 · 🍴 2,759 · 📈 136 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收录 337 个 Claude Code 技能和插件，涵盖 30+ Agent、70+ 自定义命令、330+ 技能，支持 Claude Code、Codex、Gemini CLI 等多种编程代理。"
+      "summary": "收集了 337 个 Claude Code 技能及 Agent 技能/插件，覆盖 30+ Agent 类型、70+ 自定义命令，兼容 Codex、Gemini CLI、Cursor 等主流编码 Agent。适合希望快速扩展 Agent 能力的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "crynta/terax-ai",
       "url": "https://github.com/crynta/terax-ai",
       "excerpt": "Lightweight (7MB) Terminal-first AI-native dev workspace",
-      "meta": "TypeScript · ★ 8,042 · 🍴 859 · 📈 44 stars today",
+      "meta": "TypeScript · ★ 8,046 · 🍴 861 · 📈 62 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量级（7MB）终端优先的 AI 原生开发工作空间，集成 AI 辅助编程功能，适合偏好命令行操作、追求低资源占用的开发者。"
+      "summary": "仅 7MB 的轻量级 AI 原生开发环境，以终端为中心。内置 AI 助手，支持代码生成、解释、调试等，无需依赖图形界面。适合钟爱终端操作、追求极简高效开发体验的工程师。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -214,15 +214,6 @@
       "url": "https://www.v2ex.com/t/1224664",
       "excerpt": "35 回复 · Apple 节点",
       "publishedAt": "2026-07-03T01:39:28.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "你喜欢注释丰富， Commit Message 详尽，还是反之？",
-      "url": "https://www.v2ex.com/t/1224882",
-      "excerpt": "27 回复 · 程序员 节点",
-      "publishedAt": "2026-07-04T01:29:51.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -407,92 +398,90 @@
       "source": "V2EX"
     },
     {
+      "sourceId": "v2ex-hot",
+      "title": "Linux 上的游戏网络加速",
+      "url": "https://www.v2ex.com/t/1223240",
+      "excerpt": "8 回复 · Linux 节点",
+      "publishedAt": "2026-06-26T17:11:17.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
       "sourceId": "hackernews",
       "title": "The bottleneck might be the air in the room",
       "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "excerpt": "742 points · 425 comments",
+      "excerpt": "750 points · 428 comments",
       "publishedAt": "2026-07-04T06:32:28.000Z",
       "category": "tech",
-      "score": 742,
+      "score": 750,
       "source": "Hacker News",
-      "summary": "文章探讨室内二氧化碳浓度可能成为决策瓶颈，指出空气质量对认知表现的影响。"
+      "summary": "文章探讨室内二氧化碳浓度过高可能成为决策瓶颈，影响认知表现和工作效率。"
     },
     {
       "sourceId": "hackernews",
       "title": "Leaking YouTube creators' private videos",
       "url": "https://javoriuski.com/post/youtube",
-      "excerpt": "439 points · 235 comments",
+      "excerpt": "451 points · 249 comments",
       "publishedAt": "2026-07-04T16:45:10.000Z",
       "category": "tech",
-      "score": 439,
+      "score": 451,
       "source": "Hacker News",
-      "summary": "一篇关于泄露YouTube创作者私密视频的文章，可能涉及安全漏洞或隐私问题。"
+      "summary": "揭露YouTube创作者私密视频被泄露的问题，可能涉及平台安全漏洞。"
     },
     {
       "sourceId": "hackernews",
       "title": "Explanation of everything you can see in htop/top on Linux (2019)",
       "url": "https://peteris.rocks/blog/htop/",
-      "excerpt": "367 points · 52 comments",
+      "excerpt": "372 points · 52 comments",
       "publishedAt": "2026-07-04T12:00:57.000Z",
       "category": "tech",
-      "score": 367,
+      "score": 372,
       "source": "Hacker News",
-      "summary": "2019年的文章，详尽解释Linux下htop/top命令显示的每一项内容，适合系统管理员和开发者。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "excerpt": "290 points · 149 comments",
-      "publishedAt": "2026-07-04T16:51:26.000Z",
-      "category": "tech",
-      "score": 290,
-      "source": "Hacker News",
-      "summary": "Anna’s Archive发布20万美元悬赏，征集Google Books等所有图书扫描数据，目标建立免费开放的数字图书馆。"
+      "summary": "详细解释Linux系统监控工具htop/top中各项指标的含义，适合新手学习。"
     },
     {
       "sourceId": "hackernews",
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "excerpt": "286 points · 119 comments",
+      "excerpt": "309 points · 131 comments",
       "publishedAt": "2026-07-04T19:41:10.000Z",
       "category": "tech",
-      "score": 286,
+      "score": 309,
       "source": "Hacker News",
-      "summary": "使用Fable工具将《命令与征服：将军》原生移植到macOS、iPhone和iPad平台，实现在移动设备上游玩经典RTS游戏。"
+      "summary": "使用Fable工具将经典游戏「命令与征服：将军」原生移植到macOS、iPhone和iPad平台。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "excerpt": "301 points · 151 comments",
+      "publishedAt": "2026-07-04T16:51:26.000Z",
+      "category": "tech",
+      "score": 301,
+      "source": "Hacker News",
+      "summary": "悬赏20万美元扫描Google Books或类似平台的所有图书，旨在建立全面数字图书馆。"
     },
     {
       "sourceId": "hackernews",
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "excerpt": "263 points · 122 comments",
+      "excerpt": "268 points · 126 comments",
       "publishedAt": "2026-07-04T14:03:40.000Z",
       "category": "tech",
-      "score": 263,
+      "score": 268,
       "source": "Hacker News",
-      "summary": "Anthropic的Claude Code存在潜在会话/缓存泄漏问题，可能导致工作空间实例或消费账户之间的数据泄露。"
+      "summary": "报告Claude Code工作空间实例或用户账户之间潜在的会话/缓存泄漏问题。"
     },
     {
       "sourceId": "hackernews",
       "title": "Astrophysicists Puzzle over Webb’s New Universe",
       "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "excerpt": "183 points · 117 comments",
+      "excerpt": "187 points · 119 comments",
       "publishedAt": "2026-07-04T09:08:09.000Z",
       "category": "tech",
-      "score": 183,
+      "score": 187,
       "source": "Hacker News",
-      "summary": "詹姆斯·韦伯太空望远镜的新观测结果让天体物理学家困惑，挑战现有宇宙学模型，可能揭示早期宇宙的意外特征。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Mir Books – Books from the Soviet Era",
-      "url": "https://mirtitles.org",
-      "excerpt": "168 points · 78 comments",
-      "publishedAt": "2026-06-30T20:50:58.000Z",
-      "category": "tech",
-      "score": 168,
-      "source": "Hacker News",
-      "summary": "Mir Books网站收录大量苏联时期出版的科技与数学书籍，以高质量翻译和免费下载为特色。"
+      "summary": "韦伯望远镜观测数据挑战现有宇宙模型，天体物理学家对早期星系和暗物质产生困惑。"
     },
     {
       "sourceId": "hackernews",
@@ -503,57 +492,68 @@
       "category": "tech",
       "score": 161,
       "source": "Hacker News",
-      "summary": "Databricks提出Lakebase LTAP架构，将Postgres数据以Parquet格式存储于S3，重新思考数据库存储层，实现分析事务性能。"
+      "summary": "介绍LTAP架构：将Postgres数据以Parquet格式存储在S3上，重新思考数据库存储方式。"
     },
     {
       "sourceId": "hackernews",
       "title": "The Vespa at 80",
       "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-      "excerpt": "137 points · 127 comments",
+      "excerpt": "139 points · 131 comments",
       "publishedAt": "2026-07-01T13:22:19.000Z",
       "category": "tech",
-      "score": 137,
+      "score": 139,
       "source": "Hacker News",
-      "summary": "Vespa 80周年纪念：从战后意大利设计经典到全球文化符号，回顾其历史与影响。"
+      "summary": "纪念Vespa诞生80周年，回顾其战后意大利设计经典和全球文化影响。"
     },
     {
       "sourceId": "hackernews",
       "title": "Verizon is About to Break our Watches",
       "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "excerpt": "117 points · 55 comments",
+      "excerpt": "121 points · 63 comments",
       "publishedAt": "2026-07-04T17:52:36.000Z",
       "category": "tech",
-      "score": 117,
-      "source": "Hacker News"
+      "score": 121,
+      "source": "Hacker News",
+      "summary": "Verizon即将关闭3G/CDMA网络，导致依赖该网络的智能手表无法正常使用。"
     },
     {
       "sourceId": "hackernews",
       "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
       "url": "https://ziglang.org/devlog/2026/#2026-06-30",
-      "excerpt": "110 points · 24 comments",
+      "excerpt": "118 points · 24 comments",
       "publishedAt": "2026-07-04T16:30:10.000Z",
       "category": "tech",
-      "score": 110,
+      "score": 118,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
-      "excerpt": "96 points · 16 comments",
+      "excerpt": "112 points · 27 comments",
       "publishedAt": "2026-07-04T21:51:09.000Z",
       "category": "tech",
-      "score": 96,
+      "score": 112,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Fable created novel 4D splat format",
       "url": "https://adamraudonis.github.io/splats4D/",
-      "excerpt": "90 points · 25 comments",
+      "excerpt": "95 points · 30 comments",
       "publishedAt": "2026-07-04T15:49:08.000Z",
       "category": "tech",
-      "score": 90,
+      "score": 95,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Finland's last analogue landline phones go silent after 150 years",
+      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+      "excerpt": "89 points · 23 comments",
+      "publishedAt": "2026-07-04T16:54:02.000Z",
+      "category": "tech",
+      "score": 89,
       "source": "Hacker News"
     },
     {
@@ -568,59 +568,69 @@
     },
     {
       "sourceId": "hackernews",
-      "title": "Finland's last analogue landline phones go silent after 150 years",
-      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-      "excerpt": "84 points · 23 comments",
-      "publishedAt": "2026-07-04T16:54:02.000Z",
-      "category": "tech",
-      "score": 84,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
       "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
       "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-      "excerpt": "81 points · 25 comments",
+      "excerpt": "83 points · 26 comments",
       "publishedAt": "2026-06-30T21:27:15.000Z",
       "category": "tech",
-      "score": 81,
+      "score": 83,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Better Models: Worse Tools",
       "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "excerpt": "68 points · 18 comments",
+      "excerpt": "75 points · 21 comments",
       "publishedAt": "2026-07-04T20:16:22.000Z",
       "category": "tech",
-      "score": 68,
+      "score": 75,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Drone Physics",
       "url": "https://iahmed.me/post/drone-physics/",
-      "excerpt": "68 points · 20 comments",
+      "excerpt": "70 points · 20 comments",
       "publishedAt": "2026-06-30T19:57:37.000Z",
       "category": "tech",
-      "score": 68,
+      "score": 70,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Designing DB partitions you don't have to babysit",
       "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
-      "excerpt": "55 points · 7 comments",
+      "excerpt": "57 points · 8 comments",
       "publishedAt": "2026-07-01T13:05:16.000Z",
       "category": "tech",
-      "score": 55,
+      "score": 57,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "excerpt": "47 points · 32 comments",
+      "publishedAt": "2026-07-04T17:37:21.000Z",
+      "category": "tech",
+      "score": 47,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Curveball",
+      "url": "https://mightyburger.net/projects/curveball/",
+      "excerpt": "46 points · 11 comments",
+      "publishedAt": "2026-07-04T16:15:48.000Z",
+      "category": "tech",
+      "score": 46,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
       "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
-      "excerpt": "45 points · 5 comments",
+      "excerpt": "45 points · 7 comments",
       "publishedAt": "2026-07-01T21:10:16.000Z",
       "category": "tech",
       "score": 45,
@@ -628,32 +638,22 @@
     },
     {
       "sourceId": "hackernews",
-      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
-      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-      "excerpt": "45 points · 31 comments",
-      "publishedAt": "2026-07-04T17:37:21.000Z",
-      "category": "tech",
-      "score": 45,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Curveball",
-      "url": "https://mightyburger.net/projects/curveball/",
-      "excerpt": "44 points · 11 comments",
-      "publishedAt": "2026-07-04T16:15:48.000Z",
-      "category": "tech",
-      "score": 44,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
       "title": "It's not me, it's the compiler",
       "url": "https://parsa.wtf/cast/",
-      "excerpt": "38 points · 8 comments",
+      "excerpt": "41 points · 9 comments",
       "publishedAt": "2026-07-01T07:41:04.000Z",
       "category": "tech",
-      "score": 38,
+      "score": 41,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "excerpt": "26 points · 3 comments",
+      "publishedAt": "2026-07-04T23:41:10.000Z",
+      "category": "tech",
+      "score": 26,
       "source": "Hacker News"
     },
     {
@@ -668,22 +668,32 @@
     },
     {
       "sourceId": "hackernews",
-      "title": "Game Boy Advance Dev: Logging to the Console",
-      "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-      "excerpt": "21 points · 3 comments",
-      "publishedAt": "2026-07-04T17:12:00.000Z",
+      "title": "Can you build a recognizable World Map in under 500 bytes?",
+      "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes",
+      "excerpt": "14 points · 15 comments",
+      "publishedAt": "2026-07-01T14:48:40.000Z",
       "category": "tech",
-      "score": 21,
+      "score": 14,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Can you build a recognizable World Map in under 500 bytes?",
-      "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes",
-      "excerpt": "10 points · 13 comments",
-      "publishedAt": "2026-07-01T14:48:40.000Z",
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "excerpt": "9 points · 0 comments",
+      "publishedAt": "2026-07-04T22:36:28.000Z",
       "category": "tech",
-      "score": 10,
+      "score": 9,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+      "excerpt": "9 points · 5 comments",
+      "publishedAt": "2026-07-04T21:35:30.000Z",
+      "category": "tech",
+      "score": 9,
       "source": "Hacker News"
     },
     {
@@ -692,16 +702,6 @@
       "url": "https://arxiv.org/abs/2606.26967",
       "excerpt": "8 points · 1 comments",
       "publishedAt": "2026-07-04T20:38:39.000Z",
-      "category": "tech",
-      "score": 8,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "New bacterial species discovered in NASA's cleanrooms",
-      "url": "https://www.nature.com/articles/d44151-025-00219-7",
-      "excerpt": "8 points · 1 comments",
-      "publishedAt": "2026-07-04T22:34:30.000Z",
       "category": "tech",
       "score": 8,
       "source": "Hacker News"
@@ -736,15 +736,6 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "What should a personal website be?",
-      "url": "https://ratfactor.com/cards/personal-website",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-04T09:16:24.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
       "title": "Returning to Zig",
       "url": "https://gracefulliberty.com/articles/return-to-zig/",
       "excerpt": "Comments",
@@ -754,10 +745,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Reducing Assumptions, Exploding Your Code",
-      "url": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
+      "title": "What should a personal website be?",
+      "url": "https://ratfactor.com/cards/personal-website",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-04T11:57:02.000Z",
+      "publishedAt": "2026-07-04T09:16:24.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -772,10 +763,28 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "Reducing Assumptions, Exploding Your Code",
+      "url": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-04T11:57:02.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Bad Epoll (CVE-2026-46242)",
       "url": "https://github.com/J-jaeyoung/bad-epoll",
       "excerpt": "Comments",
       "publishedAt": "2026-07-04T18:40:12.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "thundersnap v0.01: an undo button for everything",
+      "url": "https://github.com/tailscale/thundersnap/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-04T17:59:10.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -799,10 +808,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "thundersnap v0.01: an undo button for everything",
-      "url": "https://github.com/tailscale/thundersnap/",
+      "title": "The Lion, The Witch, and the audacity of recruiters",
+      "url": "https://hauleth.dev/post/the-lion-the-witch-and-the-aduacity-of-recruiter/",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-04T17:59:10.000Z",
+      "publishedAt": "2026-07-04T20:41:03.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -844,15 +853,6 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "The Lion, The Witch, and the audacity of recruiters",
-      "url": "https://hauleth.dev/post/the-lion-the-witch-and-the-aduacity-of-recruiter/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-04T20:41:03.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
       "title": "Why implementing ActivityPub is hard, and why it doesn't have to be",
       "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
       "excerpt": "Comments",
@@ -880,19 +880,28 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "My favorite keyboards",
-      "url": "https://fabiensanglard.net/keyboards/index.html",
+      "title": "Immich v3.0.0 Released",
+      "url": "https://immich.app/blog/v3.0.0-release",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-03T21:49:26.000Z",
+      "publishedAt": "2026-07-04T18:25:49.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
     {
       "sourceId": "lobsters",
-      "title": "Immich v3.0.0 Released",
-      "url": "https://immich.app/blog/v3.0.0-release",
+      "title": "How to call Linux code from a Wine process",
+      "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-04T18:25:49.000Z",
+      "publishedAt": "2026-07-04T22:14:41.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "My favorite keyboards",
+      "url": "https://fabiensanglard.net/keyboards/index.html",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-03T21:49:26.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -911,15 +920,6 @@
       "url": "https://lineageos.org/Developer-Verification/",
       "excerpt": "Comments",
       "publishedAt": "2026-07-04T11:30:50.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "How to call Linux code from a Wine process",
-      "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-04T22:14:41.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -1309,7 +1309,7 @@
       "publishedAt": "2026-07-03T14:25:43.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "谷歌DeepMind与电影公司A24宣布建立首次研究合作伙伴关系，具体细节尚未公布。"
+      "summary": "Google DeepMind 与电影公司 A24 宣布首次研究合作。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -1850,7 +1850,7 @@
       "publishedAt": "2026-07-03T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Meta推出Watermelon项目，Anthropic与三星合作芯片，以及实践中的自动研究进展。"
+      "summary": "Meta 推出「Watermelon」项目，Anthropic 与三星芯片合作，自动研究进入实践阶段。"
     },
     {
       "sourceId": "tldr-ai",
@@ -2031,7 +2031,7 @@
       "publishedAt": "2026-07-03T05:11:43.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI工程师世界博览会闭幕，包括关于循环的辩论、AI工程状态报告以及聚焦下一步构建内容的闭幕主旨演讲。"
+      "summary": "AI 工程师世界博览会以循环辩论、AI 工程现状报告和聚焦下一步构建的闭幕主题演讲结束。"
     },
     {
       "sourceId": "latent-space",
@@ -2041,7 +2041,7 @@
       "publishedAt": "2026-07-03T00:08:18.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Vercel软件主管Andrew Qu解释了其代理框架eve的创建过程，并强调了技能、沙箱和代理可读网站的重要性。"
+      "summary": "Vercel 首席软件官 Andrew Qu 解释其代理框架 eve 的创建过程，以及技能、沙盒和代理可读网站的重要性。"
     },
     {
       "sourceId": "latent-space",
@@ -2051,7 +2051,7 @@
       "publishedAt": "2026-07-02T21:25:14.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Adobe正在试验“代理型网站”，可根据用户意图生成页面。在AIEWF上，与Carlos Sanchez讨论了Web的未来。"
+      "summary": "Adobe 正在试验「代理网站」，根据用户意图生成页面；Carlos Sanchez 在 AIEWF 讨论网络未来。"
     },
     {
       "sourceId": "latent-space",
@@ -2305,7 +2305,7 @@
       "category": "tech",
       "meta": "@philhchen · 9.1K 粉丝 · 179.1K 阅 · 516 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI擅长有明确损失函数的问题，而学校教育多属此类。未来最有价值的工作是定义问题、处理模糊性，人类需转向不可被公式化的领域。"
+      "summary": "AI擅长有明确损失函数的问题，学校教育多属此类。作者认为未来最有价值的工作在于无法量化评价的领域。据此给出AI时代的职业建议：聚焦非程式化工作，发挥人类独特判断力。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2316,7 +2316,7 @@
       "category": "tech",
       "meta": "@arthurmensch · 74.0K 粉丝 · 162.7K 阅 · 539 赞 · 76 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "企业领导者应使用开源模型，因为闭源模型提供商强制数据留存，依赖它们会带来巨大杠杆风险。强调数据主权和控制权是增长关键。"
+      "summary": "企业领导者必须采用开源模型，因为闭源提供商强制数据留存，会对业务施加巨大杠杆控制。作者主张通过开源模型保持AI自主性，避免被锁定，从而实现真正的增长。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2327,7 +2327,7 @@
       "category": "tech",
       "meta": "@EXM7777 · 121.1K 粉丝 · 83.6K 阅 · 518 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "逐步教程：将Fable 5打造成深度理解业务的知识机器，产出个性化输出。类似构建第二大脑，强调定制化而非通用结果。"
+      "summary": "逐步教程：如何将Fable 5转化为你的第二大脑，让它深度了解业务细节并输出来自完全不同视角的内容。Fable 5是一个可定制AI模型，作者展示具体步骤实现个性化输出。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2338,7 +2338,7 @@
       "category": "tech",
       "meta": "@AlexFinn · 459.5K 粉丝 · 72.5K 阅 · 565 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "指出Fable 5不是“氛围编码”工具，而是操作系统级工具。若仅用它写代码是误用，应将其作为基础设施来构建更复杂的系统。"
+      "summary": "作者批评拿Fable 5做vibe coding（即兴编码）是错误用法。强调Fable 5不是编码工具，而是操作系统工具。解释正确用法：将其视为底层系统，用于构建和协调复杂工作流。24小时内最该做的事是重新定位它的角色。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2349,7 +2349,7 @@
       "category": "tech",
       "meta": "@addyosmani · 404.9K 粉丝 · 53.5K 阅 · 525 赞 · 66 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨智能体工程新趋势：从提示转向操作。提出软件工厂概念，包含目标、循环、后台会话等，定义自主层次的前沿探索。"
+      "summary": "Agent工程自主性层级的探讨：焦点已从提示转向操作。作者引入软件工厂、目标设定、循环、后台会话等概念，构建Agent自治框架。适用于理解AI体能力成熟度及发展方向。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2360,7 +2360,7 @@
       "category": "tech",
       "meta": "@trq212 · 299.3K 粉丝 · 40.1K 阅 · 534 赞 · 43 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "使用Claude Fable 5的反思：提示和技能只是工作地图，并非实地。强调探索未知比依赖已有表示更重要，指向发现未知领域。"
+      "summary": "使用Claude Fable 5的感悟：你给出的提示、技能和上下文只是地图，不代表实际工作领土。作者提醒不要被现有表征局限，要主动探索未知，发现真正需要解决的问题。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2371,7 +2371,7 @@
       "category": "tech",
       "meta": "@ericzakariasson · 76.4K 粉丝 · 37.9K 阅 · 567 赞 · 24 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Fable重回Cursor后的使用模式：将Fable作为编排器（orchestrator），Composer作为执行者（workers）。分享多种最大化利用模型的方法。"
+      "summary": "Fable重回Cursor后，作者分享探索出的模式：将Fable作为编排器（orchestrator），Composer作为工作器（workers）。还提供多种最大限度发挥Fable能力的技巧，如让其协调多个子任务。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2382,7 +2382,7 @@
       "category": "tech",
       "meta": "@0xkozue · 690 粉丝 · 24.9K 阅 · 501 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享一份PyTorch训练管线速查表，涵盖深度学习权重调整核心逻辑。面向实践者，包含代码片段和常见错误提示，简洁实用。"
+      "summary": "发布一页PyTorch训练管线速查表。深度学习本质是不断微调权重，该速查表完整覆盖数据加载、模型定义、损失函数、优化器及循环。适合快速参考，作者欢迎指正和补充。"
     },
     {
       "sourceId": "hellogithub",
@@ -3466,22 +3466,22 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Storms Prompt Evacuations at Washington’s July 4 Festivities",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/extreme-heat-breaks-across-eastern-us-severe-thunderstorms-to-follow",
+      "excerpt": "Thunderstorms are set to batter July 4 celebrations in Washington, DC, and New York as a waning heat dome continues to test electricity grids in the eastern US, following record power demand over the past few days.",
+      "publishedAt": "2026-07-04T10:14:17.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "Bloomberg This Weekend 07/04/2026",
       "url": "https://www.bloomberg.com/news/videos/2026-07-04/bloomberg-this-weekend-07-04-2026-video",
       "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Rutgers University Professor Emeritus of American Studies Robert Snyder, Retired Navy Vice Admiral ",
       "publishedAt": "2026-07-04T18:50:38.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "《彭博周末》节目主持人David Gura、Christina Ruffini和Lisa Mateo在纽约直播解读周末重大新闻，并邀请嘉宾分析。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Thunderstorms Set to Pummel America 250 Events as Heat Ebbs",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/extreme-heat-breaks-across-eastern-us-severe-thunderstorms-to-follow",
-      "excerpt": "Thunderstorms are set to batter July 4 celebrations in Washington, DC, and New York as a waning heat dome continues to test electricity grids in the eastern US, following record power demand over the past few days.",
-      "publishedAt": "2026-07-04T10:14:17.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "summary": "彭博周末节目7月4日播出，主持人David Gura、Christina Ruffini和Lisa Mateo从纽约直播，回顾周末头条新闻，邀请嘉宾分析热点。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3491,7 +3491,7 @@
       "publishedAt": "2026-07-04T20:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "下周德国数据将显示伊朗战争的累积影响，为政府提振欧洲最大经济体信心的最新举措奠定基础。"
+      "summary": "德国未来一周公布的数据将显示伊朗战争累积影响，为政府最新刺激经济举措奠定基础，旨在重振欧洲最大经济体的活力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3501,7 +3501,7 @@
       "publishedAt": "2026-07-04T19:20:57.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "委内瑞拉官方宣布，上周双震造成的死亡人数已升至近3000人。"
+      "summary": "委内瑞拉上周双震官方死亡人数于7月4日升至近3000人。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3511,7 +3511,7 @@
       "publishedAt": "2026-07-04T18:10:22.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国陆军退役上校Wayne Sanders在独立日海军检阅中向彭博节目解析哈德逊河上空展示的下一代空中力量。"
+      "summary": "美国7月4日举行海军检阅及帆船游行，退役陆军上校Wayne Sanders解读空中力量展示，强调美国军事能力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3521,7 +3521,7 @@
       "publishedAt": "2026-07-04T17:56:29.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "巴西财政部长Dario Durigan表示，卢拉政府推出的信贷措施不会削弱货币政策。"
+      "summary": "巴西财长Dario Durigan表示，卢拉政府推出的信贷措施不会影响货币政策。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3531,7 +3531,7 @@
       "publishedAt": "2026-07-04T17:40:03.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "马里兰州州长Wes Moore表示，爱国应团结而非分裂，服务与牺牲定义爱国，仍是实现建国承诺的关键。"
+      "summary": "马里兰州长Wes Moore表示美国梦仍值得奋斗，爱国主义应团结美国，奉献和牺牲是爱国核心。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3541,7 +3541,7 @@
       "publishedAt": "2026-07-04T17:22:18.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "科尼岛联盟执行董事Daniel Murphy介绍，科尼岛将通过永久性商业改善区和10亿美元投资重建木板路，进入新发展阶段。"
+      "summary": "科尼岛联盟执行董事Daniel Murphy宣布，科尼岛将设立永久商业改进区，并计划投资10亿美元重建木板路。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3551,7 +3551,7 @@
       "publishedAt": "2026-07-04T17:12:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Jim Beam第七、八代首席酿酒师Fred和Freddie Noe分享品牌230年传统与创新，旗舰波本威士忌仍沿用原始配方。"
+      "summary": "Jim Beam第七代和第八代首席酿酒师Fred和Freddie Noe表示，230年前的配方仍在使用，同时品牌也在演进。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3561,7 +3561,7 @@
       "publishedAt": "2026-07-04T16:35:44.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "USO首席执行官Michael Linnington表示，该组织已从二战时期扩展至全球260个地点，为部署军人提供联系与娱乐。"
+      "summary": "USO成立85周年，CEO Michael Linnington称该组织现已扩展至全球260个地点，为部署军人提供连通与娱乐服务。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3571,7 +3571,7 @@
       "publishedAt": "2026-07-04T16:19:40.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "记者Brittany Spanos称，Taylor Swift与Travis Kelce的婚姻标志其个人生活进入更公开阶段，凸显流行歌手与体育明星结合的文化影响。"
+      "summary": "记者Brittany Spanos称Taylor Swift与Travis Kelce已结婚，反映名人文化影响力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3591,7 +3591,7 @@
       "publishedAt": "2026-07-04T15:39:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "凯雷集团联合创始人David Rubenstein阐释其「爱国慈善」动机，聚焦保护美国历史文件和古迹。"
+      "summary": "凯雷集团联合创始人David Rubenstein解释其“爱国慈善”理念，致力于保护美国重要历史文件和纪念碑。"
     },
     {
       "sourceId": "bloomberg-markets",
