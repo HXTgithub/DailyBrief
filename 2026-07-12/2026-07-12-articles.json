@@ -6,240 +6,240 @@
       "title": "catchorg/Catch2",
       "url": "https://github.com/catchorg/Catch2",
       "excerpt": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "meta": "C++ · ★ 21,010 · 🍴 3,430 · 📈 117 stars today",
+      "meta": "C++ · ★ 21,025 · 🍴 3,430 · 📈 113 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "现代C++原生测试框架，支持单元测试、TDD和BDD。使用C++14/17及更高版本，v2.x分支支持C++11，Catch1.x支持C++03。适合需要跨版本C++测试的开发者。"
+      "summary": "Catch2是一个现代化的C++原生测试框架，支持单元测试、TDD和BDD，兼容C++14/17/20及以上。适用于需要轻量级、头文件式测试的C++项目，提供丰富的断言和测试组织能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "abseil/abseil-cpp",
       "url": "https://github.com/abseil/abseil-cpp",
       "excerpt": "Abseil Common Libraries (C++)",
-      "meta": "C++ · ★ 17,784 · 🍴 3,211 · 📈 120 stars today",
+      "meta": "C++ · ★ 17,794 · 🍴 3,211 · 📈 118 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google开源的C++公共库集合，提供底层工具、算法和容器，补充标准库不足。经过大规模生产验证，适合需要高质量基础组件的C++项目。"
+      "summary": "Abseil是Google开源的C++公共库集合，提供字符串处理、容器、算法等基础组件。弥补标准库不足，常用于大型C++项目减少重复代码，提升开发效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "excerpt": "CLI tool for configuring and monitoring Claude Code",
-      "meta": "Python · ★ 29,002 · 🍴 3,183 · 📈 230 stars today",
+      "meta": "Python · ★ 29,010 · 🍴 3,183 · 📈 232 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "配置和监控Claude Code的CLI工具。快速设置运行环境和监控行为，适合使用Claude进行代码生成的开发者，提升工作流程效率。"
+      "summary": "一个CLI工具，用于配置和监控Claude Code。通过命令行界面管理代码模板，方便开发者快速启动和调整AI编码环境。"
     },
     {
       "sourceId": "github-trending",
       "title": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "meta": "TypeScript · ★ 7,040 · 🍴 945 · 📈 338 stars today",
+      "meta": "TypeScript · ★ 7,050 · 🍴 945 · 📈 340 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "与Stitch MCP服务器配合的Agent Skills库，遵循Agent Skills开放标准。兼容Antigravity、Gemini CLI、Claude等编码代理，用于扩展AI代理的能力。"
+      "summary": "与Stitch MCP服务器配合的AI Agent技能库，遵循Agent Skills开放标准。支持Antigravity、Gemini CLI、Claude Code等编码助手，提供可组合的智能体能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "hashicorp/terraform",
       "url": "https://github.com/hashicorp/terraform",
       "excerpt": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "meta": "Go · ★ 49,353 · 🍴 10,681 · 📈 229 stars today",
+      "meta": "Go · ★ 49,359 · 🍴 10,681 · 📈 229 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基础设施即代码工具，通过声明式配置文件安全可预测地管理多云资源。支持众多云服务商，适合DevOps团队自动化基础设施的创建、变更和优化。"
+      "summary": "Terraform是基础设施即代码工具，通过声明式配置文件管理云资源。适用于DevOps团队实现多云环境的安全、可预测自动化，支持阿里云、AWS、GCP等主流平台。"
     },
     {
       "sourceId": "github-trending",
       "title": "zeux/meshoptimizer",
       "url": "https://github.com/zeux/meshoptimizer",
       "excerpt": "Mesh optimization library that makes meshes smaller and faster to render",
-      "meta": "C++ · ★ 8,131 · 🍴 788 · 📈 111 stars today",
+      "meta": "C++ · ★ 8,135 · 🍴 788 · 📈 110 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "3D网格优化库，通过顶点缓存优化和网格简化等方法减小模型体积并加速渲染。适用于游戏、WebGL、VR/AR等需要高性能3D渲染的场景。"
+      "summary": "网格优化库，通过压缩顶点数据、简化拓扑结构减小模型大小并提升渲染速度。常用于游戏开发、3D打印和实时图形渲染管线。"
     },
     {
       "sourceId": "github-trending",
       "title": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "excerpt": "OpenAI Plugins",
-      "meta": "JavaScript · ★ 4,393 · 🍴 656 · 📈 75 stars today",
+      "meta": "JavaScript · ★ 4,400 · 🍴 656 · 📈 29 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenAI插件集合，用于扩展ChatGPT等模型的功能。开发者可构建自定义插件，让AI访问外部数据或执行实时操作，增强对话系统的实用性。"
+      "summary": "OpenAI官方插件仓库，用于扩展AI模型的能力。开发者可创建插件让ChatGPT等工具访问外部数据、执行实时操作，典型场景如联网搜索、代码解释、数据查询。"
     },
     {
       "sourceId": "github-trending",
       "title": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "excerpt": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "meta": "TypeScript · ★ 7,757 · 🍴 966 · 📈 900 stars today",
+      "meta": "TypeScript · ★ 7,767 · 🍴 966 · 📈 909 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为Claude提供的MCP服务器，赋予终端控制、文件系统搜索和差异文件编辑能力。使Claude能在桌面环境中执行命令行操作和文件修改，提高自动化水平。"
+      "summary": "为Claude提供终端控制、文件搜索和差异编辑能力的MCP服务器。允许通过自然语言操作桌面文件与命令行，适合开发者自动化本地开发任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "chriskohlhoff/asio",
       "url": "https://github.com/chriskohlhoff/asio",
       "excerpt": "Asio C++ Library",
-      "meta": "C++ · ★ 6,134 · 🍴 1,509 · 📈 75 stars today",
+      "meta": "C++ · ★ 6,137 · 🍴 1,509 · 📈 76 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "跨平台C++网络和低级I/O库，提供异步操作模型，支持TCP/UDP、串口和定时器。常用于高性能网络服务器、游戏服务器和嵌入式系统开发。"
+      "summary": "Asio是跨平台C++网络与异步I/O库，广泛用于高性能TCP/UDP服务、串口通信和定时器管理。是Boost.Asio的独立版本，适合高并发网络应用开发。"
     },
     {
       "sourceId": "github-trending",
       "title": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "excerpt": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "meta": "Rust · ★ 94,546 · 🍴 4,962 · 📈 654 stars today",
+      "meta": "Rust · ★ 94,557 · 🍴 4,959 · 📈 658 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "极快的JavaScript运行时、打包器、测试运行器和包管理器，集于一身。启动和运行速度显著优于Node.js，适合现代前端和后端开发，提升开发体验。"
+      "summary": "Bun是集JavaScript运行时、打包器、测试运行器和包管理器于一体的极速工具。专为现代前端与全栈开发优化，启动和包安装速度远超Node.js，支持TypeScript和JSX。"
     },
     {
       "sourceId": "github-trending",
       "title": "actions/checkout",
       "url": "https://github.com/actions/checkout",
       "excerpt": "Action for checking out a repo",
-      "meta": "TypeScript · ★ 8,457 · 🍴 2,714 · 📈 8 stars today",
+      "meta": "TypeScript · ★ 8,462 · 🍴 2,714 · 📈 8 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub Actions的checkout动作，用于从仓库检出代码到运行器。是CI/CD流水线的基础组件，可配置分支、路径和token，支持各种版本控制场景。"
+      "summary": "GitHub Actions中用于检出代码库的Action，将仓库文件下载到工作环境。几乎所有CI/CD工作流必需的第一步，支持分支、子模块和SSH密钥。"
     },
     {
       "sourceId": "github-trending",
       "title": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
       "excerpt": "🏡 Open source home automation that puts local control and privacy first.",
-      "meta": "Python · ★ 88,668 · 🍴 38,047 · 📈 169 stars today",
+      "meta": "Python · ★ 88,682 · 🍴 38,047 · 📈 80 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源家庭自动化平台，注重本地控制和隐私。支持多种智能设备协议，通过集成实现自动化与监控，运行在树莓派、NAS等设备上，适合智能家居爱好者。"
+      "summary": "开源家庭自动化平台，专注于本地控制与隐私。支持数千种智能设备集成，用户可通过自动化场景、语音助手或图形面板管理家居，完全离线运行。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
       "excerpt": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "meta": "C · ★ 136,418 · 🍴 8,366 · 📈 65 stars today",
+      "meta": "C · ★ 136,423 · 🍴 8,366 · 📈 39 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软Windows生产力工具集，包含窗口管理、批量重命名、颜色选择器、快捷键指南等。面向希望增强Windows工作流的用户，提升日常操作效率。"
+      "summary": "微软官方Windows效率工具集，包含颜色选取器、FancyZones窗口管理、批量重命名、快速启动等实用功能。大幅提升Windows系统下的操作效率，适合所有用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "excerpt": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "meta": "TypeScript · ★ 50,610 · 🍴 3,591 · 📈 43 stars today",
+      "meta": "TypeScript · ★ 50,615 · 🍴 3,591 · 📈 19 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "快速、易用且可靠的前端测试框架，专为浏览器端应用设计。支持端到端测试、组件测试和API请求，提供实时重载和调试，适合前端开发者和QA工程师。"
+      "summary": "Cypress是快速可靠的浏览器端测试框架，专为现代Web应用设计。支持端到端测试、组件测试和API测试，提供实时重载、时间旅行调试等开发者友好特性。"
     },
     {
       "sourceId": "github-trending",
       "title": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "excerpt": "The React Framework",
-      "meta": "JavaScript · ★ 140,931 · 🍴 31,549 · 📈 331 stars today",
+      "meta": "JavaScript · ★ 140,943 · 🍴 31,548 · 📈 334 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "React框架，支持服务端渲染、静态生成和文件系统路由。适用于构建高性能、SEO友好的Web应用，配合Vercel平台部署可最大化性能优势。"
+      "summary": "Next.js是React全栈框架，提供SSR、静态生成、增量静态再生和服务端组件。适合构建高SEO、高性能的Web应用，Vercel原生支持，生态丰富。"
     },
     {
       "sourceId": "github-trending",
       "title": "DayuanJiang/next-ai-draw-io",
       "url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "excerpt": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "meta": "TypeScript · ★ 33,271 · 🍴 3,604 · 📈 74 stars today",
+      "meta": "TypeScript · ★ 33,280 · 🍴 3,604 · 📈 81 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于Next.js的Web应用，集成AI能力与draw.io图表。用户通过自然语言命令创建和修改图表，AI辅助可视化。适合快速生成流程图、架构图等。"
+      "summary": "基于Next.js的Web应用，集成AI能力与draw.io图表。允许通过自然语言创建、修改和增强图表，适用于快速生成架构图、流程图等，提升设计效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "malisper/pgrust",
       "url": "https://github.com/malisper/pgrust",
       "excerpt": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "meta": "Rust · ★ 2,018 · 🍴 50 · 📈 789 stars today",
+      "meta": "Rust · ★ 2,039 · 🍴 50 · 📈 774 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用Rust重写的PostgreSQL数据库，通过100%回归测试。利用Rust内存安全特性提升可靠性和性能，适合对数据库稳定性有高要求的场景。"
+      "summary": "用Rust重写PostgreSQL，目前通过100%回归测试。旨在利用Rust的内存安全特性和性能优势，探索数据库实现的新方向，适合研究或评估Rust在数据库领域的应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "dotnet/aspnetcore",
       "url": "https://github.com/dotnet/aspnetcore",
       "excerpt": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-      "meta": "C# · ★ 38,302 · 🍴 10,887 · 📈 28 stars today",
+      "meta": "C# · ★ 38,302 · 🍴 10,885 · 📈 4 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "跨平台.NET框架，用于构建现代云Web应用。支持Windows、Mac、Linux，包含MVC、API、SignalR等组件，适合企业级后端开发和微服务架构。"
+      "summary": "ASP.NET Core是跨平台.NET Web框架，用于构建云原生应用、RESTful API和微服务。支持Windows/Mac/Linux，集成依赖注入、中间件管道和高性能Kestrel服务器。"
     },
     {
       "sourceId": "github-trending",
       "title": "prisma/prisma",
       "url": "https://github.com/prisma/prisma",
       "excerpt": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "meta": "TypeScript · ★ 47,224 · 🍴 2,474 · 📈 85 stars today",
+      "meta": "TypeScript · ★ 47,249 · 🍴 2,474 · 📈 37 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "下一代Node.js和TypeScript ORM，支持PostgreSQL、MySQL、SQLite等主流数据库。提供类型安全的数据库访问和自动迁移，显著提升开发效率。"
+      "summary": "Prisma是Node.js/TypeScript的下一代ORM，支持PostgreSQL、MySQL、MongoDB等数据库。提供类型安全的查询生成器和自动迁移，大幅提升数据库操作效率与代码健壮性。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "excerpt": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "meta": "Jupyter Notebook · ★ 47,908 · 🍴 5,672 · 📈 322 stars today",
+      "meta": "Jupyter Notebook · ★ 47,920 · 🍴 5,673 · 📈 219 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude使用示例集合，包含笔记本和食谱，展示有效提示和技巧。帮助用户更好地利用Claude进行对话、生成和创作，适合开发者和AI爱好者。"
+      "summary": "Claude官方Cookbook集合，包含Jupyter Notebooks演示如何有效使用Claude的多种能力。覆盖提示工程、工具使用、多模态交互等场景，适合AI应用开发者参考。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 252,420 · 🍴 22,530 · 📈 737 stars today",
+      "meta": "Shell · ★ 252,432 · 🍴 22,530 · 📈 740 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Agent技能框架和软件开发方法论，强调实用性与可操作性。提供结构化方法让AI代理执行复杂任务，适合构建自动化工作流和智能助手。"
+      "summary": "一种Agent技能框架与软件开发方法论，旨在提升开发效率。提供标准化的技能定义和编排方式，帮助构建可组合的AI助手工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "nasa/fprime",
       "url": "https://github.com/nasa/fprime",
       "excerpt": "F´ - A flight software and embedded systems framework",
-      "meta": "C++ · ★ 11,472 · 🍴 1,731 · 📈 64 stars today",
+      "meta": "C++ · ★ 11,474 · 🍴 1,731 · 📈 22 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "NASA开发的飞行软件和嵌入式系统框架，支持可复用组件和自动代码生成。适用于航天器、无人机等嵌入式设备，提供高可靠性的软件架构。"
+      "summary": "F´是NASA开发的飞行软件与嵌入式系统框架，采用组件化架构。适用于航天器、无人机和机器人等资源受限环境，提供快速原型和部署能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "ansible/ansible",
       "url": "https://github.com/ansible/ansible",
       "excerpt": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on rem",
-      "meta": "Python · ★ 69,576 · 🍴 24,275 · 📈 20 stars today",
+      "meta": "Python · ★ 69,583 · 🍴 24,276 · 📈 24 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "简单易用的IT自动化平台，基于Python，无代理架构，通过SSH执行任务。适用于应用部署、配置管理和网络自动化，降低运维复杂度。"
+      "summary": "Ansible是简单易用的IT自动化平台，通过YAML Playbook实现配置管理、应用部署和任务编排。无需代理，基于SSH执行，适合运维和DevOps团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "nuxt/nuxt",
       "url": "https://github.com/nuxt/nuxt",
       "excerpt": "the full-stack Vue framework",
-      "meta": "TypeScript · ★ 60,727 · 🍴 5,842 · 📈 10 stars today",
+      "meta": "TypeScript · ★ 60,728 · 🍴 5,842 · 📈 16 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "全栈Vue框架，支持服务端渲染、静态生成、文件路由和模块系统。类似Next.js但面向Vue生态系统，适合构建高性能Vue应用和SSR站点。"
+      "summary": "Nuxt是Vue全栈框架，提供SSR、静态生成、自动路由和模块化架构。适合构建SEO友好的Vue应用，支持开发环境和生产优化的开箱即用配置。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -432,6 +432,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "专科大二，喜欢底层开发(?)，但有点迷茫想听听建议...",
+      "url": "https://www.v2ex.com/t/1226643",
+      "excerpt": "5 回复 · 程序员 节点",
+      "publishedAt": "2026-07-11T21:07:03.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "太好了感动哭了 chrome149 修复了 wayland+nvidia 的硬件加速问题",
       "url": "https://www.v2ex.com/t/1223133",
       "excerpt": "5 回复 · Linux 节点",
@@ -458,46 +467,37 @@
       "source": "V2EX"
     },
     {
-      "sourceId": "v2ex-hot",
-      "title": "介绍一下 flatpark",
-      "url": "https://www.v2ex.com/t/1221637",
-      "excerpt": "4 回复 · Linux 节点",
-      "publishedAt": "2026-06-20T08:09:18.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
       "sourceId": "hackernews",
       "title": "Female US rower completes historic solo journey from California to Hawaii",
       "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-      "excerpt": "213 points · 76 comments",
+      "excerpt": "229 points · 80 comments",
       "publishedAt": "2026-07-11T17:03:23.000Z",
       "category": "tech",
-      "score": 213,
+      "score": 229,
       "source": "Hacker News",
-      "summary": "一名美国女性选手完成从加州到夏威夷的划艇单人历史性航行。"
+      "summary": "美国女划船者完成从加州到夏威夷的历史性单人航行。"
     },
     {
       "sourceId": "hackernews",
       "title": "Prefer strict tables in SQLite",
       "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "excerpt": "188 points · 78 comments",
+      "excerpt": "202 points · 91 comments",
       "publishedAt": "2026-07-11T17:33:55.000Z",
       "category": "tech",
-      "score": 188,
+      "score": 202,
       "source": "Hacker News",
-      "summary": "文章建议在 SQLite 中优先使用严格表（strict tables）以确保类型安全与数据一致性。"
+      "summary": "建议在SQLite中优先使用严格模式表，以提升数据完整性和性能。"
     },
     {
       "sourceId": "hackernews",
       "title": "We scaled PgBouncer to 4x throughput",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "excerpt": "162 points · 28 comments",
+      "excerpt": "168 points · 29 comments",
       "publishedAt": "2026-07-11T15:28:02.000Z",
       "category": "tech",
-      "score": 162,
+      "score": 168,
       "source": "Hacker News",
-      "summary": "团队将 PgBouncer 吞吐量提升至 4 倍，分享了针对 ClickHouse 托管 Postgres 的优化实践。"
+      "summary": "ClickHouse团队将PgBouncer连接池吞吐量提升至4倍，用于管理PostgreSQL。"
     },
     {
       "sourceId": "hackernews",
@@ -506,64 +506,64 @@
       "excerpt": "Hello HN!I&#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technol",
       "publishedAt": "2026-07-11T20:07:18.000Z",
       "category": "tech",
-      "score": 144,
+      "score": 156,
       "source": "Hacker News",
-      "summary": "Show HN：Ant 是一个包含自研引擎、包管理器、注册中心和部署平台的 JavaScript 生态系统。"
+      "summary": "Ant是一个包含自有JavaScript引擎的运行时及生态系统，提供包管理器、注册表、托管平台和桌面应用。"
     },
     {
       "sourceId": "hackernews",
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "excerpt": "118 points · 42 comments",
+      "excerpt": "130 points · 49 comments",
       "publishedAt": "2026-07-11T17:21:49.000Z",
       "category": "tech",
-      "score": 118,
+      "score": 130,
       "source": "Hacker News",
-      "summary": "分析 Nvidia、CoreWeave 与 Nebius 之间围绕 GPU 繁荣形成的循环融资模式。"
+      "summary": "剖析英伟达、CoreWeave和Nebius之间在GPU繁荣中的循环融资机制。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "excerpt": "117 points · 64 comments",
+      "publishedAt": "2026-07-11T22:28:48.000Z",
+      "category": "tech",
+      "score": 117,
+      "source": "Hacker News",
+      "summary": "作者呼吁停止盲目建议他人向LLM提问，强调人的判断力与经验的重要性。"
     },
     {
       "sourceId": "hackernews",
       "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
       "url": "https://shipthatcode.com",
-      "excerpt": "102 points · 33 comments",
+      "excerpt": "110 points · 34 comments",
       "publishedAt": "2026-07-11T13:40:27.000Z",
       "category": "tech",
-      "score": 102,
+      "score": 110,
       "source": "Hacker News",
-      "summary": "Show HN：通过从零重建 Redis、Git 和数据库来学习系统编程的教程平台。"
+      "summary": "一个通过从零实现Redis、Git和数据库来学习编程的项目。"
     },
     {
       "sourceId": "hackernews",
       "title": "Book: RISC-V System-on-Chip Design",
       "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
-      "excerpt": "94 points · 42 comments",
+      "excerpt": "102 points · 46 comments",
       "publishedAt": "2026-07-09T05:28:42.000Z",
       "category": "tech",
-      "score": 94,
+      "score": 102,
       "source": "Hacker News",
-      "summary": "介绍一本关于 RISC-V 微处理器系统芯片设计的书籍。"
+      "summary": "书籍《RISC-V System-on-Chip Design》介绍基于RISC-V的SoC设计方法。"
     },
     {
       "sourceId": "hackernews",
       "title": "Google Search lets creators know more about their reach",
       "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "excerpt": "90 points · 43 comments",
+      "excerpt": "95 points · 44 comments",
       "publishedAt": "2026-07-07T23:51:49.000Z",
       "category": "tech",
-      "score": 90,
+      "score": 95,
       "source": "Hacker News",
-      "summary": "Google Search 让创作者更了解其内容在平台上的覆盖范围。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
-      "url": "https://alexandrepoupeau.com/otary/learn/",
-      "excerpt": "90 points · 1 comments",
-      "publishedAt": "2026-07-08T11:30:12.000Z",
-      "category": "tech",
-      "score": 90,
-      "source": "Hacker News",
-      "summary": "Otary 图像与几何 Python 库现已推出教程文档。"
+      "summary": "Google Search Console新增功能，让创作者了解其内容在搜索中的覆盖情况。"
     },
     {
       "sourceId": "hackernews",
@@ -572,26 +572,36 @@
       "excerpt": "https:&#x2F;&#x2F;archive.ph&#x2F;xiCSq",
       "publishedAt": "2026-07-11T18:22:02.000Z",
       "category": "tech",
-      "score": 85,
+      "score": 91,
       "source": "Hacker News",
-      "summary": "探讨如何躲避致命无人机的方法与策略。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "excerpt": "82 points · 44 comments",
-      "publishedAt": "2026-07-11T15:26:12.000Z",
-      "category": "tech",
-      "score": 82,
-      "source": "Hacker News"
+      "summary": "文章探讨如何躲避致命无人机，可能涉及隐身和对抗方法。"
     },
     {
       "sourceId": "hackernews",
       "title": "Reverse centaurs are the answer to the AI paradox (2025)",
       "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-      "excerpt": "82 points · 38 comments",
+      "excerpt": "86 points · 47 comments",
       "publishedAt": "2026-07-11T17:23:52.000Z",
+      "category": "tech",
+      "score": 86,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "excerpt": "85 points · 48 comments",
+      "publishedAt": "2026-07-11T15:26:12.000Z",
+      "category": "tech",
+      "score": 85,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "excerpt": "82 points · 26 comments",
+      "publishedAt": "2026-07-11T16:33:42.000Z",
       "category": "tech",
       "score": 82,
       "source": "Hacker News"
@@ -600,70 +610,40 @@
       "sourceId": "hackernews",
       "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
       "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-      "excerpt": "68 points · 2 comments",
+      "excerpt": "75 points · 2 comments",
       "publishedAt": "2026-07-07T16:48:48.000Z",
       "category": "tech",
-      "score": 68,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "excerpt": "67 points · 25 comments",
-      "publishedAt": "2026-07-11T16:33:42.000Z",
-      "category": "tech",
-      "score": 67,
+      "score": 75,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
       "url": "https://amber-lang.com/",
-      "excerpt": "62 points · 42 comments",
+      "excerpt": "68 points · 49 comments",
       "publishedAt": "2026-07-07T19:22:56.000Z",
       "category": "tech",
-      "score": 62,
+      "score": 68,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Weightlifting beats running for blood sugar control, researchers find",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "excerpt": "66 points · 30 comments",
+      "publishedAt": "2026-07-11T22:49:42.000Z",
+      "category": "tech",
+      "score": 66,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The Chinese Voice Actor Forced to Prove He's Human",
       "url": "https://www.sixthtone.com/news/1018753",
-      "excerpt": "48 points · 7 comments",
+      "excerpt": "56 points · 7 comments",
       "publishedAt": "2026-07-11T19:46:00.000Z",
       "category": "tech",
-      "score": 48,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts",
-      "url": "https://www.atariarchives.org/deli/",
-      "excerpt": "48 points · 4 comments",
-      "publishedAt": "2026-07-08T10:35:37.000Z",
-      "category": "tech",
-      "score": 48,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Lost and Found",
-      "url": "https://walzr.com/lost-and-found",
-      "excerpt": "47 points · 13 comments",
-      "publishedAt": "2026-07-06T01:06:21.000Z",
-      "category": "tech",
-      "score": 47,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-      "excerpt": "47 points · 28 comments",
-      "publishedAt": "2026-07-10T22:04:45.000Z",
-      "category": "tech",
-      "score": 47,
+      "score": 56,
       "source": "Hacker News"
     },
     {
@@ -673,97 +653,117 @@
       "excerpt": "Hey HN! I made Orbit, an iOS app that allows you to see the satellites, planets, and constellations above you in AR, on a 2D map, and on a 3D globe. The app includes more than 15,000 objects tracked by CelesTrack, together with their pass predictions, descriptions, and detailed orbital data. A searc",
       "publishedAt": "2026-07-11T16:39:02.000Z",
       "category": "tech",
-      "score": 46,
+      "score": 52,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts",
+      "url": "https://www.atariarchives.org/deli/",
+      "excerpt": "52 points · 6 comments",
+      "publishedAt": "2026-07-08T10:35:37.000Z",
+      "category": "tech",
+      "score": 52,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Lost and Found",
+      "url": "https://walzr.com/lost-and-found",
+      "excerpt": "49 points · 14 comments",
+      "publishedAt": "2026-07-06T01:06:21.000Z",
+      "category": "tech",
+      "score": 49,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "ZeroFS vs. Amazon S3 Files",
       "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-      "excerpt": "33 points · 11 comments",
+      "excerpt": "43 points · 11 comments",
       "publishedAt": "2026-07-11T18:15:35.000Z",
       "category": "tech",
-      "score": 33,
+      "score": 43,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
       "url": "https://github.com/swellweb/reame",
-      "excerpt": "28 points · 9 comments",
+      "excerpt": "34 points · 10 comments",
       "publishedAt": "2026-07-11T16:27:44.000Z",
       "category": "tech",
-      "score": 28,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Stop Telling Me to Ask an LLM",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-      "excerpt": "27 points · 13 comments",
-      "publishedAt": "2026-07-11T22:28:48.000Z",
-      "category": "tech",
-      "score": 27,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
-      "url": "https://github.com/skorotkiewicz/earth-game",
-      "excerpt": "25 points · 5 comments",
-      "publishedAt": "2026-07-11T16:37:02.000Z",
-      "category": "tech",
-      "score": 25,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Taiwan's Lost 8-Bit Computer [video]",
-      "url": "https://www.youtube.com/watch?v=IZH1rR7WogI",
-      "excerpt": "20 points · 1 comments",
-      "publishedAt": "2026-07-08T14:15:16.000Z",
-      "category": "tech",
-      "score": 20,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "excerpt": "10 points · 1 comments",
-      "publishedAt": "2026-07-11T21:58:00.000Z",
-      "category": "tech",
-      "score": 10,
+      "score": 34,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
       "url": "https://arxiv.org/abs/2607.07267",
-      "excerpt": "10 points · 0 comments",
+      "excerpt": "32 points · 2 comments",
       "publishedAt": "2026-07-09T17:44:20.000Z",
       "category": "tech",
-      "score": 10,
+      "score": 32,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Mesh LLM: distributed AI computing on iroh",
       "url": "https://www.iroh.computer/blog/mesh-llm",
-      "excerpt": "9 points · 2 comments",
+      "excerpt": "29 points · 10 comments",
       "publishedAt": "2026-07-11T22:38:57.000Z",
       "category": "tech",
-      "score": 9,
+      "score": 29,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Weightlifting beats running for blood sugar control, researchers find",
-      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-      "excerpt": "5 points · 1 comments",
-      "publishedAt": "2026-07-11T22:49:42.000Z",
+      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
+      "url": "https://github.com/skorotkiewicz/earth-game",
+      "excerpt": "29 points · 6 comments",
+      "publishedAt": "2026-07-11T16:37:02.000Z",
       "category": "tech",
-      "score": 5,
+      "score": 29,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "excerpt": "26 points · 4 comments",
+      "publishedAt": "2026-07-11T21:58:00.000Z",
+      "category": "tech",
+      "score": 26,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "excerpt": "19 points · 3 comments",
+      "publishedAt": "2026-07-11T23:15:06.000Z",
+      "category": "tech",
+      "score": 19,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Optimization Solver as a Service",
+      "url": "https://www.quicopt.com/developer/getting-started/",
+      "excerpt": "6 points · 5 comments",
+      "publishedAt": "2026-07-08T11:44:25.000Z",
+      "category": "tech",
+      "score": 6,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "url": "https://github.com/sqlsure/sqlsure",
+      "excerpt": "4 points · 0 comments",
+      "publishedAt": "2026-07-11T20:03:42.000Z",
+      "category": "tech",
+      "score": 4,
       "source": "Hacker News"
     },
     {
@@ -778,15 +778,6 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "An update on the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-10T23:02:53.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
       "title": "Where did my segfault go?",
       "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
       "excerpt": "Comments",
@@ -796,10 +787,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "I converted an Android app to a webpage",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "title": "An update on the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-11T05:24:30.000Z",
+      "publishedAt": "2026-07-10T23:02:53.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -809,6 +800,15 @@
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
       "excerpt": "Comments",
       "publishedAt": "2026-07-11T18:02:54.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "I converted an Android app to a webpage",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-11T05:24:30.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -832,10 +832,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Hannah Montana Linux v26.0",
-      "url": "https://gitlab.com/DecaCagle/hannahmontanalinux26",
+      "title": "Gamedev in Zig is actually pretty good (2025)",
+      "url": "https://www.youtube.com/watch?v=-xIFpg7sBVs",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-10T16:28:11.000Z",
+      "publishedAt": "2026-07-11T20:41:48.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -850,19 +850,19 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
+      "title": "Hannah Montana Linux v26.0",
+      "url": "https://gitlab.com/DecaCagle/hannahmontanalinux26",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-10T19:05:12.000Z",
+      "publishedAt": "2026-07-10T16:28:11.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
     {
       "sourceId": "lobsters",
-      "title": "Working With AI: A Concrete Example",
-      "url": "https://htmx.org/essays/working-with-ai/",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-11T09:58:57.000Z",
+      "publishedAt": "2026-07-10T19:05:12.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -877,10 +877,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Gamedev in Zig is actually pretty good (2025)",
-      "url": "https://www.youtube.com/watch?v=-xIFpg7sBVs",
+      "title": "Working With AI: A Concrete Example",
+      "url": "https://htmx.org/essays/working-with-ai/",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-11T20:41:48.000Z",
+      "publishedAt": "2026-07-11T09:58:57.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -890,6 +890,24 @@
       "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
       "excerpt": "Comments",
       "publishedAt": "2026-07-11T09:40:40.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Today I Rescued 7,234 Old GIFs",
+      "url": "https://danq.me/2026/07/10/rescuing-7234-gifs/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-11T23:54:53.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-11T23:22:20.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -980,24 +998,6 @@
       "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
       "excerpt": "Comments",
       "publishedAt": "2026-07-10T15:42:38.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "Two Ways To Design",
-      "url": "https://wiki.c2.com/?TwoWaysToDesign",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-10T12:01:41.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)",
-      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-09T12:53:46.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -1099,7 +1099,7 @@
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "德国电信（Deutsche Telekom）与OpenAI合作，利用AI改造客户服务、员工工作流、网络运营及语音交互，目标是成为AI原生电信公司。"
+      "summary": "德国电信正与OpenAI合作转型为AI原生电信公司，利用AI改造客户服务、员工工作流程、网络运营及语音未来。"
     },
     {
       "sourceId": "openai-news",
@@ -1640,7 +1640,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "PyTorch性能分析系列第三篇，重点介绍注意力机制（Attention）的性能剖析技术与方法。"
+      "summary": "Hugging Face博客发布PyTorch性能分析系列第三部分，专注注意力机制的性能分析。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1911,7 +1911,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "当日AI新闻汇总：OpenAI发布GPT-5.6；Muse Spark推出1.1版；ChatGPT新增Work功能。"
+      "summary": "TLDR AI报道：GPT-5.6发布、Muse Spark 1.1更新以及ChatGPT新增Work功能。"
     },
     {
       "sourceId": "tldr-ai",
@@ -2092,7 +2092,7 @@
       "publishedAt": "2026-07-11T02:53:08.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI领域经历一周密集模型发布后，当天相对平静，无重大事件发生。"
+      "summary": "今日AI领域相对平静，继此前一周密集的模型发布后暂无重大事件。"
     },
     {
       "sourceId": "latent-space",
@@ -2102,7 +2102,7 @@
       "publishedAt": "2026-07-10T06:19:40.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "OpenAI发布GPT-5.6（代号Sol/Terra/Luna），并将Codex整合为ChatGPT超级应用，成为重要里程碑。"
+      "summary": "OpenAI发布GPT-5.6（代号Sol/Terra/Luna），同时将Codex整合为ChatGPT超级应用。"
     },
     {
       "sourceId": "latent-space",
@@ -2365,7 +2365,7 @@
       "category": "tech",
       "meta": "@TheAIColony · 225.1K 粉丝 · 1.2M 阅 · 603 赞 · 140 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "提醒 Claude Fable 5 免费额度将于 7 月 12 日截止，之后转为按量付费。提供将模型思考模式迁移到低成本模型的教程，帮助用户在最后期限前复制。"
+      "summary": "Claude Fable 5 将于 7 月 12 日后转为按用量付费，提醒趁免费期将其「思维」复制到更便宜的模型中，并给出了具体操作方法。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2376,7 +2376,7 @@
       "category": "tech",
       "meta": "@JayaGup10 · 34.4K 粉丝 · 306.1K 阅 · 504 赞 · 67 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Alex Karp 警告企业使用 AI 可能向 Anthropic 和 OpenAI 泄露知识产权，指出 AI 虽创造巨大价值但存在价值获取难题。"
+      "summary": "AI 虽有巨大价值创造能力，但价值捕获存问题。Alex Karp 警告企业使用 AI 可能向 Anthropic 和 OpenAI 泄露知识产权，引发对 AI 商业化的深层反思。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2387,7 +2387,7 @@
       "category": "tech",
       "meta": "@RLanceMartin · 36.7K 粉丝 · 119.8K 阅 · 510 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享关于经济高效使用 Fable 5 的测试，探讨 Agent harness 如何智能判断何时调用前沿模型以降低成本。"
+      "summary": "分享了 Fable 5 成本高效使用的测试结果，agent 框架能智能判断何时调用前沿模型以节省费用，为控制 AI 成本提供了实用洞察。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2398,7 +2398,7 @@
       "category": "tech",
       "meta": "@Oracle_Globall · 4.1K 粉丝 · 109.7K 阅 · 1.9K 赞 · 527 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "2026 年自主 AI 代理成为预测市场最有效策略之一，Polymarket 上超 30% 活动来自算法和 AI 驱动的钱包。"
+      "summary": "ORACLE 推出官方 AI 智能体在 Polymarket 交易。2026 年自主 AI 智能体已成为预测市场核心策略，贡献超 30% 的链上活动。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2409,7 +2409,7 @@
       "category": "tech",
       "meta": "@Oracle__Promo · 4.1K 粉丝 · 106.5K 阅 · 1.8K 赞 · 543 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "2026 年自主 AI 代理成为预测市场最有效策略之一，Polymarket 上超 30% 活动来自算法和 AI 驱动的钱包。"
+      "summary": "ORACLE 推出官方 AI 智能体在 Polymarket 交易。2026 年自主 AI 智能体已成为预测市场核心策略，贡献超 30% 的链上活动。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2420,7 +2420,7 @@
       "category": "tech",
       "meta": "@Oracle__Trade · 4.0K 粉丝 · 105.3K 阅 · 1.9K 赞 · 557 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "2026 年自主 AI 代理成为预测市场最有效策略之一，Polymarket 上超 30% 活动来自算法和 AI 驱动的钱包。"
+      "summary": "ORACLE 推出官方 AI 智能体在 Polymarket 交易。2026 年自主 AI 智能体已成为预测市场核心策略，贡献超 30% 的链上活动。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2431,7 +2431,7 @@
       "category": "tech",
       "meta": "@tldraw · 73.7K 粉丝 · 68.3K 阅 · 570 赞 · 29 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "近期 OpenAI Codex 模型出现对防御性编码的痴迷，许多程序员注意到这一行为，tldraw 认为这可能是他们造成的。"
+      "summary": "tldraw 承认 OpenAI Codex 模型对「defensive coding」的执念源于他们。程序员发现 Codex 频繁生成 isRecord 等防御代码，团队反思了自己的影响。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2442,7 +2442,7 @@
       "category": "tech",
       "meta": "@SebastienBubeck · 78.1K 粉丝 · 47.8K 阅 · 514 赞 · 42 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享一个用于追踪 AI 模型从 o3 到 GPT-5.6 进展的单一问题：给定凸函数和单位球约束，梯度流路径最长能有多长？已沿用两年。"
+      "summary": "Sebastien Bubeck 分享了一个用于追踪 AI 模型（从 o3 到 GPT-5.6）进展的核心问题：凸函数梯度流在单位欧几里得球内的最大路径长度，该问题他已使用两年。"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -3553,13 +3553,13 @@
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Modi Courts Indo-Pacific Partners as China, US Reshape Region",
+      "title": "Modi Courts Pacific Partners as China, US Reshape Region",
       "url": "https://www.bloomberg.com/news/articles/2026-07-11/modi-courts-indo-pacific-partners-as-china-us-reshape-region",
       "excerpt": "From missiles and uranium to critical minerals and sports diplomacy, Prime Minister Narendra Modi used a three-nation tour to deepen India’s Indo-Pacific partnerships as regional powers strengthen ties amid China’s growing influence and uncertainty over US engagement.",
       "publishedAt": "2026-07-11T21:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "印度总理莫迪进行三国访问，从导弹、铀、关键矿产到体育外交，深化印度在印太地区的伙伴关系。在中美重塑地区格局背景下，区域大国加强联系以应对中国影响力增长和美国参与的不确定性。"
+      "summary": "印度总理莫迪通过三国之行深化印太伙伴关系，涵盖导弹、铀、关键矿产和体育外交。在中美重塑地区格局背景下，印度加强区域合作以应对中国影响力上升和美国参与不确定性。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3569,7 +3569,7 @@
       "publishedAt": "2026-07-11T20:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美联储主席凯文·沃什将首次在国会作证，为期两天的证词期间他将与议员们分析最新的美国通胀数据，这将为7月美联储决策定下基调。"
+      "summary": "美联储主席凯文·沃什将在国会作证，届时将与议员共同解读新发布的美国通胀数据，为7月利率决议定调。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3579,7 +3579,7 @@
       "publishedAt": "2026-07-11T19:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "一级交易商首次净做空美国国债，此前他们持有数十亿美元多头头寸。这一创纪录行为引发市场对原因和影响的探寻。"
+      "summary": "一级交易商首次净做空其过去持有数十亿美元的国债，这一创纪录的做空行为引发市场探究原因。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3589,7 +3589,7 @@
       "publishedAt": "2026-07-11T16:58:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Axios防务记者科林·德马雷斯特表示，特朗普总统允许乌克兰生产爱国者拦截器的提议面临制造、许可和技术障碍，难以解决基辅的迫切防空需求。"
+      "summary": "Axios防务记者表示，特朗普允许乌克兰生产「爱国者」拦截器的提议面临制造、许可和技术障碍，短期内难以满足乌方防空需求，先进弹药短缺问题持续。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3599,7 +3599,7 @@
       "publishedAt": "2026-07-11T16:48:18.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "彭博社记者汉娜·埃利奥特指出，耳鸣影响超过5000万美国人，但诊断不足、资金匮乏，对心理健康和生活质量影响深远。听力健康意识提升和新疗法正在兴起。"
+      "summary": "彭博记者指出，耳鸣影响超过5000万美国人，但诊断不足、资金不足，对心理健康影响巨大；需提高认知并推广新疗法以改善生活质量。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3609,7 +3609,7 @@
       "publishedAt": "2026-07-11T15:45:10.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "众议员迈克尔·麦考尔表示乌克兰战场势头向好，但急需更多爱国者拦截器和更强防空系统以应对俄军导弹攻击。他呼吁深化美乌防务合作，包括爱国者许可生产等。"
+      "summary": "众议员迈克尔·麦考尔称乌克兰战场势头上升，但急需更多「爱国者」拦截器和防空系统以应对俄导弹；呼吁加强美乌防务合作，包括授权生产「爱国者」。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3619,7 +3619,7 @@
       "publishedAt": "2026-07-11T15:21:16.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国海军作战部长达里尔·考德尔上将表示，海军需要更大舰队、更快造船速度和扩大弹药生产，以满足全球需求并维持多战区战备。他称尽管行动频繁，海军仍保持准备状态。"
+      "summary": "美海军作战部长表示，海军需要更大舰队、更快造船速度和扩大弹药生产，以应对全球需求并维持多战区战备状态。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3629,7 +3629,7 @@
       "publishedAt": "2026-07-11T15:09:55.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "彭博经济分析师贝卡·瓦瑟和迪娜·埃斯凡迪亚里表示，美伊在关键问题上分歧巨大，间歇性打击和谈判将主导未来冲突。关于伊朗核计划的技术性会谈是积极步骤。"
+      "summary": "彭博分析师指出，美伊谈判在关键议题上分歧巨大，间歇性打击和谈判将主导未来冲突；伊朗核问题技术对话有建设性但难破僵局。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3639,7 +3639,7 @@
       "publishedAt": "2026-07-11T14:03:55.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "SpaceX破纪录IPO后，埃隆·马斯克成为全球首位万亿富翁。诺贝尔奖得主保罗·克鲁格曼和耶鲁经济学家娜塔莎·萨林认为这一里程碑意义远超个人财富，引发对税收体系能否跟上巨富的讨论。"
+      "summary": "马斯克因SpaceX首次公开募股成为全球首位万亿富翁。诺贝尔奖得主克鲁格曼和耶鲁经济学家萨林认为，这一里程碑引发对税收体系能否应对超级富豪的质疑。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3649,7 +3649,7 @@
       "publishedAt": "2026-07-11T13:57:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "外交关系委员会高级研究员克拉拉·吉莱斯皮表示，霍尔木兹海峡恢复通航面临清理船只、调运油轮、重启生产及修复炼油厂和港口等昂贵障碍，海湾能源流动复苏不确定。"
+      "summary": "外交关系委员会高级研究员表示，霍尔木兹海峡重启面临清除船只、恢复生产、修复炼油厂和液化天然气设施等高昂成本，海湾能源流动复苏不确定性大。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3659,7 +3659,7 @@
       "publishedAt": "2026-07-11T13:57:06.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "彭博社中东记者丹·威廉姆斯表示，美伊谈判仍聚焦确保霍尔木兹海峡航行自由，尽管特朗普总统言论升级凸显停火脆弱。海峡争端给美伊外交蒙上阴影。"
+      "summary": "彭博中东记者称，美伊谈判核心仍是确保霍尔木兹海峡航行自由，但特朗普言论升级凸显停火脆弱，僵局持续。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -4020,7 +4020,7 @@
       "publishedAt": "2026-07-11T15:41:24.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "据英国《金融时报》分析，多数通过AI品牌重塑的企业未能维持估值增长，股价提振效果短暂。"
+      "summary": "《金融时报》分析显示，多数转向AI概念的公司未能保持估值涨幅，股价提振不可持续。"
     },
     {
       "sourceId": "ft-companies",

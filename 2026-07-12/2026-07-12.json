@@ -1,137 +1,149 @@
 {
-  "hero_headline": "中国首个十万卡集群落成",
-  "daily_overview": "技术领域，中国首个十万卡集群落成，采用全国产算力并跑通超300项应用；OpenAI GPT-5.6成为Microsoft 365 Copilot首选模型，Anthropic首次揭示大模型内部概念推演空间；DeepMind与A24达成创意研究合作，德国电信联合OpenAI转型AI原生。财经方面，SK Hynix美股上市暴涨17%融资265亿美元创纪录；美联储主席Warsh将首次国会听证，通胀数据定调7月决策；FT分析指出AI品牌重命名难持续提振股价。时政方面，印度总理莫迪出访印太伙伴深化合作，特朗普施压美企降价，爱国者导弹供应链紧张影响乌克兰援助。",
+  "hero_headline": "中国首个十万卡国产算力集群落成",
+  "daily_overview": "科技领域，中国首个十万卡国产算力集群正式落成，全国产算力支撑「十万卡时代」；GPT-5.6成为微软365 Copilot首选模型，Anthropic首次揭示Claude内部推理空间。财经方面，SK Hynix美国上市募资266亿美元创纪录，AI概念股更名未能持续提振股价，美联储主席Warsh首次国会听证引发关注。时政方面，莫迪访问印太深化伙伴关系，美国援乌爱国者系统面临供应瓶颈，特朗普再施压企业降价应对通胀。",
   "tech_briefs": [
     {
-      "title": "中国首个十万卡集群落成，全国产算力支撑",
+      "title": "中国首个十万卡国产算力集群落成",
       "url": "https://www.qbitai.com/2026/07/447902.html",
       "source": "量子位",
-      "summary": "国内首个十万卡集群落地，采用国产算力，已支持超300项应用，覆盖全精度计算。（多家报道）",
+      "summary": "中国首个十万卡国产算力集群正式落成，已跑通300余项应用，覆盖FP64到INT8全精度算力，全国产化支撑「十万卡时代」。（多家报道）",
+      "importance": 10
+    },
+    {
+      "title": "GPT-5.6成为微软365 Copilot首选模型",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "source": "OpenAI News",
+      "summary": "OpenAI宣布GPT-5.6正式成为Microsoft 365 Copilot首选模型，在Word、Excel、PowerPoint等应用中提升AI协作能力。",
       "importance": 9
     },
     {
-      "title": "GPT-5.6成为Microsoft 365 Copilot首选模型",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI News",
-      "summary": "OpenAI发布GPT-5.6，现为M365 Copilot默认模型，提升Word、Excel等应用的生产力能力。（多家报道）",
-      "importance": 8
-    },
-    {
-      "title": "DeepMind与A24达成创新研究合作",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "source": "DeepMind Blog",
-      "summary": "Google DeepMind与知名电影公司A24宣布独家研究合作，探索AI在创意内容与叙事中的新应用。",
-      "importance": 7
-    },
-    {
-      "title": "Anthropic揭示大模型内部概念推演空间",
+      "title": "Anthropic发现Claude内部概念推理空间",
       "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "source": "MIT Tech Review AI",
-      "summary": "Anthropic开发新技术，首次清晰揭示大语言模型在回答问题时内部的「概念推演」过程，提升AI可解释性。",
-      "importance": 8
+      "summary": "Anthropic开发新技术，首次清晰揭示大语言模型内部如何组织概念并推理，为理解AI黑箱提供突破性视角。",
+      "importance": 9
     },
     {
-      "title": "德国电信与OpenAI合作打造AI原生电信",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "source": "OpenAI News",
-      "summary": "德国电信将利用OpenAI技术转型为AI原生运营商，覆盖客服、员工工作流、网络运营及未来语音服务。",
+      "title": "GitHub Copilot代码审查效率改进",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub通过迁移到共享Unix式代码探索工具，重塑代理工作流，使Copilot代码审查成本降低，效率提升。",
       "importance": 7
+    },
+    {
+      "title": "Cloudflare智能分层缓存支持公有云",
+      "url": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare改进智能分层缓存，支持AWS、GCP、Azure等公有云区域提示，优化源站内容分发效率。",
+      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "SK Hynix美股上市融资265亿美元，首日暴涨17%",
+      "title": "SK海力士美国上市募资266亿美元创纪录",
       "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "芯片巨头SK Hynix在纳斯达克上市，募资265亿美元创纪录，股价首日上涨17%。",
+      "summary": "SK海力士在纳斯达克上市首日股价飙升17%，募资266亿美元，创外国公司美国上市纪录。",
       "importance": 9
     },
     {
-      "title": "美联储主席Warsh国会首秀，通胀数据定调7月决策",
-      "url": "https://www.bloomberg.com/news/articles/2026/07/11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
-      "source": "Bloomberg Markets",
-      "summary": "新任美联储主席Kevin Warsh首次出席国会听证，将结合最新通胀数据讨论7月利率决策。",
+      "title": "AI更名未能持续提振股价",
+      "url": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
+      "source": "Financial Times",
+      "summary": "FT分析显示，多数转向AI的公司更名后估值增长不可持续，股价回落。",
       "importance": 8
     },
     {
-      "title": "FT分析：AI品牌重命名未带来长期股价上涨",
-      "url": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
-      "source": "Financial Times",
-      "summary": "多数公司更名为AI品牌后未能维持估值增长，市场对炒作趋于理性。",
-      "importance": 7
-    },
-    {
-      "title": "easyJet接受美国Apollo意外收购要约",
-      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "廉价航空easyJet同意美国Apollo的收购报价，高于此前Castlelake的提议。",
-      "importance": 7
-    },
-    {
-      "title": "一级交易商首次净空头国债，市场担忧流动性",
-      "url": "https://www.bloomberg.com/news/articles/2026/07/11/banks-record-bond-short-sparks-quest-for-answers-credit-weekly",
+      "title": "美联储主席Warsh国会首秀聚焦通胀",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
       "source": "Bloomberg Markets",
-      "summary": "美国一级交易商首次净空头国债，引发对市场深度和流动性的质疑。",
+      "summary": "新任美联储主席Warsh首次国会听证，将结合新通胀数据与议员讨论7月利率决策。",
+      "importance": 8
+    },
+    {
+      "title": "特朗普施压美国企业降价应对通胀",
+      "url": "https://www.ft.com/content/3e3d18d8-d6c2-4846-93ad-67ea0aaa12a2",
+      "source": "Financial Times",
+      "summary": "特朗普加大对企业降价压力，批评者担忧转向「超民粹主义剧本」，通胀问题持续。",
+      "importance": 7
+    },
+    {
+      "title": "国际能源署警告欧洲电气化缓慢",
+      "url": "https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6",
+      "source": "Financial Times",
+      "summary": "IEA署长比罗尔称欧洲电气化进展缓慢是「重大错误」，本可更早实现能源独立。",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "莫迪出访印太三国，深化区域合作",
-      "url": "https://www.bloomberg.com/news/articles/2026/07/11/modi-courts-indo-pacific-partners-as-china-us-reshape-region",
+      "title": "莫迪访问印太深化伙伴关系",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/modi-courts-indo-pacific-partners-as-china-us-reshape-region",
       "source": "Bloomberg Markets",
-      "summary": "印度总理莫迪访问印太伙伴，就导弹、铀矿、关键矿产及体育外交等达成合作，应对中美重塑区域格局。",
+      "summary": "莫迪在三国访问中加强印度与印太伙伴的导弹、铀矿及体育外交合作，应对中美区域影响力重塑。",
       "importance": 8
     },
     {
-      "title": "特朗普加大施压美企降价以应对通胀",
-      "url": "https://www.ft.com/content/3e3d18d8-d6c2-4846-93ad-67ea0aaa12a2",
-      "source": "Financial Times",
-      "summary": "美国总统特朗普持续施压企业降价，批评者指其转向「超级民粹主义」，通胀压力仍存。",
+      "title": "爱国者供应短缺制约乌克兰援助",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-11/patriot-supply-strains-shape-ukraine-aid-video",
+      "source": "Bloomberg Markets",
+      "summary": "特朗普提议乌克兰生产爱国者拦截器，但面临制造、许可和技术障碍，实际援助受限。",
       "importance": 8
     },
     {
-      "title": "爱国者导弹供应链紧张，乌克兰援助面临挑战",
-      "url": "https://www.bloomberg.com/news/videos/2026/07/11/patriot-supply-strains-shape-ukraine-aid-video",
-      "source": "Bloomberg Markets",
-      "summary": "特朗普提议允许乌克兰生产爱国者导弹，但面临制造、许可和技术障碍，可行性存疑。",
+      "title": "中国科技投入面临资金压力",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams",
+      "source": "The Economist Finance",
+      "summary": "《经济学人》分析认为，尽管资本市场回暖，中国可能难以持续为领导层的科技雄心提供足够资金。",
       "importance": 7
     }
   ],
-  "editor_note": "国产算力里程碑与AI应用深化，经济政策与地缘政治同步升温，科技与金融交织推动市场多元信号。",
+  "editor_note": "今日信息密度高：国产算力突破与AI内部可解释性进展双线并进；资本市场创新高与政策博弈并存；地缘政治中供应链瓶颈成关键变量。",
   "keywords": [
-    "中国算力集群",
+    "十万卡集群",
     "GPT-5.6",
-    "SK Hynix上市",
-    "美联储通胀",
-    "AI可解释性",
-    "莫迪印太外交",
-    "爱国者导弹",
-    "AI品牌泡沫"
+    "SK海力士上市",
+    "Anthropic",
+    "美联储",
+    "印太战略",
+    "乌克兰援助",
+    "AI更名"
   ],
   "trading": {
-    "market_overview": "美股主要指数ETF（SPY、QQQ）呈多头排列，SPY价格高于SMA20与SMA50且接近52周高，MACD金叉，RSI 59.1偏强；科技股分化，META单日涨5.97%动能强劲，但MSFT空头排列MACD负值。VIX恐慌指数持续下行至15.03，空头排列且RSI 41.7偏低，反映市场恐慌情绪回落。加密市场整体承压，加密恐慌贪婪指数仅26（恐慌），总市值2.29T，BTC-USD低于SMA200仍为空头排列，ETH-USD略高于短中期均线但长期均线压制。中概股近期反弹显著（BABA五日+16.84%，JD+5.94%），但技术结构多仍为空头排列，仅MACD出现金叉信号，趋势未反转。商品外汇方面，黄金期货死叉与空头排列，价格低于SMA20/50/200，RSI 42.6偏弱；WTI原油RSI 37.7接近超卖，MACD金叉但价格受均线压制；美元/人民币空头排列且接近52周低。宏观面10Y美债收益率多头排列RSI 60.3，美元指数DXY多头排列但MACD死叉，动能减弱。",
+    "market_overview": "加密市场整体情绪偏恐慌（恐慌贪婪指数26），总市值2.27万亿美元，BTC主导率56.3%，ETH占比9.5%。美股方面，多数标的如SPY、QQQ、AAPL维持多头排列，RSI在52.8-62.9之间，但MSFT深度回调，呈现空头排列且RSI仅47.5。中概股短期反弹明显，BABA、JD出现MACD金叉，但长期均线仍压制，趋势偏空。加密资产BTC、ETH、SOL均处于均线压制或中性状态，RSI围绕50波动，动量不强。商品类黄金期货空头排列并触发死叉，RSI 42.6；原油期货MACD金叉但价格低于SMA50，RSI 37.7接近超卖。宏观指标上，10Y美债收益率多头排列，RSI 60.3，美元指数偏强且站上所有均线，VIX下行至15.03反映风险偏好回升。",
     "watchlist": [
       {
-        "symbol": "SPY",
-        "display_name": "S&P 500 ETF",
+        "symbol": "META",
+        "display_name": "Meta",
         "stance": "偏上行",
-        "rationale": "当前价格754.95高于SMA20(743.81)和SMA50(741.24)，呈多头排列；MACD金叉，柱线为正(3.193>2.248)；RSI 59.1处于正常偏强；仅距52周高0.72%，接近历史高位，技术结构偏强。"
+        "rationale": "META 近5日涨幅14.81%，当前价格669.21，远高于SMA20（584.61）、SMA50（600.45）及SMA200（642.72），呈多头排列。RSI 66.3处于中性偏强区间，MACD柱8.49为正且上穿信号线-2.69，形成金叉，短期动能强劲。"
       },
       {
-        "symbol": "^VIX",
-        "display_name": "VIX 恐慌指数",
+        "symbol": "MSFT",
+        "display_name": "Microsoft",
         "stance": "偏下行",
-        "rationale": "价格15.03低于所有主要均线（SMA20 17.18, SMA50 17.36, SMA200 18.67），呈空头排列；MACD柱线为负(-0.5751)，信号线下行；RSI 41.7接近超卖区域，反映市场波动预期持续回落。"
+        "rationale": "MSFT 当前价格385.1，低于SMA20（380.51）、SMA50（403.62）和SMA200（442.28），均线空头排列。RSI 47.5低于50，MACD-5.55低于信号线-8.03，负柱持续，近5日下跌1.38%，技术面偏弱。"
       },
       {
-        "symbol": "ETH-USD",
-        "display_name": "Ethereum",
+        "symbol": "GC=F",
+        "display_name": "黄金期货",
+        "stance": "偏下行",
+        "rationale": "黄金期货报4113.7，低于所有主要均线（SMA20 4139.53、SMA50 4373.25、SMA200 4467.17），形成空头排列。RSI 42.6处于弱势区，MACD-78.8低于信号线-96.4，绿柱延续，且SMA50下穿SMA200构成死叉，下行趋势明确。"
+      },
+      {
+        "symbol": "BABA",
+        "display_name": "阿里巴巴 (BABA)",
         "stance": "中性",
-        "rationale": "价格1814.05高于SMA20(1688.19)和SMA50(1767.83)，但低于SMA200(2227.38)，长期趋势仍承压；MACD柱线转正(11.17)但信号线仍为负(-12.31)，多空交织；RSI 59.4处于中性区域，无明确方向信号。"
+        "rationale": "BABA 当前112.33，近5日涨16.84%，MACD-3.98上穿信号线-6.41形成金叉，但价格仍低于SMA50（120.13）和SMA200（145.64），仅站上SMA20（103.75），RSI 55.5中性。多空信号交织，方向待确认。"
+      },
+      {
+        "symbol": "^TNX",
+        "display_name": "10Y 美债收益率 (%)",
+        "stance": "偏上行",
+        "rationale": "10Y美债收益率4.57，高于SMA20（4.47）、SMA50（4.48）、SMA200（4.24），多头排列。RSI 60.3偏强，MACD 0.018大于信号线0.003形成金叉，且接近52周高点（仅差2.52%），上行动能持续。"
       }
     ],
-    "risk_caveat": "本报告仅基于历史数据和公开技术指标对当前技术状态进行客观描述，过去走势不代表未来表现，不构成任何投资建议，仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现，本报告仅为基于公开技术指标的中性解读，不构成任何投资建议。所有买卖决策需结合自身风险承受能力独立判断。仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -363,18 +375,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64188.22,
-        "pct1Day": 0.0952473077774956,
-        "pct5Day": 0.30190534858549956,
-        "pct52WeekHigh": -49.13692420177266,
-        "pct52WeekLow": 11.152732730821132,
-        "sma20": 61862.548828125,
-        "sma50": 65142.223125,
-        "sma200": 73986.67283203125,
-        "rsi14": 54.03284217667588,
-        "macd": -283.48814016344113,
-        "macdSignal": -897.0049818381285,
-        "macdHistogram": 613.5168416746874,
+        "currentPrice": 63745.77,
+        "pct1Day": -0.5947101668389775,
+        "pct5Day": -0.3894766218365201,
+        "pct52WeekHigh": -49.48752385832842,
+        "pct52WeekLow": 10.386555905902911,
+        "sma20": 61840.4263671875,
+        "sma50": 65133.374140625,
+        "sma200": 73984.4605859375,
+        "rsi14": 52.13092310176591,
+        "macd": -318.7832345370043,
+        "macdSignal": -904.0640007132827,
+        "macdHistogram": 585.2807661762783,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -390,18 +402,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1814.05,
-        "pct1Day": 1.0222660705046547,
-        "pct5Day": 0.9165837958120063,
-        "pct52WeekHigh": -63.380141804170705,
-        "pct52WeekLow": 20.41441330092545,
-        "sma20": 1688.1861450195313,
-        "sma50": 1767.8314624023437,
-        "sma200": 2227.380787963867,
-        "rsi14": 59.393498135355415,
-        "macd": 11.172485339046261,
-        "macdSignal": -12.308366132733255,
-        "macdHistogram": 23.480851471779516,
+        "currentPrice": 1782.02,
+        "pct1Day": -0.7614461657833536,
+        "pct5Day": -0.8652624482164689,
+        "pct52WeekHigh": -64.02672489615408,
+        "pct52WeekLow": 18.288301199258658,
+        "sma20": 1686.5846435546875,
+        "sma50": 1767.1908618164061,
+        "sma200": 2227.220637817383,
+        "rsi14": 55.819049796779034,
+        "macd": 8.617383286797121,
+        "macdSignal": -12.81938654328082,
+        "macdHistogram": 21.436769830077942,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -412,18 +424,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 77.84,
-        "pct1Day": -0.2902806169493622,
-        "pct5Day": -4.974873486348704,
-        "pct52WeekHigh": -69.2587059194763,
-        "pct52WeekLow": 28.842772092629083,
-        "sma20": 75.84104919433594,
-        "sma50": 74.5559324645996,
-        "sma200": 91.97583095550537,
-        "rsi14": 53.93741034219092,
-        "macd": 1.636426845014583,
-        "macdSignal": 1.4986783060868487,
-        "macdHistogram": 0.1377485389277342,
+        "currentPrice": 76.4,
+        "pct1Day": -2.1348591872421765,
+        "pct5Day": -6.7327894958509855,
+        "pct52WeekHigh": -69.82740406279532,
+        "pct52WeekLow": 26.459247017945298,
+        "sma20": 75.76904945373535,
+        "sma50": 74.52713256835938,
+        "sma200": 91.96863098144532,
+        "rsi14": 50.398025681091454,
+        "macd": 1.5215554639959663,
+        "macdSignal": 1.475704029878742,
+        "macdHistogram": 0.045851434117224255,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -747,16 +759,16 @@
       "value": 26,
       "classification": "Fear",
       "classificationCn": "恐慌",
-      "timestamp": "2026-07-11T00:00:00.000Z"
+      "timestamp": "2026-07-12T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2287876902935.7563,
-      "total24hVolumeUsd": 41764810768.85986,
-      "marketCapChangePct24h": 0.2122710082301959,
-      "btcDominance": 56.23744199260228,
-      "ethDominance": 9.561100633842706,
-      "activeCryptocurrencies": 17505
+      "totalMarketCapUsd": 2272967424692.3423,
+      "total24hVolumeUsd": 42849851588.20626,
+      "marketCapChangePct24h": -0.39324565549908397,
+      "btcDominance": 56.29040879729891,
+      "ethDominance": 9.490167649172534,
+      "activeCryptocurrencies": 17507
     },
-    "generated_at": "2026-07-11T23:06:54.042Z"
+    "generated_at": "2026-07-12T00:09:51.221Z"
   }
 }
