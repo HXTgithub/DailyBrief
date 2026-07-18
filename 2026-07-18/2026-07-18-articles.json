@@ -6,140 +6,140 @@
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "excerpt": "Master programming by recreating your favorite technologies from scratch.",
-      "meta": "Markdown · ★ 527,281 · 🍴 49,901 · 📈 1,070 stars today",
+      "meta": "Markdown · ★ 527,320 · 🍴 49,903 · 📈 1,068 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "通过从零重建Git、数据库、Docker等热门技术来精通编程的教程合集。适合想深入理解底层原理的开发者，以实践驱动学习，适合自学或教学场景。"
+      "summary": "通过从零复刻 Git、数据库、Docker 等经典技术来深入掌握编程原理。面向希望透彻理解底层实现的中高级开发者，汇集了完整的分步教程与项目源码。"
     },
     {
       "sourceId": "github-trending",
       "title": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "excerpt": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all",
-      "meta": "Python · ★ 36,174 · 🍴 3,010 · 📈 437 stars today",
+      "meta": "Python · ★ 36,178 · 🍴 3,010 · 📈 438 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向构建自主产品的开发者工具平台，整合AI可观测性、分析、会话回放、功能开关、实验、错误追踪和日志等功能。适合需要一站式产品分析、用户行为追踪的团队。"
+      "summary": "开源产品分析平台，整合会话回放、功能标记、A/B 实验、AI 可观测性等工具。适合需要自建全栈用户行为分析的团队，数据完全自主掌控。"
     },
     {
       "sourceId": "github-trending",
       "title": "HenryNdubuaku/maths-cs-ai-compendium",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "excerpt": "Become a cracked AI/ML Research Engineer",
-      "meta": "TypeScript · ★ 6,593 · 🍴 807 · 📈 248 stars today",
+      "meta": "TypeScript · ★ 6,603 · 🍴 810 · 📈 200 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "涵盖数学、计算机科学和人工智能的综合性知识资源库，旨在帮助学习者成为AI/ML研究工程师。适合希望系统补强理论基础的学生或从业者。"
+      "summary": "面向 AI/ML 研究工程师的系统学习资源合集，涵盖数学、计算机科学和人工智能核心知识。适合想要夯实理论基础、突破面试或转入 AI 方向的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "meta": "CSS · ★ 11,965 · 🍴 600 · 📈 1,486 stars today",
+      "meta": "CSS · ★ 11,991 · 🍴 601 · 📈 1,485 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "提升AI生成代码质量的设计指南，专门针对Claude Code、Cursor和Codex的输出，避免“AI slop”。适合使用这些工具并希望得到更合理、更符合设计规范的代码的开发者。"
+      "summary": "帮助 Claude Code、Cursor 和 Codex 等 AI 编码助手避免产生低质量“slop”代码的提示设计与约束工具。适合追求代码质量、依赖 AI 辅助的开发团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "excerpt": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "meta": "Java · ★ 9,785 · 🍴 1,327 · 📈 234 stars today",
+      "meta": "Java · ★ 9,790 · 🍴 1,329 · 📈 233 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub官方的多平台SDK，用于将GitHub Copilot Agent集成到自有应用或服务中。适合开发基于Copilot的插件、聊天机器人或自定义编码助手。"
+      "summary": "GitHub 官方多平台 SDK，用于将 Copilot Agent 集成到自建应用或服务中。开发者可快速为 IDE、聊天工具或 CI/CD 流程添加智能代码补全与对话能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/cwc-workshops",
       "url": "https://github.com/anthropics/cwc-workshops",
       "excerpt": "",
-      "meta": "TypeScript · ★ 1,574 · 🍴 489 · 📈 37 stars today",
+      "meta": "TypeScript · ★ 1,579 · 🍴 489 · 📈 45 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic推出的Claude Code Workshop资源，帮助开发者学习如何有效利用Claude进行AI辅助编程，提升开发效率与协作能力。"
+      "summary": "Anthropic 提供的 Claude 编程指导 Workshop 资源（描述未详细说明）。适合希望系统学习 Claude 应用开发与最佳实践的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "PrismML-Eng/Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "excerpt": "Bonsai Demo",
-      "meta": "Shell · ★ 1,702 · 🍴 166 · 📈 279 stars today",
+      "meta": "Shell · ★ 1,706 · 🍴 167 · 📈 278 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "PrismML团队开发的Bonsai演示项目，用于展示其机器学习模型或工具的功能和效果。适合评估或学习该技术的入门参考。"
+      "summary": "PrismML 的 Bonsai 平台演示项目（描述极简）。推测展示了基于机器学习的自适应优化与控制能力，适合探索自动决策系统的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "protocolbuffers/protobuf",
       "url": "https://github.com/protocolbuffers/protobuf",
       "excerpt": "Protocol Buffers - Google's data interchange format",
-      "meta": "C++ · ★ 71,537 · 🍴 16,192 · 📈 18 stars today",
+      "meta": "C++ · ★ 71,537 · 🍴 16,192 · 📈 11 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google推出的跨平台数据序列化格式，支持多种语言的高效通信与持久化存储。适用于微服务、RPC、配置文件等需要结构化数据交换的场景。"
+      "summary": "Google 开源的跨语言数据序列化格式，比 XML/JSON 更小更快。广泛用于微服务通信、配置文件存储和 gRPC 协议，支持 C++、Java、Python 等十余种语言。"
     },
     {
       "sourceId": "github-trending",
       "title": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "excerpt": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "meta": "Python · ★ 19,724 · 🍴 2,105 · 📈 57 stars today",
+      "meta": "Python · ★ 19,732 · 🍴 2,106 · 📈 74 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "本地优先的代码智能图工具，为MCP和CLI构建持久化代码库映射，使AI编码工具只读取必要上下文。在代码审查和大仓库中能显著减少上下文消耗，适合使用AI辅助编程的团队。"
+      "summary": "本地优先的代码智能图，为 MCP 和 CLI 构建持久化代码库映射。AI 编码工具仅读取必要信息，经基准测试可显著减少代码审查和大仓库的上下文窗口使用量。"
     },
     {
       "sourceId": "github-trending",
       "title": "docusealco/docuseal",
       "url": "https://github.com/docusealco/docuseal",
       "excerpt": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "meta": "Ruby · ★ 17,820 · 🍴 1,769 · 📈 131 stars today",
+      "meta": "Ruby · ★ 17,830 · 🍴 1,769 · 📈 91 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源替代DocuSign的数字文档处理工具，支持创建、填写和签署电子文档。适合个人或企业实现文档签署流程的自托管，保护数据隐私。"
+      "summary": "开源的 DocuSign 替代品，支持在线创建、填写和签署电子文档。适合中小企业或寻求自托管签署方案的个人，无需依赖付费服务。"
     },
     {
       "sourceId": "github-trending",
       "title": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "excerpt": "A coding agent for open models like Kimi K3",
-      "meta": "Rust · ★ 66,329 · 🍴 5,702 · 📈 431 stars today",
+      "meta": "Rust · ★ 66,346 · 🍴 5,706 · 📈 431 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向Kimi K3等开放模型的编码代理，允许用自然语言控制计算机执行编程任务。适合希望通过对话式AI辅助完成代码编写、脚本执行等工作的开发者。"
+      "summary": "为 Kimi K3 等开放模型设计的编码代理，可在本地运行自然语言指令执行代码、操作文件或控制浏览器。适合追求低延迟、数据隐私的 AI 编程助手用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "excerpt": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "meta": "Python · ★ 13,281 · 🍴 1,178 · 📈 280 stars today",
+      "meta": "Python · ★ 13,293 · 🍴 1,179 · 📈 280 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于TurboQuant的高性能向量索引库，使用Rust编写并提供Python绑定。适用于大规模向量检索场景，如相似性搜索、推荐系统，兼顾速度与易用性。"
+      "summary": "基于 TurboQuant 的高性能向量索引，Rust 编写并暴露 Python 绑定。适用于需要毫秒级相似性搜索的 AI 应用，如 RAG、推荐系统和语义检索。"
     },
     {
       "sourceId": "github-trending",
       "title": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "excerpt": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "meta": "Python · ★ 27,327 · 🍴 3,642 · 📈 528 stars today",
+      "meta": "Python · ★ 27,345 · 🍴 3,644 · 📈 531 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于深度学习的终身个性化辅导系统，提供自适应学习路径和智能答疑。适合需要个性化教育辅助的学生或在线教育平台，支持持续学习。"
+      "summary": "香港大学开发的终身个性化辅导系统，据称利用深度学习为学习者提供自适应教学。适合希望获得智能学习伴侣的学生或教育工具开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "excerpt": "The open-source CapCut alternative",
-      "meta": "TypeScript · ★ 74,815 · 🍴 7,543 · 📈 1,077 stars today",
+      "meta": "TypeScript · ★ 74,839 · 🍴 7,545 · 📈 1,074 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的CapCut替代视频编辑工具，提供免费、可自托管的剪辑功能。适合需要轻量级视频编辑软件的个人创作者或重视数据隐私的企业用户。"
+      "summary": "开源的 CapCut 替代品，提供视频剪辑、特效、字幕等核心功能。适合视频创作者和需要免费、可定制的桌面端编辑工具的用户。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -314,19 +314,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "如何给非大陆版 AirPod Pro 购买美版 Apple Care+",
-      "url": "https://www.v2ex.com/t/1227743",
-      "excerpt": "7 回复 · Apple 节点",
-      "publishedAt": "2026-07-16T06:56:11.000Z",
+      "title": "还有 2 天， fable5 就要计费了，各位要转向 codex 吗？",
+      "url": "https://www.v2ex.com/t/1228118",
+      "excerpt": "7 回复 · 程序员 节点",
+      "publishedAt": "2026-07-17T13:44:40.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "还有 2 天， fable5 就要计费了，各位要转向 codex 吗？",
-      "url": "https://www.v2ex.com/t/1228118",
-      "excerpt": "6 回复 · 程序员 节点",
-      "publishedAt": "2026-07-17T13:44:40.000Z",
+      "title": "如何给非大陆版 AirPod Pro 购买美版 Apple Care+",
+      "url": "https://www.v2ex.com/t/1227743",
+      "excerpt": "7 回复 · Apple 节点",
+      "publishedAt": "2026-07-16T06:56:11.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -373,53 +373,53 @@
       "excerpt": "URL already posted: https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;statusI&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5.Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?Update: Reddit link: https:&#x2F;&#x2F;w",
       "publishedAt": "2026-07-17T09:42:05.000Z",
       "category": "tech",
-      "score": 977,
+      "score": 1004,
       "source": "Hacker News",
-      "summary": "用户发现AWS预估账单金额高达17亿美元，而正常使用仅不到5美元，已提交紧急支持工单，引发对AWS计费数据准确性的关注。"
+      "summary": "用户报告 AWS 预估账单异常显示 17 亿美元（正常仅 5 美元以下），已提交紧急工单，引发广泛关注。"
     },
     {
       "sourceId": "hackernews",
       "title": "Evidence of inconsistencies in evaluation process and selection of winners",
       "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "excerpt": "426 points · 268 comments",
+      "excerpt": "435 points · 268 comments",
       "publishedAt": "2026-07-17T11:30:00.000Z",
       "category": "tech",
-      "score": 426,
+      "score": 435,
       "source": "Hacker News",
-      "summary": "Kaggle AGI测量比赛存在评估流程和获奖者选择不一致的证据，引发社区对比赛公正性的讨论。"
+      "summary": "Kaggle AGI 测量竞赛被指出评价过程存在不一致，且赢家选定有争议，社区深入讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
-      "excerpt": "350 points · 249 comments",
+      "excerpt": "353 points · 260 comments",
       "publishedAt": "2026-07-17T14:31:10.000Z",
       "category": "tech",
-      "score": 350,
+      "score": 353,
       "source": "Hacker News",
-      "summary": "一份关于开放源代码AI当前状态的调查报告，涵盖模型、数据和社区趋势，引起广泛关注。"
+      "summary": "《开源 AI 现状》报告发布，全面分析开源 AI 的发展态势、主要挑战与未来趋势。"
     },
     {
       "sourceId": "hackernews",
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "excerpt": "329 points · 218 comments",
+      "excerpt": "350 points · 220 comments",
       "publishedAt": "2026-07-17T14:06:13.000Z",
       "category": "tech",
-      "score": 329,
+      "score": 350,
       "source": "Hacker News",
-      "summary": "天文学家首次在遥远恒星的宜居带发现类地行星拥有大气层，这是系外行星研究的重要突破。"
+      "summary": "天文学家首次在宜居带类地行星发现大气层，为搜寻外星生命提供重要线索。"
     },
     {
       "sourceId": "hackernews",
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "excerpt": "241 points · 135 comments",
+      "excerpt": "255 points · 141 comments",
       "publishedAt": "2026-07-17T14:21:51.000Z",
       "category": "tech",
-      "score": 241,
+      "score": 255,
       "source": "Hacker News",
-      "summary": "文章讨论Kimi K3模型的表现以及从Pelican基准测试中获得的启示，涉及AI评估方法。"
+      "summary": "文章介绍 Kimi K3 模型，并从 Pelican 基准测试中总结可借鉴的学习经验。"
     },
     {
       "sourceId": "hackernews",
@@ -428,122 +428,112 @@
       "excerpt": "Tomorrow is the 15th anniversary of the first day of the Recurse Center (https:&#x2F;&#x2F;www.recurse.com&#x2F;)My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building &quot;OkCupid for jobs.&quot; That idea quickly fizzled, and we spent the better part ",
       "publishedAt": "2026-07-17T16:57:27.000Z",
       "category": "tech",
-      "score": 177,
+      "score": 234,
       "source": "Hacker News",
-      "summary": "Recurse Center联合创始人感谢HN 15年来的支持，分享从YC创业到找到人生使命的经历。"
+      "summary": "Recurse Center 创始人感谢 Hacker News 15 年支持，回顾从 YC 创业到找到人生使命的历程。"
     },
     {
       "sourceId": "hackernews",
       "title": "Three ways people respond to a problem (other than solving it)",
       "url": "https://improvesomething.today/responses-to-problems/",
-      "excerpt": "174 points · 105 comments",
+      "excerpt": "183 points · 108 comments",
       "publishedAt": "2026-07-17T14:00:04.000Z",
       "category": "tech",
-      "score": 174,
+      "score": 183,
       "source": "Hacker News",
-      "summary": "文章总结人们面对问题时的三种非解决性回应方式，提供行为洞察。"
+      "summary": "文章探讨人们面对问题时，除了解决之外的三种典型应对模式。"
     },
     {
       "sourceId": "hackernews",
-      "title": "A Road to Lisp: Which Lisp",
-      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-      "excerpt": "169 points · 114 comments",
-      "publishedAt": "2026-07-17T13:56:04.000Z",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "excerpt": "161 points · 117 comments",
+      "publishedAt": "2026-07-17T22:26:30.000Z",
       "category": "tech",
-      "score": 169,
+      "score": 161,
       "source": "Hacker News",
-      "summary": "一篇为Lisp新手编写的指南，比较不同Lisp方言（如Common Lisp、Scheme、Clojure）并给出选择建议。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "url": "https://honeypotlive.cc/",
-      "excerpt": "134 points · 48 comments",
-      "publishedAt": "2026-07-17T14:05:15.000Z",
-      "category": "tech",
-      "score": 134,
-      "source": "Hacker News",
-      "summary": "Show HN项目，实时展示机器人对SSH蜜罐的交互行为，可视化网络攻击过程。"
+      "summary": "Kaiser 医院护士控诉 AI 与工作场所监控导致工作负担加重、患者护理质量下降。"
     },
     {
       "sourceId": "hackernews",
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
-      "excerpt": "131 points · 35 comments",
+      "excerpt": "143 points · 40 comments",
       "publishedAt": "2026-07-17T19:41:02.000Z",
       "category": "tech",
-      "score": 131,
+      "score": 143,
       "source": "Hacker News",
-      "summary": "Zilog Z80微处理器迎来50岁生日，回顾其历史地位及对计算机发展的深远影响。"
+      "summary": "经典微处理器 Zilog Z80 迎来 50 周年，回顾其历史影响与技术遗产。"
     },
     {
       "sourceId": "hackernews",
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "excerpt": "125 points · 27 comments",
+      "excerpt": "138 points · 38 comments",
       "publishedAt": "2026-07-17T17:45:41.000Z",
       "category": "tech",
-      "score": 125,
+      "score": 138,
+      "source": "Hacker News",
+      "summary": "作者分享运行 SQLite 时学到的若干实用技巧与注意事项。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "excerpt": "137 points · 49 comments",
+      "publishedAt": "2026-07-17T14:05:15.000Z",
+      "category": "tech",
+      "score": 137,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Lobste.rs is now running on SQLite",
       "url": "https://lobste.rs/s/ko1ji1",
-      "excerpt": "103 points · 64 comments",
+      "excerpt": "125 points · 100 comments",
       "publishedAt": "2026-07-13T22:35:49.000Z",
       "category": "tech",
-      "score": 103,
+      "score": 125,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "More Bounce to the Ounce",
       "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
-      "excerpt": "101 points · 36 comments",
+      "excerpt": "106 points · 38 comments",
       "publishedAt": "2026-07-17T13:32:11.000Z",
       "category": "tech",
-      "score": 101,
+      "score": 106,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Latent Space as a New Medium",
       "url": "https://kevinkelly.substack.com/p/latent-space-as-a-new-medium",
-      "excerpt": "79 points · 24 comments",
+      "excerpt": "87 points · 26 comments",
       "publishedAt": "2026-07-13T18:12:09.000Z",
       "category": "tech",
-      "score": 79,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "excerpt": "78 points · 3 comments",
-      "publishedAt": "2026-07-17T14:21:35.000Z",
-      "category": "tech",
-      "score": 78,
+      "score": 87,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
       "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "excerpt": "66 points · 33 comments",
+      "excerpt": "84 points · 44 comments",
       "publishedAt": "2026-07-17T21:22:53.000Z",
       "category": "tech",
-      "score": 66,
+      "score": 84,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Frank Lloyd Wright’s first home",
-      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-      "excerpt": "66 points · 35 comments",
-      "publishedAt": "2026-07-13T02:23:19.000Z",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "excerpt": "80 points · 5 comments",
+      "publishedAt": "2026-07-17T14:21:35.000Z",
       "category": "tech",
-      "score": 66,
+      "score": 80,
       "source": "Hacker News"
     },
     {
@@ -553,27 +543,27 @@
       "excerpt": "Want to see what items show up in these setups time and time again?I compiled all of the data from 500+ interviews into one easy to read report: https:&#x2F;&#x2F;workspaces.xyz&#x2F;gear-report",
       "publishedAt": "2026-07-17T15:41:05.000Z",
       "category": "tech",
-      "score": 64,
+      "score": 69,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Frank Lloyd Wright’s first home",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "excerpt": "67 points · 40 comments",
+      "publishedAt": "2026-07-13T02:23:19.000Z",
+      "category": "tech",
+      "score": 67,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
       "url": "https://sofar.belfortlabs.cloud/",
-      "excerpt": "54 points · 29 comments",
+      "excerpt": "64 points · 32 comments",
       "publishedAt": "2026-07-17T16:29:52.000Z",
       "category": "tech",
-      "score": 54,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "excerpt": "52 points · 25 comments",
-      "publishedAt": "2026-07-17T22:26:30.000Z",
-      "category": "tech",
-      "score": 52,
+      "score": 64,
       "source": "Hacker News"
     },
     {
@@ -583,85 +573,95 @@
       "excerpt": "I&#x27;m building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia &#x2F; Wikidata, scored using PageRank. There is more information ",
       "publishedAt": "2026-07-17T18:37:33.000Z",
       "category": "tech",
-      "score": 40,
+      "score": 46,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Designing emoji for the way we communicate today",
       "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
-      "excerpt": "39 points · 58 comments",
+      "excerpt": "46 points · 68 comments",
       "publishedAt": "2026-07-17T16:24:13.000Z",
       "category": "tech",
-      "score": 39,
+      "score": 46,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Lego building instructions through time",
-      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "excerpt": "34 points · 7 comments",
-      "publishedAt": "2026-07-17T18:21:14.000Z",
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "excerpt": "43 points · 25 comments",
+      "publishedAt": "2026-07-17T22:35:55.000Z",
       "category": "tech",
-      "score": 34,
+      "score": 43,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
       "url": "https://github.com/CharmingBlaze/moonbasic",
-      "excerpt": "34 points · 8 comments",
+      "excerpt": "42 points · 11 comments",
       "publishedAt": "2026-07-14T17:53:06.000Z",
       "category": "tech",
-      "score": 34,
+      "score": 42,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "The US grocery slowdown is real",
-      "url": "https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/",
-      "excerpt": "33 points · 32 comments",
-      "publishedAt": "2026-07-17T22:11:01.000Z",
+      "title": "Lego building instructions through time",
+      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "excerpt": "41 points · 8 comments",
+      "publishedAt": "2026-07-17T18:21:14.000Z",
       "category": "tech",
-      "score": 33,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Topcoat: The full full-stack framework for Rust",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "excerpt": "13 points · 3 comments",
-      "publishedAt": "2026-07-17T20:41:43.000Z",
-      "category": "tech",
-      "score": 13,
+      "score": 41,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Open Book Touch: open-source e-reader",
       "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-      "excerpt": "12 points · 1 comments",
+      "excerpt": "31 points · 5 comments",
       "publishedAt": "2026-07-17T20:47:57.000Z",
       "category": "tech",
-      "score": 12,
+      "score": 31,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Static search trees: 40x faster than binary search (2024)",
-      "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "excerpt": "8 points · 0 comments",
-      "publishedAt": "2026-07-17T20:24:55.000Z",
+      "title": "Topcoat: The full full-stack framework for Rust",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "excerpt": "26 points · 16 comments",
+      "publishedAt": "2026-07-17T20:41:43.000Z",
       "category": "tech",
-      "score": 8,
+      "score": 26,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Painting the sides of railroad rails white to reduce derailment",
       "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "excerpt": "8 points · 1 comments",
+      "excerpt": "24 points · 6 comments",
       "publishedAt": "2026-07-17T20:12:59.000Z",
+      "category": "tech",
+      "score": 24,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "excerpt": "21 points · 0 comments",
+      "publishedAt": "2026-07-17T20:24:55.000Z",
+      "category": "tech",
+      "score": 21,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "\"Disk Not Ejected Properly\": What It Means",
+      "url": "https://bombich.com/blog/2026/07/07/disk-not-ejected-properly",
+      "excerpt": "8 points · 1 comments",
+      "publishedAt": "2026-07-10T17:48:53.000Z",
       "category": "tech",
       "score": 8,
       "source": "Hacker News"
@@ -723,6 +723,15 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "Enterprise Haskell at H-E-B",
+      "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-17T21:51:07.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Here's how I host my own AIM server",
       "url": "https://veronicaexplains.net/open-oscar-server/",
       "excerpt": "Comments",
@@ -741,19 +750,19 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Freya 0.4 - Rust GUI library",
-      "url": "https://freyaui.dev/posts/0.4",
+      "title": "topcoat: A batteries-included framework for building web apps",
+      "url": "https://github.com/tokio-rs/topcoat",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-17T11:21:45.000Z",
+      "publishedAt": "2026-07-17T22:45:28.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
     {
       "sourceId": "lobsters",
-      "title": "Enterprise Haskell at H-E-B",
-      "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
+      "title": "Freya 0.4 - Rust GUI library",
+      "url": "https://freyaui.dev/posts/0.4",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-17T21:51:07.000Z",
+      "publishedAt": "2026-07-17T11:21:45.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -772,6 +781,15 @@
       "url": "https://www.youtube.com/watch?v=ZqGSg4b_cZA",
       "excerpt": "Comments",
       "publishedAt": "2026-07-17T20:55:38.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Another Taste of Verse",
+      "url": "https://www.youtube.com/watch?v=QIiU-QGzcqc&list=PLQtDWkrawhsE&index=2",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-17T23:03:22.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -849,6 +867,15 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "Classic console tech tricks",
+      "url": "https://www.youtube.com/playlist?list=PLLM_oC5K01gS9rqn7PotAOE-fb0zrnvdu",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-17T23:33:21.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Forgejo v16.0 is available",
       "url": "https://forgejo.org/2026-07-release-v16-0/",
       "excerpt": "Comments",
@@ -858,10 +885,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "topcoat: A batteries-included framework for building web apps",
-      "url": "https://github.com/tokio-rs/topcoat",
+      "title": "GHC Status Report",
+      "url": "https://www.youtube.com/watch?v=6bDQwW5GlnU",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-17T22:45:28.000Z",
+      "publishedAt": "2026-07-17T23:23:39.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -875,31 +902,13 @@
       "source": "Lobsters"
     },
     {
-      "sourceId": "lobsters",
-      "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines II",
-      "url": "https://uecker.codeberg.page/2026-07-14.html",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-17T01:37:41.000Z",
+      "sourceId": "qbitai",
+      "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
+      "url": "https://www.qbitai.com/2026/07/453467.html",
+      "excerpt": "万亿Token调用量验证",
+      "publishedAt": "2026-07-17T22:32:47.000Z",
       "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "What gdb frontend do you prefer (linux)",
-      "url": "https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux",
-      "excerpt": "I found the basic gdb ui painful and gdb -tui confusing. I love dlv for golang debugging. Before I drop back to printf debugging is there a frontend I should try?",
-      "publishedAt": "2026-07-16T13:12:52.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy",
-      "url": "https://cacm.acm.org/research-highlights/epistemic-parity-reproducibility-as-an-evaluation-metric-for-differential-privacy/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-17T20:49:10.000Z",
-      "category": "tech",
-      "source": "Lobsters"
+      "source": "量子位"
     },
     {
       "sourceId": "qbitai",
@@ -983,15 +992,6 @@
       "source": "量子位"
     },
     {
-      "sourceId": "qbitai",
-      "title": "文远发布物理AI大模型WITT：让每一公里都变成模型能力",
-      "url": "https://www.qbitai.com/2026/07/452961.html",
-      "excerpt": "单卡日处理1万分钟视频",
-      "publishedAt": "2026-07-17T10:11:49.000Z",
-      "category": "tech",
-      "source": "量子位"
-    },
-    {
       "sourceId": "openai-news",
       "title": "A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -999,7 +999,7 @@
       "publishedAt": "2026-07-17T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI首席财务官Sarah Friar提出实用AI记分卡，通过有用工作、每成功任务成本、可靠性和计算回报来衡量AI投资回报率。"
+      "summary": "OpenAI 首席财务官 Sarah Friar 推出 AI 时代记分卡，从有效工作、成功任务成本、可靠性及计算回报四个维度衡量投资回报率（ROI）。"
     },
     {
       "sourceId": "openai-news",
@@ -1540,7 +1540,7 @@
       "publishedAt": "2026-07-17T15:57:54.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA与Hugging Face合作，利用NeMo Automodel和Diffusers框架实现视频与图像模型的大规模微调。"
+      "summary": "NVIDIA 与 Hugging Face 合作，通过 NeMo Automodel 和 Diffusers 框架，实现视频和图像模型的大规模微调，降低分布式训练门槛。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1811,7 +1811,7 @@
       "publishedAt": "2026-07-17T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Kimi K3模型发布、Gemini 3.5延期、ARC-AGI 3被攻克，AI领域多项重要进展。"
+      "summary": "TLDR AI 报道：Kimi K3 模型发布，Gemini 3.5 推迟，ARC-AGI 3 基准被突破，AI 领域多项进展引发关注。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1992,7 +1992,7 @@
       "publishedAt": "2026-07-17T01:46:36.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Kimi发布K3模型，参数规模2.8T激活50B，是史上最大开源模型。性能达到Opus 4.8级别，定价与Sonnet 5相同。"
+      "summary": "Kimi 发布 K3 模型（2.8T 总参数量、50B 激活参数），为迄今最大开源模型，性能达 Opus 4.8 级别，定价与 Sonnet 5 相当，延续开源模型积极进展。"
     },
     {
       "sourceId": "latent-space",
@@ -2173,7 +2173,7 @@
       "publishedAt": "2026-07-17T08:57:32.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "天气数据遭破坏的风险正在上升。全球航空调度员、电网运营商和农民依赖天气预报做出关键决策，数据准确性至关重要。"
+      "summary": "《MIT 科技评论》指出，天气数据遭破坏的风险日益上升，航空调度、电网运营商和农民等依赖天气预报做出重大决策，数据安全面临挑战。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2265,7 +2265,7 @@
       "category": "tech",
       "meta": "@part_harry_ · 1.5K 粉丝 · 225.6K 阅 · 503 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "为开源模型GLM 5.2添加Vision视觉能力，使其支持图像输入，弥补与Qwen、Kimi等旗舰模型的差距。"
+      "summary": "给开源模型GLM 5.2添加视觉输入支持，使其能像Qwen、Kimi等一样处理图像，弥补多模态能力缺失。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2276,7 +2276,7 @@
       "category": "tech",
       "meta": "@amasad · 472.6K 粉丝 · 223.7K 阅 · 560 赞 · 65 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Replit公司实现AI驱动的自我运营，六个月工程师代码产出翻三倍，审查时间不变，回退率下降，展现自动化管理效果。"
+      "summary": "Replit六个月内工程师代码产出几乎翻三倍，审查时间不变且返工减少，展示公司自我运营的初步成果。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2287,7 +2287,7 @@
       "category": "tech",
       "meta": "@DesignArena · 17.6K 粉丝 · 191.5K 阅 · 509 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "OpenAI GPT-5.6 Sol在网页设计非Agent测试中排名第一，较前代提升18个名次，证明模型在设计审美上的显著突破。"
+      "summary": "GPT-5.6 Sol在网页设计基准中排名第一，比前代GPT-5.5提升18个名次，显示其在非自主设计任务上的品味突破。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2298,7 +2298,7 @@
       "category": "tech",
       "meta": "@btaylor · 158.6K 粉丝 · 144.3K 阅 · 511 赞 · 40 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Sierra发布Horizon平台，使agent能执行长期任务如贷款发起、医疗预授权，拓展了agent在复杂流程中的应用边界。"
+      "summary": "Sierra发布Horizon平台，支持智能体执行贷款发放、医疗预授权等长期目标，扩展自主任务范围。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2309,7 +2309,7 @@
       "category": "tech",
       "meta": "@GoogleAIStudio · 186.6K 粉丝 · 111.0K 阅 · 512 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Gemini API公布Managed Agents新功能：免费层、预算控制防护栏、定时触发器，降低agent部署门槛并增强可控性。"
+      "summary": "Gemini API托管智能体新增免费层级、预算控制围栏和定时触发器，降低开发者使用门槛并增强可控性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2320,7 +2320,7 @@
       "category": "tech",
       "meta": "@cerebras · 60.4K 粉丝 · 70.7K 阅 · 509 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Cerebras分享内部知识库构建方案：员工每日发起15000+查询，技术博文详解RAG实现、检索优化与部署经验。"
+      "summary": "Cerebras分享构建内部知识库的技术博客，员工每日查询超15,000次，提供交互式版本展示检索架构。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2331,7 +2331,7 @@
       "category": "tech",
       "meta": "@elliotarledge · 40.7K 粉丝 · 69.3K 阅 · 506 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "早期测试Kimi K3在KernelBench上表现优异，在底层kernel编程任务中性能超出预期，展示其代码生成能力。"
+      "summary": "提前评测Kimi K3在KernelBench上的kernel编程性能，印象惊艳，正式基准待公布。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2342,7 +2342,7 @@
       "category": "tech",
       "meta": "@akshay_pachaar · 281.7K 粉丝 · 53.7K 阅 · 516 赞 · 74 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "逐步教程：构建类似Claude Code的编码harness，涵盖agent循环、子agent协作、沙箱、记忆与检查点机制。"
+      "summary": "逐步教程：构建类似Claude Code的编程工具，覆盖智能体循环、规划、子代理、沙箱、内存和检查点。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2353,7 +2353,7 @@
       "category": "tech",
       "meta": "@zachlloydtweets · 12.1K 粉丝 · 42.7K 阅 · 527 赞 · 57 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "系列教程第三篇：构建自我改进的代码审查agent，通过反馈循环自动优化审查规则，属于云软件工厂自动化流程。"
+      "summary": "系列第三篇：构建自我改进的代码审查智能体，可与之前的问题分类和规格编写智能体协同，组成云软件工厂。"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -3464,13 +3464,22 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Apple Briefly Tops Nvidia as World’s Most Valuable Company",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation",
+      "excerpt": "Apple Inc. briefly overtook Nvidia Corp. as the world’s most valuable company, a title the chipmaker has held since May 2025.",
+      "publishedAt": "2026-07-17T13:42:06.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "Baker Tilly Eyes $3 Billion in Debt to Replace Private Credit",
       "url": "https://www.bloomberg.com/news/articles/2026-07-17/baker-tilly-eyes-3-billion-in-debt-to-replace-private-credit",
       "excerpt": "Deutsche Bank AG is preparing to sell about $3 billion in debt markets for accounting services firm Baker Tilly Advisory Group to refinance private credit loans, according to people familiar with the matter.",
       "publishedAt": "2026-07-17T22:10:11.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "德国银行准备为Baker Tilly Advisory Group在债务市场出售约30亿美元债券，以置换私人信贷贷款。"
+      "summary": "德意志银行准备为会计服务公司Baker Tilly Advisory Group在债券市场发行约30亿美元债券，以替代私募信贷融资。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3489,7 +3498,7 @@
       "publishedAt": "2026-07-17T21:43:03.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "甲骨文信用风险指标周五创新高，市场担忧其现金消耗激进及AI投资前景，因中国新模型可能挑战OpenAI等公司。"
+      "summary": "甲骨文信用风险指标上周五创历史新高，市场担忧其现金消耗及AI投资盈利前景，因中国新模型可能挑战OpenAI等公司。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3517,7 +3526,7 @@
       "publishedAt": "2026-07-17T20:36:28.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国初创公司Moonshot的突破性进展周五引发全球市场震荡，AI和半导体股大跌，重演去年“DeepSeek时刻”，散户投资者拥挤的杠杆基金遭受重创。"
+      "summary": "中国初创公司Moonshot的突破性进展令全球AI和半导体股大幅下跌，散户交易者涌入杠杆基金遭受重创，类似去年的DeepSeek时刻。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3572,7 +3581,7 @@
       "publishedAt": "2026-07-17T20:15:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "马丁·史克雷利回归市场，做空股票并挑战所有人。他表示自己不在乎得罪多少人。"
+      "summary": "马丁·施克莱里重返市场，开始做空股票并挑战所有人，声称不在乎得罪多少人。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3582,7 +3591,7 @@
       "publishedAt": "2026-07-17T20:12:56.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "对冲基金以近十年来最快速度增加对布伦特原油的看涨押注，因伊朗与美国冲突升级，削弱了霍尔木兹海峡航运恢复的预期。"
+      "summary": "对冲基金以近十年来最快速度增加布伦特原油看涨押注，因伊朗与美国冲突升级，削弱了霍尔木兹海峡航运复苏预期。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3601,7 +3610,7 @@
       "publishedAt": "2026-07-17T19:56:32.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "阿根廷内乌肯省（因页岩油繁荣受益）将在纽约向外国投资者推销近十年来首只国际债券。"
+      "summary": "阿根廷内乌肯省计划在纽约向外国投资者推介近十年来首笔国际债券，受益于页岩油繁荣。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3611,7 +3620,7 @@
       "publishedAt": "2026-07-17T19:46:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国国债本周小幅上涨，因通胀数据利好抵消油价反弹影响，交易员放弃对7月美联储加息的押注。"
+      "summary": "美国国债本周上涨，因通胀数据利好，交易员基本放弃对7月美联储加息的押注。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3637,15 +3646,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-17/blue-owl-backed-latigo-files-for-ipo-adding-to-biotech-pipeline",
       "excerpt": "Latigo Biotherapeutics Inc. filed for an initial public offering, joining a growing list of biotechnology firms considering going public as soon as this quarter.",
       "publishedAt": "2026-07-17T17:48:40.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "San Antonio to Borrow $944 Million for Major Airport Expansion",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/san-antonio-to-borrow-944-million-for-major-airport-expansion",
-      "excerpt": "San Antonio, one of the fastest-growing US metro areas, is tapping the bond market for almost $1 billion as part of an ambitious program to expand and improve its airport.",
-      "publishedAt": "2026-07-17T17:21:52.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3837,7 +3837,7 @@
       "publishedAt": "2026-07-17T20:24:36.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "特朗普媒体公司为其Truth Social平台的高速访问服务报价每月10万美元，以获取总统帖子的快速推送。"
+      "summary": "特朗普媒体公司为Truth Social平台的高速访问报价每月10万美元，向潜在客户收取六位数费用。"
     },
     {
       "sourceId": "ft-companies",
@@ -3847,7 +3847,7 @@
       "publishedAt": "2026-07-17T20:22:31.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "美国芯片股经历一年多来最糟糕的一周，半导体股下跌，“动量交易”策略适得其反。"
+      "summary": "美国芯片股遭遇一年多来最差单周表现，因“动量交易”反转，半导体类股大幅下跌。"
     },
     {
       "sourceId": "ft-companies",
@@ -3857,7 +3857,7 @@
       "publishedAt": "2026-07-17T20:17:44.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "苹果公司股价短暂超越英伟达，成为全球市值最高公司；iPhone制造商免受AI抛售潮影响。"
+      "summary": "苹果公司市值短暂超越英伟达，成为全球最高市值公司，其股价未受人工智能抛售潮影响。"
     },
     {
       "sourceId": "ft-companies",
@@ -3867,7 +3867,7 @@
       "publishedAt": "2026-07-17T19:01:05.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "价格比较网站Moneysupermarket计划推出投资平台，进入竞争激烈的市场，与现有供应商竞争。"
+      "summary": "比价网站Moneysupermarket将推出投资平台，进入竞争激烈的市场，与现有机构竞争。"
     },
     {
       "sourceId": "ft-companies",
@@ -3877,7 +3877,7 @@
       "publishedAt": "2026-07-17T18:32:45.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "Meta与Anthropic正洽谈一项高达100亿美元的数据中心交易；Meta考虑推出云业务，基础设施支出达1450亿美元。"
+      "summary": "Meta与Anthropic正在谈判一项高达100亿美元的数据中心交易，Meta考虑推出云业务，基础设施支出达1450亿美元。"
     },
     {
       "sourceId": "ft-companies",
