@@ -6,110 +6,110 @@
       "title": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "excerpt": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "meta": "Python · ★ 12,890 · 🍴 1,340 · 📈 827 stars today",
+      "meta": "Python · ★ 12,917 · 🍴 1,344 · 📈 831 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个前馈式 3D 基础模型，能从流数据中实时重建场景，采用 feed-forward 架构避免迭代优化。适用于机器人导航、AR/VR 等需要在线感知的领域，低延迟、高泛化。"
+      "summary": "前馈式3D基础模型，从流式数据实时重建场景。适用于机器人、AR/VR等需要低延迟3D理解的场景，无需依赖传统几何重建步骤。"
     },
     {
       "sourceId": "github-trending",
       "title": "apache/ossie",
       "url": "https://github.com/apache/ossie",
       "excerpt": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "meta": "Python · ★ 1,263 · 🍴 153 · 📈 48 stars today",
+      "meta": "Python · ★ 1,267 · 🍴 153 · 📈 47 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Apache Ossie 是行业级语义元数据交换规范，旨在统一分析、AI 和 BI 平台的元数据互操作。提供供应商中立的单一事实源，解决异构系统数据语义冲突，适合数据工程师和平台集成场景。"
+      "summary": "Apache Ossie致力于标准化分析、AI和BI平台间的语义元数据交换，提供厂商中立、单一真实的语义来源，解决多平台数据语义互操作问题。"
     },
     {
       "sourceId": "github-trending",
       "title": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "excerpt": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all",
-      "meta": "Python · ★ 36,564 · 🍴 3,027 · 📈 337 stars today",
+      "meta": "Python · ★ 36,582 · 🍴 3,027 · 📈 338 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "PostHog 是领先的产品分析平台，提供 AI 可观测性、会话回放、功能标志、实验、错误跟踪和日志等开发者工具。帮助团队构建自驱动产品，从数据洞察到快速迭代，适用于 SaaS 产品团队。"
+      "summary": "PostHog是构建自动驾驶产品的开发者平台，提供AI可观测性、用户分析、会话重放、功能开关、实验、错误跟踪和日志等工具，帮助团队理解用户行为并驱动产品决策。"
     },
     {
       "sourceId": "github-trending",
       "title": "ibelick/ui-skills",
       "url": "https://github.com/ibelick/ui-skills",
       "excerpt": "Skills for Design Engineers",
-      "meta": "TypeScript · ★ 4,972 · 🍴 208 · 📈 242 stars today",
+      "meta": "TypeScript · ★ 4,994 · 🍴 209 · 📈 123 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向设计工程师的 UI 技能集合，可能包含组件库或设计系统。旨在弥合设计与开发之间的鸿沟，提升界面构建效率与一致性。适合追求高质量 UI 的前端工程师。"
+      "summary": "面向设计工程师的技能资源集合，可能包含UI组件或设计系统示例，帮助开发者在界面设计中提升效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "excerpt": "Learn it. Build it. Ship it for others.",
-      "meta": "Python · ★ 39,079 · 🍴 6,551 · 📈 240 stars today",
+      "meta": "Python · ★ 39,094 · 🍴 6,552 · 📈 191 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "从零开始学习 AI 工程的系统性资源，覆盖理论、实践到部署，强调“学、建、交付”。适合想掌握全栈 AI 能力的学生或开发者，典型场景是项目驱动的自学路线。"
+      "summary": "从零开始学习AI工程实践的项目，涵盖学习、构建到交付完整流程，适合开发者系统掌握AI全栈技能。"
     },
     {
       "sourceId": "github-trending",
       "title": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "excerpt": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "meta": "Python · ★ 20,143 · 🍴 2,125 · 📈 356 stars today",
+      "meta": "Python · ★ 20,151 · 🍴 2,125 · 📈 355 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "本地优先的代码智能图，基于 MCP 和 CLI 构建代码库持久化地图。AI 编码工具仅读取相关部分，在代码审查与大型仓库中可显著缩减上下文。减少 token 消耗，提升 AI 辅助效率，适合大项目团队。"
+      "summary": "本地优先的代码智能图，通过构建持久代码库映射，让MCP和CLI工具精准读取相关代码，大幅减少代码审查和大仓库中的上下文噪音，提升AI辅助开发效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "elder-plinius/G0DM0D3",
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "excerpt": "LIBERATED AI CHAT",
-      "meta": "TypeScript · ★ 9,491 · 🍴 2,252 · 📈 63 stars today",
+      "meta": "TypeScript · ★ 9,499 · 🍴 2,253 · 📈 69 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "名为“解放 AI 聊天”的工具，可能旨在突破现有 AI 对话限制，提供更自由的交互。具体实现未明确，但面向寻求无约束 AI 体验的用户，注意伦理风险。"
+      "summary": "无限制AI聊天工具，旨在突破常见内容过滤，提供更自由的对话体验。适用于需要开放式回答的研究或探索场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "excerpt": "AirLLM 70B inference with single 4GB GPU",
-      "meta": "Jupyter Notebook · ★ 23,316 · 🍴 2,653 · 📈 234 stars today",
+      "meta": "Jupyter Notebook · ★ 23,323 · 🍴 2,654 · 📈 161 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AirLLM 支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，通过量化、内存优化等技术极大降低硬件门槛。适合个人开发者、学生或边缘设备上离线部署大模型。"
+      "summary": "AirLLM让70B参数大模型推理仅需单张4GB GPU，通过内存优化和量化技术降低硬件门槛，适合资源有限但需要部署大模型的个人或小团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "excerpt": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "meta": "TypeScript · ★ 1,202 · 🍴 83 · 📈 192 stars today",
+      "meta": "TypeScript · ★ 1,222 · 🍴 83 · 📈 203 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 AI 编码代理设计的本地优先网页工具，支持搜索、抓取、爬取和研究，通过 MCP 协议集成。无需 API Key 和云端依赖，零成本使用。适合构建自主 AI agent 的开发者，注重隐私和离线能力。"
+      "summary": "AI编码代理的本地优先Web工具，支持MCP协议进行搜索、抓取、爬取和研究。无需API密钥和云端，零成本运行，适合自动化代码分析任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "excerpt": "Master programming by recreating your favorite technologies from scratch.",
-      "meta": "Markdown · ★ 528,209 · 🍴 49,981 · 📈 1,131 stars today",
+      "meta": "Markdown · ★ 528,244 · 🍴 49,982 · 📈 1,126 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "经典编程教程集合，指导从零复现 Git、数据库、编译器等技术。通过动手实践深入学习底层原理，适合所有想提升编程能力的开发者，典型场景是自学与面试准备。"
+      "summary": "经典编程学习资源，通过从零重建各种技术（如操作系统、数据库、Git等）来深入理解底层原理，适合进阶开发者巩固基础。"
     },
     {
       "sourceId": "github-trending",
       "title": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "excerpt": "Kimi Code CLI is your next CLI agent.",
-      "meta": "Python · ★ 9,457 · 🍴 1,164 · 📈 48 stars today",
+      "meta": "Python · ★ 9,471 · 🍴 1,165 · 📈 65 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Kimi 出品的命令行 AI 代理，专为开发者设计，能在终端中直接执行代码、文件操作等任务。支持自然语言交互，提升命令行的智能化体验，适合运维、开发等 CLI 重度用户。"
+      "summary": "月之暗面推出的命令行智能代理，通过CLI交互完成编程任务，如代码生成、调试、文件操作等，提升开发者效率。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -185,6 +185,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "现在机场价格这么离谱了吗",
+      "url": "https://www.v2ex.com/t/1228287",
+      "excerpt": "14 回复 · 程序员 节点",
+      "publishedAt": "2026-07-18T17:59:50.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "RUST 语法极其丑陋",
       "url": "https://www.v2ex.com/t/1221723",
       "excerpt": "14 回复 · Rust 节点",
@@ -248,10 +257,10 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "现在机场价格这么离谱了吗",
-      "url": "https://www.v2ex.com/t/1228287",
+      "title": "AI 写代码的时候总是使用大量的辅助函数，应该如何处理？",
+      "url": "https://www.v2ex.com/t/1228216",
       "excerpt": "10 回复 · 程序员 节点",
-      "publishedAt": "2026-07-18T17:59:50.000Z",
+      "publishedAt": "2026-07-18T08:13:21.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -279,15 +288,6 @@
       "url": "https://www.v2ex.com/t/1228237",
       "excerpt": "9 回复 · 程序员 节点",
       "publishedAt": "2026-07-18T10:58:30.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "AI 写代码的时候总是使用大量的辅助函数，应该如何处理？",
-      "url": "https://www.v2ex.com/t/1228216",
-      "excerpt": "9 回复 · 程序员 节点",
-      "publishedAt": "2026-07-18T08:13:21.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -329,10 +329,10 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "如何给非大陆版 AirPod Pro 购买美版 Apple Care+",
-      "url": "https://www.v2ex.com/t/1227743",
-      "excerpt": "7 回复 · Apple 节点",
-      "publishedAt": "2026-07-16T06:56:11.000Z",
+      "title": "能否把逻辑跟 AI 说清楚，让它先不要写实际代码(pyside6 界面)。而是先用最简单的 html 把页面/按钮布局和伪数据把图表/折线图等递进的逻辑关系表达出来？ 经过审核，觉得可以再用代码实施呢？",
+      "url": "https://www.v2ex.com/t/1228279",
+      "excerpt": "7 回复 · 程序员 节点",
+      "publishedAt": "2026-07-18T15:50:55.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -340,190 +340,170 @@
       "sourceId": "hackernews",
       "title": "LG monitors silently install software through Windows Update without consent",
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "excerpt": "937 points · 487 comments",
+      "excerpt": "968 points · 500 comments",
       "publishedAt": "2026-07-18T10:21:19.000Z",
       "category": "tech",
-      "score": 937,
+      "score": 968,
       "source": "Hacker News",
-      "summary": "LG显示器被曝通过Windows Update静默安装软件，无需用户明确同意，引发对隐私和用户控制权的争议。"
+      "summary": "LG 显示器通过 Windows 更新静默安装软件，用户无法拒绝，引发隐私和自主控制争议。"
     },
     {
       "sourceId": "hackernews",
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "excerpt": "474 points · 305 comments",
+      "excerpt": "482 points · 312 comments",
       "publishedAt": "2026-07-18T13:00:52.000Z",
       "category": "tech",
-      "score": 474,
+      "score": 482,
       "source": "Hacker News",
-      "summary": "GPT-5.6利用精心设计的提示词，成功解决了凸优化领域一个长达30年的未解难题，标志着AI在数学研究中的突破。"
+      "summary": "GPT-5.6 通过精心设计的提示词，解决了凸优化领域长达 30 年的未解难题。"
     },
     {
       "sourceId": "hackernews",
       "title": "What AI did to stackoverflow in a graph",
       "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "excerpt": "343 points · 401 comments",
+      "excerpt": "352 points · 409 comments",
       "publishedAt": "2026-07-18T11:12:46.000Z",
       "category": "tech",
-      "score": 343,
+      "score": 352,
       "source": "Hacker News",
-      "summary": "通过Stack Exchange数据查询，图表直观展示了AI工具（如ChatGPT）对Stack Overflow问答活跃度产生的显著影响。"
+      "summary": "数据图表揭示了 AI 对 Stack Overflow 的深远影响，包括提问量、回答质量等变化。"
     },
     {
       "sourceId": "hackernews",
       "title": "The Kimi K3 Moment",
       "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "excerpt": "239 points · 263 comments",
+      "excerpt": "258 points · 283 comments",
       "publishedAt": "2026-07-18T17:32:40.000Z",
       "category": "tech",
-      "score": 239,
+      "score": 258,
       "source": "Hacker News",
-      "summary": "文章回顾了Kimi K3产品的关键转折点，将其类比为类似iPhone的时刻，探讨其对行业的启示。"
+      "summary": "文章讨论 Kimi K3 时刻，可能指人工智能或机器人领域的重大突破或转折点。"
     },
     {
       "sourceId": "hackernews",
       "title": "If You Build It, They Will Come",
       "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "excerpt": "208 points · 74 comments",
+      "excerpt": "231 points · 83 comments",
       "publishedAt": "2026-07-18T15:37:01.000Z",
       "category": "tech",
-      "score": 208,
+      "score": 231,
       "source": "Hacker News",
-      "summary": "探讨产品开发中「只要打造出优秀产品，用户自然就会来」的理念，并结合实际案例进行分析。"
+      "summary": "探讨产品建设与用户自发增长的关系，强调「构建即吸引」的理念。"
     },
     {
       "sourceId": "hackernews",
       "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "excerpt": "199 points · 100 comments",
+      "excerpt": "205 points · 102 comments",
       "publishedAt": "2026-07-18T11:00:29.000Z",
       "category": "tech",
-      "score": 199,
+      "score": 205,
       "source": "Hacker News",
-      "summary": "对比Fable 5与GPT-5.6 Sol在NP难问题上的求解能力，检验添加<goal>提示是否有助于提升性能。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "excerpt": "180 points · 120 comments",
-      "publishedAt": "2026-07-18T15:44:04.000Z",
-      "category": "tech",
-      "score": 180,
-      "source": "Hacker News",
-      "summary": "Gleam编程语言现已正式集成到Tangled平台，为开发者提供更便捷的代码与文档管理体验。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Is this the end of the once-mighty GoPro?",
-      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
-      "excerpt": "175 points · 367 comments",
-      "publishedAt": "2026-07-15T03:46:35.000Z",
-      "category": "tech",
-      "score": 175,
-      "source": "Hacker News",
-      "summary": "分析GoPro这家曾经的运动相机巨头当前面临的严峻挑战，探讨其是否已走向衰落。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "excerpt": "168 points · 175 comments",
-      "publishedAt": "2026-07-18T17:27:24.000Z",
-      "category": "tech",
-      "score": 168,
-      "source": "Hacker News",
-      "summary": "一篇告别性质的文章，借用经典作品典故，反思技术社区中常见的「自行车棚效应」（琐碎争论），并感谢过往贡献。"
+      "summary": "比较 Fable 5 与 GPT-5.6 Sol 在 NP 难问题上的表现，检验 /goal 参数的有效性。"
     },
     {
       "sourceId": "hackernews",
       "title": "Speech Recognition and TTS in less than 500kb",
       "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "excerpt": "160 points · 20 comments",
+      "excerpt": "203 points · 25 comments",
       "publishedAt": "2026-07-14T19:25:10.000Z",
       "category": "tech",
-      "score": 160,
+      "score": 203,
       "source": "Hacker News",
-      "summary": "Moonshine项目推出微型语音识别与文本转语音模型，整体体积不足500KB，适合在资源受限设备上运行。"
+      "summary": "Moonshine 项目推出微模型，实现语音识别与文本转语音，体积不足 500KB。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "excerpt": "192 points · 129 comments",
+      "publishedAt": "2026-07-18T15:44:04.000Z",
+      "category": "tech",
+      "score": 192,
+      "source": "Hacker News",
+      "summary": "Gleam 语言正式登陆 Tangled 平台，为开发者提供新的编程选项。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Is this the end of the once-mighty GoPro?",
+      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "excerpt": "182 points · 385 comments",
+      "publishedAt": "2026-07-15T03:46:35.000Z",
+      "category": "tech",
+      "score": 182,
+      "source": "Hacker News",
+      "summary": "GoPro 面临严峻挑战，销量下滑与竞争加剧，是否将走向终结引发讨论。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "excerpt": "176 points · 183 comments",
+      "publishedAt": "2026-07-18T17:27:24.000Z",
+      "category": "tech",
+      "score": 176,
+      "source": "Hacker News",
+      "summary": "一篇对技术社区中无休止琐碎争论的总结与告别，反思「自行车棚效应」。"
     },
     {
       "sourceId": "hackernews",
       "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
       "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "excerpt": "156 points · 119 comments",
+      "excerpt": "167 points · 125 comments",
       "publishedAt": "2026-07-18T16:12:08.000Z",
       "category": "tech",
-      "score": 156,
+      "score": 167,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Elixir-lang.org has a new design",
       "url": "https://elixir-lang.org/",
-      "excerpt": "150 points · 95 comments",
+      "excerpt": "158 points · 98 comments",
       "publishedAt": "2026-07-18T15:32:04.000Z",
       "category": "tech",
-      "score": 150,
+      "score": 158,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "excerpt": "92 points · 39 comments",
+      "publishedAt": "2026-07-18T22:13:39.000Z",
+      "category": "tech",
+      "score": 92,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "GTX 1080s: Testing a Legend",
       "url": "https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends",
-      "excerpt": "80 points · 35 comments",
+      "excerpt": "84 points · 36 comments",
       "publishedAt": "2026-07-15T20:25:41.000Z",
       "category": "tech",
-      "score": 80,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Typing Speed Test, but for Developers",
-      "url": "https://haxxorwpm.0s.is/",
-      "excerpt": "65 points · 39 comments",
-      "publishedAt": "2026-07-18T19:38:21.000Z",
-      "category": "tech",
-      "score": 65,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
-      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
-      "excerpt": "62 points · 23 comments",
-      "publishedAt": "2026-07-13T17:13:22.000Z",
-      "category": "tech",
-      "score": 62,
+      "score": 84,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
       "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
-      "excerpt": "61 points · 13 comments",
+      "excerpt": "81 points · 14 comments",
       "publishedAt": "2026-07-13T13:00:35.000Z",
       "category": "tech",
-      "score": 61,
+      "score": 81,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "How GitHub gave every repository a durable owner",
-      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
-      "excerpt": "61 points · 22 comments",
-      "publishedAt": "2026-07-09T20:47:09.000Z",
+      "title": "Typing Speed Test, but for Developers",
+      "url": "https://haxxorwpm.0s.is/",
+      "excerpt": "77 points · 46 comments",
+      "publishedAt": "2026-07-18T19:38:21.000Z",
       "category": "tech",
-      "score": 61,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Tech note: making your own V-I plots at home",
-      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
-      "excerpt": "60 points · 8 comments",
-      "publishedAt": "2026-07-17T20:10:02.000Z",
-      "category": "tech",
-      "score": 60,
+      "score": 77,
       "source": "Hacker News"
     },
     {
@@ -533,117 +513,137 @@
       "excerpt": "I&#x27;ve been building a level editor for Quake 3 that runs entirely in the browser: Radiant-style layout, brush and patch editing, CSG, terrain sculpting, and entity editing. It opens and saves .map file and you can play the maps you build directly in the browser using a webassembly build of ioqua",
       "publishedAt": "2026-07-18T15:12:40.000Z",
       "category": "tech",
-      "score": 58,
+      "score": 64,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
+      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+      "excerpt": "62 points · 26 comments",
+      "publishedAt": "2026-07-13T17:13:22.000Z",
+      "category": "tech",
+      "score": 62,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How GitHub gave every repository a durable owner",
+      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+      "excerpt": "62 points · 23 comments",
+      "publishedAt": "2026-07-09T20:47:09.000Z",
+      "category": "tech",
+      "score": 62,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Tech note: making your own V-I plots at home",
+      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
+      "excerpt": "62 points · 9 comments",
+      "publishedAt": "2026-07-17T20:10:02.000Z",
+      "category": "tech",
+      "score": 62,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "excerpt": "54 points · 21 comments",
+      "excerpt": "60 points · 21 comments",
       "publishedAt": "2026-07-18T16:02:45.000Z",
       "category": "tech",
-      "score": 54,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-      "url": "https://github.com/rejourneyco/rejourney",
-      "excerpt": "Hello there (General Kenobi&#x27;s favorite way to start the conversation),I’m Rashid, a sophomore at UT Austin. I built Rejourney.co (https:&#x2F;&#x2F;rejourney.co&#x2F;) to predict issues with your apps and websites before they happen, based on real user session recordings.Here is a silly video (",
-      "publishedAt": "2026-07-14T11:06:09.000Z",
-      "category": "tech",
-      "score": 32,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "excerpt": "30 points · 13 comments",
-      "publishedAt": "2026-07-18T22:13:39.000Z",
-      "category": "tech",
-      "score": 30,
+      "score": 60,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
       "url": "https://www.neatnik.net/hardcore-indieweb",
-      "excerpt": "18 points · 12 comments",
+      "excerpt": "54 points · 42 comments",
       "publishedAt": "2026-07-18T21:45:12.000Z",
       "category": "tech",
-      "score": 18,
+      "score": 54,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "excerpt": "37 points · 27 comments",
+      "publishedAt": "2026-07-18T23:24:26.000Z",
+      "category": "tech",
+      "score": 37,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Judge a book by its first pages",
       "url": "https://uncovered.ink",
-      "excerpt": "12 points · 12 comments",
+      "excerpt": "27 points · 24 comments",
       "publishedAt": "2026-07-18T22:02:31.000Z",
       "category": "tech",
-      "score": 12,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-      "excerpt": "8 points · 0 comments",
-      "publishedAt": "2026-07-18T22:10:54.000Z",
-      "category": "tech",
-      "score": 8,
+      "score": 27,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Classic Amiga titles, free to download",
       "url": "https://amigafreeware.downer.tech/",
-      "excerpt": "7 points · 0 comments",
+      "excerpt": "21 points · 5 comments",
       "publishedAt": "2026-07-18T21:55:27.000Z",
       "category": "tech",
-      "score": 7,
+      "score": 21,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Circular Obstacle Pathfinding (2017)",
+      "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+      "excerpt": "18 points · 2 comments",
+      "publishedAt": "2026-07-12T23:42:41.000Z",
+      "category": "tech",
+      "score": 18,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
       "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
-      "excerpt": "7 points · 1 comments",
+      "excerpt": "17 points · 3 comments",
       "publishedAt": "2026-07-18T22:09:07.000Z",
       "category": "tech",
-      "score": 7,
+      "score": 17,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Gap in Mochizuki's proof of ABC confirmed by Lean",
+      "url": "https://twitter.com/FumiharuKato/status/2078017230537892207",
+      "excerpt": "14 points · 1 comments",
+      "publishedAt": "2026-07-18T22:19:37.000Z",
+      "category": "tech",
+      "score": 14,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Co-evolution of self-replication and function in a digital primordial soup",
       "url": "https://arxiv.org/abs/2607.09211",
-      "excerpt": "5 points · 1 comments",
+      "excerpt": "12 points · 3 comments",
       "publishedAt": "2026-07-18T21:09:01.000Z",
       "category": "tech",
-      "score": 5,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-      "url": "https://github.com/saineshnakra/automated-data-analyst",
-      "excerpt": "4 points · 2 comments",
-      "publishedAt": "2026-07-18T21:06:49.000Z",
-      "category": "tech",
-      "score": 4,
+      "score": 12,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "From Sawdust to Paw Patrol: The Spin Master Story (With Ronnen Harary) [audio]",
       "url": "https://www.econtalk.org/from-sawdust-to-paw-patrol-the-spin-master-story-with-ronnen-harary/",
-      "excerpt": "3 points · 0 comments",
+      "excerpt": "4 points · 0 comments",
       "publishedAt": "2026-07-15T03:35:44.000Z",
       "category": "tech",
-      "score": 3,
+      "score": 4,
       "source": "Hacker News"
     },
     {
@@ -711,6 +711,15 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "wp2shell: Pre Authentication RCE in WordPress Core",
+      "url": "https://wp2shell.com/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-18T18:12:17.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Goodbye, and thanks for all the Bikesheds",
       "url": "https://queue.acm.org/detail.cfm?id=3818307",
       "excerpt": "Comments",
@@ -729,19 +738,19 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "wp2shell: Pre Authentication RCE in WordPress Core",
-      "url": "https://wp2shell.com/",
+      "title": "A Road to Lisp: Which Lisp",
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-18T18:12:17.000Z",
+      "publishedAt": "2026-07-18T00:43:53.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
     {
       "sourceId": "lobsters",
-      "title": "A Road to Lisp: Which Lisp",
-      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "title": "Gleam has mirrored its source code on tangled (an AT-protocol based forge)",
+      "url": "https://tangled.org/gleam.run/gleam",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-18T00:43:53.000Z",
+      "publishedAt": "2026-07-18T21:21:41.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -765,24 +774,6 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Gleam has mirrored its source code on tangled (an AT-protocol based forge)",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-18T21:21:41.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting",
-      "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-18T09:01:53.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
       "title": "APL Case Studies",
       "url": "https://www.dyalog.com/case-studies/index.htm",
       "excerpt": "These case studies are similar to the Haskell HEB one! Comments",
@@ -792,10 +783,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "A better bitset for enum flags",
-      "url": "https://www.elbeno.com/blog/?p=1836",
+      "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting",
+      "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-18T18:50:14.000Z",
+      "publishedAt": "2026-07-18T09:01:53.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -819,10 +810,19 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Half-Edge Data Structure. Part2",
-      "url": "https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/",
-      "excerpt": "part 1 (2024) Comments",
-      "publishedAt": "2026-07-18T18:15:21.000Z",
+      "title": "A better bitset for enum flags",
+      "url": "https://www.elbeno.com/blog/?p=1836",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-18T18:50:14.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Human-like Neural Nets by Catapulting",
+      "url": "https://gwern.net/llm-catapult",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-18T23:32:44.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -832,6 +832,15 @@
       "url": "https://www.youtube.com/watch?v=QIiU-QGzcqc&list=PLQtDWkrawhsE&index=2",
       "excerpt": "Comments",
       "publishedAt": "2026-07-17T23:03:22.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Half-Edge Data Structure. Part2",
+      "url": "https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/",
+      "excerpt": "part 1 (2024) Comments",
+      "publishedAt": "2026-07-18T18:15:21.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -859,15 +868,6 @@
       "url": "https://www.ufried.com/blog/essence_of_architecture_4/",
       "excerpt": "Comments",
       "publishedAt": "2026-07-18T17:03:31.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "What are you doing this weekend?",
-      "url": "https://lobste.rs/s/1vplvg/what_are_you_doing_this_weekend",
-      "excerpt": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback. Please keep in mind it’s more than OK to do nothing at all too!",
-      "publishedAt": "2026-07-17T08:31:40.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -969,7 +969,7 @@
       "publishedAt": "2026-07-17T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI首席财务官Sarah Friar提出AI记分卡，通过“有用工作”“成功任务成本”“可靠性”和“计算回报”四个维度衡量AI投资的ROI。"
+      "summary": "OpenAI首席财务官Sarah Friar提出AI记分卡，通过有用工作、每成功任务成本、可靠性和计算回报衡量投资回报率。"
     },
     {
       "sourceId": "openai-news",
@@ -1510,7 +1510,7 @@
       "publishedAt": "2026-07-17T15:57:54.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA与Hugging Face合作，推出基于NeMo Automodel和Diffusers的大规模微调方案，支持视频和图像模型的高效训练。"
+      "summary": "NVIDIA NeMo Automodel与Hugging Face Diffusers合作，支持大规模微调视频和图像模型。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1961,7 +1961,7 @@
       "publishedAt": "2026-07-18T04:30:21.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "当天AI领域新闻较少，市场整体平静。"
+      "summary": "今日AI领域消息平淡，无明显重大事件发生。"
     },
     {
       "sourceId": "latent-space",
@@ -1971,7 +1971,7 @@
       "publishedAt": "2026-07-17T01:46:36.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Kimi发布K3模型，拥有2.8万亿参数、50B激活参数，为迄今最大开源模型。性能达到Opus 4.8级别，定价与Sonnet 5相同，持续推动开源模型进步。"
+      "summary": "Kimi发布K3模型，参数规模2.8T（激活50B），是迄今最大的开源模型，性能达到Opus 4.8级别，定价接近Sonnet 5。"
     },
     {
       "sourceId": "latent-space",
@@ -2143,7 +2143,7 @@
       "publishedAt": "2026-07-17T08:57:32.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "天气数据破坏风险日益上升。全球航空调度、电网运营商和农民等关键决策者均依赖天气预报，数据被破坏可能引发严重连锁反应。"
+      "summary": "天气数据被破坏的风险日益增加。全球航空公司、电网运营商和农民依赖天气预报做出重大战略决策，其安全性至关重要。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2235,7 +2235,7 @@
       "category": "tech",
       "meta": "@part_harry_ · 1.5K 粉丝 · 225.6K 阅 · 503 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "为开源模型GLM 5.2添加视觉能力，使其支持图像输入，弥补与Qwen、Kimi等旗舰模型的差距。"
+      "summary": "开源模型GLM 5.2原本不支持图像输入，作者团队为其添加了视觉能力，使其比肩Qwen、Kimi等旗舰模型。分享改造过程或结果。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2246,7 +2246,7 @@
       "category": "tech",
       "meta": "@amasad · 472.6K 粉丝 · 223.7K 阅 · 560 赞 · 65 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Replit公司通过AI自我运营，六个月内工程师代码产出翻三倍，审查时间保持稳定，展现「自驱动公司」的效果。"
+      "summary": "Replit过去半年代码产出翻三倍，审核时间不变、返工率下降。探讨公司“自我运营”模式的效果，即工程效率大幅提升的同时保持质量稳定。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2257,7 +2257,7 @@
       "category": "tech",
       "meta": "@btaylor · 158.6K 粉丝 · 144.3K 阅 · 511 赞 · 40 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Sierra发布Horizon平台，支持AI agent执行长周期目标，如贷款发起、医疗预授权等多步骤任务。"
+      "summary": "Sierra发布Horizon平台，支持AI代理执行长期目标（如贷款审批、医疗预授权）。聚焦代理的“长地平线”能力，拓展应用场景。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2268,7 +2268,7 @@
       "category": "tech",
       "meta": "@GoogleAIStudio · 186.6K 粉丝 · 111.0K 阅 · 512 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Google AI Studio为Gemini API的Managed Agents新增免费层、预算控制和定时触发功能，降低使用门槛。"
+      "summary": "Google AI Studio宣布Gemini API托管代理新功能：免费层、预算控制护栏、定时触发器。降低使用门槛并增强可控性，方便开发者构建代理应用。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2279,7 +2279,7 @@
       "category": "tech",
       "meta": "@cerebras · 60.4K 粉丝 · 70.7K 阅 · 509 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Cerebras分享内部知识库的构建方法，员工日均查询超15000次，并附有完整技术博客。"
+      "summary": "Cerebras发布技术博客，详述内部知识库构建方法。员工每日查询超1.5万次，含交互式版本，介绍架构与实现经验。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2290,7 +2290,7 @@
       "category": "tech",
       "meta": "@elliotarledge · 40.7K 粉丝 · 69.3K 阅 · 506 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者提前体验Kimi K3模型，在KernelBench测试中表现优异，对其核心能力印象深刻。"
+      "summary": "作者获Kimi K3模型早期访问权限，在KernelBench上测试内核性能。印象颇佳，提前分享基准测试结果与个人体验。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2301,7 +2301,7 @@
       "category": "tech",
       "meta": "@IntuitMachine · 62.3K 粉丝 · 50.7K 阅 · 552 赞 · 47 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "讨论AI agent架构从循环工程转向图工程的趋势，引用Peter Steinberger的热门帖文，引发广泛共鸣。"
+      "summary": "讨论AI代理架构从“循环工程”向“图工程”转变的趋势。引用Peter Steinberger的观点“还在谈循环还是已经转向图？”获得广泛共鸣。"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -3418,7 +3418,7 @@
       "publishedAt": "2026-07-18T15:50:09.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "CLO（贷款抵押债券）投资收益大幅缩水，投资者争相离场并相互指责。这种曾为华尔街带来丰厚固定收益回报的投资品种已严重恶化。"
+      "summary": "一种曾为华尔街带来丰厚固定收益回报的CLO投资工具收益大幅缩水，投资者纷纷撤离并相互指责，引发内部分歧。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3428,7 +3428,7 @@
       "publishedAt": "2026-07-18T08:01:05.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "科威特遭遇中东冲突以来最严重的伊朗报复性攻击，石油设施和一座发电站连续第二日被击中，能源基础设施受损。"
+      "summary": "科威特遭受伊朗报复性袭击以来最严重的一夜，石油设施和一座发电厂被击中，能源基础设施受损，冲突持续升级。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3438,7 +3438,7 @@
       "publishedAt": "2026-07-18T12:19:25.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "据英国《金融时报》报道，乌克兰总统泽连斯基正考虑解除武装部队总司令瑟尔斯基的职务，此前数日该国军事领导层陷入动荡。"
+      "summary": "据英国《金融时报》报道，乌克兰总统泽连斯基正考虑解雇武装部队总司令瑟尔斯基，此前该国军事领导层经历连日动荡。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3448,7 +3448,7 @@
       "publishedAt": "2026-07-18T12:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "市场仍受人工智能相关消息主导。关于关税退还或实现AI承诺的进程尚未完成。"
+      "summary": "市场继续受人工智能相关消息主导，关税退税及AI前景的实现尚未完成，投资者仍在观望。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3458,7 +3458,7 @@
       "publishedAt": "2026-07-18T10:02:41.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "印度第二大私营银行ICICI银行第一财季利润超预期，得益于零售和企业贷款稳健增长。"
+      "summary": "印度第二大私营银行ICICI银行第一财季利润超预期，得益于零售和企业贷款强劲增长，贷款业务激增推动业绩。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3486,7 +3486,7 @@
       "publishedAt": "2026-07-18T07:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "匈牙利对价值200亿美元的电动汽车行业进行整顿，打击环境违规并计划加税，此前该行业受到前总理欧尔班保护，此举向中国发出信号。"
+      "summary": "匈牙利新领导层对价值200亿美元的电动汽车行业加大打击，整治环境违规并计划增税，此前该行业长期受前总理欧尔班庇护，此举向中国释放信号。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3496,7 +3496,7 @@
       "publishedAt": "2026-07-18T05:06:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国商务部呼吁与吉尔吉斯斯坦加强绿色矿产全产业链合作，并要求保护中方企业在吉的合法权益。"
+      "summary": "中国商务部呼吁与吉尔吉斯斯坦加强绿色矿产全产业链合作，并要求保护在吉中资企业的合法权益，推动双方共赢发展。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3522,15 +3522,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-18/sheinbaum-carney-to-watch-world-cup-final-with-trump",
       "excerpt": "Mexican President Claudia Sheinbaum and Canadian Prime Minister Mark Carney will travel to the US to attend Sunday’s World Cup final on President Donald Trump’s invitation, creating the opportunity for a reset after a month filled with regional tensions.",
       "publishedAt": "2026-07-18T02:28:14.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Apple Briefly Tops Nvidia as World’s Most Valuable Company",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation",
-      "excerpt": "Apple Inc. briefly overtook Nvidia Corp. as the world’s most valuable company, a title the chipmaker has held since May 2025.",
-      "publishedAt": "2026-07-17T13:42:06.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3722,7 +3713,7 @@
       "publishedAt": "2026-07-18T14:48:24.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "意大利电信支持意大利邮政的收购要约，该现金加股票收购方案将使国有邮政服务完全控制电信集团。"
+      "summary": "意大利电信支持Poste Italiane的收购要约，后者以现金加股票方式获得该电信集团完全控制权，此举将使国有邮政服务全面接管电信业务。"
     },
     {
       "sourceId": "ft-companies",
@@ -3732,7 +3723,7 @@
       "publishedAt": "2026-07-18T12:00:03.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "美国司法部通知顶级律所，其负责人须就一年多前达成的协议接受取证，大型律所准备与特朗普政府再次就“投降协议”展开对抗。"
+      "summary": "美国司法部通知多家顶级律所，其负责人必须就一年多前达成的协议接受宣誓作证，这些律所正面临与特朗普政府的第二轮法律对抗。"
     },
     {
       "sourceId": "ft-companies",
@@ -3742,7 +3733,7 @@
       "publishedAt": "2026-07-18T11:00:02.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "马斯克的太空与AI公司SpaceX上市仅数周后，股价首次跌破发行价，做空押注不断增加。"
+      "summary": "SpaceX上市仅数周后，交易员加大做空力度，该公司股价首次跌破发行价，反映市场对Elon Musk旗下火箭与AI公司的信心减弱。"
     },
     {
       "sourceId": "ft-companies",
@@ -3752,7 +3743,7 @@
       "publishedAt": "2026-07-18T10:00:02.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "外卖应用（如DoorDash和Uber Eats）的兴起拉平了竞争环境，大型披萨连锁企业的销售受到冲击，失去优势。"
+      "summary": "外卖应用兴起冲击大型披萨连锁企业，DoorDash和Uber Eats等服务使竞争更加公平，削弱了大公司的市场优势，其销售额受到侵蚀。"
     },
     {
       "sourceId": "ft-companies",
@@ -3762,7 +3753,7 @@
       "publishedAt": "2026-07-18T08:00:01.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "探讨过度商业化的世界杯是否将持续；转会市场大买家及美国职业足球大联盟如何借足球热潮获利。"
+      "summary": "报道探讨世界杯过度商业化趋势是否将持续，同时提及转会市场大买家及美国职业足球大联盟如何利用足球热潮扩大影响力。"
     },
     {
       "sourceId": "ft-companies",
