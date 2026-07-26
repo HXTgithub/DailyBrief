@@ -6,180 +6,180 @@
       "title": "block/buzz",
       "url": "https://github.com/block/buzz",
       "excerpt": "A hive mind communication platform",
-      "meta": "Rust · ★ 11,863 · 🍴 942 · 📈 2,506 stars today",
+      "meta": "Rust · ★ 11,894 · 🍴 945 · 📈 2,491 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于群体智能理念的去中心化通信平台，支持分布式信息交换与协作，适用于需要集体决策或匿名讨论的场景。"
+      "summary": "Buzz是一个群智沟通平台，借鉴蜂群思维模式，支持分布式群体讨论与决策，提升协作效率，适用于团队头脑风暴和社区共识形成。"
     },
     {
       "sourceId": "github-trending",
       "title": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "excerpt": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "meta": "Go · ★ 12,933 · 🍴 885 · 📈 439 stars today",
+      "meta": "Go · ★ 12,944 · 🍴 887 · 📈 431 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "阿里开源的代码审查工具，采用混合架构（确定性流水线+LLM Agent），支持行级精确评论，内置NPE、线程安全等规则集，适用于大规模团队代码质量管控。"
+      "summary": "阿里巴巴开源的代码审查工具，采用确定性管道与LLM Agent混合架构，提供精准行级注释和内置NPE、线程安全等规则，已在生产环境大规模验证，适合团队提升代码质量。"
     },
     {
       "sourceId": "github-trending",
       "title": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "excerpt": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "meta": "JavaScript · ★ 3,549 · 🍴 174 · 📈 986 stars today",
+      "meta": "JavaScript · ★ 3,566 · 🍴 175 · 📈 986 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专为AI代理设计的极速浏览器，可将用户已登录的浏览器状态共享给Codex、Claude Code等代理，实现零成本零配置的Web自动化，不干扰用户操作。"
+      "summary": "为AI agent设计的极速浏览器，支持共享已登录浏览器状态给Codex、Claude Code等agent执行Web自动化，无需打扰用户，零成本零配置，适合AI代理网页操作场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "excerpt": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "meta": "Python · ★ 70,565 · 🍴 7,937 · 📈 574 stars today",
+      "meta": "Python · ★ 70,573 · 🍴 7,938 · 📈 577 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "精心整理的Claude Skills、资源与工具清单，帮助开发者定制Claude AI工作流，涵盖技能、插件及最佳实践。"
+      "summary": "精心整理的Claude Skills资源列表，包含技能、工具和自定义工作流教程，帮助用户扩展Claude AI的工作能力，提升自动化效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "excerpt": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "meta": "Jupyter Notebook · ★ 49,867 · 🍴 5,894 · 📈 144 stars today",
+      "meta": "Jupyter Notebook · ★ 49,881 · 🍴 5,895 · 📈 132 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic官方推出的Claude使用示例集合，包含一系列Notebook和配方，展示如何有趣且高效地调用Claude API完成任务。"
+      "summary": "Anthropic官方推出的Claude cookbook集合，包含一系列notebook和示例，展示如何有趣且高效地使用Claude，适合开发者学习和探索高级用法。"
     },
     {
       "sourceId": "github-trending",
       "title": "Automattic/harper",
       "url": "https://github.com/Automattic/harper",
       "excerpt": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "meta": "Rust · ★ 13,404 · 🍴 508 · 📈 503 stars today",
+      "meta": "Rust · ★ 13,409 · 🍴 508 · 📈 503 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于Rust开发的离线语法检查器，隐私优先，速度快且开源，纯本地运行，无需联网即可检查英语语法错误。"
+      "summary": "Harper是一个离线、隐私优先的语法检查器，基于Rust开发，快速且开源。无需联网即可检查语法，适合注重隐私的用户和离线环境。"
     },
     {
       "sourceId": "github-trending",
       "title": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "excerpt": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "meta": "Python · ★ 33,775 · 🍴 5,702 · 📈 319 stars today",
+      "meta": "Python · ★ 33,782 · 🍴 5,702 · 📈 319 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Kronos是专为金融领域语言设计的基础模型，能够理解并生成市场新闻、财报、交易信号等文本，适用于量化分析、风险预测等场景。"
+      "summary": "Kronos是一个针对金融市场语言的基础模型，旨在理解和生成金融领域的文本，可用于金融分析、报告生成和交易信号提取等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 261,082 · 🍴 23,299 · 📈 507 stars today",
+      "meta": "Shell · ★ 261,089 · 🍴 23,298 · 📈 479 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套基于AI代理的技能框架与软件开发方法论，提供标准化的代理能力定义和组合方式，适用于构建可复用的智能工作流。"
+      "summary": "Superpowers是一个agent技能框架及软件开发方法论，提供结构化方法来构建和编排AI agent的技能，提升开发效率，适合需要系统管理agent能力的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "Pumpkin-MC/Pumpkin",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "excerpt": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "meta": "Rust · ★ 9,699 · 🍴 655 · 📈 357 stars today",
+      "meta": "Rust · ★ 9,706 · 🍴 655 · 📈 358 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "高性能、易部署的Minecraft服务端实现，让任何人都能快速搭建快速、高效的Minecraft服务器，支持原版游戏特性。"
+      "summary": "Pumpkin是一个Minecraft服务器软件，专注于性能优化和易用性，能让任何人都快速搭建高效的Minecraft服务器，适用于玩家自建服或小型社区。"
     },
     {
       "sourceId": "github-trending",
       "title": "permissionlesstech/bitchat",
       "url": "https://github.com/permissionlesstech/bitchat",
       "excerpt": "bluetooth mesh chat, IRC vibes",
-      "meta": "Swift · ★ 28,679 · 🍴 4,277 · 📈 1,695 stars today",
+      "meta": "Swift · ★ 28,688 · 🍴 4,282 · 📈 1,720 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于蓝牙Mesh网络的去中心化聊天工具，无需互联网或权限，支持一对多通信，风格类似IRC，适用于局域网内无障碍沟通。"
+      "summary": "BitChat基于蓝牙mesh技术实现去中心化聊天，具有IRC风格的频道和消息模式，无需互联网权限，适合局域网内即时通信和应急场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
-      "meta": "Shell · ★ 188,212 · 🍴 16,172 · 📈 1,743 stars today",
+      "meta": "Shell · ★ 188,231 · 🍴 16,175 · 📈 1,740 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个可复用的AI代理技能集合，来自资深工程师的.agents目录，直接用于增强Claude Code、Codex等工具的工程能力。"
+      "summary": "来自资深工程师的agent技能集合，包含可直接使用的技能定义，用于增强AI agent（如Claude Code）的实用能力，适合开发者自定义agent行为。"
     },
     {
       "sourceId": "github-trending",
       "title": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "excerpt": "macOS video editor built for AI",
-      "meta": "Swift · ★ 12,201 · 🍴 893 · 📈 346 stars today",
+      "meta": "Swift · ★ 12,209 · 🍴 893 · 📈 412 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专为AI工作流设计的macOS视频编辑器，集成智能剪辑、自动字幕、AI生成特效等功能，提升视频创作效率。"
+      "summary": "Palmier Pro是一款为AI能力构建的macOS视频编辑器，整合AI辅助功能（如自动剪辑、特效生成），提升视频创作效率，适合内容创作者。"
     },
     {
       "sourceId": "github-trending",
       "title": "CoreBunch/Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
       "excerpt": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "meta": "TypeScript · ★ 5,049 · 🍴 473 · 📈 424 stars today",
+      "meta": "TypeScript · ★ 5,062 · 🍴 473 · 📈 426 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Webflow/Framer/WordPress的开源替代品，自托管可视化CMS，输出静态页面，支持用户角色、插件、内容管理和数据库，结合AI代理实现智能化建站。"
+      "summary": "Instatic是一个开源可视化CMS，作为Webflow、Framer和WordPress的替代方案。支持自托管、agent驱动、输出静态页面，内置用户角色、插件和数据库，适合需要灵活内容管理且偏向静态部署的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "excerpt": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "meta": "Jupyter Notebook · ★ 45,342 · 🍴 5,414 · 📈 405 stars today",
+      "meta": "Jupyter Notebook · ★ 45,343 · 🍴 5,415 · 📈 408 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "《动手学大模型》系列编程实践教程，深入讲解大语言模型原理与代码实现，适合希望通过动手实验理解LLM核心技术的开发者和研究者。"
+      "summary": "《动手学大模型Dive into LLMs》系列编程实践教程，以动手实践的方式引导学习者深入理解大语言模型（LLMs），适合希望从代码层面掌握大模型开发的学习者。"
     },
     {
       "sourceId": "github-trending",
       "title": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "excerpt": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "meta": "Python · ★ 14,274 · 🍴 1,268 · 📈 89 stars today",
+      "meta": "Python · ★ 14,280 · 🍴 1,268 · 📈 86 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于TurboQuant的向量索引库，使用Rust实现高性能核心，提供Python绑定，适用于大规模向量相似性搜索场景。"
+      "summary": "Turbovec是一个高性能向量索引库，基于TurboQuant技术，使用Rust实现核心算法并提供Python绑定，适用于大规模向量检索和相似度搜索场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "OtterMind/Chat2DB",
       "url": "https://github.com/OtterMind/Chat2DB",
       "excerpt": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "meta": "Java · ★ 26,652 · 🍴 2,905 · 📈 364 stars today",
+      "meta": "Java · ★ 26,656 · 🍴 2,906 · 📈 360 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI驱动的数据库管理工具与SQL客户端，支持MySQL、Oracle、PostgreSQL等主流数据库，内置自然语言查询、智能SQL生成功能，提升数据库操作效率。"
+      "summary": "Chat2DB是一款AI驱动的数据库管理工具和SQL客户端，支持MySQL、Oracle、PostgreSQL等多种数据库，集成AI功能辅助SQL编写和数据分析，提升数据库操作效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "excerpt": "Simple, unified interface to multiple Generative AI providers",
-      "meta": "Python · ★ 15,213 · 🍴 1,614 · 📈 75 stars today",
+      "meta": "Python · ★ 15,215 · 🍴 1,614 · 📈 77 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "由吴恩达团队开发的统一生成式AI接口，支持一键切换OpenAI、Anthropic、Google等多家模型提供商，简化多模型调用和比较。"
+      "summary": "AISuite提供统一的API接口，简化对接多个生成式AI提供商（如OpenAI、Anthropic等）的流程，开发者只需一套代码即可切换不同模型，降低集成成本。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 233,290 · 🍴 35,568 · 📈 364 stars today",
+      "meta": "JavaScript · ★ 233,297 · 🍴 35,568 · 📈 377 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "针对AI代理的性能优化系统，提供技能、本能记忆、安全与研发优先开发能力，兼容Claude Code、Codex、Cursor等工具，提升代理执行效率。"
+      "summary": "ECC是一个AI agent性能优化系统，涵盖技能、本能、记忆、安全等模块，以研究优先理念开发，专为Claude Code、Codex等agent工具设计，提升agent执行效率和稳定性。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -273,6 +273,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "反思一下为什么我的开源项目没有做好",
+      "url": "https://www.v2ex.com/t/1229772",
+      "excerpt": "15 回复 · 程序员 节点",
+      "publishedAt": "2026-07-25T12:21:12.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "使用 kkRepo 搭建 Python PyPI 私服",
       "url": "https://www.v2ex.com/t/1223016",
       "excerpt": "14 回复 · Python 节点",
@@ -345,15 +354,6 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "反思一下为什么我的开源项目没有做好",
-      "url": "https://www.v2ex.com/t/1229772",
-      "excerpt": "11 回复 · 程序员 节点",
-      "publishedAt": "2026-07-25T12:21:12.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "AI 能用来全自动化解决 Linux 系统问题吗？",
       "url": "https://www.v2ex.com/t/1224792",
       "excerpt": "11 回复 · Linux 节点",
@@ -410,130 +410,119 @@
       "sourceId": "hackernews",
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "excerpt": "860 points · 404 comments",
+      "excerpt": "865 points · 406 comments",
       "publishedAt": "2026-07-25T06:57:14.000Z",
       "category": "tech",
-      "score": 860,
+      "score": 865,
       "source": "Hacker News",
-      "summary": "Android 可能即将限制设备端 ADB 使用，引发开发者关于调试权限和安全性的讨论。"
+      "summary": "Android 可能很快限制设备端 ADB（Android Debug Bridge），影响开发者通过 USB 或无线调试的方式，获得 865 分讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Stolen Buttons",
       "url": "https://anatolyzenkov.com/stolen-buttons",
-      "excerpt": "517 points · 120 comments",
+      "excerpt": "528 points · 123 comments",
       "publishedAt": "2026-07-20T09:23:42.000Z",
       "category": "tech",
-      "score": 517,
-      "source": "Hacker News",
-      "summary": "文章讨论界面设计中被忽略的按钮元素，揭示其易用性与美观之间的矛盾。"
+      "score": 528,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Open-weight AI is having its Kubernetes moment",
       "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "excerpt": "287 points · 232 comments",
+      "excerpt": "297 points · 239 comments",
       "publishedAt": "2026-07-25T14:49:49.000Z",
       "category": "tech",
-      "score": 287,
+      "score": 297,
       "source": "Hacker News",
-      "summary": "开放权重 AI 正经历类似 Kubernetes 的标准化和生态整合时刻，讨论其发展路径与挑战。"
+      "summary": "开放权重 AI 领域正经历类似 Kubernetes 早期的时刻：工具链碎片化、标准化需求上升，Mistral 等公司面临竞争，获 297 分。"
     },
     {
       "sourceId": "hackernews",
       "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
       "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-      "excerpt": "256 points · 79 comments",
+      "excerpt": "269 points · 85 comments",
       "publishedAt": "2026-07-22T15:29:44.000Z",
       "category": "tech",
-      "score": 256,
+      "score": 269,
       "source": "Hacker News",
-      "summary": "亚马逊雨林架设树冠桥，保障野生动物安全穿越道路，实现15000次穿越且零路杀。"
+      "summary": "亚马逊雨林通过树冠桥梁实现 15000 次野生动物安全穿越，达到零路杀，生态保护成效显著，获 269 分。"
     },
     {
       "sourceId": "hackernews",
       "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
       "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
-      "excerpt": "233 points · 18 comments",
+      "excerpt": "238 points · 18 comments",
       "publishedAt": "2026-07-22T18:09:26.000Z",
       "category": "tech",
-      "score": 233,
+      "score": 238,
       "source": "Hacker News",
-      "summary": "开发者分享为小型手持设备构建微型 3D 渲染器的技术实现细节与优化经验。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "How My Images Are Dithered",
-      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-      "excerpt": "210 points · 73 comments",
-      "publishedAt": "2026-07-22T13:00:29.000Z",
-      "category": "tech",
-      "score": 210,
-      "source": "Hacker News",
-      "summary": "介绍作者对图片进行抖动处理的算法与实现，探讨图像滤镜技术的应用。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Bitchat is now on Radicle",
-      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-      "excerpt": "190 points · 117 comments",
-      "publishedAt": "2026-07-25T13:18:49.000Z",
-      "category": "tech",
-      "score": 190,
-      "source": "Hacker News",
-      "summary": "去中心化聊天应用 Bitchat 现已在 Radicle 网络上线，借助 P2P 协议为用户提供服务。"
+      "summary": "开发者为一款小型手持设备从头构建微型 3D 渲染器，技术细节分享引发关注，获 238 分。"
     },
     {
       "sourceId": "hackernews",
       "title": "Did They Ghost You?",
       "url": "https://didtheyghostyou.com/",
-      "excerpt": "167 points · 57 comments",
+      "excerpt": "212 points · 83 comments",
       "publishedAt": "2026-07-25T20:18:03.000Z",
       "category": "tech",
-      "score": 167,
+      "score": 212,
       "source": "Hacker News",
-      "summary": "一个在线工具，用于检测或验证对方是否已读不回（ghosting），帮助用户判断社交状态。"
+      "summary": "一个名为「Did They Ghost You?」的工具或服务，帮助用户检测是否被对方忽略（ghost），在 HN 上获 212 分。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How My Images Are Dithered",
+      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+      "excerpt": "212 points · 73 comments",
+      "publishedAt": "2026-07-22T13:00:29.000Z",
+      "category": "tech",
+      "score": 212,
+      "source": "Hacker News",
+      "summary": "作者详细解释其图像抖动处理（dithering）的技术原理与实现方式，获 212 分。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Bitchat is now on Radicle",
+      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+      "excerpt": "200 points · 122 comments",
+      "publishedAt": "2026-07-25T13:18:49.000Z",
+      "category": "tech",
+      "score": 200,
+      "source": "Hacker News",
+      "summary": "去中心化聊天应用 Bitchat 上线 Radicle 网络，利用 Radicle 的 P2P 协议实现无服务器消息传递，获 200 分。"
     },
     {
       "sourceId": "hackernews",
       "title": "The growing vigilante movement to knock out Flock surveillance cameras",
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-      "excerpt": "160 points · 82 comments",
+      "excerpt": "166 points · 91 comments",
       "publishedAt": "2026-07-25T19:02:17.000Z",
       "category": "tech",
-      "score": 160,
+      "score": 166,
       "source": "Hacker News",
-      "summary": "美国兴起民间反抗运动，通过物理破坏非法拆除 Flock 监控摄像头，引发隐私与公共安全争议。"
+      "summary": "美国兴起民间自组织运动，通过破坏 Flock 监控摄像头抗议车牌识别监控扩张，获 166 分。"
     },
     {
       "sourceId": "hackernews",
       "title": "The Dark Night of Mathematics",
       "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-      "excerpt": "154 points · 173 comments",
+      "excerpt": "160 points · 181 comments",
       "publishedAt": "2026-07-25T15:54:59.000Z",
       "category": "tech",
-      "score": 154,
+      "score": 160,
       "source": "Hacker News",
-      "summary": "探讨数学在当代面临的认知危机与深层困境，引发对数学本质和未来发展的思考。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Fly.io CEO Kurt Mackey is stepping down",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-      "excerpt": "122 points · 75 comments",
-      "publishedAt": "2026-07-25T20:43:11.000Z",
-      "category": "tech",
-      "score": 122,
-      "source": "Hacker News"
+      "summary": "一篇探讨数学领域当前困境或「黑暗时期」的文章，内容涉及数学研究的方向与挑战，获 160 分。"
     },
     {
       "sourceId": "hackernews",
       "title": "The new rules of context engineering for Claude 5 generation models",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "excerpt": "113 points · 61 comments",
+      "excerpt": "124 points · 74 comments",
       "publishedAt": "2026-07-25T20:42:35.000Z",
       "category": "tech",
-      "score": 113,
+      "score": 124,
       "source": "Hacker News"
     },
     {
@@ -543,7 +532,7 @@
       "excerpt": "Hi HN, I made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the",
       "publishedAt": "2026-07-24T18:37:06.000Z",
       "category": "tech",
-      "score": 108,
+      "score": 113,
       "source": "Hacker News"
     },
     {
@@ -553,67 +542,77 @@
       "excerpt": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.I made https:&#x2F;&#x2F;brolly.sh, a minimalist, plain text weather forecasting site",
       "publishedAt": "2026-07-25T17:34:34.000Z",
       "category": "tech",
-      "score": 103,
+      "score": 110,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
       "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "excerpt": "75 points · 20 comments",
+      "excerpt": "90 points · 27 comments",
       "publishedAt": "2026-07-25T21:48:22.000Z",
       "category": "tech",
-      "score": 75,
+      "score": 90,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
       "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "excerpt": "74 points · 43 comments",
+      "excerpt": "80 points · 50 comments",
       "publishedAt": "2026-07-25T19:30:24.000Z",
       "category": "tech",
-      "score": 74,
+      "score": 80,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Bringing PyTorch Monarch to AMD GPUs",
       "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-      "excerpt": "58 points · 6 comments",
+      "excerpt": "59 points · 6 comments",
       "publishedAt": "2026-07-25T15:55:27.000Z",
       "category": "tech",
-      "score": 58,
+      "score": 59,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "General Resolution: LLM Usage in Debian",
       "url": "https://www.debian.org/vote/2026/vote_002",
-      "excerpt": "36 points · 16 comments",
+      "excerpt": "47 points · 36 comments",
       "publishedAt": "2026-07-25T19:44:39.000Z",
       "category": "tech",
-      "score": 36,
+      "score": 47,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Kimi K3 built a Windows XP in browser",
       "url": "https://windows-xp.kimi.site/",
-      "excerpt": "34 points · 17 comments",
+      "excerpt": "43 points · 22 comments",
       "publishedAt": "2026-07-25T22:03:22.000Z",
       "category": "tech",
-      "score": 34,
+      "score": 43,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "excerpt": "42 points · 4 comments",
+      "publishedAt": "2026-07-25T18:59:50.000Z",
+      "category": "tech",
+      "score": 42,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "SIMD for Collision",
       "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
-      "excerpt": "28 points · 6 comments",
+      "excerpt": "35 points · 6 comments",
       "publishedAt": "2026-07-22T21:09:59.000Z",
       "category": "tech",
-      "score": 28,
+      "score": 35,
       "source": "Hacker News"
     },
     {
@@ -623,27 +622,17 @@
       "excerpt": "Yorishiro is an open source project that gives Claude Code &#x2F; Codex a body-like anime character. The name “Yorishiro” in Japanese means an object inhabited by spirit.My first idea started comunicating with AI agent long time by terminal is very tired. Because AI agent is no face, no expression, ",
       "publishedAt": "2026-07-22T15:33:16.000Z",
       "category": "tech",
-      "score": 28,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "excerpt": "27 points · 0 comments",
-      "publishedAt": "2026-07-25T18:59:50.000Z",
-      "category": "tech",
-      "score": 27,
+      "score": 33,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Multicast TV Distribution on My Home Network",
       "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
-      "excerpt": "22 points · 4 comments",
+      "excerpt": "30 points · 5 comments",
       "publishedAt": "2026-07-25T20:55:12.000Z",
       "category": "tech",
-      "score": 22,
+      "score": 30,
       "source": "Hacker News"
     },
     {
@@ -653,55 +642,65 @@
       "excerpt": "I like writing Markdown, but do not like writing it inside a plain textarea.I wanted something I could use anywhere by dropping in a single web component:```&lt;writemark-editor name=&quot;body&quot;&gt;&lt;&#x2F;writemark-editor&gt;```That became Writemark.It renders Markdown while you write, but M",
       "publishedAt": "2026-07-25T20:18:54.000Z",
       "category": "tech",
-      "score": 18,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Show HN: Minesweeper Raycasted",
-      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "excerpt": "15 points · 10 comments",
-      "publishedAt": "2026-07-25T19:39:12.000Z",
-      "category": "tech",
-      "score": 15,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Clinical Failure Rates over the Decades: Yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-      "excerpt": "8 points · 4 comments",
-      "publishedAt": "2026-07-25T22:57:17.000Z",
-      "category": "tech",
-      "score": 8,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Show HN: GeoChess – open-source geography strategy game",
-      "url": "https://geochess.org",
-      "excerpt": "The rules are really simple. Players take turns claiming a country that shares a land border with the current one. You lose if you have no valid moves left.I&#x27;d appreciate any feedback.Source code: https:&#x2F;&#x2F;github.com&#x2F;spider-hand&#x2F;GeoChess",
-      "publishedAt": "2026-07-20T07:27:44.000Z",
-      "category": "tech",
-      "score": 4,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "As Supreme Court decisions grow sharper, study examines justices’ concessions",
-      "url": "https://www.umass.edu/news/article/supreme-court-decisions-grow-sharper-study-examines-justices-calculated-concessions",
-      "excerpt": "3 points · 0 comments",
-      "publishedAt": "2026-07-25T22:57:11.000Z",
-      "category": "tech",
-      "score": 3,
+      "score": 23,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "What is happening to jobs? Separating AI hype from reality",
       "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "excerpt": "3 points · 0 comments",
+      "excerpt": "20 points · 16 comments",
       "publishedAt": "2026-07-25T22:51:10.000Z",
+      "category": "tech",
+      "score": 20,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Clinical Failure Rates over the Decades: Yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "excerpt": "15 points · 9 comments",
+      "publishedAt": "2026-07-25T22:57:17.000Z",
+      "category": "tech",
+      "score": 15,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "excerpt": "6 points · 0 comments",
+      "publishedAt": "2026-07-25T23:32:50.000Z",
+      "category": "tech",
+      "score": 6,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "excerpt": "6 points · 0 comments",
+      "publishedAt": "2026-07-25T21:19:42.000Z",
+      "category": "tech",
+      "score": 6,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
+      "url": "https://github.com/alokdhir/spinwin",
+      "excerpt": "SpinWin is an open source menu bar app to visually rotate any individual window. You can rotate &#x2F; spin as many as you want one by one.I was scrolling reels when one came on where the content creator suggested &quot;turning the phone upside down&quot; for a portion. I was sitting at my mac, and ",
+      "publishedAt": "2026-07-25T17:29:55.000Z",
+      "category": "tech",
+      "score": 3,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "excerpt": "3 points · 0 comments",
+      "publishedAt": "2026-07-25T22:50:49.000Z",
       "category": "tech",
       "score": 3,
       "source": "Hacker News"
@@ -772,6 +771,15 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "Maybe we should revisit microkernels",
+      "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-25T22:13:07.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
       "excerpt": "Comments",
@@ -785,15 +793,6 @@
       "url": "https://youtube.com/watch?v=ebqKYLKjL6U",
       "excerpt": "Comments",
       "publishedAt": "2026-07-25T16:08:48.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "Maybe we should revisit microkernels",
-      "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-25T22:13:07.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -880,6 +879,15 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "Languages as designed latent spaces",
+      "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-25T15:13:27.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Delightful integration tests in Rust",
       "url": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
       "excerpt": "Comments",
@@ -898,10 +906,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Languages as designed latent spaces",
-      "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+      "title": "Microformats – building blocks for data-rich web pages",
+      "url": "https://microformats.org/",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-25T15:13:27.000Z",
+      "publishedAt": "2026-07-25T01:34:26.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -911,15 +919,6 @@
       "url": "https://lwn.net/Articles/1081696/",
       "excerpt": "Comments",
       "publishedAt": "2026-07-25T09:59:40.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "Microformats – building blocks for data-rich web pages",
-      "url": "https://microformats.org/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-25T01:34:26.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -1849,7 +1848,7 @@
       "publishedAt": "2026-07-24T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 当日报道涉及 ChatGPT Health 医疗应用、Fugu-Ultra 1.1 模型以及 Runway Media Router 媒体路由器的更新或发布。"
+      "summary": "TLDR AI简报提及ChatGPT Health、Fugu-Ultra 1.1和Runway Media Router三项更新，暂无更多细节。"
     },
     {
       "sourceId": "tldr-ai",
@@ -2030,7 +2029,7 @@
       "publishedAt": "2026-07-25T07:25:38.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Anthropic 发布 Claude Opus 5，性能达到 Fable 级别，但价格仅为 Fable 的一半，体现了其在模型蒸馏方面的优势。"
+      "summary": "Anthropic发布Claude Opus 5模型，性能达到Fable水平，但价格仅为Opus价格（Fable的一半），凸显其蒸馏技术优势。"
     },
     {
       "sourceId": "latent-space",
@@ -2040,7 +2039,7 @@
       "publishedAt": "2026-07-24T04:30:12.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Black Forest Labs 推出 FLUX 3 多模态流模型，性能超越 Seedance 2.0、Gemini Omni 和 Grok Imagine，并发布了 FLUX-mimic 视频动作机器人模型。"
+      "summary": "Black Forest Labs发布FLUX 3多模态流模型，性能超越Seedance 2.0、Gemini Omni和Grok Imagine，并推出FLUX-mimic视频动作机器人模型，被视为重大胜利。"
     },
     {
       "sourceId": "latent-space",
@@ -2050,7 +2049,7 @@
       "publishedAt": "2026-07-23T05:18:47.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Laguna S 2.1 版本发布，价格低于 Deepseek v4 Flash，性能优于 V4 Pro，被认为是 Neolab 的一次重要胜利。"
+      "summary": "Laguna S 2.1正式发布，定价低于DeepSeek v4 Flash，性能超越V4 Pro，Neolab再获突破。"
     },
     {
       "sourceId": "latent-space",
@@ -2213,7 +2212,7 @@
       "publishedAt": "2026-07-23T12:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "新药开发耗时昂贵且易失败，多数候选分子无法进入临床。AI 正帮助科学家设计下一代药物，特别是针对生物制剂等复杂疗法加速研发进程。"
+      "summary": "AI正帮助科学家设计下一代药物。传统药物开发耗时昂贵且失败率高，多数候选分子无法上市，AI有望加速这一过程。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2305,7 +2304,7 @@
       "category": "tech",
       "meta": "@Gyome1_ · 3.9K 粉丝 · 220.0K 阅 · 504 赞 · 65 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "发布 Graph Engineering 完全手册，避免将 Claude Code 当作昂贵实习生：通过图形化工程方法实现多任务协作与自动决策，提升代码生成杠杆效率。"
+      "summary": "分享Claude Code的图工程（Graph Engineering）工作手册，指出多数人将其当作昂贵实习生，单任务等待；高效团队通过图结构工作流设计获得更大杠杆，强调任务间的依赖与并行。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2316,7 +2315,7 @@
       "category": "tech",
       "meta": "@satyanadella · 7.5M 粉丝 · 153.7K 阅 · 923 赞 · 114 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "思考软件首次拥有真实边际成本时如何扩散前沿利益，提出优化「成本-结果前沿」是让生态系统共享红利的关键。"
+      "summary": "微软CEO探讨软件边际成本首次趋近零的时代，如何确保前沿AI红利扩散至整个生态，关键在于优化成本-效果曲线（cost-to-outcome frontier），推动普惠与可控。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2327,7 +2326,7 @@
       "category": "tech",
       "meta": "@eptwts · 116.8K 粉丝 · 140.0K 阅 · 514 赞 · 28 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "批评自托管代理仅被视为一次性编码工具：每次会话结束后用户学习信息即丢失。暗示需要持久化记忆系统才能真正改变使用体验。"
+      "summary": "批评自托管agent被当作一次性编码工具，会话结束即遗忘；提出一套持续学习系统，能保留用户偏好和上下文，让agent真正改变工作方式，而非每次从零开始。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2338,7 +2337,7 @@
       "category": "tech",
       "meta": "@Letta_AI · 9.8K 粉丝 · 86.5K 阅 · 504 赞 · 31 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Letta_AI 推出开源包 Trajectory，统一标准化 Claude Code、Codex、LangChain 等多平台的编码代理会话数据格式，便于分析与互操作。"
+      "summary": "Letta AI推出开源包trajectory，统一标准化来自Claude Code、Codex、LangChain等主流编码agent的会话数据格式，便于跨工具分析、复现与协作。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2349,7 +2348,7 @@
       "category": "tech",
       "meta": "@dexhorthy · 23.8K 粉丝 · 64.9K 阅 · 515 赞 · 50 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分析软件工厂失败原因：仅靠「约束」不够，需关注 AI 编码投入生产时的系统设计、协作与循环迭代等常见坑点。"
+      "summary": "分析AI编码进入生产时软件工厂模式失败的原因：仅仅依赖工具框架（harness）不够，需要更深入的迭代循环和持续反馈，才能真正落地。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2360,7 +2359,7 @@
       "category": "tech",
       "meta": "@trq212 · 318.0K 粉丝 · 48.6K 阅 · 1.2K 赞 · 119 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "为 Claude 5 模型制定上下文工程新规则：强调迭代式探索，指出发送消息时的上下文构建方式直接影响模型的理解与输出质量。"
+      "summary": "针对Claude 5模型提出新一代上下文工程规则，强调通过迭代式对话逐步明确需求，而非单次提示；利用模型长上下文能力进行探索性构建。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2371,7 +2370,7 @@
       "category": "tech",
       "meta": "@pvncher · 30.4K 粉丝 · 44.0K 阅 · 565 赞 · 33 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "实战演示 Codex 多代理编排：GPT-5.6 Sol 团队协作效果更佳，Multi-Agent V2 工具让 Sol 和 Terra 自然分工、共享更新并协调任务。"
+      "summary": "实战展示Codex新Multi-Agent V2工具的多智能体编排：Sol和Terra通过任务委托、共享更新和协调完成复杂工作流，提升代码生成效率。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2382,7 +2381,7 @@
       "category": "tech",
       "meta": "@derrickcchoi · 9.1K 粉丝 · 40.1K 阅 · 516 赞 · 31 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "ChatGPT 桌面版新增语音功能，支持 Work 和 Codex 使用。作者感叹终于可以像钢铁侠与 Jarvis 对话一样自然地与 ChatGPT 交流。"
+      "summary": "ChatGPT桌面版语音功能上线Work和Codex，博主描述像托尼·斯塔克与贾维斯对话般自然流畅，彻底改变与AI的交互体验。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2393,7 +2392,7 @@
       "category": "tech",
       "meta": "@leerob · 272.8K 粉丝 · 32.9K 阅 · 550 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "以人类学习类比解释 AI 模型如何习得新技能：通过「同事」帮助和迭代训练，过程直观易懂，即使没有机器学习背景也能理解。"
+      "summary": "Vercel的leerob以通俗方式解释AI模型如何学习新技能和行为：类比人类协作，通过标注数据、微调与反馈循环，即使非技术背景也能理解。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2404,7 +2403,7 @@
       "category": "tech",
       "meta": "@OptimaiNetwork · 99.3K 粉丝 · 6.1K 阅 · 509 赞 · 112 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "在 BNB Chain 上构建代理经济下一层：重点从打造更强代理转向实现代理间的经济协作与价值交换，推动自主系统商业化。"
+      "summary": "在BNB Chain上构建代理经济下一层，AI已从聊天界面演进为自主推理行动系统，新挑战不再是打造更强大代理，而是协调、基础设施与信任机制。"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -3521,7 +3520,7 @@
       "publishedAt": "2026-07-25T08:49:50.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "法国和西班牙失控野火逼近马德里和波尔多都市区（合计超800万人口），超25万人撤离城镇村庄。"
+      "summary": "法西两国超过25万人因失控野火撤离，火势逼近马德里和波尔多等大都市区，两城合计人口超800万。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3531,7 +3530,7 @@
       "publishedAt": "2026-07-25T13:00:01.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "所谓「特朗普交易」在股市中表现不佳。特朗普赢得第二个任期后，交易员曾急于寻找受益于其激进经济政策的股票。"
+      "summary": "随着特朗普再次当选，交易员纷纷寻找受益股，但“特朗普交易”在股市中表现不佳，部分相关股票走势低于预期。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3541,7 +3540,7 @@
       "publishedAt": "2026-07-25T12:00:01.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "奥斯汀市长着手解决住房可负担性问题，加拿大面临新关税。前贸易谈判代表警告不要低估加拿大的愤怒。"
+      "summary": "奥斯汀市长着手解决住房可负担性问题；同时加拿大人对新关税表示强烈不满，前贸易谈判代表警告不要低估加拿大愤怒。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3551,7 +3550,7 @@
       "publishedAt": "2026-07-25T11:41:32.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "高温炙烤美国中部，从落基山脉到密西西比河区域电力需求上升，东部地区则保持凉爽。高温预计持续至月底并蔓延至墨西哥湾沿岸。"
+      "summary": "高温天气炙烤美国中部，从落基山脉到密西西比河，将考验地区电网，能源需求上升，而东部地区保持凉爽。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3561,7 +3560,7 @@
       "publishedAt": "2026-07-25T11:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "大型科技公司对人工智能投资的巨大需求引发持续债券发行潮，对美国公司债市场影响超出表面所见。"
+      "summary": "大型科技公司为AI投资大量发债，对美债市场产生显著影响，债券发行浪潮持续主导风险情绪。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3580,7 +3579,7 @@
       "publishedAt": "2026-07-25T09:07:34.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "乌克兰能源部长丹尼斯·什米哈尔表示，乌克兰寻求与加拿大签署为期30年的战略能源协议，提议建立以加拿大液化天然气供应为核心的「能源安全桥」。"
+      "summary": "乌克兰能源部长表示，乌克兰希望与加拿大签署30年战略能源协议，提议建设“能源安全桥梁”，重点关注加拿大液化天然气供应。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3590,7 +3589,7 @@
       "publishedAt": "2026-07-25T08:53:45.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "一艘悬挂香港旗的超大型油轮原定前往沙特红海港口延布，在抵达曼德海峡前掉头。胡塞武装近期在该处对与沙特相关船只发动封锁袭击。"
+      "summary": "一艘驶往沙特延布港的中国香港籍超级油轮在抵达曼德海峡前掉头，因胡塞武装近期对与沙特相关的船只发动封锁攻击。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3825,7 +3824,7 @@
       "publishedAt": "2026-07-25T19:33:15.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "美国资深民主党人表示，特朗普政府加剧芯片短缺。苹果希望获准向一家被列入黑名单的中国公司采购半导体，因人工智能需求激增。"
+      "summary": "美国一位民主党高层批评特朗普政府政策加剧芯片短缺。苹果公司因AI需求激增，寻求获得从被制裁中国公司购买半导体的许可。"
     },
     {
       "sourceId": "ft-companies",
@@ -3835,7 +3834,7 @@
       "publishedAt": "2026-07-25T11:00:09.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "与肯尼迪运动相关的公司有望从政府卫生监管改革中受益，多个行业成为早期赢家。"
+      "summary": "在卫生监管改革中，与肯尼迪运动相关的企业成为早期赢家，涉及多个行业的“马哈公司”有望从政府政策中获益。"
     },
     {
       "sourceId": "ft-companies",
@@ -3845,7 +3844,7 @@
       "publishedAt": "2026-07-25T09:22:40.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "一名加拿大籍华裔实习生在北约军事总部因涉嫌间谍活动被捕。比利时官员表示行动未受影响。"
+      "summary": "比利时当局拘留一名华裔加拿大公民，其涉嫌在北约军事总部从事间谍活动。官员称行动未受影响。"
     },
     {
       "sourceId": "ft-companies",
@@ -3855,7 +3854,7 @@
       "publishedAt": "2026-07-25T08:44:03.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "黑石、KKR和布鲁克菲尔德以160亿美元收购科威特管道股权，是该海湾国家史上最大外国投资。科威特正寻求筹集资金以应对伊朗攻击。"
+      "summary": "黑石、KKR和Brookfield等机构以160亿美元收购科威特管道股份，这是该国最大外资投资，科威特正因伊朗袭击而寻求筹集资金。"
     },
     {
       "sourceId": "ft-companies",
@@ -3864,8 +3863,7 @@
       "excerpt": "Also in today’s newsletter: the new-look Hundred returns and the Commonwealth Games fight for relevance",
       "publishedAt": "2026-07-25T08:00:08.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "探讨谁有意收购足球俱乐部。此外，新版百球赛回归，英联邦运动会争取存在意义。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -4229,6 +4227,16 @@
     },
     {
       "sourceId": "bbc-business",
+      "title": "Rental searches for pet friendly properties drop after law change",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+      "publishedAt": "2026-07-26T00:00:49.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "英国租赁市场改革后，宠物友好型房产搜索量下降。中介表示，部分租户误解新规，认为带宠物入住的许可已获保障。"
+    },
+    {
+      "sourceId": "bbc-business",
       "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
       "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
       "excerpt": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
@@ -4485,15 +4493,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
       "excerpt": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
       "publishedAt": "2026-07-12T23:29:06.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
-      "publishedAt": "2026-07-08T23:11:35.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
