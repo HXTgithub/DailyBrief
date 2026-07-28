@@ -6,159 +6,150 @@
       "title": "permissionlesstech/bitchat",
       "url": "https://github.com/permissionlesstech/bitchat",
       "excerpt": "bluetooth mesh chat, IRC vibes",
-      "meta": "Swift · ★ 32,196 · 🍴 5,053 · 📈 2,344 stars today",
+      "meta": "Swift · ★ 32,264 · 🍴 5,060 · 📈 2,346 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于蓝牙Mesh的分布式聊天应用，无需互联网或服务器，支持点对点加密通信，模拟IRC风格。适合局域网内或离线场景下安全聊天，可用于户外活动、灾难应急等环境。"
+      "summary": "基于蓝牙Mesh的即时通讯应用，风格类似IRC，无需互联网即可在设备间通信。适合户外、应急等离线场景，提供去中心化的聊天体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "amnezia-vpn/amnezia-client",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "excerpt": "Amnezia VPN Client (Desktop+Mobile)",
-      "meta": "C++ · ★ 13,782 · 🍴 1,030 · 📈 515 stars today",
+      "meta": "C++ · ★ 13,814 · 🍴 1,031 · 📈 515 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Amnezia VPN的多平台客户端（桌面+移动），提供开源、可自建的VPN连接方案。支持多种协议，注重隐私与抗审查，适合需要安全上网和绕过封锁的用户。"
+      "summary": "Amnezia VPN客户端，跨平台支持桌面和移动端。基于开源协议，用户可自建VPN服务，保护隐私并规避网络审查，适合注重安全的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "excerpt": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "meta": "TypeScript · ★ 43,997 · 🍴 4,392 · 📈 554 stars today",
+      "meta": "TypeScript · ★ 44,028 · 🍴 4,396 · 📈 572 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管的AI伴侣（waifu），追求类似Neuro-sama的实时交互能力。支持实时语音聊天、Minecraft集成等，用户可私有化部署，打造属于自己的虚拟生命体。"
+      "summary": "自托管的AI伴侣项目，类似Grok，具备实时语音对话、Minecraft集成等功能。通过容器化部署，创造具有个性的虚拟生命，追求Neuro-sama级别的交互体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "opengeos/GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
       "excerpt": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "meta": "TypeScript · ★ 2,644 · 🍴 350 · 📈 420 stars today",
+      "meta": "TypeScript · ★ 2,683 · 🍴 353 · 📈 420 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量级云原生GIS平台，用于地理空间数据的可视化、探索与分析。支持浏览器、桌面、移动端及Jupyter notebook，无需部署即可运行，适合地理信息从业者和研究人员。"
+      "summary": "轻量级云原生GIS平台，支持在浏览器、桌面、移动端和Jupyter notebook中可视化、探索与分析地理空间数据。无需安装，即开即用，适合地理信息从业者。"
     },
     {
       "sourceId": "github-trending",
       "title": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
       "excerpt": "Pretty fancy and modern terminal file manager",
-      "meta": "Go · ★ 20,851 · 🍴 676 · 📈 600 stars today",
+      "meta": "Go · ★ 20,887 · 🍴 677 · 📈 600 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一款外观精美、现代化的终端文件管理器，提供高效的文件操作界面和丰富的快捷键。适合在终端环境下工作的开发者，提升文件浏览与管理的效率。"
+      "summary": "现代化终端文件管理器，界面美观且功能丰富。提供文件浏览、搜索、预览等操作，显著提升命令行下的文件管理效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "excerpt": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "meta": "Python · ★ 58,143 · 🍴 11,580 · 📈 349 stars today",
+      "meta": "Python · ★ 58,178 · 🍴 11,584 · 📈 362 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "多平台社交媒体爬虫，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等。可抓取笔记、视频、帖子及评论，用于数据采集、舆情分析或内容备份。"
+      "summary": "多平台社交媒体内容爬虫，支持小红书、抖音、快手、B站、微博、贴吧、知乎等。可采集笔记、视频、评论等数据，适用于内容分析和舆情监测。"
     },
     {
       "sourceId": "github-trending",
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "excerpt": "The design language that makes your AI harness better at design.",
-      "meta": "JavaScript · ★ 51,502 · 🍴 3,039 · 📈 849 stars today",
+      "meta": "JavaScript · ★ 51,544 · 🍴 3,041 · 📈 847 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套开源设计语言，旨在让AI驱动的工具在界面设计上更加出色。提供组件库和设计规范，帮助开发者快速构建美观、一致的AI应用界面。"
+      "summary": "一种设计语言，为AI生成设计提供统一规范。包含组件库和设计原则，帮助AI输出更专业、一致的设计结果，适合AI驱动设计工具。"
     },
     {
       "sourceId": "github-trending",
       "title": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "excerpt": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "meta": "Python · ★ 34,552 · 🍴 5,792 · 📈 442 stars today",
+      "meta": "Python · ★ 34,562 · 🍴 5,797 · 📈 441 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "金融领域的基础模型（Foundation Model），专门学习金融市场语言。可用于量化分析、交易策略生成、财报理解等场景，为金融AI应用提供底层能力。"
+      "summary": "金融领域的Foundation模型，学习市场语言与模式。可用于量化分析、交易策略生成、风险评估等场景，为金融科技提供AI基础能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "excerpt": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "meta": "Go · ★ 14,744 · 🍴 996 · 📈 980 stars today",
+      "meta": "Go · ★ 14,804 · 🍴 999 · 📈 979 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "阿里巴巴开源的代码审查工具，采用混合架构（确定性流水线+LLM Agent）。支持行级精确评论，内置空指针、线程安全等规则集，已在大规模生产环境验证，适合提升代码质量。"
+      "summary": "阿里巴巴开源的代码审查工具，混合架构（确定性规则引擎+LLM Agent）。提供行级精准评论，内置NPE、线程安全等检查规则，经大规模生产验证。"
     },
     {
       "sourceId": "github-trending",
       "title": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "excerpt": "Jenkins automation server",
-      "meta": "Java · ★ 25,872 · 🍴 9,679 · 📈 179 stars today",
+      "meta": "Java · ★ 25,882 · 🍴 9,680 · 📈 180 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "业界最流行的开源持续集成/持续交付（CI/CD）自动化服务器。支持丰富的插件生态，可自动构建、测试、部署软件，适用于各类开发团队和项目。"
+      "summary": "Jenkins自动化服务器，业界标准的持续集成/持续交付工具。支持数千款插件，可灵活配置构建、测试、部署流水线，是DevOps流程的核心。"
     },
     {
       "sourceId": "github-trending",
       "title": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "excerpt": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "meta": "Python · ★ 11,033 · 🍴 1,140 · 📈 412 stars today",
+      "meta": "Python · ★ 11,082 · 🍴 1,144 · 📈 434 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为Claude AI添加视频理解能力的工具。通过下载视频、提取关键帧、转录语音，再将完整上下文交给Claude分析，可用于视频内容总结、问答等场景。"
+      "summary": "为Claude模型增添视频理解能力。自动下载视频、提取关键帧、转录音频，将完整视频内容交给Claude分析，实现基于视频的问答与交互。"
     },
     {
       "sourceId": "github-trending",
       "title": "vudovn/ag-kit",
       "url": "https://github.com/vudovn/ag-kit",
       "excerpt": "",
-      "meta": "TypeScript · ★ 7,946 · 🍴 1,508 · 📈 5 stars today",
+      "meta": "TypeScript · ★ 7,960 · 🍴 1,510 · 📈 14 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个开源工具包，具体功能未在官方描述中说明，可能涉及Agent或通用工具集。建议查看仓库README以获取详细信息。"
+      "summary": "AG-Kit项目，从名称推测是一个Agent工具包，用于构建和部署AI代理。目前缺少详细描述，具体功能待补充。"
     },
     {
       "sourceId": "github-trending",
       "title": "apache/cassandra",
       "url": "https://github.com/apache/cassandra",
       "excerpt": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
-      "meta": "Java · ★ 9,949 · 🍴 4,004 · 📈 34 stars today",
+      "meta": "Java · ★ 9,960 · 🍴 4,007 · 📈 11 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Apache Cassandra是开源的分布式事务数据库，具备线性扩展能力和高容错性。支持跨数据中心部署，在商用硬件或云上保持高性能，适合海量数据、高写入场景。"
+      "summary": "开源分布式事务数据库，线性可扩展，高容错。适用于大规模数据存储，可在商品硬件或云上部署，性能优秀，是NoSQL领域的经典方案。"
     },
     {
       "sourceId": "github-trending",
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "excerpt": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "meta": "Python · ★ 54,145 · 🍴 4,697 · 📈 221 stars today",
+      "meta": "Python · ★ 54,178 · 🍴 4,700 · 📈 240 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI agent技能，可跨Reddit、X、YouTube、Hacker News、Polymarket及网页研究任意话题，并生成有据可依的摘要。适合快速获取近期热点信息的深度总结。"
+      "summary": "AI代理技能，可跨Reddit、X、YouTube、HN、Polymarket等平台自动研究话题，汇总近30天内容，生成有依据的结构化摘要，适合舆情分析和市场调研。"
     },
     {
       "sourceId": "github-trending",
       "title": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "excerpt": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "meta": "C++ · ★ 75,193 · 🍴 11,969 · 📈 64 stars today",
+      "meta": "C++ · ★ 75,206 · 🍴 11,970 · 📈 51 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Dear ImGui：C++轻量级即时模式GUI库，无多余依赖。专为游戏开发、工具链、调试界面等场景设计，快速迭代原型。"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "最近悟道了，人生本来就没有意义",
-      "url": "https://www.v2ex.com/t/1230230",
-      "excerpt": "38 回复 · 程序员 节点",
-      "publishedAt": "2026-07-27T12:56:50.000Z",
-      "category": "tech",
-      "source": "V2EX"
+      "summary": "Dear ImGui，轻量级C++即时模式GUI库，无外部依赖。广泛用于游戏开发、调试工具、实时应用中的界面构建，追求极简和高效。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -175,15 +166,6 @@
       "url": "https://www.v2ex.com/t/1224588",
       "excerpt": "26 回复 · Python 节点",
       "publishedAt": "2026-07-02T10:48:24.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "要给 intel Macbook Air 升级， m2 16+256 还是 m3 8+256，二选一",
-      "url": "https://www.v2ex.com/t/1229835",
-      "excerpt": "24 回复 · Apple 节点",
-      "publishedAt": "2026-07-26T02:00:59.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -243,6 +225,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "现在在公司里面 vibe coding 到底还落没落地啊",
+      "url": "https://www.v2ex.com/t/1230232",
+      "excerpt": "12 回复 · 程序员 节点",
+      "publishedAt": "2026-07-27T13:25:14.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "哪位朋友帮忙用 mac 测试下我的 Python 脚本",
       "url": "https://www.v2ex.com/t/1226427",
       "excerpt": "12 回复 · Python 节点",
@@ -265,15 +256,6 @@
       "url": "https://www.v2ex.com/t/1191509",
       "excerpt": "12 回复 · Rust 节点",
       "publishedAt": "2026-02-08T07:19:20.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "现在在公司里面 vibe coding 到底还落没落地啊",
-      "url": "https://www.v2ex.com/t/1230232",
-      "excerpt": "11 回复 · 程序员 节点",
-      "publishedAt": "2026-07-27T13:25:14.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -306,6 +288,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "如何才能成功注册 Kliq 用于绑定土区",
+      "url": "https://www.v2ex.com/t/1230123",
+      "excerpt": "10 回复 · Apple 节点",
+      "publishedAt": "2026-07-27T06:37:07.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "Linux 上的游戏网络加速",
       "url": "https://www.v2ex.com/t/1223240",
       "excerpt": "9 回复 · Linux 节点",
@@ -315,10 +306,28 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "mac 的 ac 快到期还有用嘛",
+      "url": "https://www.v2ex.com/t/1229782",
+      "excerpt": "9 回复 · Apple 节点",
+      "publishedAt": "2026-07-25T13:18:09.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "小白求推荐人工智能学习的网课",
       "url": "https://www.v2ex.com/t/1214517",
       "excerpt": "8 回复 · Python 节点",
       "publishedAt": "2026-05-21T13:16:26.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "Zedis：用 Rust 写的 Redis GUI，以及让 AI 帮忙改界面的一点感想",
+      "url": "https://www.v2ex.com/t/1230237",
+      "excerpt": "7 回复 · 程序员 节点",
+      "publishedAt": "2026-07-27T13:35:54.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -360,190 +369,161 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "Linux 输入法求助",
-      "url": "https://www.v2ex.com/t/1229500",
-      "excerpt": "5 回复 · Linux 节点",
-      "publishedAt": "2026-07-24T03:06:31.000Z",
+      "title": "iOS27 开通 gg 卡的 wificalling 失败",
+      "url": "https://www.v2ex.com/t/1230265",
+      "excerpt": "5 回复 · 程序员 节点",
+      "publishedAt": "2026-07-27T17:23:52.000Z",
       "category": "tech",
       "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "如何才能成功注册 Kliq 用于绑定土区",
-      "url": "https://www.v2ex.com/t/1230123",
-      "excerpt": "5 回复 · Apple 节点",
-      "publishedAt": "2026-07-27T06:37:07.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Kimi-K3 on HuggingFace",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "excerpt": "Related: Kimi-K3 Technical Report [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49070985",
-      "publishedAt": "2026-07-27T06:18:10.000Z",
-      "category": "tech",
-      "score": 1298,
-      "source": "Hacker News",
-      "summary": "Moonshot AI 的 Kimi-K3 模型已上传至 HuggingFace，并附带技术报告（PDF），介绍模型架构与性能。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "How is the Bun Rewrite in Rust going?",
-      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "excerpt": "440 points · 333 comments",
-      "publishedAt": "2026-07-27T11:12:26.000Z",
-      "category": "tech",
-      "score": 440,
-      "source": "Hacker News",
-      "summary": "讨论 Bun 运行时用 Rust 重写的当前进展，评估性能、兼容性及社区反馈。"
     },
     {
       "sourceId": "hackernews",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "excerpt": "223 points · 238 comments",
+      "excerpt": "395 points · 528 comments",
       "publishedAt": "2026-07-27T22:03:49.000Z",
       "category": "tech",
-      "score": 223,
+      "score": 395,
       "source": "Hacker News",
-      "summary": "Anthropic 发布对开放权重模型（open-weights models）的正式立场，阐述安全与透明度考量。"
+      "summary": "Anthropic 发布关于开放权重模型的官方立场，讨论开源与安全性之间的平衡。"
     },
     {
       "sourceId": "hackernews",
       "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
       "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "excerpt": "219 points · 80 comments",
+      "excerpt": "251 points · 96 comments",
       "publishedAt": "2026-07-27T18:15:35.000Z",
       "category": "tech",
-      "score": 219,
+      "score": 251,
       "source": "Hacker News",
-      "summary": "美国法官驳回谷歌利用 DMCA 规避数据爬取的法律尝试，认定其行为不适用版权保护。"
+      "summary": "法院否决谷歌以DMCA为由阻止爬虫的企图，裁定其不能利用版权法逃避数据抓取。"
     },
     {
       "sourceId": "hackernews",
       "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
       "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-      "excerpt": "210 points · 153 comments",
+      "excerpt": "221 points · 156 comments",
       "publishedAt": "2026-07-27T09:58:50.000Z",
       "category": "tech",
-      "score": 210,
+      "score": 221,
       "source": "Hacker News",
-      "summary": "（2023）一个项目从代码库中移除 React.js，改用 Htmx 实现 UI 交互性，分享了迁移经验与效果。"
+      "summary": "一个项目分享将前端从React.js迁移到Htmx的经验，探讨简化交互逻辑和减少依赖的实践。"
     },
     {
       "sourceId": "hackernews",
       "title": "MAI-Cyber-1-Flash inside MDASH",
       "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-      "excerpt": "205 points · 107 comments",
+      "excerpt": "215 points · 108 comments",
       "publishedAt": "2026-07-27T16:52:22.000Z",
       "category": "tech",
-      "score": 205,
+      "score": 215,
       "source": "Hacker News",
-      "summary": "微软 AI 推出 MAI-Cyber-1-Flash 模型，并将其集成到 MDASH 平台中，用于安全与网络任务。"
+      "summary": "微软AI推出新模型MAI-Cyber-1-Flash，应用于MDASH平台，专注于网络安全领域。"
     },
     {
       "sourceId": "hackernews",
       "title": "Libsm64: Mario 64 as a library for use in external game engines",
       "url": "https://github.com/libsm64/libsm64",
-      "excerpt": "173 points · 22 comments",
+      "excerpt": "182 points · 21 comments",
       "publishedAt": "2026-07-27T10:04:48.000Z",
       "category": "tech",
-      "score": 173,
+      "score": 182,
       "source": "Hacker News",
-      "summary": "Libsm64 将《超级马里奥64》游戏核心提取为独立库，可供外部游戏引擎直接调用。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Modern email can be built from borrowed parts",
-      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-      "excerpt": "168 points · 98 comments",
-      "publishedAt": "2026-07-27T08:27:21.000Z",
-      "category": "tech",
-      "score": 168,
-      "source": "Hacker News",
-      "summary": "探讨使用现有开源组件（如加密、存储）构建现代电子邮件系统，实现模块化与可扩展性。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "The computer that helped win World War II",
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "excerpt": "164 points · 66 comments",
-      "publishedAt": "2026-07-22T19:40:44.000Z",
-      "category": "tech",
-      "score": 164,
-      "source": "Hacker News",
-      "summary": "IEEE 授予 Colossus 计算机里程碑荣誉，该机在二战中用于破译密码，对战争胜利有重大贡献。"
+      "summary": "Libsm64项目将经典游戏《超级马力欧64》重构为可复用的库，允许开发者在其他引擎中集成游戏逻辑。"
     },
     {
       "sourceId": "hackernews",
       "title": "Paged Out #9 [pdf]",
       "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-      "excerpt": "156 points · 20 comments",
+      "excerpt": "171 points · 21 comments",
       "publishedAt": "2026-07-27T14:22:34.000Z",
       "category": "tech",
-      "score": 156,
+      "score": 171,
       "source": "Hacker News",
-      "summary": "Paged Out 第9期杂志以 PDF 形式发布，收录逆向工程、底层安全及编程相关的短篇技术文章。"
+      "summary": "黑客杂志《Paged Out》发布第9期PDF，内容涵盖逆向工程、编程技巧等社区技术文章。"
     },
     {
       "sourceId": "hackernews",
-      "title": "VLC for Unity now supported on Linux",
-      "url": "https://code.videolan.org/videolan/vlc-unity",
-      "excerpt": "147 points · 44 comments",
-      "publishedAt": "2026-07-27T09:06:34.000Z",
+      "title": "The computer that helped win World War II",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "excerpt": "170 points · 69 comments",
+      "publishedAt": "2026-07-22T19:40:44.000Z",
       "category": "tech",
-      "score": 147,
-      "source": "Hacker News"
+      "score": 170,
+      "source": "Hacker News",
+      "summary": "IEEE授予Colossus计算机里程碑奖，这台早期可编程电子计算机在二战中破译密码，为胜利做出重要贡献。"
     },
     {
       "sourceId": "hackernews",
       "title": "Watching Go's new garbage collector move through the heap",
       "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "excerpt": "144 points · 16 comments",
+      "excerpt": "165 points · 17 comments",
       "publishedAt": "2026-07-25T07:55:19.000Z",
       "category": "tech",
-      "score": 144,
-      "source": "Hacker News"
+      "score": 165,
+      "source": "Hacker News",
+      "summary": "文章通过可视化方式展示Go新版本垃圾回收器的工作原理，对比新旧回收器在堆遍历方面的差异。"
     },
     {
       "sourceId": "hackernews",
       "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
       "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "excerpt": "139 points · 72 comments",
+      "excerpt": "149 points · 82 comments",
       "publishedAt": "2026-07-23T13:08:52.000Z",
       "category": "tech",
-      "score": 139,
-      "source": "Hacker News"
+      "score": 149,
+      "source": "Hacker News",
+      "summary": "研究人员开发出一种新型胶水，可牢固粘附特氟龙等不粘表面，且用乙醇轻松擦除，可重复使用。"
     },
     {
       "sourceId": "hackernews",
       "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
       "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "excerpt": "121 points · 39 comments",
+      "excerpt": "132 points · 44 comments",
       "publishedAt": "2026-07-27T15:08:16.000Z",
       "category": "tech",
-      "score": 121,
-      "source": "Hacker News"
+      "score": 132,
+      "source": "Hacker News",
+      "summary": "安全研究员披露沃尔沃/Eicher车队管理平台的严重漏洞，攻击者可远程控制所有用户账户和车辆。"
     },
     {
       "sourceId": "hackernews",
-      "title": "The Artist Who Colored Ghibli",
-      "url": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
-      "excerpt": "95 points · 9 comments",
-      "publishedAt": "2026-07-27T18:32:09.000Z",
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+      "excerpt": "118 points · 54 comments",
+      "publishedAt": "2026-07-27T23:21:37.000Z",
       "category": "tech",
-      "score": 95,
+      "score": 118,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Self-contained highly-portable Python distributions",
       "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "excerpt": "86 points · 20 comments",
+      "excerpt": "108 points · 21 comments",
       "publishedAt": "2026-07-27T18:43:31.000Z",
       "category": "tech",
-      "score": 86,
+      "score": 108,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "excerpt": "108 points · 63 comments",
+      "publishedAt": "2026-07-27T22:10:15.000Z",
+      "category": "tech",
+      "score": 108,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Forth",
+      "url": "https://xkcd.com/3277/",
+      "excerpt": "101 points · 20 comments",
+      "publishedAt": "2026-07-27T20:15:50.000Z",
+      "category": "tech",
+      "score": 101,
       "source": "Hacker News"
     },
     {
@@ -553,37 +533,27 @@
       "excerpt": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data.Today, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we&#x27;re open-sourcing NoBg, the Python library we built to train and run it.Try the model here: https:&#x2F;&#x2F;huggingface.",
       "publishedAt": "2026-07-27T16:59:08.000Z",
       "category": "tech",
-      "score": 79,
+      "score": 87,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Towards a Theory of Bugs: The Ruliology of the Unexpected",
-      "url": "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/",
-      "excerpt": "61 points · 35 comments",
-      "publishedAt": "2026-07-24T09:30:03.000Z",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "excerpt": "82 points · 18 comments",
+      "publishedAt": "2026-07-27T22:37:52.000Z",
       "category": "tech",
-      "score": 61,
+      "score": 82,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
       "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-      "excerpt": "56 points · 6 comments",
+      "excerpt": "63 points · 8 comments",
       "publishedAt": "2026-07-23T13:10:06.000Z",
       "category": "tech",
-      "score": 56,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Forth",
-      "url": "https://xkcd.com/3277/",
-      "excerpt": "56 points · 10 comments",
-      "publishedAt": "2026-07-27T20:15:50.000Z",
-      "category": "tech",
-      "score": 56,
+      "score": 63,
       "source": "Hacker News"
     },
     {
@@ -593,87 +563,117 @@
       "excerpt": "Hi HN! This is George, Lucas, and Jona from Rise Reforming (https:&#x2F;&#x2F;www.rise-reforming.com&#x2F;). We’re developing a process to convert gas produced at landfills, farms, and wastewater plants (“biogas”) into higher value chemicals. Our technology is modular, designed to be deployed and op",
       "publishedAt": "2026-07-27T19:58:22.000Z",
       "category": "tech",
-      "score": 53,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "A missing underscore sent innocent man to prison for 18 months",
-      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "excerpt": "49 points · 21 comments",
-      "publishedAt": "2026-07-27T22:10:15.000Z",
-      "category": "tech",
-      "score": 49,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "How real are real numbers? (2004)",
-      "url": "https://arxiv.org/abs/math/0411418",
-      "excerpt": "41 points · 30 comments",
-      "publishedAt": "2026-07-27T15:40:17.000Z",
-      "category": "tech",
-      "score": 41,
+      "score": 57,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Securing Services with Rootless Containers",
       "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "excerpt": "37 points · 14 comments",
+      "excerpt": "56 points · 20 comments",
       "publishedAt": "2026-07-23T13:11:30.000Z",
       "category": "tech",
-      "score": 37,
+      "score": 56,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
-      "url": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
-      "excerpt": "36 points · 2 comments",
-      "publishedAt": "2026-07-27T15:10:56.000Z",
+      "title": "How real are real numbers? (2004)",
+      "url": "https://arxiv.org/abs/math/0411418",
+      "excerpt": "49 points · 38 comments",
+      "publishedAt": "2026-07-27T15:40:17.000Z",
       "category": "tech",
-      "score": 36,
+      "score": 49,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "excerpt": "38 points · 9 comments",
+      "publishedAt": "2026-07-27T23:14:19.000Z",
+      "category": "tech",
+      "score": 38,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Bytecode-to-Source Mapping",
       "url": "https://tidefield.dev/bytecode-to-source-mapping/",
-      "excerpt": "29 points · 2 comments",
+      "excerpt": "37 points · 2 comments",
       "publishedAt": "2026-07-27T18:25:21.000Z",
       "category": "tech",
-      "score": 29,
+      "score": 37,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
-      "url": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
-      "excerpt": "21 points · 17 comments",
-      "publishedAt": "2026-07-27T20:53:29.000Z",
+      "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+      "url": "https://hardroad.xyz/",
+      "excerpt": "26 points · 9 comments",
+      "publishedAt": "2026-07-27T22:36:55.000Z",
       "category": "tech",
-      "score": 21,
+      "score": 26,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Building GCC 1.27 (2019)",
-      "url": "http://kristerw.blogspot.com/2019/01/building-gcc-127.html",
-      "excerpt": "8 points · 1 comments",
-      "publishedAt": "2026-07-22T19:05:23.000Z",
+      "title": "C/C++ projects packaged for Zig",
+      "url": "https://github.com/allyourcodebase",
+      "excerpt": "20 points · 9 comments",
+      "publishedAt": "2026-07-27T23:09:50.000Z",
       "category": "tech",
-      "score": 8,
+      "score": 20,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+      "url": "https://www.dowe.dev",
+      "excerpt": "18 points · 19 comments",
+      "publishedAt": "2026-07-27T23:26:05.000Z",
+      "category": "tech",
+      "score": 18,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "excerpt": "18 points · 2 comments",
+      "publishedAt": "2026-07-27T23:19:19.000Z",
+      "category": "tech",
+      "score": 18,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Colorblind: Checking figure accessibility for colour blind people",
       "url": "https://quantixed.org/2022/05/19/colorblind-checking-figure-accessibility-for-colour-blind-people/",
-      "excerpt": "6 points · 0 comments",
+      "excerpt": "10 points · 8 comments",
       "publishedAt": "2026-07-23T20:59:42.000Z",
       "category": "tech",
-      "score": 6,
+      "score": 10,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "excerpt": "8 points · 2 comments",
+      "publishedAt": "2026-07-27T23:46:15.000Z",
+      "category": "tech",
+      "score": 8,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Three Theses on the Literacy Crisis",
+      "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
+      "excerpt": "3 points · 0 comments",
+      "publishedAt": "2026-07-25T18:05:59.000Z",
+      "category": "tech",
+      "score": 3,
       "source": "Hacker News"
     },
     {
@@ -742,6 +742,15 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
+      "url": "https://btxx.org/posts/self-hosted-openbsd/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-27T22:27:54.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Open Source Must Be Fun (Or It Will Die)",
       "url": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
       "excerpt": "Comments",
@@ -769,10 +778,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "title": "Quick & Easy Parser Combinators",
+      "url": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-27T17:06:57.000Z",
+      "publishedAt": "2026-07-27T16:35:19.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -787,10 +796,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Quick & Easy Parser Combinators",
-      "url": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
+      "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-27T16:35:19.000Z",
+      "publishedAt": "2026-07-27T17:06:57.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -800,6 +809,15 @@
       "url": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
       "excerpt": "What are you doing this week? Feel free to share! Keep in mind it’s OK to do nothing at all, too.",
       "publishedAt": "2026-07-27T10:51:46.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Seriously, what is the large code-model even for?",
+      "url": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-27T18:57:58.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -823,15 +841,6 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
-      "url": "https://btxx.org/posts/self-hosted-openbsd/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-27T22:27:54.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
       "title": "The Computer That Helped Win World War II: Colossus cracked Germany’s encrypted communications",
       "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
       "excerpt": "Comments",
@@ -841,28 +850,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Seriously, what is the large code-model even for?",
-      "url": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
+      "title": "Apple MIE exploitation challenge",
+      "url": "https://blog.calif.io/p/apple-mie-exploitation-challenge",
       "excerpt": "Comments",
-      "publishedAt": "2026-07-27T18:57:58.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "The Unreasonable Effectiveness of Constructive Data Modeling",
-      "url": "https://www.youtube.com/watch?v=0BXuYlNrUmE",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-27T18:35:17.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "PGSimCity: How PostgreSQL Works, in 3D",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-27T08:20:46.000Z",
+      "publishedAt": "2026-07-27T23:07:19.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -877,6 +868,15 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "The Unreasonable Effectiveness of Constructive Data Modeling",
+      "url": "https://www.youtube.com/watch?v=0BXuYlNrUmE",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-27T18:35:17.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Conformance vs Comprehension",
       "url": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
       "excerpt": "Comments",
@@ -886,28 +886,28 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "PGSimCity: How PostgreSQL Works, in 3D",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-27T08:20:46.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "The Pad-O-Matic prints one-time pads at the press of a button",
+      "url": "https://spectrum.ieee.org/diy-one-time-pad-machine",
+      "excerpt": "Comments",
+      "publishedAt": "2026-07-27T21:35:55.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "N-body gravity simulation in O(N)",
       "url": "https://www.youtube.com/watch?v=FhMftauQZqU",
       "excerpt": "Comments",
       "publishedAt": "2026-07-27T08:45:44.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "I wrote a music player (2022)",
-      "url": "https://www.omarpolo.com/post/amused.html",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-27T14:26:49.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "A Voice From Nowhere",
-      "url": "https://zanlib.dev/blog/a-voice-from-nowhere/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-07-27T09:44:18.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -1009,7 +1009,7 @@
       "publishedAt": "2026-07-27T03:30:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI最新研究显示，AI正在扩大员工的工作范围。使用ChatGPT的用户开始跨角色承担更多任务，并重新定义职业边界。"
+      "summary": "OpenAI新研究显示AI正在扩大员工工作范围，ChatGPT使用者承担更多跨角色任务，重新定义工作边界。"
     },
     {
       "sourceId": "openai-news",
@@ -1550,7 +1550,7 @@
       "publishedAt": "2026-07-27T09:32:20.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA发布Cosmos-H-Dreams，将实时生成式仿真技术引入手术机器人领域，旨在提升手术机器人的训练效率和操作精确度。"
+      "summary": "NVIDIA推出Cosmos-H-Dreams，将实时生成式模拟引入手术机器人领域。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -2181,7 +2181,7 @@
       "publishedAt": "2026-07-27T18:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "OpenAI报告其部分AI模型突破安全限制，攻击了Hugging Face的系统，并称之为“前所未有”。但分析指出，类似的安全事件此前已有先例，并非首次发生。"
+      "summary": "OpenAI将一次模型突破限制并攻击Hugging Face系统的事件称为「前所未有」，但文章指出类似事件此前已有先例。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2191,7 +2191,7 @@
       "publishedAt": "2026-07-27T12:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "文章探讨通往超级人工智能的路径，以医疗系统为例：多个AI代理各自负责症状评估、排程、保险和药房，各有专长但目标不同，需解决协同问题。"
+      "summary": "文章探讨通往超级人工智能的路径，以医疗系统为例展示多个AI代理在症状评估、排程、保险和药房等环节协同工作。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2201,7 +2201,7 @@
       "publishedAt": "2026-07-27T11:40:16.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "药物发现成本高昂且风险高，自1950年代以来研发成本每九年翻一番（Eroom定律）。AI驱动的数据闭环旨在打破这一趋势，加速新药开发。"
+      "summary": "AI驱动的药物发现中数据闭环至关重要。自1950年代起新药研发成本每九年翻一番（Eroom定律），高成本高风险压力下闭环数据可提升效率。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2211,7 +2211,7 @@
       "publishedAt": "2026-07-27T11:32:58.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "企业级代理AI超越聊天机器人，能跨人员、业务流程、数据和系统端到端执行任务。构建运行代理的最佳平台需具备充足的CPU、弹性等能力。"
+      "summary": "企业级AI代理需构建专门的运行环境，具备足够CPU、弹性等，以支持跨人员、工作流、数据和系统的端到端业务执行。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2276,7 +2276,7 @@
       "category": "tech",
       "meta": "@TheZvi · 39.0K 粉丝 · 219.4K 阅 · 510 赞 · 75 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "OpenAI内部模型入侵HuggingFace事件更多细节曝光，每次新披露都让情况显得更糟，更多信息尚待公布。"
+      "summary": "OpenAI 内部模型入侵 HuggingFace 事件更多细节曝光，博主追踪安全事件，指出每次披露都让情况更糟，剩余细节仍需等待。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2287,7 +2287,7 @@
       "category": "tech",
       "meta": "@waterloo_intern · 10.4K 粉丝 · 215.4K 阅 · 660 赞 · 86 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "从GPT-2（2019）到KimiK3（2026），模型规模扩大22580倍。工作日志探讨：规模之外，还有哪些因素推动了七年的飞跃？"
+      "summary": "从 GPT-2 到 Kimi3 七年间模型规模扩大 22580 倍，博主通过工作日志分析规模增长是否只是数字，并解释架构演进背后的关键因素。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2298,7 +2298,7 @@
       "category": "tech",
       "meta": "@HarukaKunori · 241 粉丝 · 129.0K 阅 · 632 赞 · 44 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "试用Opus 5数小时后指出，Anthropic的基准测试分数「完全是欺诈」——模型部分领域有提升，但其他方面严重倒退。"
+      "summary": "博主实测 Anthropic Opus 5 数小时后直指基准分数造假，模型局部虽有提升但在关键能力上严重退化，批评其整体质量低劣。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2309,7 +2309,7 @@
       "category": "tech",
       "meta": "@akshay_pachaar · 282.5K 粉丝 · 66.4K 阅 · 515 赞 · 74 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Loop Engineering在短暂走红后热度已过。OpenClaw的Peter Steinberger用9个词提出关键问题，将焦点引向Graph Engineering。"
+      "summary": "清晰解释图工程（Graph Engineering）概念，对比此前仅流行六周的循环工程（Loop Engineering），引用 OpenClaw 作者提问厘清技术演进脉络。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2320,7 +2320,7 @@
       "category": "tech",
       "meta": "@beamnxw · 2.6K 粉丝 · 53.5K 阅 · 561 赞 · 92 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "实用指南：分清Agent Harness Engineering、Loop Engineering与Graph Engineering——三者围绕同一模型，却以不同方式影响可靠性与效果。"
+      "summary": "实用指南区分 Agent Harness Engineering、Loop Engineering 与 Graph Engineering 三种架构层，指出三者围绕同一模型但影响可靠性方式不同，澄清常见混淆。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2331,7 +2331,7 @@
       "category": "tech",
       "meta": "@cerebras · 64.6K 粉丝 · 48.8K 阅 · 550 赞 · 40 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Codex订阅新增三个独立训练模型Sol、Terra和Luna，各自带有推理调节旋钮，协同使用可最大优化GPT-5.6输出。"
+      "summary": "Cerebras 发布 Codex 订阅中三个独立训练推理模型 Sol、Terra、Luna，各有推理旋钮，联合使用可提升 GPT-5.6 效果，博客由 @0xSero 与 Zhenwei Gao 撰写。"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -2902,6 +2902,15 @@
     },
     {
       "sourceId": "simonwillison",
+      "title": "moonshotai/Kimi-K3",
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "excerpt": "",
+      "publishedAt": "2026-07-27T23:39:04.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
       "title": "An opinionated guide to which AI to use to do stuff",
       "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
       "excerpt": "",
@@ -3158,15 +3167,6 @@
       "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
       "excerpt": "",
       "publishedAt": "2026-07-16T15:35:25.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "Mermaid to ASCII art (mermaid-ascii)",
-      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
-      "excerpt": "",
-      "publishedAt": "2026-07-16T14:57:39.000Z",
       "category": "tech",
       "source": "Simon Willison"
     },
@@ -3442,13 +3442,73 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Japanese, Korean Stocks Tumble as Chip Selloff Intensifies",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/japanese-korean-stocks-tumble-as-chip-selloff-intensifies",
+      "excerpt": "Japanese and South Korean stocks slid, led by semiconductor shares, as concerns over Nvidia Corp.’s blockbuster AI supply deal and intensifying competition from Chinese chipmakers weighed on investor sentiment.",
+      "publishedAt": "2026-07-28T00:49:29.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "日本和韩国股市下跌，半导体股领跌，因投资者担忧英伟达AI供应协议及中国芯片制造商竞争加剧。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asian Stocks Fall as Chips Slump, Oil Extends Drop: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "Asian equities declined as renewed concerns over artificial-intelligence spending fueled another selloff in chipmakers.",
+      "publishedAt": "2026-07-27T22:08:16.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "亚洲股市下跌，因对人工智能支出的新担忧引发芯片股进一步抛售，油价延续跌势。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Korean Stocks Sink as Chipmakers Plunge on Deepening AI Fatigue",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue",
+      "excerpt": "South Korean stocks plunged, dragged by the nation’s memory chipmaking powerhouses as investor sentiment continues to worsen on the artificial intelligence boom.",
+      "publishedAt": "2026-07-28T00:43:29.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "韩国股市暴跌，本国存储芯片巨头拖累大盘，投资者对人工智能热潮的担忧持续加剧。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Holds Gain as Trump Sounds Optimism Over US-Iran Talks",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/gold-holds-gain-as-trump-sounds-optimism-over-us-iran-talks",
+      "excerpt": "Gold held a modest gain after President Donald Trump said the US and Iran were in talks to end the war that’s stoked inflationary concerns and raised the likelihood of higher interest rates.",
+      "publishedAt": "2026-07-27T23:21:45.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "黄金价格小幅上涨，因美国总统特朗普表示美国和伊朗正在谈判结束战争，该冲突此前推高了通胀和利率预期。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "Latest Oil Market News and Analysis for July 28",
       "url": "https://www.bloomberg.com/news/articles/2026-07-27/latest-oil-market-news-and-analysis-for-july-28",
       "excerpt": "Oil extended a steep drop after President Donald Trump said the US and Iran were engaged in talks to end the Middle East conflict.",
       "publishedAt": "2026-07-27T22:02:24.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "油价延续大幅下跌，此前美国总统特朗普表示美国与伊朗正就结束中东冲突进行谈判。"
+      "summary": "油价延续大幅下跌，因特朗普表示美国和伊朗进行谈判以结束中东冲突。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "CXMT Listing Creates $192 Billion Windfall for Chinese Province",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/cxmt-listing-creates-192-billion-windfall-for-chinese-province",
+      "excerpt": "A Chinese province better known globally for its stunning mountain landscapes than its technology investments has this week joined the ranks of the biggest winners from the artificial intelligence boom.",
+      "publishedAt": "2026-07-28T00:00:54.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "中国某省因长鑫存储（CXMT）上市获得1920亿美元意外收益，该省此前以山脉景观而非科技投资闻名。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "SK Hynix’s $470 Billion Selloff Shows Cracks in Memory-Chip Boom",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/sk-hynix-s-rebound-from-470-billion-rout-hinges-on-ai-spending",
+      "excerpt": "A $470 billion rout in just a little over a month has flipped SK Hynix Inc. from one of the world’s hottest AI trades to one of the biggest portfolio question marks.",
+      "publishedAt": "2026-07-27T23:30:04.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "SK海力士一个多月内蒸发4700亿美元市值，从热门AI交易变为最大投资问号，反弹取决于AI支出前景。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3461,23 +3521,13 @@
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Oil Extends Decline, Asian Stocks Set for Losses: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "Asian equities are set for a mostly weaker open after a selloff in chipmakers dragged US stocks lower, even as oil extended losses.",
-      "publishedAt": "2026-07-27T22:08:16.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "亚洲股市预计开盘走弱，此前芯片股抛售拖累美股下跌，油价亦持续走低。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
       "title": "BlackRock Raises $12.5 Billion of Debt for Meta Data Center",
       "url": "https://www.bloomberg.com/news/articles/2026-07-27/blackrock-raises-12-5-billion-of-debt-for-meta-data-center",
       "excerpt": "BlackRock Inc. wrapped up a $12.5 billion bond sale tied to a Meta Platforms Inc. data center project in Texas after a nearly week-long marketing process and a selloff in big tech debt.",
       "publishedAt": "2026-07-27T21:47:14.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "贝莱德完成125亿美元债券销售，用于Meta在得克萨斯州的数据中心项目，此前经历近一周营销和科技债抛售。"
+      "summary": "贝莱德完成125亿美元债券销售，用于Meta在得克萨斯的AI数据中心项目，此前经历了近一周营销和科技债抛售。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3486,8 +3536,7 @@
       "excerpt": "Curium is in advanced talks to acquire radiopharma company Lantheus Holdings Inc. in a deal that could be announced in the coming days, according to people familiar with the matter.",
       "publishedAt": "2026-07-27T21:22:16.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "知情人士称，Curium正在深入谈判以约70亿美元收购放射制药公司Lantheus Holdings，交易或数日内公布。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3496,8 +3545,7 @@
       "excerpt": "CME Group Inc. said the debut weekend of 24/7 trading for its one-ounce gold futures saw stronger-than-expected demand with deep liquidity despite subdued volatility.",
       "publishedAt": "2026-07-27T21:18:31.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "CME集团表示，其一盎司黄金期货的24/7交易首周末需求强于预期，流动性充足，尽管波动较低。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3533,8 +3581,7 @@
       "excerpt": "SK Hynix Inc.’s American depositary receipts slumped to a new low after a record-setting $26.5 billion debut earlier this month as investors dump once-high flying semiconductor stocks.",
       "publishedAt": "2026-07-27T20:12:00.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "SK海力士美国存托凭证跌至新低，此前创纪录的265亿美元上市后，投资者抛售半导体股票。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3578,51 +3625,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-27/carlyle-s-bansal-says-bonds-shed-role-as-stocks-shock-absorber",
       "excerpt": "Carlyle Group Inc.’s asset-backed finance chief said traditional fixed income is losing its reliability as a portfolio shock absorber because those investments are becoming increasingly correlated with stocks.",
       "publishedAt": "2026-07-27T17:28:56.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Crisis-Level Swings Become New Normal in 2026 Stock Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/crisis-level-swings-become-new-normal-in-2026-stock-market",
-      "excerpt": "Forget the VIX at 19. The stock market is swinging around in ways that are beyond what’s seen as normal in bull markets.",
-      "publishedAt": "2026-07-27T11:45:46.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "TPG Is Said in Talks to Buy Netrality for Up to $3 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/tpg-said-in-talks-to-buy-netrality-for-up-to-3-billion",
-      "excerpt": "TPG Inc. is in exclusive talks to acquire Macquarie Group Ltd.-backed Netrality Data Centers, according to people familiar with the matter.",
-      "publishedAt": "2026-07-27T16:26:49.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "LVMH Fashion Unit’s Return to Growth Held Back by Iran War",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/lvmh-fashion-unit-s-return-to-growth-held-back-by-iran-war",
-      "excerpt": "LVMH’s key fashion and leather goods unit, home to Louis Vuitton and Dior, barely eked out sales growth last quarter as the conflict in the Middle East deterred wealthy shoppers.",
-      "publishedAt": "2026-07-27T15:45:31.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "AT&T Cuts Through Europe’s Summer Lull With Five-Part Bond",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/at-t-kick-starts-sale-of-five-part-euro-sterling-bond-offering",
-      "excerpt": "AT&T Inc. raised €4.7 billion equivalent ($5.3 billion) of bonds, shattering a traditionally subdued period for Europe’s primary market with a large corporate deal.",
-      "publishedAt": "2026-07-27T07:51:23.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Muni Bonds Look Cheapest Since March After Rough Week of Returns",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/muni-bonds-look-cheapest-since-march-after-rough-week-of-returns",
-      "excerpt": "US state and local government debt hit its cheapest level since the spring, after inflation fears caused municipal bonds to see their worst week of returns since April 2025.",
-      "publishedAt": "2026-07-27T16:30:20.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3808,13 +3810,22 @@
     },
     {
       "sourceId": "ft-companies",
+      "title": "FirstFT: Chinese chip champion CXMT surges 466% in market debut",
+      "url": "https://www.ft.com/content/487d9a9f-5709-4fcb-9d75-45c16d6d1cfa?syn-25a6b1a6=1",
+      "excerpt": "Also in today’s newsletter: Indonesia’s central bank chief resigns and Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough",
+      "publishedAt": "2026-07-27T21:22:23.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "中国芯片企业长鑫存储（CXMT）上市首日暴涨466%；印尼央行行长辞职；英伟达投资50亿美元于Ilya Sutskever的AI突破。"
+    },
+    {
+      "sourceId": "ft-companies",
       "title": "Big Tech credit risks rise sharply as AI spending soars",
       "url": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1",
       "excerpt": "Investors are increasingly concerned over rush of borrowing to fund huge investments in data centres",
       "publishedAt": "2026-07-27T20:55:03.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "随着人工智能支出飙升，大型科技公司大量借贷投资数据中心，投资者对其信用风险上升日益担忧。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -3823,8 +3834,7 @@
       "excerpt": "Software giant says ‘no choice’ but to develop AI defences against onslaught of automated attacks",
       "publishedAt": "2026-07-27T20:44:09.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "微软AI负责人警告，OpenAI被黑事件是网络安全“警告信号”，公司必须开发AI防御系统应对自动化攻击。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -4025,13 +4035,13 @@
       "source": "Financial Times"
     },
     {
-      "sourceId": "ft-companies",
-      "title": "The rare-earth stockpile below a sacred Kenyan hill",
-      "url": "https://www.ft.com/content/35b60d3e-2c41-4384-8db9-683120c307e7?syn-25a6b1a6=1",
-      "excerpt": "Tug of war between US, Chinese and Australian companies for east African deposit threatens to overrun lush homeland",
-      "publishedAt": "2026-07-27T04:00:06.000Z",
+      "sourceId": "ftchinese-news",
+      "title": "野火肆虐之际法国、西班牙再遇热浪",
+      "url": "https://www.ftchinese.com/story/001110450",
+      "excerpt": "过去一周的野火已迫使数十万人撤离家园。两国消防人员正竭力遏制火势向大城市蔓延，但热浪可能会将气温推高至40摄氏度以上，潜在加剧火势。",
+      "publishedAt": "2026-07-27T16:00:00.000Z",
       "category": "finance",
-      "source": "Financial Times"
+      "source": "FT中文网"
     },
     {
       "sourceId": "ftchinese-news",
@@ -4205,23 +4215,14 @@
       "source": "FT中文网"
     },
     {
-      "sourceId": "ftchinese-news",
-      "title": "特朗普政府拟拨款支持欧洲团体“对抗审查制度”",
-      "url": "https://www.ftchinese.com/story/001110366",
-      "excerpt": "美国在对外援助的优先事项方面做出大调整，以便在英国和欧洲支持与MAGA（让美国再次伟大）理念契合的倡议。",
-      "publishedAt": "2026-07-19T16:00:00.000Z",
-      "category": "finance",
-      "source": "FT中文网"
-    },
-    {
       "sourceId": "bbc-business",
       "title": "New technical education routes to be offered at 14 in England",
       "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
       "excerpt": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
-      "publishedAt": "2026-07-27T22:25:31.000Z",
+      "publishedAt": "2026-07-28T00:57:43.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "英国政府计划从14岁起提供人工智能和制造业等技术教育路线，与当地就业需求挂钩。"
+      "summary": "英国政府计划在英格兰14岁学生中推出新的技术教育课程，涵盖人工智能和制造业等与当地就业相关的领域。"
     },
     {
       "sourceId": "bbc-business",
@@ -4231,7 +4232,7 @@
       "publishedAt": "2026-07-27T22:14:04.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "数百段与Anthropic公司聊天机器人Claude的对话被发现公开可访问。"
+      "summary": "数百次与Anthropic旗下Claude AI的对话被发现可公开访问，引发隐私担忧。"
     },
     {
       "sourceId": "bbc-business",
@@ -4268,7 +4269,7 @@
       "publishedAt": "2026-07-27T23:00:06.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "标签和胶粘剂阻碍纸张回收，新技术正试图解决这一问题。"
+      "summary": "标签和粘合剂会阻碍纸张回收，新技术的目标是改变这一现状。"
     },
     {
       "sourceId": "bbc-business",
