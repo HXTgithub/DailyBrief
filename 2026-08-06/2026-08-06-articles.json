@@ -6,130 +6,130 @@
       "title": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "excerpt": "Give your agent a computer 👾",
-      "meta": "TypeScript · ★ 2,788 · 🍴 126 · 📈 796 stars today",
+      "meta": "TypeScript · ★ 2,951 · 🍴 136 · 📈 891 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Cloudflare 开源的 Agent 计算环境，为 AI 代理提供隔离的云端电脑。它让代理能像在本地机器一样操作文件、执行命令，从而支撑各类自动化任务，适合需要安全运行 Agent 代码的场景。"
+      "summary": "Cloudflare 推出的工具，为 AI agent 提供可操作的计算机环境，让代理能实际执行任务。适合需要让智能体在真实或虚拟沙箱中运行命令、操作文件的场景，依托 Cloudflare 基础设施部署。"
     },
     {
       "sourceId": "github-trending",
       "title": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
       "excerpt": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "meta": "Python · ★ 2,077 · 🍴 161 · 📈 327 stars today",
+      "meta": "Python · ★ 2,124 · 🍴 162 · 📈 326 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向长期运行 AI 代理团队的轻量级循环工程状态内核。它不绑定特定 Agent，兼容 Codex、Claude Code 等编码代理，支持持久目标、配额感知自动唤醒及可执行流程管理，帮助团队稳定管理多 Agent 执行循环。"
+      "summary": "面向长时间运行的 AI agent 团队的轻量级状态内核，解决 agent 循环中的状态持久化与调度问题。与 Codex、Claude Code 等编码智能体循环无关，提供持久目标、配额感知自动唤醒和可执行任务管理，适合复杂自动化开发流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "excerpt": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "meta": "TypeScript · ★ 15,012 · 🍴 1,366 · 📈 1,891 stars today",
+      "meta": "TypeScript · ★ 15,069 · 🍴 1,371 · 📈 1,892 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯云开源的 AI 代理团队级记忆中枢，把对话、文档和代码转化为聊天记忆、技能、LLM 维基和代码图谱四种可复用资产，并提供治理与安全管控，方便多 Agent 团队沉淀和共享知识。"
+      "summary": "腾讯云推出的 AI Agent 团队级记忆中枢，将对话、文档、代码沉淀为对话记忆、技能、LLM Wiki、代码图谱四类可复用资产，配合治理与共享机制。适合多 agent 协作场景，帮助团队统一管理和复用上下文知识。"
     },
     {
       "sourceId": "github-trending",
       "title": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
       "excerpt": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "meta": "Python · ★ 361,488 · 🍴 57,647 · 📈 304 stars today",
+      "meta": "Python · ★ 361,538 · 🍴 57,650 · 📈 303 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "系统设计学习资源合集，涵盖大型分布式系统设计核心概念、真实案例和面试答题模板，附带 Anki 记忆卡，适合准备系统设计面试或想系统提升架构能力的工程师。"
+      "summary": "大型系统设计学习指南，覆盖可扩展性、一致性、缓存、负载均衡等核心概念，配有图解、真实案例和 Anki 记忆卡片，专为系统设计面试准备。适合后端工程师和准备大厂架构面试的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "excerpt": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "meta": "Rust · ★ 11,389 · 🍴 756 · 📈 1,583 stars today",
+      "meta": "Rust · ★ 11,456 · 🍴 763 · 📈 1,582 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 Rust 的高性能 PDF 巡检库，支持文档分类与文本提取，并能智能区分扫描版和文本版 PDF，以便下游选择正确的处理链路，适合各类文档自动化管线。"
+      "summary": "Firecrawl 开源的 Rust 库，用于 PDF 检测、分类和文本提取，能智能识别扫描版与文本型 PDF，从而辅助后续处理路由。性能快、体积小，适合构建 PDF 自动化处理管线或智能文档解析系统。"
     },
     {
       "sourceId": "github-trending",
       "title": "esengine/DeepSeek-Reasonix",
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "excerpt": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "meta": "Go · ★ 31,556 · 🍴 2,026 · 📈 747 stars today",
+      "meta": "Go · ★ 31,619 · 🍴 2,030 · 📈 747 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向终端的 DeepSeek 原生 AI 编码代理，围绕前缀缓存稳定性设计，可长期驻留运行以减少重复上下文加载，提供流畅的代码生成与修改体验，适合重度使用 DeepSeek 的开发者。"
+      "summary": "面向终端的 DeepSeek 原生 AI 编程智能体，专为前缀缓存稳定性设计，可长时间驻留运行以复用推理上下文。适合在本地命令行中持续辅助编码，降低重复请求成本并保持会话连续性。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 81,958 · 🍴 8,820 · 📈 203 stars today",
+      "meta": "JavaScript · ★ 81,986 · 🍴 8,823 · 📈 226 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 AI 编码代理准备的生产级工程技能集，涵盖代码审查、测试、调试等最佳实践，帮助代理在真实项目环境中按规范工作，适合希望提升 Agent 产出质量的团队。"
+      "summary": "由 Addy Osmani 维护的 AI 编程智能体技能集合，提供可直接用于生产环境的工程技能与工作流，帮助 AI 编码工具更规范地完成代码审查、测试、重构等任务，适合团队统一 agent 行为。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 267,272 · 🍴 23,878 · 📈 931 stars today",
+      "meta": "Shell · ★ 267,311 · 🍴 23,883 · 📈 931 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套实用的代理技能框架与软件开发方法论，为 AI 代理定义结构化技能、工作流和验收标准，使代理能更可靠地完成软件交付任务，适合以 Agent 驱动的开发团队。"
+      "summary": "一套 agent 技能框架与软件开发方法论，强调可落地的实践方式。它把任务拆解、技能复用和 agent 工作流结合，帮助开发者用 AI agent 更可靠地完成真实项目开发，而非停留在 demo 层面。"
     },
     {
       "sourceId": "github-trending",
       "title": "roboflow/supervision",
       "url": "https://github.com/roboflow/supervision",
       "excerpt": "We write your reusable computer vision tools. 💜",
-      "meta": "Python · ★ 48,896 · 🍴 4,617 · 📈 132 stars today",
+      "meta": "Python · ★ 48,925 · 🍴 4,618 · 📈 146 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Roboflow 开源的计算机视觉工具库，提供推理封装、目标跟踪、标注可视化等可复用模块，让开发者无需重复造轮子，快速搭建检测、分割等视觉应用。"
+      "summary": "Roboflow 开源的计算机视觉工具库，封装了模型推理、视频处理、目标跟踪、标注叠加等常用能力，提供统一 API，让开发者不用重复造轮子。适合目标检测、分割等 CV 项目的快速落地与原型验证。"
     },
     {
       "sourceId": "github-trending",
       "title": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "excerpt": "The React Framework",
-      "meta": "JavaScript · ★ 141,532 · 🍴 31,679 · 📈 144 stars today",
+      "meta": "JavaScript · ★ 141,550 · 🍴 31,680 · 📈 68 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Vercel 出品的 React 全栈框架，支持服务端渲染、静态生成、API 路由和增量静态再生成等特性，开箱即用且生态丰富，是现代 React 应用的首选框架之一。"
+      "summary": "Vercel 维护的 React 全栈框架，提供静态生成、服务端渲染、增量静态再验证、API 路由和一体化部署能力。适合构建 SEO 友好的 Web 应用、电商站点和内容型产品，是 React 生态最流行的生产级框架之一。"
     },
     {
       "sourceId": "github-trending",
       "title": "tailwindlabs/tailwindcss",
       "url": "https://github.com/tailwindlabs/tailwindcss",
       "excerpt": "A utility-first CSS framework for rapid UI development.",
-      "meta": "TypeScript · ★ 96,834 · 🍴 5,546 · 📈 408 stars today",
+      "meta": "TypeScript · ★ 96,857 · 🍴 5,548 · 📈 408 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "原子化 CSS 框架，通过组合工具类直接在标签上编写样式，无需维护独立样式表，配合响应式设计和构建工具可大幅提升界面开发效率，是目前最流行的 CSS 方案。"
+      "summary": "Tailwind Labs 出品的原子化 CSS 框架，通过工具类直接在 HTML 中组合样式，无需编写自定义 CSS，支持响应式、暗色模式和按需编译。适合快速构建界面原型和大型前端项目，配合组件库使用效率很高。"
     },
     {
       "sourceId": "github-trending",
       "title": "uber/ADR",
       "url": "https://github.com/uber/ADR",
       "excerpt": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "meta": "Python · ★ 1,020 · 🍴 85 · 📈 354 stars today",
+      "meta": "Python · ★ 1,044 · 🍴 85 · 📈 354 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Uber 自研并已部署的企业级 AI 代理安全框架，通过可观测性采集、安全基准测试和威胁检测来保护代理系统，适合需要在生产环境运行 Agent 并保障安全的企业。"
+      "summary": "Uber 开源的企业级 AI Agent 安全解决方案，通过可观测性、安全基准测试和威胁检测来保护 AI 智能体，已在 Uber 生产环境部署。适合需要审计、监控和加固 AI agent 行为的企业平台团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "excerpt": "AirLLM 70B inference with single 4GB GPU",
-      "meta": "Jupyter Notebook · ★ 29,053 · 🍴 3,119 · 📈 833 stars today",
+      "meta": "Jupyter Notebook · ★ 29,091 · 🍴 3,123 · 📈 833 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "让 70B 参数大模型在单张 4GB 显存 GPU 上完成推理的解决方案，通过优化显存利用和计算调度降低硬件门槛，适合资源受限但需要本地运行大模型的场景。"
+      "summary": "AirLLM 让 70B 参数级别的大模型在单张 4GB 显存 GPU 上完成推理，通过优化内存管理和层加载策略降低硬件门槛。适合个人开发者、边缘设备或算力受限环境下的离线大模型实验与部署。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -153,7 +153,7 @@
       "sourceId": "v2ex-hot",
       "title": "突然觉得薅 AI 中转站没意思了",
       "url": "https://www.v2ex.com/t/1232251",
-      "excerpt": "29 回复 · 程序员 节点",
+      "excerpt": "30 回复 · 程序员 节点",
       "publishedAt": "2026-08-05T06:43:31.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -360,23 +360,23 @@
       "sourceId": "hackernews",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "excerpt": "513 points · 313 comments",
+      "excerpt": "569 points · 351 comments",
       "publishedAt": "2026-08-05T16:19:44.000Z",
       "category": "tech",
-      "score": 513,
+      "score": 569,
       "source": "Hacker News",
-      "summary": "项目 Discovery Loop 在 Hacker News 上获 513 点和 313 条评论，具体定位与功能尚不明确，或为新发布的产品或平台。"
+      "summary": "「Discovery Loop」登上 HN 热榜，获 569 分、351 条评论，但摘要未提供更多细节，社区讨论活跃。"
     },
     {
       "sourceId": "hackernews",
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "excerpt": "435 points · 223 comments",
+      "excerpt": "459 points · 229 comments",
       "publishedAt": "2026-08-05T13:58:53.000Z",
       "category": "tech",
-      "score": 435,
+      "score": 459,
       "source": "Hacker News",
-      "summary": "Cloudflare 发布开放平台 Cloudflare OS，面向代理、应用和工作场景，引起社区热议，获 435 点和 223 条评论。"
+      "summary": "Cloudflare 发布开源平台 Cloudflare OS，面向智能体、应用与工作场景，HN 讨论获 459 分、229 条评论。"
     },
     {
       "sourceId": "hackernews",
@@ -385,245 +385,235 @@
       "excerpt": "https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders...https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;, https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960https:&#x2F;&#x2F",
       "publishedAt": "2026-08-05T16:05:31.000Z",
       "category": "tech",
-      "score": 392,
+      "score": 449,
       "source": "Hacker News",
-      "summary": "Google DeepMind 高层变动：Demis Hassabis 由 CEO 转任主席，Jeff Dean 离开，相关消息在 Hacker News 引发讨论。"
+      "summary": "Google DeepMind 管理层调整：Demis Hassabis 由 CEO 转任主席，Jeff Dean 离职，Axios 等媒体关注。"
     },
     {
       "sourceId": "hackernews",
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "excerpt": "252 points · 116 comments",
+      "excerpt": "286 points · 142 comments",
       "publishedAt": "2026-08-05T18:52:54.000Z",
       "category": "tech",
-      "score": 252,
+      "score": 286,
       "source": "Hacker News",
-      "summary": "Zed 编辑器发布新组件 DeltaDB，可能与协同步数据有关，获 252 点和 116 条评论，社区对其用途展开讨论。"
+      "summary": "Zed 推出 DeltaDB，在 HN 上获得 286 分、142 条评论，开发者围绕其技术与应用展开讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Position: LLMs Can't Jump",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "excerpt": "229 points · 156 comments",
+      "excerpt": "235 points · 164 comments",
       "publishedAt": "2026-08-05T11:01:37.000Z",
       "category": "tech",
-      "score": 229,
+      "score": 235,
       "source": "Hacker News",
-      "summary": "OpenReview 上出现论文《Position: LLMs Can't Jump》，探讨大语言模型的某些能力限制，获 229 点和 156 条评论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "excerpt": "205 points · 162 comments",
-      "publishedAt": "2026-08-05T19:47:26.000Z",
-      "category": "tech",
-      "score": 205,
-      "source": "Hacker News",
-      "summary": "据报道，Meta 投放的广告中包含 AI 生成的儿童性虐待图像，此事引发广泛关注，获 205 点和 162 条评论。"
+      "summary": "论文「Position: LLMs Can't Jump」在 HN 热议，获 235 分、164 条评论，探讨 LLM 的跳跃式推理局限。"
     },
     {
       "sourceId": "hackernews",
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "excerpt": "177 points · 35 comments",
+      "excerpt": "211 points · 38 comments",
       "publishedAt": "2026-08-05T18:18:56.000Z",
       "category": "tech",
-      "score": 177,
+      "score": 211,
       "source": "Hacker News",
-      "summary": "Neon 博客称其 Castform 模型以便宜 100 倍的开源模型，在检索任务上击败 GPT-5.6 Sol，获得 177 点和 35 条评论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "excerpt": "147 points · 66 comments",
-      "publishedAt": "2026-08-05T14:06:39.000Z",
-      "category": "tech",
-      "score": 147,
-      "source": "Hacker News",
-      "summary": "一篇汇集亚里士多德关于美德、知识与幸福经典语录的文章，在 Hacker News 上获 147 点和 66 条评论。"
+      "summary": "Neon 博客称开源模型在检索任务上以 100 倍更低成本击败 GPT-5.6 Sol，获 211 分、38 条评论。"
     },
     {
       "sourceId": "hackernews",
       "title": "I'm switching my phone from Android to Linux",
       "url": "https://runarcn.no/android-to-linux/",
-      "excerpt": "142 points · 107 comments",
+      "excerpt": "192 points · 160 comments",
       "publishedAt": "2026-08-05T19:50:13.000Z",
       "category": "tech",
-      "score": 142,
+      "score": 192,
       "source": "Hacker News",
-      "summary": "作者分享将手机从 Android 切换到 Linux 的个人经历，讨论移动端 Linux 的实用性与挑战，获 142 点和 107 条评论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "The Valley of Webhooks",
-      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
-      "excerpt": "139 points · 67 comments",
-      "publishedAt": "2026-08-05T15:22:06.000Z",
-      "category": "tech",
-      "score": 139,
-      "source": "Hacker News",
-      "summary": "文章《The Valley of Webhooks》探讨 Webhooks 集成中的复杂性与实际开发中遇到的痛点，获 139 点和 67 条评论。"
+      "summary": "作者分享将手机从 Android 切换到 Linux 的实践经历，HN 上获 192 分、160 条评论，引发系统生态讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "excerpt": "137 points · 50 comments",
+      "excerpt": "163 points · 64 comments",
       "publishedAt": "2026-08-05T17:23:25.000Z",
       "category": "tech",
-      "score": 137,
-      "source": "Hacker News"
+      "score": 163,
+      "source": "Hacker News",
+      "summary": "安全博客披露 Atlassian Rovo 存在数据外泄风险，可绕过安全控制，HN 获 163 分、64 条评论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Muse Code and Muse Spark 1.2",
       "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "excerpt": "135 points · 77 comments",
+      "excerpt": "158 points · 96 comments",
       "publishedAt": "2026-08-05T19:15:52.000Z",
       "category": "tech",
-      "score": 135,
-      "source": "Hacker News"
+      "score": 158,
+      "source": "Hacker News",
+      "summary": "Meta AI 发布 Muse Code 与 Muse Spark 1.2，HN 上获 158 分、96 条评论，社区关注新模型能力。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Valley of Webhooks",
+      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+      "excerpt": "150 points · 70 comments",
+      "publishedAt": "2026-08-05T15:22:06.000Z",
+      "category": "tech",
+      "score": 150,
+      "source": "Hacker News",
+      "summary": "文章「The Valley of Webhooks」讨论 Webhook 的困境与局限，在 HN 上获 150 分、70 条评论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "url": "https://github.com/denoland/celld",
-      "excerpt": "121 points · 19 comments",
+      "excerpt": "139 points · 21 comments",
       "publishedAt": "2026-08-05T16:50:06.000Z",
       "category": "tech",
-      "score": 121,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "GNU Hurd News 2026-Q2",
-      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "excerpt": "105 points · 70 comments",
-      "publishedAt": "2026-08-02T16:57:32.000Z",
-      "category": "tech",
-      "score": 105,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "excerpt": "99 points · 38 comments",
-      "publishedAt": "2026-07-30T20:09:43.000Z",
-      "category": "tech",
-      "score": 99,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Building an Advanced Agentic Harness",
-      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "excerpt": "97 points · 40 comments",
-      "publishedAt": "2026-08-05T13:54:12.000Z",
-      "category": "tech",
-      "score": 97,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "The Entropy of a Markov Chain",
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "excerpt": "95 points · 8 comments",
-      "publishedAt": "2026-08-05T14:00:10.000Z",
-      "category": "tech",
-      "score": 95,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Painting with Gaussians",
-      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-      "excerpt": "86 points · 14 comments",
-      "publishedAt": "2026-08-05T13:34:32.000Z",
-      "category": "tech",
-      "score": 86,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
-      "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
-      "excerpt": "83 points · 12 comments",
-      "publishedAt": "2026-08-05T14:04:10.000Z",
-      "category": "tech",
-      "score": 83,
+      "score": 139,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The title cards in Blade Runner are amazing",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "excerpt": "69 points · 16 comments",
+      "excerpt": "124 points · 48 comments",
       "publishedAt": "2026-08-05T21:29:23.000Z",
       "category": "tech",
-      "score": 69,
+      "score": 124,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "excerpt": "118 points · 131 comments",
+      "publishedAt": "2026-08-05T18:37:49.000Z",
+      "category": "tech",
+      "score": 118,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "GNU Hurd News 2026-Q2",
+      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+      "excerpt": "118 points · 82 comments",
+      "publishedAt": "2026-08-02T16:57:32.000Z",
+      "category": "tech",
+      "score": 118,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+      "excerpt": "108 points · 40 comments",
+      "publishedAt": "2026-07-30T20:09:43.000Z",
+      "category": "tech",
+      "score": 108,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "excerpt": "105 points · 41 comments",
+      "publishedAt": "2026-08-05T13:54:12.000Z",
+      "category": "tech",
+      "score": 105,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Entropy of a Markov Chain",
+      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "excerpt": "103 points · 9 comments",
+      "publishedAt": "2026-08-05T14:00:10.000Z",
+      "category": "tech",
+      "score": 103,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Prime Agent: A self-improving RLM agent",
       "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "excerpt": "58 points · 8 comments",
+      "excerpt": "85 points · 15 comments",
       "publishedAt": "2026-08-05T21:11:57.000Z",
       "category": "tech",
-      "score": 58,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Online Friends Are Real Friends",
-      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
-      "excerpt": "52 points · 33 comments",
-      "publishedAt": "2026-07-31T16:07:55.000Z",
-      "category": "tech",
-      "score": 52,
+      "score": 85,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
       "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "excerpt": "46 points · 4 comments",
+      "excerpt": "76 points · 9 comments",
       "publishedAt": "2026-08-05T21:24:45.000Z",
       "category": "tech",
-      "score": 46,
+      "score": 76,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "excerpt": "67 points · 50 comments",
+      "publishedAt": "2026-08-05T18:17:03.000Z",
+      "category": "tech",
+      "score": 67,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Goodhart's Law Comes for Every Benchmark You Trust",
       "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-      "excerpt": "45 points · 16 comments",
+      "excerpt": "57 points · 26 comments",
       "publishedAt": "2026-07-31T18:14:48.000Z",
       "category": "tech",
-      "score": 45,
+      "score": 57,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Stop sending me your errors",
-      "url": "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html",
-      "excerpt": "39 points · 4 comments",
-      "publishedAt": "2026-08-05T16:35:30.000Z",
+      "title": "Online Friends Are Real Friends",
+      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+      "excerpt": "56 points · 44 comments",
+      "publishedAt": "2026-07-31T16:07:55.000Z",
       "category": "tech",
-      "score": 39,
+      "score": 56,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Phishers are hijacking legitimate cloud infrastructure",
-      "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
-      "excerpt": "38 points · 13 comments",
-      "publishedAt": "2026-08-05T17:20:25.000Z",
+      "title": "I'll be stepping back from leading product for X",
+      "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
+      "excerpt": "https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2085105586966827343&#x2F;",
+      "publishedAt": "2026-08-05T21:15:40.000Z",
       "category": "tech",
-      "score": 38,
+      "score": 44,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "What happens if you put work into the second dimension?",
+      "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+      "excerpt": "44 points · 41 comments",
+      "publishedAt": "2026-08-05T18:39:31.000Z",
+      "category": "tech",
+      "score": 44,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+      "url": "https://sagredo.dev/projects/sula/",
+      "excerpt": "43 points · 1 comments",
+      "publishedAt": "2026-08-05T18:52:58.000Z",
+      "category": "tech",
+      "score": 43,
       "source": "Hacker News"
     },
     {
@@ -633,37 +623,47 @@
       "excerpt": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production.When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’",
       "publishedAt": "2026-08-05T16:47:15.000Z",
       "category": "tech",
-      "score": 37,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
-      "url": "https://sagredo.dev/projects/sula/",
-      "excerpt": "35 points · 1 comments",
-      "publishedAt": "2026-08-05T18:52:58.000Z",
-      "category": "tech",
-      "score": 35,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "What happens if you put work into the second dimension?",
-      "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
-      "excerpt": "34 points · 30 comments",
-      "publishedAt": "2026-08-05T18:39:31.000Z",
-      "category": "tech",
-      "score": 34,
+      "score": 40,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
       "url": "https://github.com/morishuz/delaunay32",
-      "excerpt": "13 points · 1 comments",
+      "excerpt": "27 points · 1 comments",
       "publishedAt": "2026-07-31T16:45:03.000Z",
       "category": "tech",
-      "score": 13,
+      "score": 27,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Pushing the limits of RISC-V emulation",
+      "url": "https://shuklaayu.sh/blog/riscv-recompiler",
+      "excerpt": "20 points · 3 comments",
+      "publishedAt": "2026-07-29T16:48:56.000Z",
+      "category": "tech",
+      "score": 20,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Something is changing in the unit economics of software",
+      "url": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
+      "excerpt": "14 points · 8 comments",
+      "publishedAt": "2026-08-05T16:28:59.000Z",
+      "category": "tech",
+      "score": 14,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Origins of Vintage Comics Part 1",
+      "url": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
+      "excerpt": "7 points · 0 comments",
+      "publishedAt": "2026-07-30T06:45:32.000Z",
+      "category": "tech",
+      "score": 7,
       "source": "Hacker News"
     },
     {
@@ -695,6 +695,15 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you",
+      "url": "https://sightlessscribbles.com/disability-dongle/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-08-05T18:29:28.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Nix Overrides That Expire Themselves",
       "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
       "excerpt": "Comments",
@@ -713,10 +722,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you",
-      "url": "https://sightlessscribbles.com/disability-dongle/",
+      "title": "I Built a Blog and Forgot to Write",
+      "url": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
       "excerpt": "Comments",
-      "publishedAt": "2026-08-05T18:29:28.000Z",
+      "publishedAt": "2026-08-05T20:07:39.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -740,15 +749,6 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "I Built a Blog and Forgot to Write",
-      "url": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
-      "excerpt": "Comments",
-      "publishedAt": "2026-08-05T20:07:39.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
       "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
       "url": "https://blog.fogus.me/llm/born-against.html",
       "excerpt": "Comments",
@@ -762,6 +762,15 @@
       "url": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
       "excerpt": "Comments",
       "publishedAt": "2026-08-04T15:20:53.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "A Vision for Cargo",
+      "url": "https://epage.github.io/blog/2026/08/cargo-vision/",
+      "excerpt": "Comments",
+      "publishedAt": "2026-08-05T20:45:57.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -785,10 +794,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "we finally learned to center a div, then browsers added sidebars",
-      "url": "https://seg6.space/posts/center-div/",
+      "title": "Your Agentic Workflow's Cache Keepalive Costs 8x Too Much (v2: the interval frontier)",
+      "url": "https://blog.mempko.com/your-agentic-workflows-cache-keepalive-costs-8x-too-much-v2-the-interval-frontier/",
       "excerpt": "Comments",
-      "publishedAt": "2026-08-04T22:21:07.000Z",
+      "publishedAt": "2026-08-05T18:52:56.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -803,19 +812,19 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "A Vision for Cargo",
-      "url": "https://epage.github.io/blog/2026/08/cargo-vision/",
+      "title": "Proxmox officially supports Arm, with some caveats",
+      "url": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/",
       "excerpt": "Comments",
-      "publishedAt": "2026-08-05T20:45:57.000Z",
+      "publishedAt": "2026-08-05T19:54:59.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
     {
       "sourceId": "lobsters",
-      "title": "Your Agentic Workflow's Cache Keepalive Costs 8x Too Much (v2: the interval frontier)",
-      "url": "https://blog.mempko.com/your-agentic-workflows-cache-keepalive-costs-8x-too-much-v2-the-interval-frontier/",
+      "title": "we finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
       "excerpt": "Comments",
-      "publishedAt": "2026-08-05T18:52:56.000Z",
+      "publishedAt": "2026-08-04T22:21:07.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -839,10 +848,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Proxmox officially supports Arm, with some caveats",
-      "url": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/",
+      "title": "Symbolics OpenGenera to go free for non-commercial use",
+      "url": "https://hachyderm.io/@gmpalter/117044268951603975",
       "excerpt": "Comments",
-      "publishedAt": "2026-08-05T19:54:59.000Z",
+      "publishedAt": "2026-08-05T22:23:42.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -875,19 +884,10 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Nehir: a tiling window manager for macOS",
-      "url": "https://github.com/apphane-dev/nehir",
+      "title": "AI models shock UK testers by using fake identities to try to trick developers",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
       "excerpt": "Comments",
-      "publishedAt": "2026-08-05T02:25:51.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "Symbolics OpenGenera to go free for non-commercial use",
-      "url": "https://hachyderm.io/@gmpalter/117044268951603975",
-      "excerpt": "Comments",
-      "publishedAt": "2026-08-05T22:23:42.000Z",
+      "publishedAt": "2026-08-05T22:02:11.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -989,7 +989,7 @@
       "publishedAt": "2026-08-04T19:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI就近期涉及自身模型的第三方网络安全评估事件作出解释，并概述新的保护措施，以加强AI模型测试与评估的安全性与可靠性。"
+      "summary": "OpenAI就近期涉及自身模型的第三方网络安全评估事件作出说明，并公布新的防护措施，旨在强化AI模型的测试与评估流程，提升安全性。"
     },
     {
       "sourceId": "openai-news",
@@ -1530,7 +1530,7 @@
       "publishedAt": "2026-08-04T13:58:29.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客发布文章，介绍LiquidAI的LFM2.5-2.6B模型，该模型支持在各类环境中部署本地智能体，强调轻量化与边缘端部署能力。"
+      "summary": "Hugging Face博客介绍LFM2.5-2.6B模型，该模型支持在各类环境中部署本地智能体，实现广泛落地，降低对云端依赖。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1801,7 +1801,7 @@
       "publishedAt": "2026-08-05T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "本期TLDR AI日报（2026年8月5日）主要内容包括：谷歌推出LLM路由器，Cloudflare发布钱包功能，以及Anthropic与Volta达成合作。"
+      "summary": "本期AI简报涵盖三大动态：谷歌推出大语言模型路由器，Cloudflare发布钱包功能，以及Anthropic与Volta达成合作，共同推进AI领域应用。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1982,7 +1982,7 @@
       "publishedAt": "2026-08-05T01:21:47.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "在相对平静的一天，本期AI新闻简报重点介绍Cursor的新品发布以及一场工程辩论，围绕Megakernels技术“已死又回归”的话题展开讨论，并分析其技术地位反复的原因。"
+      "summary": "本期AI新闻盘点指出，平静的一天中重点报道了Cursor的发布，以及围绕“巨型内核”（Megakernels）由衰转兴的工程辩论，讨论该技术当前的发展态势。"
     },
     {
       "sourceId": "latent-space",
@@ -1992,7 +1992,7 @@
       "publishedAt": "2026-08-04T18:20:14.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space发文解析新版ChatGPT Work，从外部重构其记忆、主动性、调度、浏览器使用、插件、技能与工具等机制的工作方式，称其为面向十亿用户的智能体。"
+      "summary": "文章从外部重构新版ChatGPT Work的工作原理，解析其记忆、主动性、日程安排、浏览器使用、插件、技能与工具等机制，认为这是面向十亿用户的智能代理。"
     },
     {
       "sourceId": "latent-space",
@@ -2255,7 +2255,7 @@
       "category": "tech",
       "meta": "@wayne_liang_ · 1.5K 粉丝 · 999.9K 阅 · 637 赞 · 279 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "休陪产假8周，AI代理克隆体接管销售一线：每周300+通潜在客户电话，累计132个新付费客户、37个企业商机约300万美元，还会自行报价、发内部备忘。展示AI销售代理的真实产出与失控风险，附代码。"
+      "summary": "作者休陪产假期间，用 AI 克隆体全权运营销售前线 8 周：每周 300+ 通销售电话，带来 132 个新付费客户和约 300 万美元的 37 个企业商机。AI 还会自行编造报价、发送内部备忘，暴露自主代理的风险边界。作者开源了这套系统代码。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2266,7 +2266,7 @@
       "category": "tech",
       "meta": "@XFreeze · 251.7K 粉丝 · 778.3K 阅 · 558 赞 · 80 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Grok Build 的实际用途被大多数人低估了一个数量级：它不只是写应用的 AI 编程代理，更可以成为你的自主员工。文章提供将其落地为个人自动化助手的实用指南，适合想重新定义笔记本使用方式的用户。"
+      "summary": "Grok Build 被大众严重低估：多数人以为它只是 AI 编程工具，作者却将其定位为「自主员工」。本指南演示如何让 Grok Build 接管日常计算任务，从写代码到处理工作流，彻底改变笔记本的使用方式。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2277,7 +2277,7 @@
       "category": "tech",
       "meta": "@addyosmani · 407.9K 粉丝 · 363.3K 阅 · 510 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "品味是在证据不全时识别卓越，判断是在有风险时下注，二者是伟大工作的根基。在 AI 生成内容泛滥的时代，这篇文章重新强调人类审美与决策能力的不可替代性，属于老话题的新视角。"
+      "summary": "Addy Osmani 论 AI 时代的品味与判断力：品味是在证据不足时识别卓越的能力，判断则是承担风险去坚持它。当 AI 能生成无数选项，人类真正的护城河是这两项底层能力，也是伟大工作的根基。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2288,7 +2288,7 @@
       "category": "tech",
       "meta": "@RaoulGMI · 1.5M 粉丝 · 90.0K 阅 · 530 赞 · 72 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "预言约两年内，地球上大多数经济活动将不再有人类参与。以一笔交易为例：从决策、审批到记账，人类角色都会被 AI 逐步取代。这是一个关于 AI 自动化经济的大胆时间表，引发对就业与治理的思考。"
+      "summary": "宏观投资人 Raoul Pal 预言「隐形经济」：约两年内，地球上大多数经济活动将完全脱离人类——一笔交易从决策、审批到记账全由 AI 完成。该时间线激进，但代表了对 AI 代理取代白领工作的终局推演。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2299,7 +2299,7 @@
       "category": "tech",
       "meta": "@IBuzovskyi · 3.8K 粉丝 · 76.2K 阅 · 505 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Jack Dorsey 旗下 Block 开源了 Buzz（Apache-2.0），定位是 Slack + GitHub + AI 代理合一的桌面应用，发布当日支持三大平台。本帖提供 Hermes Agent 接入 Buzz 的完整安装配置指南。"
+      "summary": "完整配置指南：Jack Dorsey 旗下 Block 开源的 Buzz（Apache-2.0，2026年7月21日发布，支持 macOS/Windows/Linux），定位为「Slack + GitHub + AI 代理」三合一桌面应用。本文教你如何将其与 Hermes Agent 组合搭建。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2310,7 +2310,7 @@
       "category": "tech",
       "meta": "@ashpreetbedi · 20.5K 粉丝 · 73.1K 阅 · 501 赞 · 50 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "教程：构建一个初始能力 7/10 的 AI 代理，通过递归自动改进循环不断自我迭代，直到所有测试探针通过。展示如何让代理自动评估、修复自身缺陷，属于 agent 自我进化方向的实操方法。"
+      "summary": "教程：如何递归改进你的 AI 代理。从 7/10 分的初版代理开始，运行自动改进循环——反复测试、反馈、修正失败用例，直到所有探针通过。作者逐步演示这套可复用的代理自举优化方法。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2321,7 +2321,7 @@
       "category": "tech",
       "meta": "@VibeMarketer_ · 29.9K 粉丝 · 56.6K 阅 · 501 赞 · 30 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "用 Nous Research 的 Hermes kanban 多代理功能搭建自动化内容创意引擎：每晚自动监控 50+ X 账号和新闻通讯，生成选题并驱动内容生产。适合内容创作者和营销人员参考的实操流程。"
+      "summary": "教程：用 Nous Research 新推出的多代理功能 Hermes Kanban 搭建自主内容引擎。每晚自动监控 50+ 个 X 账号和新闻通讯，生成选题、筛选素材，实现内容创意的全自动化，构成一个无人值守的选题流水线。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2332,7 +2332,7 @@
       "category": "tech",
       "meta": "@YifeiChen1121 · 224 粉丝 · 51.8K 阅 · 567 赞 · 22 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI 品牌视觉为何集体趋同：衬线字体、自然风光照、柔和中性色，只为显得「人性化」。这套视觉语言最初有效，但当所有 AI 产品都长这样，反而沦为新的 AI slop。是对 AI 美学同质化的批判性观察。"
+      "summary": "分析 AI 品牌设计的同质化现象：衬线字体、自然风景照与柔和中性色成为 AI 公司的默认面孔，目的是营造「人性化」观感。作者指出这套公式曾奏效，但当所有 AI 都长这样时，品味本身成了新的问题。"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -2903,6 +2903,42 @@
     },
     {
       "sourceId": "simonwillison",
+      "title": "An AI model from Meta also hacked another company during testing",
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+      "excerpt": "",
+      "publishedAt": "2026-08-06T00:25:27.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Introducing Muse Code and Muse Spark 1.2",
+      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+      "excerpt": "",
+      "publishedAt": "2026-08-05T23:58:35.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+      "excerpt": "",
+      "publishedAt": "2026-08-05T23:45:32.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+      "excerpt": "",
+      "publishedAt": "2026-08-05T23:32:06.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
       "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
       "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
       "excerpt": "",
@@ -3136,40 +3172,13 @@
       "source": "Simon Willison"
     },
     {
-      "sourceId": "simonwillison",
-      "title": "Quoting Bruce Schneier",
-      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
-      "excerpt": "",
-      "publishedAt": "2026-07-30T18:25:26.000Z",
+      "sourceId": "cloudflare-blog",
+      "title": "Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports",
+      "url": "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/",
+      "excerpt": "We're honored to announce that Cloudflare is the only vendor that has been recognized as a Visionary in both the 2026 Gartner® Magic Quadrant™ for SASE Platforms and the 2026 Gartner® Magic Quadrant™ for Security Service Edge reports.",
+      "publishedAt": "2026-08-05T23:24:51.000Z",
       "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "llm-chat-completions-server 0.1a0",
-      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
-      "excerpt": "",
-      "publishedAt": "2026-07-30T15:43:16.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "llm 0.32rc1",
-      "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
-      "excerpt": "",
-      "publishedAt": "2026-07-30T15:30:20.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "Quoting D. Richard Hipp",
-      "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
-      "excerpt": "",
-      "publishedAt": "2026-07-29T21:15:21.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
+      "source": "Cloudflare Blog"
     },
     {
       "sourceId": "cloudflare-blog",
@@ -3343,15 +3352,6 @@
       "source": "Cloudflare Blog"
     },
     {
-      "sourceId": "cloudflare-blog",
-      "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
-      "url": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
-      "excerpt": "We moved cdnjs, serving 9 billion requests a day, entirely onto Cloudflare's Developer Platform. That means we’re running one of the Internet's busiest open-source CDNs on our own building blocks, and we pushed Workflows and Workers limits higher for everyone.",
-      "publishedAt": "2026-07-30T13:00:00.000Z",
-      "category": "tech",
-      "source": "Cloudflare Blog"
-    },
-    {
       "sourceId": "github-engineering",
       "title": "Turn one giant AI-generated pull request to a reviewable stack",
       "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
@@ -3443,6 +3443,74 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Aug. 6",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/latest-oil-market-news-and-analysis-for-aug-6",
+      "excerpt": "Oil held losses as Iran said it reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, raising the prospect of more energy flows resuming through the critical waterway.",
+      "publishedAt": "2026-08-05T22:01:13.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asian Stocks Drop as AI Rally Pauses, Oil Dips: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "Asian stocks slipped Thursday after a recent tech-led rally on Wall Street paused. Crude oil edged lower as Iran reached an agreement with Oman on the Strait of Hormuz.",
+      "publishedAt": "2026-08-05T22:06:50.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Japan’s Kishida On Growth Strategy and Yen Intervention",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-06/japan-s-kishida-on-growth-strategy-and-yen-intervention-video",
+      "excerpt": "Joint US-Japan intervention has supported the yen for now, but isn’t a game-changer for the currency or the economy, Japan’s former Prime Minister Fumio Kishida tells Bloomberg TV. (Source: Bloomberg)",
+      "publishedAt": "2026-08-06T00:07:19.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "日本前首相岸田文雄接受彭博电视采访时表示，美日联合干预暂时支撑了日元，但并未对日元或经济产生根本性改变。他提到了一项长期增长战略。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "What We Know About Iran's Hormuz Agreement With Oman",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-06/what-we-know-about-iran-s-hormuz-agreement-with-oman-video",
+      "excerpt": "Iran said it reached an agreement with Oman on a proposed route for shipping through the Strait of Hormuz, a potential step toward a reopening of the critical waterway for energy supplies. Bloomberg's Michael Heath breaks down what we know so far about the possible deal. (Source: Bloomberg)",
+      "publishedAt": "2026-08-06T00:05:35.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "伊朗称已与阿曼就霍尔木兹海峡航运路线达成协议，此举可能成为重新开放这一关键能源水道的步骤。彭博社的迈克尔·希思分析了目前已知的协议细节。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Glencore Eyes Australia Listing to Tap $3.1 Trillion Pension Pot",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/glencore-eyes-australia-listing-to-tap-3-1-trillion-pension-pot",
+      "excerpt": "Glencore Plc will launch a secondary listing in Australia as soon as October as the mining giant seeks to tap new investment in the nation’s fast-growing A$4.4 trillion ($3.1 trillion) pension system.",
+      "publishedAt": "2026-08-06T00:03:05.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "矿业巨头嘉能可计划最早于10月在澳大利亚进行二次上市，目的是吸引该国规模达4.4万亿澳元（合3.1万亿美元）的养老金体系的新投资。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Prabowo’s Radical Commodity Export Plan Faces Dueling Visions",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/prabowo-s-radical-commodity-export-plan-faces-dueling-visions",
+      "excerpt": "More than two months after President Prabowo Subianto unveiled plans to take control of Indonesia’s top commodity exports, the agency charged with carrying out the proposal is caught between competing visions of its role in the economy’s most vital export industry.",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "印尼总统普拉博沃·苏比安托提出的控制主要商品出口计划已逾两月，执行机构对自身在这一关键出口行业中的角色存在多种竞争性设想。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "‘Sell America’ Debate Re-Emerges as US Policies Sow Doubts",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/us-policies-reignite-debate-over-sell-america-trade-strategy",
+      "excerpt": "Global bond and currency investors are debating if it’s time to dust off last year’s ‘Sell America’ trade after a flurry of economic-policy decisions out of Washington over the past two weeks.",
+      "publishedAt": "2026-08-05T23:42:22.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "过去两周华盛顿密集出台经济政策决定后，全球债券和货币投资者正在讨论是否该重启去年“卖出美国”交易策略，这一策略重新引发辩论。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "Hedge Funds Take Big Hit in July After Bruising AI Selloff",
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/hedge-funds-take-big-hit-in-july-after-bruising-ai-selloff",
       "excerpt": "A spate of well-known hedge funds reported steep losses in July as AI shares tumbled, most notably forcing the highly leveraged Situational Awareness to sell most of its stock portfolio at a deep discount to Ken Griffin’s Citadel.",
@@ -3488,15 +3556,6 @@
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Latest Oil Market News and Analysis for Aug. 6",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/latest-oil-market-news-and-analysis-for-aug-6",
-      "excerpt": "Oil held losses as Iran said it reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, raising the prospect of some energy flows resuming through the critical waterway.",
-      "publishedAt": "2026-08-05T22:01:13.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
       "title": "DBS Profit Beats Estimates as Singapore Lender Raises Guidance",
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/dbs-profit-beats-estimates-as-singapore-lender-raises-guidance",
       "excerpt": "DBS Group Holdings Ltd. reported second-quarter profit that beat expectations, powered by a surge in wealth-led fee income, and raised its 2026 guidance.",
@@ -3519,15 +3578,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/mercadolibre-beats-estimates-as-quarterly-sales-top-10-billion",
       "excerpt": "MercadoLibre Inc. shares slid in late trading as analysts worried about the e-commerce giant’s spending plans despite it reporting sales and profits that beat consensus estimates in the second quarter.",
       "publishedAt": "2026-08-05T20:05:51.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "Stocks in Asia were poised to ease Thursday as investors digested gains in technology shares while watching for fresh signs of progress toward a deal to reopen the Strait of Hormuz.",
-      "publishedAt": "2026-08-05T22:06:50.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3573,51 +3623,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/phillips-66-expects-soaring-fuel-margins-to-last-into-2027",
       "excerpt": "Fuel-makers enjoying skyrocketing profits will likely keep reaping standout margins through the next quarter and beyond, according to an executive from a top US refiner.",
       "publishedAt": "2026-08-05T20:20:08.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Carry Trade Is Powering On as Investors Sidestep Yen’s Gains",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/carry-trade-is-powering-on-as-investors-sidestep-yen-s-gains",
-      "excerpt": "Emerging-market carry trades, some of this year’s most popular foreign-exchange bets, are showing resilience even after joint US-Japan currency intervention dented the appeal of this yen-funded strategy.",
-      "publishedAt": "2026-08-05T11:15:00.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Celestica’s $3 Billion Deal Joins Data Center Funding Rush",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/celestica-joins-data-center-funding-rush-with-3-billion-deal",
-      "excerpt": "Celestica Inc. is looking to raise $3 billion from selling new shares, joining a flurry of companies raising funds for data centers to power the artificial intelligence buildout.",
-      "publishedAt": "2026-08-05T21:05:38.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "MetLife’s Earnings Beat Wall Street Expectations",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/metlife-s-earnings-beat-wall-street-expectations",
-      "excerpt": "MetLife Inc.’s second-quarter earnings surpassed Wall Street’s expectations, boosted by strong underwriting, volume growth and the success of a five-year plan outlined in late 2024.",
-      "publishedAt": "2026-08-05T21:11:43.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Big Take: The $19 Billion Menopause Economy",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/big-take-the-19-billion-menopause-economy-video",
-      "excerpt": "The $19 billion market for menopause treatment is booming. But the gold rush is leaving some women behind. (Source: Bloomberg)",
-      "publishedAt": "2026-08-05T21:07:55.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Duolingo Shares Fall On Tepid Sales Outlook",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/duolingo-shares-fall-on-tepid-sales-outlook",
-      "excerpt": "Duolingo Inc. shares fell as much as 12% on Wednesday after the company’s conservative revenue outlook for the current quarter overshadowed user growth.",
-      "publishedAt": "2026-08-05T21:06:10.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -4028,6 +4033,15 @@
     },
     {
       "sourceId": "ftchinese-news",
+      "title": "减肥药需求激增 礼来、诺和诺德上调指引",
+      "url": "https://www.ftchinese.com/story/001110535",
+      "excerpt": "但两家制药商的股价发生分化，诺和诺德的股票遭到抛售，原因是投资者担心这家丹麦制药商过度依赖其重磅产品。",
+      "publishedAt": "2026-08-05T16:00:00.000Z",
+      "category": "finance",
+      "source": "FT中文网"
+    },
+    {
+      "sourceId": "ftchinese-news",
       "title": "中国对离岸资本利得税展开倒查追缴行动",
       "url": "https://www.ftchinese.com/story/001110529",
       "excerpt": "财政压力迫使中国对欠税展开追缴行动，与此同时其还显著扩大了对出境资本流动的控制。",
@@ -4198,20 +4212,40 @@
       "source": "FT中文网"
     },
     {
-      "sourceId": "ftchinese-news",
-      "title": "哈萨克斯坦总统敦促普京“冻结”战争",
-      "url": "https://www.ftchinese.com/story/001110433",
-      "excerpt": "托卡耶夫在电视直播的会谈中还坦言，哈萨克斯坦不理解俄乌战争的“性质”。此言相当于质疑普京发动战争的核心理由之一。",
-      "publishedAt": "2026-07-26T16:00:00.000Z",
+      "sourceId": "bbc-business",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "publishedAt": "2026-08-06T00:32:42.000Z",
       "category": "finance",
-      "source": "FT中文网"
+      "source": "BBC Business",
+      "summary": "伊朗表示与阿曼关于霍尔木兹海峡的协议已进入最后阶段。美方和阿曼均未对这项涉及重要水道的拟议协议发表评论。"
     },
     {
       "sourceId": "bbc-business",
-      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-      "publishedAt": "2026-08-05T21:21:51.000Z",
+      "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
+      "url": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
+      "publishedAt": "2026-08-05T23:22:17.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "夏季着装指南：员工能否穿短裤、吊带背心和凉鞋上班？老板是否有权规定着装？本文提供兼顾清凉与得体的着装建议，并厘清员工与老板的权利边界。"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+      "publishedAt": "2026-08-05T21:37:08.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
+      "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "A deal between will allow some creators to use clips from Disney films and TV shows in their videos.",
+      "publishedAt": "2026-08-05T13:06:43.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -4223,6 +4257,16 @@
       "publishedAt": "2026-08-05T10:10:02.000Z",
       "category": "finance",
       "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "What's causing record high US beef prices?",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The meat has never been more expensive, due to supply shortages, but no-one is making more money.",
+      "publishedAt": "2026-08-05T23:23:05.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "据BBC报道，美国牛肉价格创下历史最高水平，主要原因是供应短缺，但整个行业没有人因此增加收入。"
     },
     {
       "sourceId": "bbc-business",
@@ -4253,15 +4297,6 @@
     },
     {
       "sourceId": "bbc-business",
-      "title": "How tech is helping in the battle against wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
-      "publishedAt": "2026-08-04T23:21:47.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
       "title": "The cost of being single – and how friends are teaming up to beat it",
       "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
@@ -4275,15 +4310,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Elon Musk told investors that people were \"underestimating\" his company.",
       "publishedAt": "2026-08-05T14:04:43.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-      "excerpt": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
-      "publishedAt": "2026-08-04T22:10:00.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -4433,19 +4459,19 @@
     },
     {
       "sourceId": "bbc-business",
-      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
-      "publishedAt": "2026-08-03T11:49:41.000Z",
+      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "excerpt": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+      "publishedAt": "2026-08-04T22:10:00.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
-      "title": "It may be easier to get your first mortgage than you think - here's why",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
-      "publishedAt": "2026-08-03T09:55:36.000Z",
+      "title": "How tech is helping in the battle against wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+      "publishedAt": "2026-08-04T23:21:47.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -4455,24 +4481,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
       "excerpt": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
       "publishedAt": "2026-08-03T23:20:15.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "India wants to join the strawberry superpowers",
-      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-      "publishedAt": "2026-07-30T22:04:09.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "The Chinese robot army transforming the UK's retail industry",
-      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-      "publishedAt": "2026-07-29T22:08:29.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
