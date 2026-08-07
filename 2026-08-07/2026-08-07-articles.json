@@ -6,130 +6,130 @@
       "title": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "excerpt": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "meta": "TypeScript · ★ 16,334 · 🍴 1,473 · 📈 1,057 stars today",
+      "meta": "TypeScript · ★ 16,345 · 🍴 1,473 · 📈 1,057 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯云推出的团队级AI Agent记忆中枢，把对话、文档、代码转化为聊天记忆、技能、LLM知识库和代码图谱四类资产，支持统一治理与复用。解决多智能体协作中记忆分散、知识难以沉淀的问题，适合需要长期运行的Agent团队使用。"
+      "summary": "面向AI Agent团队的团队级记忆中枢，将对话、文档和代码转化为聊天记忆、技能、LLM-Wiki、代码图谱四类资产，支持治理与复用，解决多Agent协作中上下文丢失和知识分散问题。适用于需要长期记忆与知识沉淀的AI应用开发场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 82,907 · 🍴 8,890 · 📈 593 stars today",
+      "meta": "JavaScript · ★ 82,917 · 🍴 8,891 · 📈 593 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向AI编码智能体的生产级工程技能集合，提供经过验证的软件开发实践，帮助Agent在真实项目中更可靠地完成任务。适合前端/全栈开发者配置Claude Code等编码助手时直接采用。"
+      "summary": "为AI编程代理提供生产级工程技能集合，覆盖编码、审查、调试等最佳实践，让代理具备真实工程能力。可直接集成到现代开发工作流，提升自动化代码的质量与可靠性。适合使用AI编码工具的开发者与团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "excerpt": "Give your agent a computer 👾",
-      "meta": "TypeScript · ★ 4,775 · 🍴 242 · 📈 2,802 stars today",
+      "meta": "TypeScript · ★ 4,779 · 🍴 242 · 📈 2,802 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Cloudflare推出的AI Agent计算环境，为智能体提供云端计算机，使其能执行代码、操作浏览器等真实任务。解决Agent无法安全运行完整环境的问题，适合需要长期自主运行、访问外部工具的Agent场景。"
+      "summary": "给AI代理分配一台云端计算机，提供可交互环境让其执行命令、操作文件、访问网络。基于Cloudflare基础设施实现低延迟访问，用于自动化测试、数据处理和无人值守任务等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
-      "meta": "Shell · ★ 206,979 · 🍴 17,874 · 📈 1,873 stars today",
+      "meta": "Shell · ★ 206,995 · 🍴 17,878 · 📈 1,873 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "TypeScript专家Matt Pocock公开的AI Agent技能合集，直接取自其日常使用的.agents目录，涵盖真实工程场景下的提示词与工作流。适合想让编码Agent更懂工程实践、快速复制专家配置的开发者。"
+      "summary": "作者从个人.agents目录分享的真实工程师技能，面向AI编码代理，涵盖TypeScript、测试、重构等实战经验。可直接用作代理的技能库，提高AI在真实项目中的工程水平。"
     },
     {
       "sourceId": "github-trending",
       "title": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "excerpt": "The authentication glue you need.",
-      "meta": "Python · ★ 23,097 · 🍴 1,772 · 📈 138 stars today",
+      "meta": "Python · ★ 23,101 · 🍴 1,773 · 📈 138 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源身份认证平台，作为连接应用与目录服务的“胶水”，提供单点登录、多因素认证、授权和用户管理，支持LDAP、OAuth2、SAML等协议。适合需要自托管统一认证基础设施的团队。"
+      "summary": "开源身份认证与访问管理平台，提供单点登录、多因素认证、API令牌等能力，作为统一认证胶水与现有系统集成。适用于企业应用的身份认证、权限控制和用户管理场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
       "excerpt": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "meta": "Python · ★ 2,846 · 🍴 212 · 📈 847 stars today",
+      "meta": "Python · ★ 2,850 · 🍴 215 · 📈 847 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向长期运行AI Agent团队的轻量级循环工程状态内核，与Codex、Claude Code等编码Agent解耦，提供持久目标、配额感知自动唤醒与可执行文件能力。解决Agent任务中断、状态丢失问题，适合无人值守持续作业场景。"
+      "summary": "为长时间运行的AI Agent团队设计的轻量级状态内核，兼容Codex、Claude Code等代理循环。提供持久化目标、配额感知自动唤醒、可执行计划等，管理代理生命周期与状态，适合自动化多代理协作系统。"
     },
     {
       "sourceId": "github-trending",
       "title": "google/guava",
       "url": "https://github.com/google/guava",
       "excerpt": "Google core libraries for Java",
-      "meta": "Java · ★ 51,628 · 🍴 11,164 · 📈 13 stars today",
+      "meta": "Java · ★ 51,629 · 🍴 11,164 · 📈 13 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google开源的Java核心库，提供集合、缓存、函数式编程、字符串处理、并发等实用工具，弥补JDK不足。几乎每个Java项目都能用，是Android和后端开发的基础依赖。"
+      "summary": "Google开源的Java核心库，提供集合、缓存、并发、字符串处理和I/O等常用工具，减少重复造轮子并增强代码健壮性。是Java开发中广泛依赖的基础类库，适用于几乎所有Java项目。"
     },
     {
       "sourceId": "github-trending",
       "title": "TapXWorld/ChinaTextbook",
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "excerpt": "所有小初高、大学PDF教材。",
-      "meta": "Roff · ★ 77,049 · 🍴 17,407 · 📈 134 stars today",
+      "meta": "Roff · ★ 77,053 · 🍴 17,407 · 📈 134 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收录小学、初中、高中及大学各阶段PDF教材的中文资源库，覆盖主要学科与版本，方便学生和教师在线浏览、下载使用，解决纸质教材不易获取和携带的问题。"
+      "summary": "收录中国小学、初中、高中及大学各阶段PDF教材的资源库，覆盖多学科，支持在线浏览与下载。解决师生找教材难的问题，适合学生、教师和自学者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "excerpt": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "meta": "Python · ★ 185,994 · 🍴 46,055 · 📈 37 stars today",
+      "meta": "Python · ★ 185,997 · 🍴 46,055 · 📈 37 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源自主AI Agent项目，可根据用户目标自动分解任务、调用工具并执行，实现从“问答”到“做事”的转变。愿景是让每个人都能够使用和构建AI，适合自动化工作流、研究、编程等场景。"
+      "summary": "AutoGPT是开源自主AI代理平台，让每个人都能使用和构建AI代理。它使AI能自动分解任务、调用工具并达成目标，降低构建自主工作流的门槛。适合希望搭建自动化流程或开发AI应用的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "excerpt": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "meta": "Python · ★ 29,004 · 🍴 2,682 · 📈 237 stars today",
+      "meta": "Python · ★ 29,009 · 🍴 2,682 · 📈 237 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "本地优先的代码智能图工具，构建代码库的持久映射，供MCP与CLI调用。AI编码工具可按需读取相关上下文，在代码审查和大仓库场景下显著减少token消耗，适合大型项目团队优化AI辅助编程成本。"
+      "summary": "本地优先的代码智能图谱，面向MCP和CLI，构建持久化的代码库地图。AI编码工具只读取相关部分，基准测试显示大幅降低上下文占用，特别适合大型代码库的代码审查和开发辅助。"
     },
     {
       "sourceId": "github-trending",
       "title": "esengine/DeepSeek-Reasonix",
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "excerpt": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "meta": "Go · ★ 32,381 · 🍴 2,096 · 📈 888 stars today",
+      "meta": "Go · ★ 32,385 · 🍴 2,096 · 📈 888 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向终端、为DeepSeek模型优化的AI编程Agent，围绕前缀缓存稳定性设计，支持长时间持续运行，降低重复计费与延迟。适合习惯命令行、使用DeepSeek API的开发者完成编码任务。"
+      "summary": "面向终端的DeepSeek原生AI编码代理，围绕前缀缓存稳定性设计，支持长时间运行。可在终端完成代码编写、重构等任务，利用DeepSeek模型能力，适合偏好终端工作流的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 268,073 · 🍴 23,963 · 📈 858 stars today",
+      "meta": "Shell · ★ 268,078 · 🍴 23,963 · 📈 858 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套AI Agent技能框架及软件开发方法论，强调可落地的工程实践，帮助开发者组织和复用Agent能力，提升编码智能体在真实项目中的表现。适合希望建立系统化Agent工作流的团队。"
+      "summary": "一套可落地的代理技能框架与软件开发方法论。定义AI代理的技能、工作流和最佳实践，使代理能更高效地参与软件开发。适合希望将AI代理深度融入开发流程的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "excerpt": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "meta": "Rust · ★ 12,413 · 🍴 834 · 📈 1,190 stars today",
+      "meta": "Rust · ★ 12,419 · 🍴 836 · 📈 1,190 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于Rust的高性能PDF检查与文本提取库，能自动区分扫描版和文本版PDF，为下游处理提供智能路由依据。适合文档解析管道、RAG系统等需要快速分类PDF的场景。"
+      "summary": "用Rust编写的快速PDF检查与文本提取库，能智能区分扫描版和文本版PDF，并提取内容。可据此将文档路由到OCR或直接处理流程，适用于文档处理管道和PDF数据提取场景。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -313,19 +313,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "小白求推荐人工智能学习的网课",
-      "url": "https://www.v2ex.com/t/1214517",
-      "excerpt": "8 回复 · Python 节点",
-      "publishedAt": "2026-05-21T13:16:26.000Z",
+      "title": "今天去广州朋友工厂, 开劳斯莱斯的老板被我带入 AI vibe coding 后上瘾了.",
+      "url": "https://www.v2ex.com/t/1232590",
+      "excerpt": "10 回复 · 程序员 节点",
+      "publishedAt": "2026-08-06T16:50:43.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "今天去广州朋友工厂, 开劳斯莱斯的老板被我带入 AI vibe coding 后上瘾了.",
-      "url": "https://www.v2ex.com/t/1232590",
-      "excerpt": "7 回复 · 程序员 节点",
-      "publishedAt": "2026-08-06T16:50:43.000Z",
+      "title": "小白求推荐人工智能学习的网课",
+      "url": "https://www.v2ex.com/t/1214517",
+      "excerpt": "8 回复 · Python 节点",
+      "publishedAt": "2026-05-21T13:16:26.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -365,18 +365,18 @@
       "category": "tech",
       "score": 849,
       "source": "Hacker News",
-      "summary": "作者将经典游戏《超级马里奥》与帕累托最优概念结合，分析游戏设计中的多目标优化、资源分配与效率权衡。"
+      "summary": "文章借马里奥游戏形象地解释帕累托最优概念，讨论在多目标权衡中如何达到效率与公平的平衡。"
     },
     {
       "sourceId": "hackernews",
       "title": "Crime Pays but Botany Doesn't",
       "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "excerpt": "645 points · 200 comments",
+      "excerpt": "646 points · 201 comments",
       "publishedAt": "2026-08-06T04:46:35.000Z",
       "category": "tech",
-      "score": 645,
+      "score": 646,
       "source": "Hacker News",
-      "summary": "以植物学为主题的博客/视频频道，标题调侃犯罪才有收益而植物学没有，内容涵盖植物分类、生态与城市植物观察。"
+      "summary": "Crime Pays but Botany Doesn't 是一个植物学科普站点，以非传统风格介绍植物分类与生态知识，内容兼具专业性和趣味性。"
     },
     {
       "sourceId": "hackernews",
@@ -387,18 +387,18 @@
       "category": "tech",
       "score": 453,
       "source": "Hacker News",
-      "summary": "一篇技术教程介绍2026年如何制作任天堂64（N64）游戏，涵盖现代开发工具、硬件限制模拟与经典主机开发技巧。"
+      "summary": "技术文章分享2026年如何开发任天堂64游戏，涵盖现代工具链运用、硬件限制应对及编程技巧，为复古平台开发提供实用指南。"
     },
     {
       "sourceId": "hackernews",
       "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
       "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "excerpt": "404 points · 263 comments",
+      "excerpt": "411 points · 264 comments",
       "publishedAt": "2026-08-06T18:44:49.000Z",
       "category": "tech",
-      "score": 404,
+      "score": 411,
       "source": "Hacker News",
-      "summary": "人工智能模型Qwen3.8 Max在代理指数排行榜中登顶，被评估为最佳整体模型，引发关于模型能力与评测指标的热议。"
+      "summary": "人工智能分析平台Artificial Analysis更新智能体指数，Qwen3.8 Max登顶最佳整体模型排名，引发社区广泛讨论。"
     },
     {
       "sourceId": "hackernews",
@@ -407,9 +407,9 @@
       "excerpt": "https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d",
       "publishedAt": "2026-08-06T15:49:38.000Z",
       "category": "tech",
-      "score": 304,
+      "score": 309,
       "source": "Hacker News",
-      "summary": "GitHub状态页显示，Actions与Pages服务正在经历可用性降级，用户可能遇到延迟或错误，官方正在进行修复。"
+      "summary": "GitHub状态页显示Actions和Pages服务正经历可用性降级，部分用户可能遇到请求延迟或执行失败，官方正在调查。"
     },
     {
       "sourceId": "hackernews",
@@ -418,31 +418,31 @@
       "excerpt": "https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...https:&#x2F;&#x2F;chatjimmy.ai&#x2F;",
       "publishedAt": "2026-08-06T20:23:11.000Z",
       "category": "tech",
-      "score": 302,
+      "score": 308,
       "source": "Hacker News",
-      "summary": "AMD收购AI芯片初创公司Taalas，旨在通过将机器学习模型直接蚀刻进硅片来提升推理性能，降低能耗与延迟。"
+      "summary": "AMD收购AI芯片初创公司Taalas，通过将模型直接蚀刻进硅片来提升推理性能，此举将增强其在AI硬件市场的竞争力。"
     },
     {
       "sourceId": "hackernews",
       "title": "Almost no skill required to cook a steak",
       "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "excerpt": "260 points · 303 comments",
+      "excerpt": "263 points · 304 comments",
       "publishedAt": "2026-08-06T15:30:48.000Z",
       "category": "tech",
-      "score": 260,
+      "score": 263,
       "source": "Hacker News",
-      "summary": "博客文章称烹饪牛排几乎不需要技巧，探讨通过温度计与科学方法轻松做出完美牛排，引发关于烹饪门槛的讨论。"
+      "summary": "博客文章指出烹饪牛排几乎不需要技巧，介绍低温慢煮等简易方法，简化传统烹饪步骤，让新手也能做出美味牛排。"
     },
     {
       "sourceId": "hackernews",
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
       "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "excerpt": "242 points · 187 comments",
+      "excerpt": "245 points · 188 comments",
       "publishedAt": "2026-08-06T11:58:07.000Z",
       "category": "tech",
-      "score": 242,
+      "score": 245,
       "source": "Hacker News",
-      "summary": "一项研究显示，在4万次游戏测试中，人类审核AI代理命令时漏掉了三分之一的危险操作，凸显AI安全与人工监督的局限。"
+      "summary": "研究在4万次游戏运行中发现，人类批准AI代理命令时漏掉了三分之一的威胁，凸显AI安全监督中的人为疏忽问题。"
     },
     {
       "sourceId": "hackernews",
@@ -453,18 +453,18 @@
       "category": "tech",
       "score": 214,
       "source": "Hacker News",
-      "summary": "帕累托前沿是经济学与工程中多目标优化的核心概念，介绍其定义、含义及在权衡多个冲突目标时的应用。"
+      "summary": "维基百科条目解释帕累托前沿概念，该概念用于多目标优化，描述无法同时改进所有目标的解集，是决策分析中的重要工具。"
     },
     {
       "sourceId": "hackernews",
       "title": "Quake – 30th Anniversary Update",
       "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-      "excerpt": "191 points · 90 comments",
+      "excerpt": "195 points · 95 comments",
       "publishedAt": "2026-08-06T20:21:19.000Z",
       "category": "tech",
-      "score": 191,
+      "score": 195,
       "source": "Hacker News",
-      "summary": "经典射击游戏《雷神之锤》（Quake）迎来30周年，Bethesda发布更新，带来新地图、模组支持与画质增强。"
+      "summary": "Bethesda发布《雷神之锤》30周年更新，包括游戏改进、新内容和纪念活动，致敬这款经典射击游戏的历史地位。"
     },
     {
       "sourceId": "hackernews",
@@ -473,37 +473,37 @@
       "excerpt": "Hey HN, we’re Will &amp; Johnny from ProvenMetal (https:&#x2F;&#x2F;provenmetal.com). You send us design files or specs and we give you assembled boards domestically in days.The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space ",
       "publishedAt": "2026-08-06T15:59:15.000Z",
       "category": "tech",
-      "score": 182,
+      "score": 183,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "excerpt": "167 points · 128 comments",
+      "excerpt": "175 points · 139 comments",
       "publishedAt": "2026-08-06T17:01:33.000Z",
       "category": "tech",
-      "score": 167,
+      "score": 175,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "excerpt": "133 points · 90 comments",
+      "excerpt": "135 points · 91 comments",
       "publishedAt": "2026-08-06T17:02:04.000Z",
       "category": "tech",
-      "score": 133,
+      "score": 135,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Herdr is joining Y Combinator. The runtime stays open",
       "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "excerpt": "125 points · 83 comments",
+      "excerpt": "129 points · 87 comments",
       "publishedAt": "2026-08-06T19:14:21.000Z",
       "category": "tech",
-      "score": 125,
+      "score": 129,
       "source": "Hacker News"
     },
     {
@@ -513,27 +513,27 @@
       "excerpt": "https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o, https:&#x2F;&#x2F;archive.is&#x2F;YDn6S",
       "publishedAt": "2026-08-05T15:33:23.000Z",
       "category": "tech",
-      "score": 117,
+      "score": 122,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
       "url": "https://laurentiugabriel.github.io/ChipTycoon/",
-      "excerpt": "102 points · 17 comments",
+      "excerpt": "103 points · 17 comments",
       "publishedAt": "2026-07-31T07:37:13.000Z",
       "category": "tech",
-      "score": 102,
+      "score": 103,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The simple elegance of the integrated timing belt loopback fastener",
       "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
-      "excerpt": "92 points · 19 comments",
+      "excerpt": "94 points · 19 comments",
       "publishedAt": "2026-08-02T12:14:34.000Z",
       "category": "tech",
-      "score": 92,
+      "score": 94,
       "source": "Hacker News"
     },
     {
@@ -550,70 +550,60 @@
       "sourceId": "hackernews",
       "title": "My phone detects going on a run as “someone snatching my phone and running off”",
       "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
-      "excerpt": "77 points · 136 comments",
+      "excerpt": "79 points · 141 comments",
       "publishedAt": "2026-08-06T18:26:08.000Z",
       "category": "tech",
-      "score": 77,
+      "score": 79,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Welcoming the Nepalese Government to Have I Been Pwned",
       "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "excerpt": "54 points · 12 comments",
+      "excerpt": "62 points · 13 comments",
       "publishedAt": "2026-08-06T21:52:16.000Z",
       "category": "tech",
-      "score": 54,
+      "score": 62,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Can you reverse engineer an ASIC?",
       "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-      "excerpt": "53 points · 29 comments",
+      "excerpt": "55 points · 34 comments",
       "publishedAt": "2026-08-06T19:07:33.000Z",
       "category": "tech",
-      "score": 53,
+      "score": 55,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Building Progressively Enhanced Forms Using htmx",
       "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-      "excerpt": "52 points · 10 comments",
+      "excerpt": "55 points · 10 comments",
       "publishedAt": "2026-07-30T21:45:48.000Z",
       "category": "tech",
-      "score": 52,
+      "score": 55,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "I stopped trusting USB-C cable labels and started testing them",
       "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "excerpt": "45 points · 29 comments",
+      "excerpt": "53 points · 33 comments",
       "publishedAt": "2026-08-03T07:12:57.000Z",
       "category": "tech",
-      "score": 45,
+      "score": 53,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
       "url": "https://www.aleksagordic.com/blog/vllm",
-      "excerpt": "42 points · 2 comments",
+      "excerpt": "44 points · 2 comments",
       "publishedAt": "2026-08-06T21:30:21.000Z",
       "category": "tech",
-      "score": 42,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "excerpt": "37 points · 2 comments",
-      "publishedAt": "2026-08-06T21:18:32.000Z",
-      "category": "tech",
-      "score": 37,
+      "score": 44,
       "source": "Hacker News"
     },
     {
@@ -623,7 +613,17 @@
       "excerpt": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance&#x27;s video hardware is reimplemented in software on the second core.",
       "publishedAt": "2026-08-06T21:49:07.000Z",
       "category": "tech",
-      "score": 34,
+      "score": 35,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+      "excerpt": "15 points · 1 comments",
+      "publishedAt": "2026-08-07T00:06:28.000Z",
+      "category": "tech",
+      "score": 15,
       "source": "Hacker News"
     },
     {
@@ -638,22 +638,12 @@
     },
     {
       "sourceId": "hackernews",
-      "title": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
-      "url": "https://arxiv.org/abs/2607.25373",
-      "excerpt": "9 points · 1 comments",
-      "publishedAt": "2026-08-03T21:22:01.000Z",
-      "category": "tech",
-      "score": 9,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
       "title": "The Sylvester–Gallai Theorem",
       "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-      "excerpt": "4 points · 0 comments",
+      "excerpt": "5 points · 0 comments",
       "publishedAt": "2026-07-31T14:00:34.000Z",
       "category": "tech",
-      "score": 4,
+      "score": 5,
       "source": "Hacker News"
     },
     {
@@ -663,7 +653,17 @@
       "excerpt": "Author here.Background, for anyone who hasn&#x27;t followed this fight: IBM&#x27;s iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship &quot;quantum computers are useful for chemistry now&quot; claims, and a published critique (arXiv:2501.07231) argues the quantum samples never beat cla",
       "publishedAt": "2026-08-06T22:50:09.000Z",
       "category": "tech",
-      "score": 4,
+      "score": 5,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
+      "url": "https://github.com/Kayvan-Zahiri/asr-age-gap",
+      "excerpt": "3 points · 0 comments",
+      "publishedAt": "2026-08-07T00:10:04.000Z",
+      "category": "tech",
+      "score": 3,
       "source": "Hacker News"
     },
     {
@@ -767,6 +767,24 @@
     },
     {
       "sourceId": "lobsters",
+      "title": "Super Mario Derivations",
+      "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+      "excerpt": "Comments",
+      "publishedAt": "2026-08-06T22:27:33.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "cl-forth: Forth 2012 Standard in CL",
+      "url": "https://github.com/gmpalter/cl-forth",
+      "excerpt": "Comments",
+      "publishedAt": "2026-08-06T19:01:58.000Z",
+      "category": "tech",
+      "source": "Lobsters"
+    },
+    {
+      "sourceId": "lobsters",
       "title": "Zapscape - Guest to host escape in KVM/x86",
       "url": "https://github.com/V4bel/Zapscape",
       "excerpt": "Comments",
@@ -785,15 +803,6 @@
     },
     {
       "sourceId": "lobsters",
-      "title": "Super Mario Derivations",
-      "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-      "excerpt": "Comments",
-      "publishedAt": "2026-08-06T22:27:33.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
       "title": "celld — Durable Objects, self-hosted",
       "url": "https://celld.dev/",
       "excerpt": "Comments",
@@ -807,15 +816,6 @@
       "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
       "excerpt": "Comments",
       "publishedAt": "2026-08-05T06:55:36.000Z",
-      "category": "tech",
-      "source": "Lobsters"
-    },
-    {
-      "sourceId": "lobsters",
-      "title": "cl-forth: Forth 2012 Standard in CL",
-      "url": "https://github.com/gmpalter/cl-forth",
-      "excerpt": "Comments",
-      "publishedAt": "2026-08-06T19:01:58.000Z",
       "category": "tech",
       "source": "Lobsters"
     },
@@ -892,6 +892,96 @@
       "source": "Lobsters"
     },
     {
+      "sourceId": "qbitai",
+      "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
+      "url": "https://www.qbitai.com/2026/08/467478.html",
+      "excerpt": "正式公开了安卓液态玻璃设计的完整技术底座",
+      "publishedAt": "2026-08-06T09:58:21.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
+      "url": "https://www.qbitai.com/2026/08/467447.html",
+      "excerpt": "Jeff Dean用大脑挖比特币",
+      "publishedAt": "2026-08-06T08:02:45.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
+      "url": "https://www.qbitai.com/2026/08/467444.html",
+      "excerpt": "",
+      "publishedAt": "2026-08-06T07:43:56.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "这人谁啊？哈萨比斯都让位了",
+      "url": "https://www.qbitai.com/2026/08/467274.html",
+      "excerpt": "没想到还有LeCun的事儿",
+      "publishedAt": "2026-08-06T06:17:43.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
+      "url": "https://www.qbitai.com/2026/08/467270.html",
+      "excerpt": "",
+      "publishedAt": "2026-08-06T05:36:37.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+      "url": "https://www.qbitai.com/2026/08/467262.html",
+      "excerpt": "",
+      "publishedAt": "2026-08-06T05:29:40.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "url": "https://www.qbitai.com/2026/08/467196.html",
+      "excerpt": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
+      "publishedAt": "2026-08-05T23:52:10.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
+      "url": "https://www.qbitai.com/2026/08/467034.html",
+      "excerpt": "兔展智能发布RabbitVis，让AI真正走完设计全流程",
+      "publishedAt": "2026-08-05T14:09:18.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
+      "url": "https://www.qbitai.com/2026/08/467036.html",
+      "excerpt": "MiniMax H3也能开箱即用了",
+      "publishedAt": "2026-08-05T13:47:51.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "又一家AI基金暴雷了",
+      "url": "https://www.qbitai.com/2026/08/467001.html",
+      "excerpt": "开源改写游戏规则",
+      "publishedAt": "2026-08-05T12:43:18.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
       "sourceId": "openai-news",
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
@@ -899,7 +989,7 @@
       "publishedAt": "2026-08-06T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI宣布改进ChatGPT中的GPT-5.6 Sol模型，显著提升准确性与一致性；同时扩大GPT-5.6 Luna的免费用户访问权限，并向免费用户开放无限日常聊天。"
+      "summary": "OpenAI宣布改进ChatGPT中的GPT-5.6 Sol模型，提升准确性和一致性，同时扩大GPT-5.6 Luna对免费用户的访问权限，免费用户可无限使用日常聊天功能。"
     },
     {
       "sourceId": "openai-news",
@@ -909,7 +999,7 @@
       "publishedAt": "2026-08-06T06:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI与美国心理学会（APA）合作，围绕青少年心理健康与AI使用，共同推进基于证据的指导、资源与安全措施，以促进AI的负责任应用。"
+      "summary": "OpenAI与美国心理学会（APA）宣布合作，围绕青少年心理健康与AI应用，共同推进循证指南、资源和安全防护措施，促进负责任的AI使用。"
     },
     {
       "sourceId": "openai-news",
@@ -919,7 +1009,7 @@
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布Signals数据报告，展示全球用户如何将ChatGPT从提问转向实际执行，涵盖各国采用情况、使用趋势及用户行为演变。"
+      "summary": "OpenAI发布最新Signals数据，揭示全球用户使用ChatGPT的方式，涵盖各国采用率、使用趋势及行为演变，并提供国家层面的洞察。"
     },
     {
       "sourceId": "openai-news",
@@ -928,8 +1018,7 @@
       "excerpt": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "publishedAt": "2026-08-04T19:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News",
-      "summary": "OpenAI就近期涉及自身模型的第三方网络安全评估事件进行说明，并公布新的安全防护措施，以强化AI模型测试与评估流程的可靠性。"
+      "source": "OpenAI News"
     },
     {
       "sourceId": "openai-news",
@@ -938,8 +1027,7 @@
       "excerpt": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "publishedAt": "2026-08-04T00:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News",
-      "summary": "OpenAI为ChatGPT Work和Codex推出新的教育插件，旨在帮助K-12教师、大学教育工作者及学生更高效地学习、教学、研究与构建。"
+      "source": "OpenAI News"
     },
     {
       "sourceId": "openai-news",
@@ -1174,7 +1262,7 @@
       "publishedAt": "2026-08-06T15:06:15.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "谷歌DeepMind发布WeatherNext人工智能模型，在气旋（热带气旋）预报领域取得突破性进展，有望显著提升极端天气预测的准确性与提前量。"
+      "summary": "谷歌DeepMind发布WeatherNext AI模型，称其在气旋预报方面取得突破性进展。该模型可提升对热带气旋等极端天气的预测能力，有望为防灾减灾提供更精准的决策支持。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -1445,7 +1533,7 @@
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face的推理提供商列表新增Baseten，开发者可通过该平台更便捷地部署和运行AI模型，此举扩大了模型推理服务的可选范围。"
+      "summary": "Baseten现已上线Hugging Face推理服务提供商平台。Hugging Face博客宣布了这一合作，用户可通过该平台调用Baseten提供的模型推理服务。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1454,8 +1542,7 @@
       "excerpt": "",
       "publishedAt": "2026-08-04T13:58:29.000Z",
       "category": "tech",
-      "source": "Hugging Face Blog",
-      "summary": "Hugging Face发布LFM2.5-2.6B模型，主打轻量化，支持在本地或边缘环境中随处部署AI智能体（agents），为开发者提供更灵活的本地化方案。"
+      "source": "Hugging Face Blog"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1717,7 +1804,7 @@
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "本期AI要闻涵盖：谷歌DeepMind内部重新调整组织架构；Meta发布Muse Code工具；Anthropic组建自研芯片团队。"
+      "summary": "最新一期TLDR AI简报汇总三则消息：谷歌DeepMind进行管理层重组，Meta发布Muse Code编程工具，Anthropic组建芯片团队。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1726,8 +1813,7 @@
       "excerpt": "",
       "publishedAt": "2026-08-05T00:00:00.000Z",
       "category": "tech",
-      "source": "TLDR AI",
-      "summary": "本期AI要闻：谷歌发布大模型路由器；Cloudflare推出钱包功能；Anthropic与Volta达成合作。"
+      "source": "TLDR AI"
     },
     {
       "sourceId": "tldr-ai",
@@ -1736,8 +1822,7 @@
       "excerpt": "",
       "publishedAt": "2026-08-04T00:00:00.000Z",
       "category": "tech",
-      "source": "TLDR AI",
-      "summary": "本期AI要闻：ChronicleBio发布新动态；Mind Lab推进持续学习研究；GPT-Live公开其系统架构。"
+      "source": "TLDR AI"
     },
     {
       "sourceId": "tldr-ai",
@@ -1900,7 +1985,7 @@
       "publishedAt": "2026-08-06T04:34:11.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "DeepMind发生重大人事调整：Jeff、Sanjay、Oriol和Quoc四位核心成员离职，Demis转任主席，Koray升任高级副总裁，标志一个时代结束。"
+      "summary": "DeepMind发生重大人事调整：Jeff、Sanjay、Oriol和Quoc四人离职，Demis出任主席，Koray升任高级副总裁。媒体评价称「一个时代结束」。"
     },
     {
       "sourceId": "latent-space",
@@ -1909,8 +1994,7 @@
       "excerpt": "A quiet day lets us highlight a Cursor launch and an engineering debate",
       "publishedAt": "2026-08-05T01:21:47.000Z",
       "category": "tech",
-      "source": "Latent Space",
-      "summary": "AI新闻：围绕Megakernels（巨型内核）的技术路线出现「死了又回来」的争议，本期还重点关注Cursor的产品发布以及一场工程辩论。"
+      "source": "Latent Space"
     },
     {
       "sourceId": "latent-space",
@@ -1919,8 +2003,7 @@
       "excerpt": "An external reconstruction of how Memory, Proactivity, Scheduling, Browser Use, Plugins, Skills and Tools work in the new ChatGPT Work.",
       "publishedAt": "2026-08-04T18:20:14.000Z",
       "category": "tech",
-      "source": "Latent Space",
-      "summary": "文章深入剖析ChatGPT Work，解读这一面向十亿用户的智能体如何实现记忆、主动性、调度、浏览器使用、插件、技能与工具等功能。"
+      "source": "Latent Space"
     },
     {
       "sourceId": "latent-space",
@@ -1929,8 +2012,7 @@
       "excerpt": "Qwen is so back!",
       "publishedAt": "2026-08-04T03:49:14.000Z",
       "category": "tech",
-      "source": "Latent Space",
-      "summary": "Qwen发布新开源模型Qwen 3.8 Max（2.4T参数）与Qwen 27B，主打编程与协作（Cowork）场景，进一步丰富开源权重生态。"
+      "source": "Latent Space"
     },
     {
       "sourceId": "latent-space",
@@ -2175,7 +2257,7 @@
       "category": "tech",
       "meta": "@XFreeze · 251.7K 粉丝 · 778.3K 阅 · 558 赞 · 80 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Grok Build 常被低估一个数量级。它不只是 AI 编码代理，更接近「自主员工」：能理解任务、自动完成从写代码到落地执行的完整流程。博主给出实用指南，教你用它重新定义笔记本上的工作方式，把 AI 代理从「建应用」升级为替自己干活的员工。"
+      "summary": "Grok Build 的实际用途被低估一个数量级——多数人只当它是 AI 编程代理来建应用，但博主认为其真正价值是做「自主员工」：自动完成整条工作流，重塑笔记本使用方式。附实用上手指南。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2186,7 +2268,7 @@
       "category": "tech",
       "meta": "@tetsuoai · 236.6K 粉丝 · 493.9K 阅 · 851 赞 · 138 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Grok Imagine 跨过关键门槛：Imagine Video 1.5 已提升运动、物理和音频表现，7月31日 xAI 补上图像能力后，真正拍短片成为可能。博主演示从创意到成片的完整流程，覆盖剧本、分镜、生成与剪辑，说明 AI 视频工具从「能生成画面」迈向「能独立完成电影制作」。"
+      "summary": "用 Grok Imagine 从零制作短片：Imagine Video 1.5 上月发布，运动、物理和音频显著提升；7 月 31 日 xAI 补齐图像生成环节，让真正电影拍摄成为可能。教程覆盖创意到成片全流程。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2197,7 +2279,7 @@
       "category": "tech",
       "meta": "@sawyerhood · 17.1K 粉丝 · 185.1K 阅 · 519 赞 · 27 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "bb 是一款能自我构建的 agentic IDE，最初是 @_ymichael 的业余项目，作者从早期用户一路深入。它的特点是 IDE 自己能读代码、自己改代码、自己升级功能，把「开发工具」变成「会自我进化的开发助手」，展示 AI 原生编程环境的激进方向。"
+      "summary": "展示 bb——一个能自我构建的 agentic IDE。项目源自 @_ymichael 的业余爱好，作者从早期用户一路深度参与。核心亮点是 IDE 由 AI 代理驱动，能自主编写代码、演进自身功能，实现「自己构建自己」。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2208,7 +2290,7 @@
       "category": "tech",
       "meta": "@RaoulGMI · 1.5M 粉丝 · 90.0K 阅 · 530 赞 · 72 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "宏观预判：两年内地球大部分经济活动将不再有人类参与。以一笔交易为例——决策、审批、记账、执行全由 AI 完成，人类角色被彻底移除。博主称之为「隐形经济」，并探讨其对就业与市场结构的冲击。"
+      "summary": "宏观预测：约两年内，地球上大多数经济活动将不再有人类参与。以单笔交易为例，决策、审批、记账等环节全由 AI 接管，催生「隐形经济」。这是对 AI 代理经济规模的激进判断。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2219,7 +2301,7 @@
       "category": "tech",
       "meta": "@VibeMarketer_ · 29.9K 粉丝 · 56.6K 阅 · 501 赞 · 30 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "实操教程：用 Nous Research 新出的 Hermes kanban 多智能体功能搭建自主内容引擎。每晚自动监控 50+ X 账号和 newsletter，完成内容选题、排期与分发，把创意流程变成无人值守的流水线。博主亲测演示，适合做自动化内容营销的人参考。"
+      "summary": "用 Nous Research 新推出的多代理功能 Hermes kanban 搭建自动内容引擎：每晚自动监控 50+ X 账号和 newsletter，完成内容创意收集与选题，实现选题策划的完全自动化。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2230,7 +2312,7 @@
       "category": "tech",
       "meta": "@YifeiChen1121 · 224 粉丝 · 51.8K 阅 · 567 赞 · 22 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分析 AI 品牌设计的趋同套路：衬线字体 + 自然风景照 + 柔和中性色，成为 AI 产品的「默认脸」，目的是营造「人性化」感。这招曾经有效，直到所有 AI 都长一个样。博主从视觉文化角度拆解 AI slop 的美学困境——当 AI 想显得有人味，结果反而集体无个性。"
+      "summary": "拆解 AI 品牌设计为何集体走向「衬线字体 + 自然照片 + 柔和中性色」，用这套视觉语言营造「人性化」错觉。策略一度奏效，直到所有 AI 产品同质化，变成可一眼识别的 AI slop 美学。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2241,7 +2323,16 @@
       "category": "tech",
       "meta": "@yisongyue · 24.2K 粉丝 · 48.3K 阅 · 503 赞 · 37 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "提出 AI 发展的新 scaling 维度：过去靠数据、架构和算力扩展模型，靠工具、搜索和验证扩展 agent；下一步是构建「知识飞轮」，让 AI 在持续运行中自动沉淀并复用知识。作者认为这将成为明天的核心竞争力，把扩展逻辑从「能力」转向「知识循环」。"
+      "summary": "提出「知识飞轮」范式：今天靠数据、架构和算力扩展模型，靠工具、搜索、验证扩展 agent；明天将转向知识驱动的新扩展维度，让 AI 系统通过知识循环自我增强。"
+    },
+    {
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 上海浦江郊野公园的溪边咖啡馆。（via） 国家为什么需要开源软件？ 上个月，大模型 Kimi K3 发布。大家可能不知道，它在美国引起的反响，比中国大。 它的性能略逊于美国的顶尖模型，但是它是开源的，任何人都可以自己架设。这对大公司非常有吸引力。 美国目前的经济增长，全靠巨额的 AI 投资，其他行业其实不怎么增长。一旦大量企业选择自己架设开源模型（几乎肯定如此），现有的巨额投资有收不回来的风险。 美国政府就坐不住了，",
+      "publishedAt": "2026-08-07T00:08:27.000Z",
+      "category": "tech",
+      "source": "阮一峰的网络日志"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -2258,15 +2349,6 @@
       "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
       "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 西安大明宫遗址，使用亚克力透明板绘制古代建筑，让游客在原址体验当年的场景。（via） 资源，社会公平与算力 分享一个有趣的观点：资源太多，会造成社会不公平。我谈不上同意这个观点，就是觉得思路很奇特。 这是奥地利哲学家伊万·伊里奇（Ivan Illich）在1973年的著作《能源与公平》（Energy and Equity ）中提出的，他认为用电量与社会公平有关。 \"能源和公平只能在一定程度上同时增长。人均用电量低于某",
       "publishedAt": "2026-07-24T00:12:16.000Z",
-      "category": "tech",
-      "source": "阮一峰的网络日志"
-    },
-    {
-      "sourceId": "ruanyf-blog",
-      "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
-      "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
-      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 上海某商场正在举办的\"海绵宝宝\"展览。（via） 你需要知道的 AI 内存知识 自己在家运行 AI 模型，可以选择两种硬件。 一种是独立显卡，目前最顶级的消费级显卡是英伟达的 RTX 5090，带有 32GB 显存，售价3万元人民币左右。 另一种是采用板载芯片组（CPU + 板载显卡 + 板载内存）的家用电脑，比如采用 AMD 公司 Strix Halo 芯片组（具体型号 Ryzen AI Max+ 395）的迷你电",
-      "publishedAt": "2026-07-16T23:51:19.000Z",
       "category": "tech",
       "source": "阮一峰的网络日志"
     },
@@ -3352,6 +3434,54 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Iran Seeks to Bar US Ships as Deal With Oman Advances",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-07/iran-seeks-to-bar-us-ships-as-deal-with-oman-advances-video",
+      "excerpt": "Iran will seek to bar US and Israeli ships from the Strait of Hormuz and require compensation from hostile countries before they’re allowed to use it, according to local media reports on a proposed Iran-Oman deal. Bloomberg's Michael Heath reports. (Source: Bloomberg)",
+      "publishedAt": "2026-08-07T00:25:14.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "据当地媒体报道，伊朗将在同阿曼达成的协议中寻求禁止美国和以色列船只通过霍尔木兹海峡，并要求敌对国家在使用该海峡前提供赔偿。彭博社记者迈克尔·希思报道该消息。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Aug. 7",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/latest-oil-market-news-and-analysis-for-aug-7",
+      "excerpt": "Oil extended gains after a report that Iran attacked “hostile targets” in the Strait of Hormuz, with Tehran seeking to bar US ships from the critical waterway in a deal with Oman.",
+      "publishedAt": "2026-08-06T22:01:46.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks Edge Up as Korea Gains, Brent Crude Climbs: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "Asian stocks gained Friday as traders looked past geopolitical tensions and technology stocks advanced in South Korea. Oil rose as prospects for a lasting Middle East agreement remained uncertain.",
+      "publishedAt": "2026-08-06T22:10:21.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Mexico Arrests Ex-Governor Over 2014 Student Abduction Case",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/mexico-arrests-ex-governor-over-2014-student-abduction-case",
+      "excerpt": "Mexican authorities detained a former governor over charges he concealed evidence in the more than decade-old abduction and presumed murder of dozens of students training to be teachers, one of the country’s most infamous criminal cases.",
+      "publishedAt": "2026-08-07T00:06:44.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "墨西哥当局逮捕一名前州长，指控他在2014年数十名师范学生遭绑架并被推定谋杀的案件中隐瞒证据。此案是墨西哥最臭名昭著的刑事案件之一。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Yen Surrenders Nearly Half Its Gains from US-Japan Intervention",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/yen-surrenders-nearly-half-its-gains-from-us-japan-intervention",
+      "excerpt": "The yen is heading into the end of the week having surrendered nearly half of its intervention-driven gains, fueling speculation among traders that authorities may step into the market again.",
+      "publishedAt": "2026-08-07T00:04:31.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "日元在周末前回吐了由美日联合干预推动的近半涨幅，引发交易员猜测当局可能再次入场干预。此前干预推动日元走强，如今涨势消退，市场关注后续政策动向。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "Kirin Pushes Into Vitamin Sales With $1.4 Billion Jamieson Deal",
       "url": "https://www.bloomberg.com/news/articles/2026-08-06/kirin-to-buy-vitamins-firm-jamieson-in-1-4-billion-deal",
       "excerpt": "Kirin Holdings Co. shares rose 2.4% to near record levels after the Japanese beverage maker announced a deal to acquire Toronto-based Jamieson Wellness Inc. that values the Canadian vitamins and supplements maker at about C$2 billion ($1.4 billion).",
@@ -3366,8 +3496,7 @@
       "excerpt": "DBS Group CEO Tan Su Shan sees AI costs trending down with more use of tokens, driven by what she calls the 'paradox of token spend.' She emphasizes that the bank maintains an open architecture, staying open-minded and avoiding being 'too wedded' to a model or any one provider. In a wide-ranging int",
       "publishedAt": "2026-08-06T23:50:43.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "新加坡星展集团首席执行官陈淑珊认为，随着代币使用增加，出现所谓“代币支出悖论”，人工智能成本将趋于下降；她强调银行保持开放架构，避免过度依赖单一模型或供应商。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3375,16 +3504,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-06/gold-steady-as-traders-assess-impact-of-hormuz-flare-up-on-rates",
       "excerpt": "Gold moved in a narrow range as traders assessed the impact of a reported Iranian attack in the Strait of Hormuz on the Federal Reserve’s path for interest rates.",
       "publishedAt": "2026-08-06T23:43:38.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "据报道伊朗在霍尔木兹海峡发动袭击，交易员评估其对美联储利率路径的影响，金价在窄幅区间内波动。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Asian Stocks to Slip on Iran Concerns, Oil Climbs: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "Stocks in Asia looked set to edge lower Friday after a resurgence in geopolitical tensions sent US stocks and bonds lower. Oil jumped, reviving inflation concerns ahead of a key US jobs report.",
-      "publishedAt": "2026-08-06T22:10:21.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3395,8 +3514,7 @@
       "excerpt": "Federal Reserve Bank of St. Louis President Alberto Musalem explains why he expressed a preference to raise rates at the Federal Open Market Committee's July meeting. Speaking at an event in São Paulo, Musalem also discusses the outlook for inflation. (Source: Bloomberg)",
       "publishedAt": "2026-08-06T23:11:44.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "圣路易斯联邦储备银行行长穆萨莱姆表示，在7月联邦公开市场委员会会议上他倾向于加息，并在圣保罗的活动上谈及通胀前景。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3405,8 +3523,7 @@
       "excerpt": "Federal Reserve Bank of St. Louis President Alberto Musalem says policymakers can't afford to tolerate higher inflation while they wait for the possibility of stronger productivity growth. He speaks at an event in São Paulo. (Source: Bloomberg)",
       "publishedAt": "2026-08-06T23:00:48.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "圣路易斯联邦储备银行行长穆萨莱姆表示，政策制定者不能在等待生产率强劲增长可能性的同时容忍更高通胀，需对通胀施加“实质性限制”。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3415,8 +3532,7 @@
       "excerpt": "China is accelerating its push to internationalize the yuan as domestic banks add new foreign currencies available for direct settlement to bypass the dollar in cross-border trade.",
       "publishedAt": "2026-08-06T23:00:07.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "中国加速推进人民币国际化，国内银行增加可直接结算的外币种类，以在跨境贸易中绕开美元结算。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3425,8 +3541,7 @@
       "excerpt": "Japanese companies have already sold more corporate bonds with investor protection this year than in all of 2025, as lower-rated borrowers increasingly turn to the bond market instead of relying solely on bank loans for their funding needs.",
       "publishedAt": "2026-08-06T23:00:00.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "日本企业今年附带投资者保护条款的公司债发行规模已超2025年全年，较低评级借款人日益转向债市融资，而非仅依赖银行贷款。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3434,16 +3549,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-08-06/trex-ceo-on-earnings-consumer-demand-for-deck-materials-video",
       "excerpt": "Trex CEO Adam Zambanini joins Bloomberg Businessweek Daily to discuss the deck materials company's latest earnings results, the company's total addressable market, push into the Southern Sunbelt, customer demand, and more. He speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
       "publishedAt": "2026-08-06T22:56:24.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "Trex首席执行官亚当·赞巴尼尼谈及最新财报、消费者对露台材料的需求、公司总潜在市场，以及向美国南部阳光地带扩张的计划。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Latest Oil Market News and Analysis for Aug. 7",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/latest-oil-market-news-and-analysis-for-aug-7",
-      "excerpt": "Oil extended gains on reports that Iran attacked “hostile targets” in the Strait of Hormuz, with Tehran seeking to bar US ships from the critical waterway in a deal with Oman.",
-      "publishedAt": "2026-08-06T22:01:46.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3454,8 +3559,7 @@
       "excerpt": "Japan’s Topix stock index is poised for its biggest overhaul, with more than 600 companies — over a third of its constituents — likely to be gradually removed under new eligibility rules, according to analysts’ estimates.",
       "publishedAt": "2026-08-06T22:30:03.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "日本东证指数将迎来史上最大规模调整，分析机构估计逾600家公司、超过三分之一的成分股可能在新规下被逐步剔除。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3508,33 +3612,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-06/aig-profit-beat-estimates-cites-strong-underwriting",
       "excerpt": "American International Group Inc. reported second-quarter results that surpassed Wall Street expectations, roughly two months after Eric Andersen took over as chief executive officer.",
       "publishedAt": "2026-08-06T20:31:28.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Elf Beauty Expands Into Hair Care Products",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-06/elf-beauty-expands-into-hair-care-products-video",
-      "excerpt": "Elf Beauty Chief Executive Officer Tarang Amin says the company is excited about expanding into hair care products. It launched a new partnership with Target in June. Amin talks about that and the latest earnings report on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "publishedAt": "2026-08-06T19:40:32.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Dollar Notches Best Day in Two Weeks as Oil Prices Advance",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/dollar-heads-for-best-day-in-two-weeks-as-oil-prices-advance",
-      "excerpt": "The dollar finished its best day in two weeks as oil prices advanced amid fading optimism over easing tensions in the Middle East.",
-      "publishedAt": "2026-08-06T18:22:33.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "DraftKings Profit Falls Short Amid Prediction Market Blitz",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/draftkings-sales-profit-fall-short-amid-prediction-market-blitz",
-      "excerpt": "DraftKings Inc. reported second-quarter sales and earnings that missed analysts expectations as the sportsbetting industry confronts a new challenge from prediction-market players.",
-      "publishedAt": "2026-08-06T20:38:05.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3725,8 +3802,7 @@
       "excerpt": "The ecommerce and cloud company hopes to recoup some of its lost shine with Monday’s release",
       "publishedAt": "2026-08-06T23:00:03.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "阿里巴巴于周一发布最新人工智能模型，这家电商与云计算公司希望借此重拾部分失去的光彩。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -4132,7 +4208,7 @@
       "publishedAt": "2026-08-07T00:06:17.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "美国新墨西哥州法官裁定Meta因旗下Instagram、Facebook和WhatsApp伤害儿童，需支付5.67亿美元罚款，这是针对社交媒体公司规模最大的儿童安全处罚。"
+      "summary": "美国新墨西哥州法官裁定，社交媒体巨头Meta因平台伤害儿童的方式再支付5.67亿美元罚款。Meta是Instagram、Facebook和WhatsApp的母公司，此次裁决是针对社交媒体公司最大的儿童安全处罚。"
     },
     {
       "sourceId": "bbc-business",
@@ -4141,8 +4217,7 @@
       "excerpt": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
       "publishedAt": "2026-08-06T23:03:48.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "拥有50年历史的英国零售商Argos将进行改造，但能否吸引新顾客、与亚马逊等新对手竞争，新东家面临考验。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -4178,8 +4253,7 @@
       "excerpt": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
       "publishedAt": "2026-08-06T23:04:40.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "航空业警告旅客在携带锂离子电池出行时需格外小心，以防范相关安全风险。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
