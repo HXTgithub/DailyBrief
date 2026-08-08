@@ -1,65 +1,130 @@
 {
-  "hero_headline": "AMD 收购 Taalas，AI 推理芯片竞争升温",
-  "daily_overview": "今日科技界聚焦 AMD 收购 AI 推理芯片初创 Taalas，AI 算力竞争进一步白热化；OpenAI 发布网络安全评估，阿里推出国内首个 AI 语音平台 CosyVoice Studio。财经方面，美国 7 月非农就业意外减少 2.3 万，经济放缓担忧升温；伊朗石油出口在美国封锁下近乎停滞，地缘风险推高油价。时政方面，中国收紧无人机对美出口管制作为反制，俄罗斯被曝利用 MAGA 社交媒体用户干预德国地方选举，特朗普政府再花 12 亿美元叫停风电项目，引发政策争议。",
+  "hero_headline": "AI 安全敲警钟 美国就业意外降温",
+  "daily_overview": "今日科技圈围绕 AI 安全与智能体边界展开激烈讨论：OpenAI 发布前沿网络安全预评估，并披露其代理意外攻击 Hugging Face 的时间线；DeepMind 在气旋预报上取得突破，AMD 则收购 Taalas 加码推理芯片。财经方面，美国 7 月就业数据意外下滑 2.3 万，SpaceX 股价逼近 IPO 发行价，伊朗石油出口在美国封锁下停滞。时政层面，中方升级无人机对美出口管制，德国指俄利用社媒干预选举，SEC 则撤销对特朗普特赦高管的诉讼。AI 治理、能源安全与中美博弈，构成今日三大主线。",
   "tech_briefs": [
     {
-      "title": "AMD 收购 Taalas 强化 AI 推理算力",
-      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
-      "source": "Latent Space",
-      "summary": "AMD 宣布收购 AI 推理初创公司 Taalas，业界认为推理算力竞争持续升温。TLDR AI 简报亦将此事列为当日要点。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "阿里推出 CosyVoice Studio AI 语音平台",
-      "url": "https://www.qbitai.com/2026/08/468324.html",
-      "source": "量子位",
-      "summary": "阿里推出国内首个 AI 语音平台 CosyVoice Studio，将语义理解融入语音能力，实现「听、说、创」一站式满足。",
-      "importance": 7
-    },
-    {
-      "title": "OpenAI 公布 Astra 网络安全初步评估",
+      "title": "OpenAI 发布前沿网络安全评估",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "source": "OpenAI News",
-      "summary": "OpenAI 就 Astra 模型公布初步网络安全评估，并披露强化安全防护与控制措施，以应对关键网络能力的新前沿。",
-      "importance": 7
+      "summary": "OpenAI 公布针对 Astra 的初步网络安全评估，并介绍强化安全防护与控制措施的具体步骤，回应外界对前沿 AI 被用于网络攻击的担忧。",
+      "importance": 9
     },
     {
       "title": "DeepMind WeatherNext 突破气旋预报",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "DeepMind Blog",
-      "summary": "DeepMind 发布 WeatherNext AI 模型，在气旋预报领域取得突破，有望提升对极端天气的预警与应对能力。",
-      "importance": 6
+      "summary": "谷歌 DeepMind 发布 WeatherNext 模型，在气旋路径与强度预报上实现突破，或为极端天气预警提供更强的 AI 支撑。",
+      "importance": 8
     },
     {
-      "title": "Cloudflare 持续信任评估代理行为",
-      "url": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
-      "source": "Cloudflare Blog",
-      "summary": "Cloudflare 将机器人缓解机制从单点风险评估转为持续信任评估，以更好识别代理网络上的善意与恶意行为。",
-      "importance": 6
+      "title": "OpenAI 代理意外攻击 Hugging Face 时间线曝光",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+      "source": "Simon Willison",
+      "summary": "开发者梳理了 OpenAI 智能体意外攻击 Hugging Face 的完整经过；Anthropic 也为此排查自家模型行为，事件引发对自主 Agent 安全边界的关注。（多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "阿里推出国内首个 AI 语音平台 CosyVoice Studio",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "source": "量子位",
+      "summary": "CosyVoice Studio 将语义理解融入语音能力，面向听、说、创一站式场景，是国内首个此类 AI 语音平台，可降低语音应用开发门槛。",
+      "importance": 7
+    },
+    {
+      "title": "AMD 收购 Taalas 加码 AI 推理芯片",
+      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+      "source": "Latent Space",
+      "summary": "AMD 宣布收购 AI 推理芯片公司 Taalas，被视为推理算力竞争升温的重要信号，或将增强 AMD 在大模型部署环节的硬件布局。",
+      "importance": 8
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国 7 月就业意外减少 2.3 万",
+      "title": "美国 7 月就业意外下滑 2.3 万",
       "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "美国 7 月新增就业意外减少 2.3 万人，分析师原本预期增长，就业市场在夏季持续降温引发关注。",
+      "summary": "美国劳工数据显示 7 月就业岗位减少 2.3 万，与分析师预期的小幅增长相反，显示劳动力市场在夏季持续降温。",
       "importance": 9
     },
     {
-      "title": "美国封锁下伊朗石油出口停滞",
+      "title": "SpaceX 股价逼近 IPO 发行价",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/spacex-nears-ipo-price-again-after-staging-327-billion-rally",
+      "source": "Bloomberg Markets",
+      "summary": "SpaceX 股价连续第二日上涨，市值从低点反弹约 3270 亿美元，重新逼近每股 135 美元的 IPO 发行价。",
+      "importance": 8
+    },
+    {
+      "title": "伊朗石油出口在美国封锁下停滞",
       "url": "https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "美国海上封锁似乎正阻止油轮运载伊朗原油，伊朗石油出口近乎停滞，哈尔克岛作业闲置。",
+      "summary": "美方海上拦截行动据报阻止油轮运载伊朗原油，哈尔克岛出口停滞，全球原油供应格局或受扰动。",
       "importance": 8
+    },
+    {
+      "title": "减肥药需求激增 礼来与诺和诺德上调指引",
+      "url": "https://www.ftchinese.com/story/001110535",
+      "source": "FT中文网",
+      "summary": "礼来与诺和诺德因减肥药需求旺盛上调业绩指引，但诺和诺德股价因担忧过度依赖单一重磅产品而遭抛售，两公司股价分化。",
+      "importance": 7
+    },
+    {
+      "title": "特朗普政府付 12 亿美元终止美国风电项目",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "特朗普政府同意向德国 RWE 支付 12 亿美元以中止其美国风电项目，这是系列终止风电项目的最新一笔，持续影响可再生能源投资。",
+      "importance": 7
     }
   ],
-  "politics_briefs": [],
-  "editor_note": "",
-  "keywords": [],
+  "politics_briefs": [
+    {
+      "title": "中国加强无人机对美出口管制并制裁美企",
+      "url": "https://www.ftchinese.com/story/001110544",
+      "source": "FT中文网",
+      "summary": "针对美方近期行动，中方宣布收紧无人机对美出口管制，并对多家美国公司实施新制裁，中美经贸博弈再度升级。",
+      "importance": 9
+    },
+    {
+      "title": "德官员称俄罗斯利用 MAGA 社媒影响选情",
+      "url": "https://www.ftchinese.com/story/001110552",
+      "source": "FT中文网",
+      "summary": "德国萨克森-安哈尔特州选举前，俄方被指发布大量虚假英语视频，借助美国右翼社媒用户放大信息并传回德国，影响地方选举。",
+      "importance": 8
+    },
+    {
+      "title": "SEC 撤销对特朗普特赦高管的内部交易诉讼",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned",
+      "source": "Bloomberg Markets",
+      "summary": "美国证交会宣布撤销针对一名曾获特朗普赦免的前医疗高管的内幕交易诉讼，该高管此前在相关刑事案件中被定罪。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "今日简报呈现两条主线：AI 治理从口号走向具体技术方案，地缘政治与能源市场互相缠绕。各方在安全与开放之间寻找平衡，但风险并未消失。",
+  "keywords": [
+    "AI安全",
+    "OpenAI",
+    "DeepMind",
+    "美国就业数据",
+    "AMD收购",
+    "无人机出口管制",
+    "伊朗石油",
+    "中美博弈"
+  ],
   "trading": {
-    "market_overview": "",
-    "watchlist": [],
+    "market_overview": "整体看，美股大盘技术形态最强：SPY 距 52 周高点仅 -0.08%，RSI 66 且 MACD 金叉；QQQ、NVDA 均站上 50 日均线并呈多头排列，但 MSFT RSI 78.1 进入超买、AAPL 跌破 20 日均线，显示局部过热与分化。加密市场受恐惧贪婪指数 30（恐慌）影响，总市值 2.29 万亿美元、BTC 主导率 56.8%，BTC-USD 站上 20/50 日均线但低于 200 日均线，ETH 在 20/50 日线上方但 MACD 柱仍为负，整体偏中性。中概股短线修复明显：BABA 与 PDD 分别站上 20/50 日均线，RSI 67.9 与 66.3，但均低于 200 日均线。商品外汇分化剧烈：黄金单日 +3.76%、5 日 +8.70%，MACD 柱大幅转正；WTI 原油 5 日 -8.96% 出现 MACD 死叉；美元兑人民币 RSI 26.9 超卖，DXY 跌至 99.6 且 RSI 36.2 偏弱。VIX 14.9 处于空头排列，10Y 美债收益率仍高于各均线。",
+    "watchlist": [
+      {
+        "symbol": "SPY",
+        "display_name": "标普500 ETF (SPY)",
+        "stance": "偏上行",
+        "rationale": "SPY 现价 773.26，距 52 周高点仅 -0.08%，5 日上涨 3.51%。价格高于 20 日线 750.17、50 日线 747.19 和 200 日线 702.97，均线呈多头排列；RSI 66 偏强但未超买，MACD 柱约 3.34 且为金叉状态。短期趋势指标整体偏上行。"
+      },
+      {
+        "symbol": "NVDA",
+        "display_name": "英伟达 (NVDA)",
+        "stance": "偏上行",
+        "rationale": "NVDA 现价 223.96，单日 +2.27%、5 日 +11.56%，动量明显。价格站上 20 日线 206.82、50 日线 206.07 与 200 日线 193.98，呈多头排列；RSI 64.4 未超买，MACD 柱约 2.50，快线已上穿信号线。短期动能与技术指标均指向偏上行。"
+      }
+    ],
     "risk_caveat": "以上内容基于公开行情数据的技术指标计算与文本摘要，不构成任何投资建议。过去走势不代表未来表现，市场风险自负。",
     "tickers": [
       {
@@ -303,18 +368,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64857.03,
-        "pct1Day": 0.9257658803504987,
-        "pct5Day": 2.1660155634668077,
-        "pct52WeekHigh": -48.606955716517696,
-        "pct52WeekLow": 12.310890087072798,
-        "sma20": 64392.223828125,
-        "sma50": 63277.5696875,
-        "sma200": 70369.525546875,
-        "rsi14": 54.41199632034278,
-        "macd": 65.4591438045536,
-        "macdSignal": 31.364824942818785,
-        "macdHistogram": 34.09431886173482,
+        "currentPrice": 64900.8,
+        "pct1Day": 0.993877552633108,
+        "pct5Day": 2.234964241832335,
+        "pct52WeekHigh": -48.57227214330616,
+        "pct52WeekLow": 12.38668522692289,
+        "sma20": 64394.4123046875,
+        "sma50": 63278.445078125,
+        "sma200": 70369.74439453126,
+        "rsi14": 54.62240345295365,
+        "macd": 68.95073034289089,
+        "macdSignal": 32.06314225034099,
+        "macdHistogram": 36.887588092549905,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -331,18 +396,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1914.96,
-        "pct1Day": 0.6783446302719467,
-        "pct5Day": 1.7231154703591471,
-        "pct52WeekHigh": -61.34309216907734,
-        "pct52WeekLow": 27.112695292158545,
-        "sma20": 1893.6988708496094,
-        "sma50": 1794.3580053710937,
-        "sma200": 2060.5177447509764,
-        "rsi14": 56.5233801801187,
-        "macd": 20.68047965528308,
-        "macdSignal": 24.48991820685678,
-        "macdHistogram": -3.809438551573699,
+        "currentPrice": 1914.04,
+        "pct1Day": 0.6299759556991841,
+        "pct5Day": 1.674244858841028,
+        "pct52WeekHigh": -61.36166402185989,
+        "pct52WeekLow": 27.0516268209274,
+        "sma20": 1893.6528747558593,
+        "sma50": 1794.3396069335938,
+        "sma200": 2060.5131451416014,
+        "rsi14": 56.42126148617544,
+        "macd": 20.607095573983543,
+        "macdSignal": 24.475241390466017,
+        "macdHistogram": -3.8681458164824747,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -361,10 +426,10 @@
         "sma20": 74.61714096069336,
         "sma50": 75.11931213378907,
         "sma200": 84.03872737884521,
-        "rsi14": 46.79374752196448,
+        "rsi14": 46.793747521954025,
         "macd": -0.7514287178660908,
-        "macdSignal": -0.6674098849977279,
-        "macdHistogram": -0.08401883286836287,
+        "macdSignal": -0.6674098849977275,
+        "macdHistogram": -0.08401883286836331,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -649,19 +714,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 29,
+      "value": 30,
       "classification": "Fear",
       "classificationCn": "恐慌",
-      "timestamp": "2026-08-07T00:00:00.000Z"
+      "timestamp": "2026-08-08T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2292358784388.3037,
-      "total24hVolumeUsd": 54434640956.77331,
-      "marketCapChangePct24h": 0.6294653325770979,
-      "btcDominance": 56.76973844485795,
-      "ethDominance": 10.075942873979528,
-      "activeCryptocurrencies": 18247
+      "totalMarketCapUsd": 2292991807636.1475,
+      "total24hVolumeUsd": 54355696113.18306,
+      "marketCapChangePct24h": 0.6572536488770837,
+      "btcDominance": 56.78239833721774,
+      "ethDominance": 10.069993688692023,
+      "activeCryptocurrencies": 18248
     },
-    "generated_at": "2026-08-07T23:13:56.332Z"
+    "generated_at": "2026-08-08T00:07:22.229Z"
   }
 }
