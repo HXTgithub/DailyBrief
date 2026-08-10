@@ -29,7 +29,7 @@ export const PRESETS: Record<OpenAICompatConfig["backend"], OpenAICompatConfig> 
     defaultBaseUrl: "https://api.deepseek.com/v1",
     // deepseek-chat alias retires 2026-07-24 — point new users at the
     // current production model instead.
-    defaultModel: "deepseek-v4-flash[1m]",
+    defaultModel: "deepseek-v4-flash",
     apiKeyEnv: "DEEPSEEK_API_KEY",
     baseUrlEnv: "DEEPSEEK_BASE_URL",
   },
