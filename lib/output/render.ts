@@ -176,7 +176,7 @@ const SUBCATEGORY_ORDER: Partial<Record<Category, string[]>> = {
   politics: ["world"],
 };
 
-const TECH_MAIN_SUBS = new Set(["github-trending", "trending-papers", "x-viral", "ai-news"]);
+const TECH_MAIN_SUBS = new Set(["github-trending", "trending-papers", "x-viral", "ai-news", "blog-weekly"]);
 const TECH_COMMUNITY_SUBS = new Set(["cn-community", "overseas-community"]);
 
 const SUBCATEGORY_LABELS: Record<string, string> = {
@@ -1222,8 +1222,8 @@ export function renderHtml(
   <nav class="tabs" role="tablist">
     <button class="tab active" data-tab="tech">${CATEGORY_LABELS.tech}<span class="count">${counts.tech}</span></button>
     ${trading ? `<button class="tab" data-tab="trading">${STR.catTrading}<span class="count">${trading.tickers.length}</span></button>` : ""}
-    <button class="tab" data-tab="politics">${CATEGORY_LABELS.politics}<span class="count">${counts.politics}</span></button>
-    <button class="tab" data-tab="finance">${CATEGORY_LABELS.finance}<span class="count">${counts.finance}</span></button>
+    ${counts.politics > 0 ? `<button class="tab" data-tab="politics">${CATEGORY_LABELS.politics}<span class="count">${counts.politics}</span></button>` : ""}
+    ${counts.finance > 0 ? `<button class="tab" data-tab="finance">${CATEGORY_LABELS.finance}<span class="count">${counts.finance}</span></button>` : ""}
     ${techCommunitySubs.length > 0 ? `<button class="tab" data-tab="community">${STR.catCommunity}<span class="count">${counts.community}</span></button>` : ""}
   </nav>
 
@@ -1231,12 +1231,12 @@ export function renderHtml(
     ${renderRawCategoryPanel("tech", techMainSubs)}
   </section>
   ${trading ? `<section class="panel" data-panel="trading">${renderTradingPanel(trading)}</section>` : ""}
-  <section class="panel" data-panel="politics">
+  ${counts.politics > 0 ? `<section class="panel" data-panel="politics">
     ${renderRawCategoryPanel("politics", raw.politics)}
-  </section>
-  <section class="panel" data-panel="finance">
+  </section>` : ""}
+  ${counts.finance > 0 ? `<section class="panel" data-panel="finance">
     ${renderRawCategoryPanel("finance", raw.finance)}
-  </section>
+  </section>` : ""}
   ${techCommunitySubs.length > 0 ? `<section class="panel" data-panel="community">
     ${renderRawCategoryPanel("tech", techCommunitySubs)}
   </section>` : ""}

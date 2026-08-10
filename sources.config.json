@@ -19,7 +19,7 @@
     "url": "https://www.v2ex.com/api/topics/show.json",
     "category": "tech",
     "subcategory": "cn-community",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh"
     ]
@@ -31,7 +31,7 @@
     "url": "https://linux.do/top.rss?period=daily",
     "category": "tech",
     "subcategory": "cn-community",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh"
     ],
@@ -69,7 +69,7 @@
     "url": "https://lobste.rs/rss",
     "category": "tech",
     "subcategory": "overseas-community",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -83,7 +83,7 @@
     "category": "tech",
     "subcategory": "ai-news",
     "lang": "zh",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh"
     ]
@@ -95,7 +95,7 @@
     "url": "https://openai.com/news/rss.xml",
     "category": "tech",
     "subcategory": "ai-news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -108,7 +108,7 @@
     "url": "https://deepmind.google/blog/rss.xml",
     "category": "tech",
     "subcategory": "ai-news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -121,7 +121,7 @@
     "url": "https://huggingface.co/blog/feed.xml",
     "category": "tech",
     "subcategory": "ai-news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -149,7 +149,7 @@
     "url": "https://tldr.tech/api/rss/ai",
     "category": "tech",
     "subcategory": "ai-news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -175,7 +175,7 @@
     "url": "https://www.latent.space/feed",
     "category": "tech",
     "subcategory": "ai-news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -188,7 +188,7 @@
     "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
     "category": "tech",
     "subcategory": "ai-news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -201,7 +201,7 @@
     "url": "https://reply-vc-90459984647.us-central1.run.app/v1/articles/leaderboard?window=3d&category=ai&lang=en&limit=30",
     "category": "tech",
     "subcategory": "x-viral",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -355,7 +355,7 @@
     "url": "https://feeds.bloomberg.com/markets/news.rss",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -368,7 +368,7 @@
     "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -394,7 +394,7 @@
     "url": "https://www.ft.com/companies?format=rss",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -408,7 +408,7 @@
     "category": "finance",
     "subcategory": "news",
     "lang": "zh",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh"
     ]
@@ -446,7 +446,7 @@
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -459,7 +459,7 @@
     "url": "https://www.economist.com/finance-and-economics/rss.xml",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -538,7 +538,7 @@
     "category": "finance",
     "subcategory": "news",
     "lang": "zh",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh"
     ]
