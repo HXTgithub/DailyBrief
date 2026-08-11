@@ -6,182 +6,171 @@
       "title": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "excerpt": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "meta": "Python · ★ 4,047 · 🍴 480 · 📈 967 stars today",
+      "meta": "Python · ★ 4,072 · 🍴 482 · 📈 970 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向上下文感知与可问责AI系统的图原生基础设施。采用图结构组织数据与推理关系，让AI的决策过程可追溯、可验证，降低黑箱风险。适用于需要严格审计的企业级AI应用，如金融风控、医疗诊断等场景。"
+      "summary": "基于图结构的AI基础设施，为上下文管理和可问责AI系统提供原生支持。通过图表示实体关系与决策链路，让AI系统的推理过程可追踪、可审计，适用于需要高可信度的企业级AI应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "meta": "Shell · ★ 141,764 · 🍴 23,132 · 📈 1,352 stars today",
+      "meta": "Shell · ★ 141,795 · 🍴 23,132 · 📈 1,349 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "提供一支完整的虚拟AI代理团队，每个代理都是拥有专属性格与工作流程的专家，覆盖前端开发、社区运营、创意注入等角色。可用于自动化客户服务、内容生产和多代理协作，快速搭建全能型数字化人力。"
+      "summary": "一个多智能体框架，模拟完整AI代理团队。每个代理都是带有独立人格、流程和专长的专家，涵盖前端开发、社区运营、创意注入、事实核查等角色，可灵活组合应对复杂任务，快速搭建自动化工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "excerpt": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "meta": "Python · ★ 60,966 · 🍴 12,004 · 📈 215 stars today",
+      "meta": "Python · ★ 60,978 · 🍴 12,005 · 📈 259 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一站式多平台爬虫工具，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等主流社交平台的内容与评论采集。提供结构化的笔记、视频、帖子数据，适用于社媒舆情分析、内容研究和竞品监测。"
+      "summary": "开源社交媒体数据爬虫，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等主流平台，可抓取笔记、视频、帖子及评论内容。适用于舆情分析、市场调研和数据科学研究，需注意遵守平台规则与法律法规。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 85,718 · 🍴 9,226 · 📈 659 stars today",
+      "meta": "JavaScript · ★ 85,723 · 🍴 9,226 · 📈 659 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向AI编码代理的生产级工程技能库，将真实开发中的最佳实践、代码审查、项目结构等沉淀为可复用的技能模块。提升代理在大型代码库中的理解与操作能力，适合集成到各类AI编程助手和自动化工具链。"
+      "summary": "为AI编码代理提供生产级工程技能集，包含代码审查、测试、部署、安全等最佳实践，帮助代理在真实项目中像资深工程师一样工作，减少人工干预，提高代码质量与开发效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "excerpt": "The open-source app everyone uses to manage agents at work",
-      "meta": "TypeScript · ★ 76,439 · 🍴 14,202 · 📈 167 stars today",
+      "meta": "TypeScript · ★ 76,456 · 🍴 14,207 · 📈 198 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的工作场景AI代理管理应用，提供统一的控制台来部署、监控和调度多个代理，支持任务分配与协作。适合企业团队将AI代理接入日常工作流，实现高效的人机协同和流程自动化。"
+      "summary": "开源AI代理管理平台，用于在工作环境中统一部署、监控和协调多个AI代理。提供团队协作、权限管理和任务调度能力，帮助企业将AI代理无缝集成到业务流程中，提升生产力。"
     },
     {
       "sourceId": "github-trending",
       "title": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "excerpt": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "meta": "TypeScript · ★ 13,002 · 🍴 1,318 · 📈 2,655 stars today",
+      "meta": "TypeScript · ★ 13,039 · 🍴 1,324 · 📈 2,642 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个可自我改进的RLM智能体，专为编码工作流和长时间自主任务设计。它能在执行过程中不断反思和优化自身策略，减少人工介入，适合自动化重构、批量代码维护及需要持续运行的开发任务。"
+      "summary": "自我改进的强化学习代理，专注于编码工作流和长时间自主运行的任务。能从历史行为中学习并优化策略，适应复杂开发环境，适合自动化重构、Bug修复等需要持续迭代的工程场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "LadybirdBrowser/ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "excerpt": "Truly independent web browser",
-      "meta": "C++ · ★ 65,241 · 🍴 3,117 · 📈 106 stars today",
+      "meta": "C++ · ★ 65,245 · 🍴 3,119 · 📈 56 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "从零构建的完全独立Web浏览器，不依赖Chromium或Firefox等现有引擎，旨在打破浏览器市场垄断。支持现代Web标准，注重开放性与隐私保护，适合Web开发者、隐私爱好者和浏览器技术研究者。"
+      "summary": "一款真正独立的开源浏览器，从零构建，不依赖Chrome或Firefox等现有引擎代码。目标是提供干净、无商业利益干扰的浏览体验，目前处于早期开发阶段，适合对浏览器技术感兴趣的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "excerpt": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "meta": "Rust · ★ 89,346 · 🍴 11,889 · 📈 186 stars today",
+      "meta": "Rust · ★ 89,357 · 🍴 11,891 · 📈 154 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "利用普通商用WiFi信号实现无摄像头的实时感知系统，可监测空间位置、人体存在和生命体征，完全不采集图像。通过分析无线信号的多径反射识别动作与呼吸，适合智能家居、养老看护等隐私敏感场景。"
+      "summary": "利用普通WiFi信号实现空间感知的系统，无需摄像头即可进行实时定位、生命体征监测和人体存在检测。通过分析WiFi信号变化提取环境信息，保护隐私，适用于智能家居、养老监护和安防等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "danielmiessler/LifeOS",
       "url": "https://github.com/danielmiessler/LifeOS",
       "excerpt": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-      "meta": "TypeScript · ★ 17,869 · 🍴 2,363 · 📈 357 stars today",
+      "meta": "TypeScript · ★ 17,891 · 🍴 2,364 · 📈 315 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个通用的爬山算法AI辅助框架，帮助用户在生活与工作中从当前状态逐步逼近理想状态。系统通过持续评估和策略迭代给出行动建议，适用于个人目标管理、习惯养成和项目推进等场景。"
+      "summary": "基于爬山算法的通用AI辅助框架，帮助用户在生活与工作中从当前状态逐步逼近理想状态。通过定义目标、评估差距并迭代优化行动方案，实现个人成长和效率提升，适合习惯养成与项目管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "excerpt": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "meta": "TypeScript · ★ 165,015 · 🍴 9,284 · 📈 815 stars today",
+      "meta": "TypeScript · ★ 165,044 · 🍴 9,286 · 📈 835 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向AI应用的大规模Web上下文API，集成搜索、抓取和交互能力，可将任意网页转为干净的Markdown结构化数据，供LLM直接使用。适合构建RAG应用、知识库采集和网站自动化流程。"
+      "summary": "面向AI应用的大规模Web上下文API，支持搜索、抓取和交互式浏览网页。可将网页内容转换为干净的、LLM-ready格式，便于构建RAG系统、知识库和智能体，解决网络数据获取与格式问题。"
     },
     {
       "sourceId": "github-trending",
       "title": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "excerpt": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "meta": "Python · ★ 97,189 · 🍴 18,733 · 📈 234 stars today",
+      "meta": "Python · ★ 97,203 · 🍴 18,733 · 📈 177 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于大语言模型的多智能体金融交易框架，模拟分析师、研究员、交易员、风控官等多角色协作，通过相互辩论达成交易决策。支持策略回测与仿真，适用于量化研究、AI交易系统开发和金融教学。"
+      "summary": "基于大语言模型的多智能体金融交易框架，模拟分析师、研究员、交易员等角色协同工作，通过辩论与共识机制进行市场分析、风险评估和交易决策。适合量化研究、金融教育与算法交易探索。"
     },
     {
       "sourceId": "github-trending",
       "title": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "excerpt": "",
-      "meta": "Python · ★ 7,328 · 🍴 953 · 📈 327 stars today",
+      "meta": "Python · ★ 7,340 · 🍴 954 · 📈 325 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google DeepMind 的天气预测项目，仓库未提供具体描述。从项目名称推测，可能利用机器学习技术来实现更精准的气象预报，具体细节需参考官方文档与源码。"
+      "summary": "Google DeepMind推出的机器学习天气预测模型，能够以较低计算成本生成高精度预报，适用于气象研究和极端天气预警，具体实现与数据可在仓库中查看。"
     },
     {
       "sourceId": "github-trending",
       "title": "vitali87/code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "excerpt": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "meta": "Python · ★ 3,501 · 🍴 544 · 📈 682 stars today",
+      "meta": "Python · ★ 3,517 · 🍴 547 · 📈 682 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专为大型多语言代码仓库设计的RAG系统，使用知识图谱索引代码结构、依赖关系和调用链。AI能准确回答代码问题、辅助理解并支持编辑操作，适合大型工程设计、代码审查和智能编程助手。"
+      "summary": "基于知识图谱的RAG工具，专为大型monorepo代码库设计。通过构建代码实体与依赖关系的图谱，支持跨语言查询、理解和编辑，让AI精准定位上下文，提升大型项目中的代码修改与重构效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "excerpt": "",
-      "meta": "TypeScript · ★ 18,012 · 🍴 4,076 · 📈 388 stars today",
+      "meta": "TypeScript · ★ 18,024 · 🍴 4,076 · 📈 389 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "仓库未提供任何描述，仅从名称推测与 TypeScript 或代码生成相关。建议查看仓库 README 以确认具体功能。这是一个缺乏官方介绍的项目，需要潜在用户自行探索。"
+      "summary": "由 T3 团队维护的开源代码项目，名称暗示与 TypeScript 生态相关。具体功能与用法有待仓库文档完善，建议查看官方 README 获取最新说明。"
     },
     {
       "sourceId": "github-trending",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "excerpt": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "meta": "Python · ★ 126,277 · 🍴 14,897 · 📈 921 stars today",
+      "meta": "Python · ★ 126,302 · 🍴 14,899 · 📈 922 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "模块化的扩散模型图形界面与后端，采用节点式工作流，允许用户以可视化方式组合模型、采样器、LoRA、ControlNet等组件，搭建可复现的图像生成流程。提供完整API和自定义节点接口，适合AIGC创作者和生产环境部署。"
+      "summary": "模块化的扩散模型图形界面与后端，采用节点/流程图式工作流，支持Stable Diffusion等模型。用户可自由组合采样、加载、调优等节点，灵活构建图像生成管道，并提供API，适合AI绘画创作者与开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "opa334/Dopamine",
       "url": "https://github.com/opa334/Dopamine",
       "excerpt": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-      "meta": "C · ★ 6,010 · 🍴 6,192 · 📈 95 stars today",
+      "meta": "C · ★ 6,014 · 🍴 6,193 · 📈 111 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个支持 iOS 15 至 26.0.1 的半不完美越狱工具，利用系统漏洞获取root权限，可安装插件和第三方应用。每次重启后需要重新激活。适用于安全研究、系统定制和开发调试场景。"
+      "summary": "适用于iOS 15至26.0.1的半不完美越狱工具，重启后设备恢复非越狱状态，无需重装即可重新越狱。支持多款iPhone/iPad，通过Sileo等包管理器安装插件，用于系统定制与功能扩展，需注意安全风险。"
     },
     {
       "sourceId": "hackernews",
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "excerpt": "978 points · 553 comments",
+      "excerpt": "995 points · 561 comments",
       "publishedAt": "2026-08-10T10:10:02.000Z",
       "category": "tech",
-      "score": 978,
+      "score": 995,
       "source": "Hacker News",
-      "summary": "Meta发布Muse Glimmer，这是一个300亿参数的开放模型，专为常驻本地的智能体工作流优化，强调始终在线、高效运行。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Tl;dv: Over 180k meetings left wide open",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
-      "excerpt": "508 points · 171 comments",
-      "publishedAt": "2026-08-10T12:26:05.000Z",
-      "category": "tech",
-      "score": 508,
-      "source": "Hacker News",
-      "summary": "会议记录工具Tl;dv被曝存在严重安全漏洞，超过18万场会议记录被公开暴露，用户隐私面临巨大风险。"
+      "summary": "Meta发布Muse Glimmer，一款300亿参数模型，专为持续运行的本地AI代理工作流优化，可在设备端常驻运行。"
     },
     {
       "sourceId": "hackernews",
@@ -190,95 +179,106 @@
       "excerpt": "https:&#x2F;&#x2F;archive.is&#x2F;20LOJhttps:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;",
       "publishedAt": "2026-08-10T14:06:22.000Z",
       "category": "tech",
-      "score": 309,
+      "score": 337,
       "source": "Hacker News",
-      "summary": "马克·扎克伯格抨击封闭式AI竞争对手，同时宣布Meta回归开源模型路线，强调开放AI的未来方向。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "excerpt": "280 points · 428 comments",
-      "publishedAt": "2026-08-10T15:32:04.000Z",
-      "category": "tech",
-      "score": 280,
-      "source": "Hacker News",
-      "summary": "一块1991年产的玛氏巧克力棒被发现，比现在的版本重20克，引发关于零食分量缩水现象的讨论。"
+      "summary": "马克·扎克伯格公开抨击“封闭”AI竞争对手，强调Meta回归开放模型路线。文章分析开源与闭源AI之争及其行业影响。"
     },
     {
       "sourceId": "hackernews",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "excerpt": "274 points · 73 comments",
+      "excerpt": "289 points · 76 comments",
       "publishedAt": "2026-08-07T10:26:34.000Z",
       "category": "tech",
-      "score": 274,
+      "score": 289,
       "source": "Hacker News",
-      "summary": "Sonic Pi发布v5版本。这是一款面向音乐编程和现场演出的开源工具，新版带来多项更新与改进。"
+      "summary": "Sonic Pi v5发布，提供新合成器与性能优化，是音乐现场编程工具的重要更新，社区反响热烈。"
     },
     {
       "sourceId": "hackernews",
       "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
       "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-      "excerpt": "245 points · 301 comments",
+      "excerpt": "270 points · 339 comments",
       "publishedAt": "2026-08-10T20:20:06.000Z",
       "category": "tech",
-      "score": 245,
+      "score": 270,
       "source": "Hacker News",
-      "summary": "美国伊利诺伊州通过新法案，要求操作系统承担年龄验证责任，Linux等开源系统也被波及，引发广泛争议。"
+      "summary": "美国伊利诺伊州通过新法，要求操作系统（包括Linux）承担年龄验证责任，引发技术社区对开源项目义务与合规成本的广泛讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Squeak 6.1",
       "url": "https://squeak.org/release_notes/6.1/",
-      "excerpt": "202 points · 103 comments",
+      "excerpt": "212 points · 109 comments",
       "publishedAt": "2026-08-10T12:15:53.000Z",
       "category": "tech",
-      "score": 202,
+      "score": 212,
       "source": "Hacker News",
-      "summary": "Squeak 6.1发布。作为经典Smalltalk开源实现，新版包含性能提升和多项功能改进，继续服务教育与实践社区。"
+      "summary": "Squeak 6.1发布，作为老牌Smalltalk开发环境，本次更新带来新特性与改进，受到复古编程爱好者和教育领域关注。"
     },
     {
       "sourceId": "hackernews",
       "title": "Mistral Patent for “Code implemented tool calls”",
       "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "excerpt": "202 points · 169 comments",
+      "excerpt": "205 points · 170 comments",
       "publishedAt": "2026-08-10T13:29:12.000Z",
       "category": "tech",
-      "score": 202,
+      "score": 205,
       "source": "Hacker News",
-      "summary": "Mistral获得一项名为“代码实现工具调用”的专利，涉及AI模型通过代码方式调用外部工具的机制。"
+      "summary": "Mistral获得一项“代码实现的工具调用”专利，引发对AI工具调用技术专利范围及开源社区的担忧，讨论热烈。"
     },
     {
       "sourceId": "hackernews",
       "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
       "url": "https://ethw.org/Milestones:Parametron,_1954",
-      "excerpt": "170 points · 45 comments",
+      "excerpt": "176 points · 45 comments",
       "publishedAt": "2026-08-10T10:29:14.000Z",
       "category": "tech",
-      "score": 170,
+      "score": 176,
       "source": "Hacker News",
-      "summary": "Parametron（参数管）是20世纪50年代日本的计算机技术，既不用晶体管也不用真空管，重新引发对这段历史的关注。"
+      "summary": "介绍1950年代日本发明的参数器（Parametron）计算机，采用独特磁性逻辑元件，既不用晶体管也不用真空管，是早期计算技术的重要里程碑。"
     },
     {
       "sourceId": "hackernews",
       "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-      "excerpt": "149 points · 59 comments",
+      "excerpt": "155 points · 61 comments",
       "publishedAt": "2026-08-10T15:49:48.000Z",
       "category": "tech",
-      "score": 149,
+      "score": 155,
       "source": "Hacker News",
-      "summary": "哥伦比亚圣何塞德尔帕尔马以南5公里发生7.4级强震，美国地质调查局发布地震详情，暂未报告更多伤亡信息。"
+      "summary": "哥伦比亚圣何塞德尔帕尔马以南5公里发生7.4级地震，美国地质调查局发布震情信息，引发对地震预警与安全讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "50k Boat Names",
       "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "excerpt": "143 points · 102 comments",
+      "excerpt": "149 points · 103 comments",
       "publishedAt": "2026-08-10T12:58:16.000Z",
       "category": "tech",
-      "score": 143,
+      "score": 149,
+      "source": "Hacker News",
+      "summary": "网站展示5万个真实船名数据集，通过可视化呈现命名规律与趣味趋势，受到数据爱好者和水手社区欢迎。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "excerpt": "140 points · 82 comments",
+      "publishedAt": "2026-08-10T13:35:40.000Z",
+      "category": "tech",
+      "score": 140,
+      "source": "Hacker News",
+      "summary": "博客文章认为“人性化”LLM输出是愚蠢的，主张回归工具本质，避免过度拟人化，引发对AI交互设计方向的辩论。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "excerpt": "138 points · 86 comments",
+      "publishedAt": "2026-08-10T21:26:16.000Z",
+      "category": "tech",
+      "score": 138,
       "source": "Hacker News"
     },
     {
@@ -288,57 +288,27 @@
       "excerpt": "TL;DR I&#x27;m looking for advice regarding browser-based frontend development from people with practical e-ink UI experience. My specific device is a Bigme Hibreak Pro BW but I&#x27;m aiming for relatively broad compatibility.I&#x27;ve recently switched to a black-and-white e-ink smartphone with th",
       "publishedAt": "2026-08-07T17:29:16.000Z",
       "category": "tech",
-      "score": 126,
+      "score": 136,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Humanising LLM Outputs Is Dumb",
-      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "excerpt": "122 points · 71 comments",
-      "publishedAt": "2026-08-10T13:35:40.000Z",
+      "title": "Stop Killing Games: It's time to sue Sony, join us",
+      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+      "excerpt": "121 points · 49 comments",
+      "publishedAt": "2026-08-10T20:47:13.000Z",
       "category": "tech",
-      "score": 122,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Tail-call optimization in C is relatively recent (2025)",
-      "url": "https://lwn.net/Articles/1034703/",
-      "excerpt": "112 points · 106 comments",
-      "publishedAt": "2026-08-10T11:34:40.000Z",
-      "category": "tech",
-      "score": 112,
+      "score": 121,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Exploiting System Management Mode with a very long interrupt",
       "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "excerpt": "109 points · 34 comments",
+      "excerpt": "116 points · 38 comments",
       "publishedAt": "2026-08-10T16:03:14.000Z",
       "category": "tech",
-      "score": 109,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Rust SIMD on the GPU",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "excerpt": "98 points · 49 comments",
-      "publishedAt": "2026-08-10T18:12:49.000Z",
-      "category": "tech",
-      "score": 98,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "excerpt": "93 points · 49 comments",
-      "publishedAt": "2026-08-10T21:26:16.000Z",
-      "category": "tech",
-      "score": 93,
+      "score": 116,
       "source": "Hacker News"
     },
     {
@@ -348,35 +318,55 @@
       "excerpt": "Hey HN,Henry from Cactus here!We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release N",
       "publishedAt": "2026-08-10T17:22:07.000Z",
       "category": "tech",
-      "score": 90,
+      "score": 114,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "url": "https://lwn.net/Articles/1034703/",
+      "excerpt": "114 points · 110 comments",
+      "publishedAt": "2026-08-10T11:34:40.000Z",
+      "category": "tech",
+      "score": 114,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "excerpt": "110 points · 54 comments",
+      "publishedAt": "2026-08-10T18:12:49.000Z",
+      "category": "tech",
+      "score": 110,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
       "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "excerpt": "90 points · 12 comments",
+      "excerpt": "92 points · 13 comments",
       "publishedAt": "2026-08-10T14:20:41.000Z",
       "category": "tech",
-      "score": 90,
+      "score": 92,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
       "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "excerpt": "80 points · 146 comments",
+      "excerpt": "83 points · 156 comments",
       "publishedAt": "2026-08-10T14:38:20.000Z",
       "category": "tech",
-      "score": 80,
+      "score": 83,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Stop Killing Games: It's time to sue Sony, join us",
-      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
-      "excerpt": "77 points · 28 comments",
-      "publishedAt": "2026-08-10T20:47:13.000Z",
+      "title": "Stowaway – take the window seat on any plane or satellite overhead",
+      "url": "https://stowaway.live/",
+      "excerpt": "77 points · 8 comments",
+      "publishedAt": "2026-08-07T13:15:10.000Z",
       "category": "tech",
       "score": 77,
       "source": "Hacker News"
@@ -385,10 +375,10 @@
       "sourceId": "hackernews",
       "title": "The Psychedelic Toad of the Sonoran Desert",
       "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
-      "excerpt": "65 points · 46 comments",
+      "excerpt": "69 points · 48 comments",
       "publishedAt": "2026-08-04T17:49:29.000Z",
       "category": "tech",
-      "score": 65,
+      "score": 69,
       "source": "Hacker News"
     },
     {
@@ -398,77 +388,87 @@
       "excerpt": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (https:&#x2F;&#x2F;www.stoaexchange.com), a marketplace for new and used GPUs and AI servers.GPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use",
       "publishedAt": "2026-08-10T16:35:27.000Z",
       "category": "tech",
-      "score": 59,
+      "score": 62,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
       "url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
-      "excerpt": "57 points · 20 comments",
+      "excerpt": "58 points · 23 comments",
       "publishedAt": "2026-08-10T15:53:01.000Z",
       "category": "tech",
-      "score": 57,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Stowaway – take the window seat on any plane or satellite overhead",
-      "url": "https://stowaway.live/",
-      "excerpt": "46 points · 4 comments",
-      "publishedAt": "2026-08-07T13:15:10.000Z",
-      "category": "tech",
-      "score": 46,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Back to the Future of Handwriting Recognition (2016)",
-      "url": "https://jackschaedler.github.io/handwriting-recognition/",
-      "excerpt": "32 points · 8 comments",
-      "publishedAt": "2026-08-10T15:58:32.000Z",
-      "category": "tech",
-      "score": 32,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Publishing Schematics Before \"Open Source\" Was a Word",
-      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
-      "excerpt": "30 points · 8 comments",
-      "publishedAt": "2026-08-07T15:59:08.000Z",
-      "category": "tech",
-      "score": 30,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Confessions of a Long-Distance Sailor",
-      "url": "https://arachnoid.com/lutusp/sailbook.html",
-      "excerpt": "23 points · 4 comments",
-      "publishedAt": "2026-08-10T20:52:55.000Z",
-      "category": "tech",
-      "score": 23,
+      "score": 58,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Google Search Is Dying. What Comes Next Is Worse",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "excerpt": "13 points · 2 comments",
+      "excerpt": "52 points · 35 comments",
       "publishedAt": "2026-08-10T22:36:30.000Z",
       "category": "tech",
-      "score": 13,
+      "score": 52,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Show HN: Higher-dimensional lattices unfolded into the 2D plane",
-      "url": "https://number-garden.com/?@THLP@",
-      "excerpt": "Visit the URL to explore what happens. Double-click or press “N” to generate a new experiment. Press “A” to learn more about how it works.",
-      "publishedAt": "2026-08-06T21:52:31.000Z",
+      "title": "Publishing Schematics Before “Open Source” Was a Word",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+      "excerpt": "45 points · 12 comments",
+      "publishedAt": "2026-08-07T15:59:08.000Z",
       "category": "tech",
-      "score": 10,
+      "score": 45,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "excerpt": "45 points · 7 comments",
+      "publishedAt": "2026-08-10T20:52:55.000Z",
+      "category": "tech",
+      "score": 45,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "excerpt": "Related: Which programming languages are most token-efficient? - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46582728 - Jan 2026 (91 comments)",
+      "publishedAt": "2026-08-10T16:28:58.000Z",
+      "category": "tech",
+      "score": 30,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Mark Zuckerberg's Yacht Refused to Help Ship in Distress",
+      "url": "https://nymag.com/intelligencer/article/zuckerbergs-yacht-booed-over-failing-to-help-stranded-boat.html",
+      "excerpt": "20 points · 2 comments",
+      "publishedAt": "2026-08-10T22:27:06.000Z",
+      "category": "tech",
+      "score": 20,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "World Train Map – 1247 train routes around the world",
+      "url": "https://worldtrainmap.com/",
+      "excerpt": "8 points · 0 comments",
+      "publishedAt": "2026-08-10T22:42:14.000Z",
+      "category": "tech",
+      "score": 8,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "excerpt": "4 points · 0 comments",
+      "publishedAt": "2026-08-05T15:22:23.000Z",
+      "category": "tech",
+      "score": 4,
       "source": "Hacker News"
     },
     {
@@ -1040,6 +1040,15 @@
     },
     {
       "sourceId": "simonwillison",
+      "title": "Introducing Muse Glimmer",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+      "excerpt": "",
+      "publishedAt": "2026-08-10T23:56:03.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
       "title": "Quoting OpenClaw",
       "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
       "excerpt": "",
@@ -1296,15 +1305,6 @@
       "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
       "excerpt": "",
       "publishedAt": "2026-08-02T22:19:59.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "Open letters about AI development",
-      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-      "excerpt": "",
-      "publishedAt": "2026-08-02T04:16:52.000Z",
       "category": "tech",
       "source": "Simon Willison"
     },
