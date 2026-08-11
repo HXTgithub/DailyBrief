@@ -1,0 +1,54 @@
+{
+  "hero_headline": "超大流量DDoS攻击半年激增519%",
+  "daily_overview": "今日科技资讯构成主声量。腾讯混元发布WorldClaw，支持Agentic 3D开放世界大规模生成；Cloudflare上半年DDoS报告显示超大规模攻击激增519%，网络安全威胁升级；研究者揭露专有LLM推理轨迹可被窃取，AI安全风险受关注。GitHub热榜出现semantica等图原生AI基础设施项目，推动可问责AI发展；阮一峰周刊则从Kimi K3开源切入，讨论开源软件的国家战略价值。财经与时政领域当日无重大消息，市场与政策面平静。",
+  "tech_briefs": [
+    {
+      "title": "腾讯混元发布WorldClaw 3D开放世界生成",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "source": "Hacker News",
+      "summary": "腾讯混元发布WorldClaw，支持Agentic 3D开放世界的大规模生成，可自动构建复杂虚拟场景。该技术据称能规模化产出开放世界，或推动游戏与仿真领域变革。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare：超大规模DDoS攻击激增519%",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare发布2026上半年DDoS威胁报告，检测到超大规模DDoS攻击激增519%，主要来自DNS和CLDAP反射向量，网络韧性面临更大挑战。",
+      "importance": 9
+    },
+    {
+      "title": "研究者可从专有LLM API窃取推理痕迹",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+      "source": "Simon Willison",
+      "summary": "有研究展示如何从专有大模型API中窃取推理轨迹，可能泄露模型内部推理过程，引发对闭源模型安全性和隐私保护的担忧。",
+      "importance": 8
+    },
+    {
+      "title": "semantica：图原生AI基础设施登上热榜",
+      "url": "https://github.com/semantica-agi/semantica",
+      "source": "GitHub Trending",
+      "summary": "GitHub热榜项目semantica提供图原生基础设施，用于上下文管理和可问责AI系统，通过图结构组织知识，增强AI决策的可解释性与追溯能力。",
+      "importance": 6
+    },
+    {
+      "title": "阮一峰周刊：国家为何需要开源软件",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
+      "source": "阮一峰的网络日志",
+      "summary": "阮一峰科技周刊第407期以国产大模型Kimi K3开源为引，讨论国家支持开源软件的战略价值，指出开源可降低依赖并提升技术自主性。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "AI安全、开源战略与网络韧性成为今日科技关键词，行业在追求能力上限的同时，开始重视可解释性与责任边界。",
+  "keywords": [
+    "3D生成",
+    "DDoS攻击",
+    "AI安全",
+    "开源软件",
+    "AI代理",
+    "图数据库",
+    "网络安全",
+    "腾讯混元"
+  ]
+}
