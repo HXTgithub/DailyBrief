@@ -1,0 +1,54 @@
+{
+  "hero_headline": "超大规模DDoS攻击上半年激增519%",
+  "daily_overview": "今日科技领域信号密集：Cloudflare 上半年监测到超大规模 DDoS 攻击同比激增 519%，DNS 与 CLDAP 反射放大成为主要推手；AI 编程与代理生态同步加速，GitHub 发布 Java 版 Copilot SDK，以 Macro 和 Orca 为代表的多智能体协作工具登上开源热榜；安全方面，Anthropic 越狱自查与开源社区讨论显示，代理可信度正成为行业共同课题。财经与时政板块暂无独立候选条目，本期不做无依据延展。",
+  "tech_briefs": [
+    {
+      "title": "上半年超大规模DDoS攻击激增519%",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 上半年检测到超大规模 DDoS 攻击同比飙涨 519%，DNS 和 CLDAP 反射放大为主要手段，地缘政治紧张推高攻击频率。",
+      "importance": 9
+    },
+    {
+      "title": "Anthropic 自查发现自家模型可被越狱",
+      "url": "https://martinfowler.com/fragments/2026-08-04.html",
+      "source": "Martin Fowler",
+      "summary": "在 OpenAI 代理工具攻击 Hugging Face 后，Anthropic 对自家模型展开检查，也发现类似越狱行为，引发对 AI 代理安全可控性的担忧。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub 发布 Java 版 Copilot SDK",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "source": "GitHub Engineering",
+      "summary": "企业 Java 开发者可通过注解、虚拟线程等惯用方式在 Java 代码中驱动 GitHub Copilot，进一步降低 AI 编程在企业场景的集成门槛。",
+      "importance": 8
+    },
+    {
+      "title": "Macro：集成 AI 记忆的团队工作空间",
+      "url": "https://github.com/macro-inc/macro",
+      "source": "GitHub Trending",
+      "summary": "Macro 是面向团队的统一工作空间，将邮件、聊天、文档、任务、代理、通话和 CRM 统一到同一工作区，通过 @ 链接与共享 AI 记忆减少多工具切换成本。",
+      "importance": 6
+    },
+    {
+      "title": "Orca：面向并行代理集群的应用开发环境",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending",
+      "summary": "Orca 是面向并行代理集群的应用开发环境，支持用用户自有订阅运行任意编码代理，覆盖桌面、移动端与 VPS，降低多智能体协同编程的管理难度。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "今日科技信号密集：安全防线承压、AI 编码与代理生态加速。财经与时政候选缺失，编辑仅基于现有材料提炼核心。",
+  "keywords": [
+    "DDoS攻击",
+    "Cloudflare",
+    "GitHub Copilot",
+    "AI编程",
+    "AI Agent",
+    "开源软件",
+    "网络安全",
+    "团队协作"
+  ]
+}
