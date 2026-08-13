@@ -1,0 +1,54 @@
+{
+  "hero_headline": "DeepSeek V4 Pro 上线，AI 开源与安全并进",
+  "daily_overview": "今日科技焦点集中在 AI 与网络安全。DeepSeek V4 Pro 0813 上线 OpenRouter，继续开源路线；Anthropic 开放 Agent Skills 仓库，推动智能体开发标准化。Cloudflare 发布上半年 DDoS 报告，1 Tbps 超大规模攻击骤增；其数据还显示日全蚀对网络流量的影响。阮一峰周刊探讨开源对国家的战略价值。财经与时政方面暂无重大信号。",
+  "tech_briefs": [
+    {
+      "title": "DeepSeek V4 Pro 0813 模型上线 OpenRouter",
+      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+      "source": "Simon Willison",
+      "summary": "DeepSeek V4 Pro 0813 版本已在 OpenRouter 平台提供，延续开源路线，性能接近顶尖闭源模型，引发社区广泛关注。",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare 上半年 DDoS 报告：1 Tbps 攻击激增",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 报告显示，2026 上半年超大规模 DDoS 攻击同比暴增 519%，DNS 反射与地缘冲突为主要驱动因素。",
+      "importance": 8
+    },
+    {
+      "title": "Anthropic 开源 Agent Skills 公共仓库",
+      "url": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending",
+      "summary": "Anthropic 在 GitHub 发布 Agent Skills 公共仓库，提供可复用的技能模块，帮助开发者更高效构建 AI 智能体应用。",
+      "importance": 8
+    },
+    {
+      "title": "阮一峰周刊：国家为什么需要开源软件",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
+      "source": "阮一峰的网络日志",
+      "summary": "科技爱好者周刊第 407 期探讨开源对国家战略的意义，并以大模型 Kimi K3 开源后在美国引发的反响为例展开。",
+      "importance": 6
+    },
+    {
+      "title": "日全蚀冲击网络流量：冰岛至伊比利亚半岛",
+      "url": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 数据显示，8 月 12 日日全蚀路径经过冰岛、西班牙与葡萄牙，这些地区的互联网流量出现明显波动。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "今日新闻显示，AI 竞争正从模型参数转向开源生态与智能体工具链，网络安全威胁同步升级，值得持续关注。",
+  "keywords": [
+    "DeepSeek",
+    "开源",
+    "Agent Skills",
+    "DDoS",
+    "日全蚀",
+    "网络安全",
+    "AI 智能体",
+    "OpenRouter"
+  ]
+}
