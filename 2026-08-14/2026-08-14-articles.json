@@ -6,170 +6,170 @@
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "excerpt": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "meta": "HTML · ★ 14,315 · 🍴 858 · 📈 4,504 stars today",
+      "meta": "HTML · ★ 15,092 · 🍴 911 · 📈 4,475 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 Claude Code 提供的 29 种编辑级图表类型，全部由自包含 HTML+SVG 实现，摒弃阴影和常见的 Mermaid 风格，输出干净、专业的示意图。适合在 AI 辅助开发流程中快速生成架构图、流程图和文档图。"
+      "summary": "为 Claude Code 定制的 29 种编辑级图表模板，全部由自包含 HTML + SVG 实现，摒弃阴影和 Mermaid 风格的花哨输出。用于生成干净专业的图表，适合文档撰写、技术演示和内容创作场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "excerpt": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "meta": "Python · ★ 6,597 · 🍴 696 · 📈 727 stars today",
+      "meta": "Python · ★ 6,854 · 🍴 720 · 📈 713 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向上下文与可问责 AI 系统的图原生基础设施。利用图结构管理和追踪 AI 的上下文来源，让决策链路具备可追溯性和审计能力。适用于重视合规性、可靠性的企业级 AI 应用。"
+      "summary": "基于图结构的 AI 基础设施，为上下文管理和可问责 AI 系统提供底层支撑。通过图原生架构组织知识、追踪推理链路，适用于需要可解释、可审计 AI 决策的企业级应用与智能体平台。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "excerpt": "Public repository for Agent Skills",
-      "meta": "Python · ★ 168,994 · 🍴 20,129 · 📈 383 stars today",
+      "meta": "Python · ★ 169,129 · 🍴 20,139 · 📈 312 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic 官方公开的 Agent Skills 仓库，收录可复用的技能定义、提示词模板和示例，帮助开发者快速为 Claude 等代理添加专用能力。适合需要标准化、可共享 Agent 技能的团队。"
+      "summary": "Anthropic 官方发布的 Agent Skills 公共仓库，定义了一套标准化的技能封装格式。开发者可复用、分享 Claude 的技能模块，让 AI 代理具备文件操作、API 调用等特定能力，是构建复杂 Agent 应用的参考资源。"
     },
     {
       "sourceId": "github-trending",
       "title": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "excerpt": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "meta": "Python · ★ 4,931 · 🍴 333 · 📈 768 stars today",
+      "meta": "Python · ★ 5,052 · 🍴 334 · 📈 769 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "体积仅 14MB 的基础模型，专为手机、可穿戴设备、智能家居和机器人等微型设备设计。能让本地 AI 推理在资源受限的边缘硬件上运行，解决云端依赖带来的延迟和隐私问题，适合嵌入式与 IoT 场景。"
+      "summary": "体积仅 14MB 的轻量级基础模型，专为手机、可穿戴设备、智能家居和机器人等小型终端设计。在资源受限的边缘设备上本地运行 AI 推理，无需云端连接，兼顾隐私保护与低延迟响应。"
     },
     {
       "sourceId": "github-trending",
       "title": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "excerpt": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
-      "meta": "Swift · ★ 9,836 · 🍴 663 · 📈 187 stars today",
+      "meta": "Swift · ★ 9,917 · 🍴 664 · 📈 76 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "macOS 专属的本地听写应用，主打端侧语音转文字和自训练的 AI 增强模型，号称最快的 Wispr Flow 本地替代品。语音数据不出设备，兼顾隐私与流畅度；Windows、iOS 和 Linux 版本正在规划中。"
+      "summary": "macOS 上最快的本地听写应用，内置设备端 STT 和自训练的 AI 增强模型，是 Wispr Flow 的本地替代方案。无需上传音频即可完成语音转文字，适合注重隐私、追求低延迟输入效率的用户，Windows 与 iOS 版本即将推出。"
     },
     {
       "sourceId": "github-trending",
       "title": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "excerpt": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "meta": "Python · ★ 71,026 · 🍴 6,405 · 📈 354 stars today",
+      "meta": "Python · ★ 71,138 · 🍴 6,411 · 📈 328 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "本地 UI 工具，可运行和训练 LLM 及扩散模型，支持 Qwen3.8、Kimi K3、DeepSeek-V4、FLUX 等最新模型。提供易用的图形界面和高效微调能力，适合个人开发者在本地进行模型实验与定制。"
+      "summary": "提供本地图形界面，用于运行和微调 LLM 与扩散模型，支持 Qwen、Kimi、Gemma、DeepSeek-V4、FLUX 等主流模型。零基础用户也能在本地完成模型训练与推理，适合个人开发者与研究者快速实验和部署。"
     },
     {
       "sourceId": "github-trending",
       "title": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "excerpt": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "meta": "Rust · ★ 2,578 · 🍴 276 · 📈 1,180 stars today",
+      "meta": "Rust · ★ 2,676 · 🍴 281 · 📈 1,239 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向团队的统一工作空间，将邮件、聊天、文档、任务、Agent、通话和 CRM 通过 @ 链接整合在一起，并用共享 AI 记忆串联上下文。减少工具切换成本，让团队在一个界面内协作和调用 AI。"
+      "summary": "面向团队的统一工作空间，将邮件、聊天、文档、任务、Agent、通话和 CRM 整合在一起，通过 @ 引用与共享 AI 记忆实现互联。旨在消除工具割裂，让团队在单一平台上完成协作与客户管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "megadose/holehe",
       "url": "https://github.com/megadose/holehe",
       "excerpt": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "meta": "Python · ★ 12,400 · 🍴 1,667 · 📈 166 stars today",
+      "meta": "Python · ★ 12,482 · 🍴 1,674 · 📈 195 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "检查某个邮箱是否在 Twitter、Instagram 等网站注册过，并通过密码找回功能获取关联线索。可用于 OSINT 调查、账号关联分析和邮箱可用性验证，是信息收集与安全审计的实用命令行工具。"
+      "summary": "检查邮箱是否注册过 Twitter、Instagram 等各类网站服务的 OSINT 工具，利用网站的忘记密码功能来探测邮箱关联的账号信息。适用于安全审计、隐私调查及账号关联分析，以命令行方式快速批量检测。"
     },
     {
       "sourceId": "github-trending",
       "title": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "excerpt": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "meta": "Python · ★ 20,652 · 🍴 3,313 · 📈 278 stars today",
+      "meta": "Python · ★ 20,701 · 🍴 3,318 · 📈 283 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自动化 OSINT 侦察工具，整合数百个数据源，用于威胁情报收集和攻击面测绘。安全团队可以收集域名、IP、邮箱等关联信息，识别潜在暴露风险并生成分析报告。"
+      "summary": "自动化 OSINT 威胁情报工具，用于收集和分析公开信息，绘制攻击面地图。集成数百个数据源，自动关联邮件、域名、IP 等信息，适合安全研究员和蓝队用于资产发现、漏洞评估与风险排查。"
     },
     {
       "sourceId": "github-trending",
       "title": "NVIDIA-NeMo/Switchyard",
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "excerpt": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-      "meta": "Rust · ★ 1,193 · 🍴 107 · 📈 408 stars today",
+      "meta": "Rust · ★ 1,271 · 🍴 113 · 📈 408 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "让 LLM 应用能够跨模型和供应商动态路由请求，同时保持 OpenAI 和 Anthropic API 原生兼容。支持灵活的模型选择、基准测试以及成本/性能优化，方便企业构建多模型容错和降本策略。"
+      "summary": "NVIDIA 出品的 LLM 流量路由层，允许应用在不改代码的前提下切换不同模型和供应商，并保持 OpenAI 与 Anthropic API 原生兼容。支持灵活的模型选择、基准测试与成本优化，适合需要多模型容灾或比价的生产环境。"
     },
     {
       "sourceId": "github-trending",
       "title": "holaboss-ai/holaOS",
       "url": "https://github.com/holaboss-ai/holaOS",
       "excerpt": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-      "meta": "TypeScript · ★ 6,562 · 🍴 598 · 📈 380 stars today",
+      "meta": "TypeScript · ★ 6,715 · 🍴 603 · 📈 241 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的一体化 AI Agent 工作区，可运行 Claude Code、Codex 等任意 Agent，并连接 100+ 工具、MCP、应用、浏览器和本地文件。提供共享内存、内置模型或自带密钥，统一管理 Agent 工作流。"
+      "summary": "开源的一体化 AI Agent 工作空间，可运行 Claude Code、Codex 等任意 Agent，连接 100+ 集成与 MCP 协议，统一操作工具、浏览器和文件，并配备共享内存。支持内置模型或自带密钥，适合追求自动化工作流的重度用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "kepano/obsidian-skills",
       "url": "https://github.com/kepano/obsidian-skills",
       "excerpt": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
-      "meta": "★ 45,694 · 🍴 3,295 · 📈 411 stars today",
+      "meta": "★ 45,899 · 🍴 3,301 · 📈 292 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 Obsidian 而生的 Agent 技能集，教 AI 代理通过 Obsidian CLI 以及 Markdown、Bases、JSON Canvas 等开放格式读写笔记。适合想要让智能体自动化整理知识库和笔记的用户。"
+      "summary": "面向 Obsidian 的 Agent 技能包，让 AI 学会使用 Obsidian CLI 与 Markdown、Bases、JSON Canvas 等开放格式。用户用自然语言即可驱动 Agent 自动建笔记、维护知识库，大幅提升知识管理效率，适合笔记重度用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "3b1b/manim",
       "url": "https://github.com/3b1b/manim",
       "excerpt": "Animation engine for explanatory math videos",
-      "meta": "Python · ★ 90,837 · 🍴 7,529 · 📈 204 stars today",
+      "meta": "Python · ★ 90,939 · 🍴 7,536 · 📈 176 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向数学解释视频的动画引擎，由 3Blue1Brown 开源。用户用 Python 编写代码即可生成精确的几何变换、公式推导和图表动画，是制作数学可视化内容和在线课程的重要工具。"
+      "summary": "用于制作数学讲解视频的动画引擎，由 3Blue1Brown 开源。通过 Python 代码精确控制数学对象和动画帧，自动生成高质量说明视频，适合教育创作者、数学科普作者制作可视化教学内容。"
     },
     {
       "sourceId": "github-trending",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "meta": "Shell · ★ 145,169 · 🍴 23,483 · 📈 762 stars today",
+      "meta": "Shell · ★ 145,261 · 🍴 23,495 · 📈 778 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套即开即用的 AI 代理团队：从前端开发、Reddit 社区互动到创意生成和现实核查，每个 Agent 都有独立性格、工作流程和工具。适合需要并行处理多种数字任务的内容创作者和小团队。"
+      "summary": "一套开箱即用的 AI 代理团队，包含前端开发、Reddit 社区运营、创意注入、现实检查等各类专业化 Agent，每个都具备独立人格、流程和技能。适合需要多角色协作、快速搭建自动化业务线的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "Lightricks/LTX-2",
       "url": "https://github.com/Lightricks/LTX-2",
       "excerpt": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "meta": "Python · ★ 8,903 · 🍴 1,406 · 📈 201 stars today",
+      "meta": "Python · ★ 8,949 · 🍴 1,410 · 📈 205 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Lightricks 官方发布的 LTX-2 音视频生成模型 Python 推理包，同时提供 LoRA 训练器。开发者可以生成带同步音频的视频，并针对特定风格或内容微调，适合视频创作与影视预演。"
+      "summary": "LTX-2 音视频生成模型的官方 Python 推理与 LoRA 训练包，支持从文本生成音画同步的视频内容。开发者可用它进行模型推理、微调定制，适用于影音内容创作、广告生成等多媒体 AI 应用场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "lightningpixel/modly",
       "url": "https://github.com/lightningpixel/modly",
       "excerpt": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
-      "meta": "TypeScript · ★ 5,382 · 🍴 574 · 📈 221 stars today",
+      "meta": "TypeScript · ★ 5,514 · 🍴 581 · 📈 118 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "本地 AI 桌面应用，从单张图片生成 3D 模型，所有计算都在自己的 GPU 上完成，无需上传云端。适合设计师和游戏开发者快速创建可用的 3D 资产，兼顾隐私与成本。"
+      "summary": "本地运行的桌面应用，利用 GPU 从图片直接生成 3D 模型。无需云端服务，保证数据私密的同时实现快速建模，适合游戏开发者、3D 设计师和创作者快速将 2D 图像转化为可用的 3D 资产。"
     },
     {
       "sourceId": "github-trending",
       "title": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "excerpt": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "meta": "Go · ★ 87,998 · 🍴 10,350 · 📈 473 stars today",
+      "meta": "Go · ★ 88,104 · 🍴 10,359 · 📈 465 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "领先的开源 RAG 引擎，将深度检索增强生成与 Agent 能力结合，为 LLM 构建高质量上下文层。支持复杂文档解析、知识库检索与自动问答，适合企业用私有知识库增强大模型的回答准确性。"
+      "summary": "领先的开源 RAG（检索增强生成）引擎，将前沿 RAG 技术与 Agent 能力深度融合，为 LLM 构建优质上下文层。提供完整的数据接入、解析、检索和问答流程，适合企业构建知识库问答、文档洞察等应用。"
     },
     {
       "sourceId": "hackernews",
@@ -178,9 +178,9 @@
       "excerpt": "https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flas...",
       "publishedAt": "2026-08-13T17:23:22.000Z",
       "category": "tech",
-      "score": 537,
+      "score": 673,
       "source": "Hacker News",
-      "summary": "Google 发布 Gemini 3.7 Flash 模型，官方博客与 AI 开发者文档同步更新，介绍该轻量级模型的 API 接入方式与典型应用场景，供开发者预览试用。"
+      "summary": "谷歌正式发布 Gemini 3.7 Flash 模型，同步更新 API 文档，为开发者提供更高效的 AI 推理能力。"
     },
     {
       "sourceId": "hackernews",
@@ -189,196 +189,186 @@
       "excerpt": "https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harnesshttps:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide...",
       "publishedAt": "2026-08-13T12:58:02.000Z",
       "category": "tech",
-      "score": 523,
+      "score": 587,
       "source": "Hacker News",
-      "summary": "DeepSeek 发布 Harness 开发者预览版，公开 GitHub 仓库与在线指南，提供工具构建与测试接口，邀请开发者参与反馈与迭代。"
+      "summary": "DeepSeek 推出 Harness 开发者预览版，开放 GitHub 仓库与官方指南，供开发者提前体验测试。"
     },
     {
       "sourceId": "hackernews",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "excerpt": "462 points · 134 comments",
+      "excerpt": "528 points · 144 comments",
       "publishedAt": "2026-08-13T14:17:13.000Z",
       "category": "tech",
-      "score": 462,
+      "score": 528,
       "source": "Hacker News",
-      "summary": "安全研究员展示“Spaghettifying DRAM”研究，探讨通过精细控制 DRAM 时序与物理特性实现内存干扰，引发对底层硬件安全的讨论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Gloomberb",
-      "url": "https://gloom.sh/",
-      "excerpt": "369 points · 184 comments",
-      "publishedAt": "2026-08-13T13:52:32.000Z",
-      "category": "tech",
-      "score": 369,
-      "source": "Hacker News",
-      "summary": "HN 热帖标题为“Gloomberb”，链接指向 gloom.sh，帖子获得 369 分和 184 条评论，讨论热度高，但摘要中未含正文细节。"
+      "summary": "GitHub 项目「Spaghettifying DRAM」聚焦 DRAM 内存底层机制与安全利用，引发技术社区热议。"
     },
     {
       "sourceId": "hackernews",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "excerpt": "366 points · 144 comments",
+      "excerpt": "476 points · 202 comments",
       "publishedAt": "2026-08-13T18:10:02.000Z",
       "category": "tech",
-      "score": 366,
+      "score": 476,
       "source": "Hacker News",
-      "summary": "Cerebras 发布博客称，通过其计算平台为 OpenAI 的 GPT-5.6 Sol 提供加速，实现“超快”推理，引发关于 AI 芯片与模型协同的讨论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "excerpt": "225 points · 89 comments",
-      "publishedAt": "2026-08-13T17:05:12.000Z",
-      "category": "tech",
-      "score": 225,
-      "source": "Hacker News",
-      "summary": "Mistral 发布 OCR 4.1 模型，面向文档理解与文本提取场景，提供更新的 API 与开发者文档，改进准确率与多语言支持能力。"
+      "summary": "Cerebras 联合 OpenAI 加速 GPT-5.6 Sol 模型的训练与推理，实现超快计算性能，引发业界关注。"
     },
     {
       "sourceId": "hackernews",
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "excerpt": "208 points · 113 comments",
+      "excerpt": "284 points · 143 comments",
       "publishedAt": "2026-08-13T17:48:13.000Z",
       "category": "tech",
-      "score": 208,
+      "score": 284,
       "source": "Hacker News",
-      "summary": "程序员 Dan McKinley 的经典文章《Choose Boring Technology》再度引发讨论，主张在技术选型中优先成熟可靠的“无聊技术”，以降低复杂度与运维成本。"
+      "summary": "经典旧文「Choose Boring Technology」重新引发热议，主张优先选用成熟、可预测的技术，避免过度追求新奇。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "excerpt": "270 points · 107 comments",
+      "publishedAt": "2026-08-13T17:05:12.000Z",
+      "category": "tech",
+      "score": 270,
+      "source": "Hacker News",
+      "summary": "Mistral 推出 OCR 4.1 模型，相关 API 文档已上线，光学字符识别性能进一步提升。"
     },
     {
       "sourceId": "hackernews",
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "excerpt": "201 points · 95 comments",
+      "excerpt": "267 points · 154 comments",
       "publishedAt": "2026-08-13T13:14:12.000Z",
       "category": "tech",
-      "score": 201,
+      "score": 267,
       "source": "Hacker News",
-      "summary": "非营利电视台 Nine PBS 起诉信息管理公司 Iron Mountain，指控其封锁访问存档数据，案件牵涉档案数字化与数据可用性争议。"
+      "summary": "Nine PBS 起诉 Iron Mountain，指控其封锁对存档数据的访问，引发对数据管理权限的讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Ordinary abundance",
       "url": "https://ordinaryabundance.com/",
-      "excerpt": "184 points · 100 comments",
+      "excerpt": "244 points · 131 comments",
       "publishedAt": "2026-08-13T13:39:41.000Z",
       "category": "tech",
-      "score": 184,
+      "score": 244,
       "source": "Hacker News",
-      "summary": "网站“Ordinary Abundance”登上 HN 热榜，标题意为“寻常富足”，帖子获得 184 点与 100 条评论，讨论内容需访问原站查看。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "excerpt": "165 points · 71 comments",
-      "publishedAt": "2026-08-13T13:05:29.000Z",
-      "category": "tech",
-      "score": 165,
-      "source": "Hacker News",
-      "summary": "Netlify 博客用同一提示词测试 11 个 AI 模型，展示不同模型在输出风格、准确性与逻辑上的显著差异，为模型选型提供直观参考。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "excerpt": "164 points · 71 comments",
-      "publishedAt": "2026-08-13T17:45:50.000Z",
-      "category": "tech",
-      "score": 164,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "excerpt": "145 points · 63 comments",
-      "publishedAt": "2026-08-13T14:26:41.000Z",
-      "category": "tech",
-      "score": 145,
-      "source": "Hacker News"
+      "summary": "「Ordinary Abundance」网站上线，围绕“普通丰裕”理念展开探讨，引发读者共鸣与讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "excerpt": "139 points · 74 comments",
+      "excerpt": "238 points · 132 comments",
       "publishedAt": "2026-08-13T18:47:19.000Z",
       "category": "tech",
-      "score": 139,
+      "score": 238,
+      "source": "Hacker News",
+      "summary": "Geoffrey Litt 发表文章「Understanding is the new bottleneck」，指出理解已成为新的瓶颈，引发技术圈讨论。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "excerpt": "203 points · 92 comments",
+      "publishedAt": "2026-08-13T17:45:50.000Z",
+      "category": "tech",
+      "score": 203,
+      "source": "Hacker News",
+      "summary": "经典游戏 Donkey.bas 迎来 45 周年，其 131 行代码被称为“荣耀”，引发怀旧与技术讨论。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "NP-overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "excerpt": "171 points · 108 comments",
+      "publishedAt": "2026-08-13T20:14:17.000Z",
+      "category": "tech",
+      "score": 171,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "url": "https://github.com/systemd/systemd/issues/40262",
-      "excerpt": "127 points · 73 comments",
+      "excerpt": "166 points · 106 comments",
       "publishedAt": "2026-08-13T18:41:01.000Z",
       "category": "tech",
-      "score": 127,
+      "score": 166,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "excerpt": "163 points · 74 comments",
+      "publishedAt": "2026-08-13T14:26:41.000Z",
+      "category": "tech",
+      "score": 163,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Where did the old web go? We followed 657,607 links to find out",
       "url": "https://0.mk/blog/link-rot",
-      "excerpt": "110 points · 76 comments",
+      "excerpt": "142 points · 129 comments",
       "publishedAt": "2026-08-13T17:49:18.000Z",
       "category": "tech",
-      "score": 110,
+      "score": 142,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "NP-Overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "excerpt": "95 points · 46 comments",
-      "publishedAt": "2026-08-13T20:14:17.000Z",
+      "title": "SparrowMap – Cameras that watch government vehicles",
+      "url": "https://sparrowmap.com/",
+      "excerpt": "126 points · 27 comments",
+      "publishedAt": "2026-08-14T00:10:04.000Z",
       "category": "tech",
-      "score": 95,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "How art invented humanity",
-      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "excerpt": "80 points · 35 comments",
-      "publishedAt": "2026-08-12T22:47:40.000Z",
-      "category": "tech",
-      "score": 80,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "excerpt": "75 points · 39 comments",
-      "publishedAt": "2026-08-13T16:22:05.000Z",
-      "category": "tech",
-      "score": 75,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Text AI watermarks will always be trivial to remove",
-      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "excerpt": "74 points · 63 comments",
-      "publishedAt": "2026-08-13T15:07:10.000Z",
-      "category": "tech",
-      "score": 74,
+      "score": 126,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "How Compaction Works in Pi",
       "url": "https://earendil.com/posts/compaction-in-pi/",
-      "excerpt": "73 points · 23 comments",
+      "excerpt": "122 points · 47 comments",
       "publishedAt": "2026-08-13T17:57:50.000Z",
       "category": "tech",
-      "score": 73,
+      "score": 122,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+      "excerpt": "117 points · 22 comments",
+      "publishedAt": "2026-08-14T02:39:10.000Z",
+      "category": "tech",
+      "score": 117,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "excerpt": "101 points · 48 comments",
+      "publishedAt": "2026-08-13T16:22:05.000Z",
+      "category": "tech",
+      "score": 101,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "excerpt": "98 points · 21 comments",
+      "publishedAt": "2026-08-14T00:14:28.000Z",
+      "category": "tech",
+      "score": 98,
       "source": "Hacker News"
     },
     {
@@ -388,98 +378,117 @@
       "excerpt": "Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding agent.Bullet started in a senior year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure path to startup success. We were going to use our skills optimizing stock pricing calculation speed",
       "publishedAt": "2026-08-13T08:14:30.000Z",
       "category": "tech",
-      "score": 73,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Tocharian Online",
-      "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-      "excerpt": "55 points · 9 comments",
-      "publishedAt": "2026-08-13T17:15:46.000Z",
-      "category": "tech",
-      "score": 55,
+      "score": 88,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "How Gödel's Proof Works (2020)",
       "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "excerpt": "53 points · 32 comments",
+      "excerpt": "82 points · 39 comments",
       "publishedAt": "2026-08-13T19:44:46.000Z",
       "category": "tech",
-      "score": 53,
+      "score": 82,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "excerpt": "48 points · 23 comments",
+      "excerpt": "80 points · 48 comments",
       "publishedAt": "2026-08-13T19:25:38.000Z",
       "category": "tech",
-      "score": 48,
+      "score": 80,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "JDK 27 G1/Parallel/Serial GC Changes",
-      "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-      "excerpt": "41 points · 14 comments",
-      "publishedAt": "2026-08-13T17:22:39.000Z",
+      "title": "Hello, me. It's been a while",
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "excerpt": "60 points · 32 comments",
+      "publishedAt": "2026-08-13T18:37:18.000Z",
       "category": "tech",
-      "score": 41,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
-      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
-      "excerpt": "34 points · 8 comments",
-      "publishedAt": "2026-08-09T22:26:52.000Z",
-      "category": "tech",
-      "score": 34,
+      "score": 60,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Finite State Machines in Forth (1994)",
       "url": "https://www.forth.org/literature/noble.html",
-      "excerpt": "22 points · 0 comments",
+      "excerpt": "59 points · 1 comments",
       "publishedAt": "2026-08-08T17:38:15.000Z",
       "category": "tech",
-      "score": 22,
+      "score": 59,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Smooth Move: Taming Trajectories with Polynomials",
-      "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
-      "excerpt": "17 points · 0 comments",
-      "publishedAt": "2026-08-10T15:06:15.000Z",
+      "title": "I want extern \"fil-C\"",
+      "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+      "excerpt": "47 points · 11 comments",
+      "publishedAt": "2026-08-13T17:32:07.000Z",
+      "category": "tech",
+      "score": 47,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+      "excerpt": "46 points · 10 comments",
+      "publishedAt": "2026-08-09T22:26:52.000Z",
+      "category": "tech",
+      "score": 46,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "An ambiguity in c89 which will never be fixed",
+      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+      "excerpt": "43 points · 10 comments",
+      "publishedAt": "2026-08-10T07:49:09.000Z",
+      "category": "tech",
+      "score": 43,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Blog about things you don't understand yet",
+      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "excerpt": "39 points · 10 comments",
+      "publishedAt": "2026-08-13T23:39:33.000Z",
+      "category": "tech",
+      "score": 39,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How a device finds encrypted DNS by itself",
+      "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+      "excerpt": "20 points · 4 comments",
+      "publishedAt": "2026-08-07T14:11:55.000Z",
+      "category": "tech",
+      "score": 20,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Legend of the Novell NE2000 [video]",
+      "url": "https://www.youtube.com/watch?v=nNXzQ7V1S_k",
+      "excerpt": "17 points · 3 comments",
+      "publishedAt": "2026-08-09T16:16:56.000Z",
       "category": "tech",
       "score": 17,
       "source": "Hacker News"
     },
     {
-      "sourceId": "hackernews",
-      "title": "Show HN: My solar died for 6 months, so I built a watchdog",
-      "url": "https://sunranker.com",
-      "excerpt": "Hi HN, Shawn here. My rooftop system lost about half a year of production and nobody told me. Not the installer, not the monitoring app, not the utility. I found out from an electric bill that made no sense, then spent weeks digging through the monitoring portal by hand.SunRanker is what I wished ex",
-      "publishedAt": "2026-08-10T19:54:36.000Z",
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 浙江台州的椒江滨江公共空间生态绿廊，象征涟漪从水面蔓延，涌上岸边，堆积成丘。（via） 你需要知道的 AI 缓存知识 大模型的价格，主要是 Token 的输入价格和输出价格，这个很容易理解。 但是，还有一项\"输入 Token 的缓存命中价格\"，这是什么东西？ 上图是 DeepSeek V4 Flash 模型的定价，可以看到缓存命中的输入价格只有2分钱，足足是未命中的输入价格的五十分之一！ 为什么相差这些大？我们能不能",
+      "publishedAt": "2026-08-13T23:54:49.000Z",
       "category": "tech",
-      "score": 7,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
-      "url": "https://atg.science/careers",
-      "excerpt": "1 points · 0 comments",
-      "publishedAt": "2026-08-13T12:01:02.000Z",
-      "category": "tech",
-      "score": 1,
-      "source": "Hacker News"
+      "source": "阮一峰的网络日志"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -496,15 +505,6 @@
       "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
       "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 深圳坪山区的坑梓文化科技中心，本身只是普通的三层楼房，但是设计师巧妙地为它加上三级拱廊，顿时让这个建筑变得充满了现代层次感。（via） 道可，道非，常道 上周（7月22日），华为公司的心声社区转发了《人民日报》对何庭波的专访。 何庭波是华为的半导体业务部总裁，最近提出\"韬（τ）定律受到关注。 华为转发这篇专访时，附上了一段任正非写的序言，标题是《道可，道非，常道》。这段序言很短，只有几句话。 τ 定律是华为可以选择的",
       "publishedAt": "2026-07-31T00:08:55.000Z",
-      "category": "tech",
-      "source": "阮一峰的网络日志"
-    },
-    {
-      "sourceId": "ruanyf-blog",
-      "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
-      "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
-      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 西安大明宫遗址，使用亚克力透明板绘制古代建筑，让游客在原址体验当年的场景。（via） 资源，社会公平与算力 分享一个有趣的观点：资源太多，会造成社会不公平。我谈不上同意这个观点，就是觉得思路很奇特。 这是奥地利哲学家伊万·伊里奇（Ivan Illich）在1973年的著作《能源与公平》（Energy and Equity ）中提出的，他认为用电量与社会公平有关。 \"能源和公平只能在一定程度上同时增长。人均用电量低于某",
-      "publishedAt": "2026-07-24T00:12:16.000Z",
       "category": "tech",
       "source": "阮一峰的网络日志"
     },
@@ -1050,6 +1050,33 @@
     },
     {
       "sourceId": "simonwillison",
+      "title": "sqlite-utils 4.2.1",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+      "excerpt": "",
+      "publishedAt": "2026-08-13T23:53:47.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "sqlite-utils 4.2",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "excerpt": "",
+      "publishedAt": "2026-08-13T20:11:29.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "llm-gemini 0.33",
+      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+      "excerpt": "",
+      "publishedAt": "2026-08-13T19:37:34.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
       "title": "alchemy-utils 0.1a1",
       "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
       "excerpt": "",
@@ -1288,33 +1315,6 @@
       "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/",
       "excerpt": "",
       "publishedAt": "2026-08-05T19:42:38.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
-      "excerpt": "",
-      "publishedAt": "2026-08-04T23:58:24.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "llm-anthropic 0.26",
-      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/",
-      "excerpt": "",
-      "publishedAt": "2026-08-04T22:00:58.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "PipeNetwork/minimax-h3-mlx",
-      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/",
-      "excerpt": "",
-      "publishedAt": "2026-08-04T19:10:09.000Z",
       "category": "tech",
       "source": "Simon Willison"
     },
