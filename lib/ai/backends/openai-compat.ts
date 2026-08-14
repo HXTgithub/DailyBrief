@@ -96,7 +96,7 @@ export async function runOpenAICompat(
         // structure, and silent truncation made it through with just 1/16
         // entries parseable. 8192 covers all observed daily batches with
         // generous headroom. Match the explicit value Anthropic SDK uses.
-        max_tokens: 8192,
+        max_tokens: 16384,
         // Don't force JSON mode — not all OpenAI-compat providers support
         // response_format=json_object, and our prompts + jsonrepair already
         // handle the slop.

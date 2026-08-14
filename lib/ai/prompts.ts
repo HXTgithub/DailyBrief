@@ -12,10 +12,10 @@ export const SYSTEM_PROMPT_DIGEST_ZH = `你是一名严谨的中文新闻编辑�
 输出严格遵循以下 JSON Schema：
 {
   "hero_headline": string,           // 10-25 字的当日头条一句话
-  "daily_overview": string,          // 150-220 字的当日总览段落（一段话凝练 3 大领域要点，让读者 30 秒抓住全局）
+  "daily_overview": string,          // 80-150 字的当日总览段落（聚焦技术领域要点）
   "tech_briefs":     BriefItem[],    // 3-5 条
-  "finance_briefs":  BriefItem[],    // 3-5 条
-  "politics_briefs": BriefItem[],    // 2-3 条
+  "finance_briefs":  BriefItem[],    // 固定空数组 []
+  "politics_briefs": BriefItem[],    // 固定空数组 []
   "editor_note": string,             // 30-60 字的中性编辑短评
   "keywords": string[]               // 5-8 个关键词
 }
@@ -44,10 +44,10 @@ export const SYSTEM_PROMPT_DIGEST_EN = `You are a rigorous English-language news
 Output STRICTLY follows this JSON schema:
 {
   "hero_headline": string,           // 10-25 word headline of the day
-  "daily_overview": string,          // 150-250 word paragraph distilling tech / finance / politics signals so a reader catches the whole picture in 30 seconds
+  "daily_overview": string,          // 80-150 word paragraph focused on tech signals
   "tech_briefs":     BriefItem[],    // 3-5 entries
-  "finance_briefs":  BriefItem[],    // 3-5 entries
-  "politics_briefs": BriefItem[],    // 2-3 entries
+  "finance_briefs":  BriefItem[],    // always empty array []
+  "politics_briefs": BriefItem[],    // always empty array []
   "editor_note": string,             // 30-60 word neutral editor's note
   "keywords": string[]               // 5-8 keywords
 }
