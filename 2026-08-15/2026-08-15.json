@@ -1,0 +1,53 @@
+{
+  "hero_headline": "AI缓存与MCP安全引领今日技术热点",
+  "daily_overview": "今日技术圈聚焦三大信号：AI 推理成本中缓存作用日益关键，Cloudflare 推出 MCP 安全检测方案应对影子流量；GitHub 发布 Java 版 Copilot SDK，推动 AI 编程进入企业；14MB 开源基础模型展示边缘部署潜力。执法部门黑客化趋势亦引发安全界反思。",
+  "tech_briefs": [
+    {
+      "title": "阮一峰周刊详解 AI 缓存知识",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
+      "source": "阮一峰的网络日志",
+      "summary": "文章解释大模型定价主要取决于 Token 输入输出价格，缓存可显著降低成本，并介绍相关技术要点。",
+      "importance": 7
+    },
+    {
+      "title": "Cloudflare 识别并保护 MCP 流量",
+      "url": "https://blog.cloudflare.com/mcp-security-updates/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare Gateway 通过协议级启发式识别 MCP 请求，帮助安全团队发现影子 MCP 流量，并实施访问限制与阻断策略。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub 发布 Java 版 Copilot SDK",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "source": "GitHub Engineering",
+      "summary": "企业 Java 开发者可用原生 Java 代码驱动 Copilot，支持注解、虚拟线程等特性，将 AI 编程能力集成进现有工作流。",
+      "importance": 7
+    },
+    {
+      "title": "14MB 基础模型面向小型设备",
+      "url": "https://github.com/cactus-compute/needle",
+      "source": "GitHub Trending",
+      "summary": "needle 是一个仅 14MB 的端侧基础模型，可运行于手机、穿戴设备、智能家居和机器人，为资源受限环境提供本地智能能力。",
+      "importance": 8
+    },
+    {
+      "title": "加密普及引发执法黑客化讨论",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "source": "Hacker News",
+      "summary": "密码学专家撰文指出，加密普及使执法部门难以获取数据，正转向主动入侵手段，引发对隐私和法治边界的讨论。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "AI 基础设施建设进入精细化阶段，成本、安全与边缘能力并重，开发者需关注协议层新风险与缓存策略。",
+  "keywords": [
+    "AI缓存",
+    "MCP安全",
+    "Cloudflare",
+    "GitHub Copilot",
+    "开源模型",
+    "边缘计算",
+    "执法黑客"
+  ]
+}
