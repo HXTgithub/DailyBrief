@@ -1,0 +1,54 @@
+{
+  "hero_headline": "端侧 AI 模型升温，AI 编码与 MCP 安全同步演进",
+  "daily_overview": "今日科技资讯显示，AI 正在向端侧与开发者工具链深入：14MB 基础模型推动手机和 IoT 设备端推理，Unsloth 本地化训练界面降低门槛；GitHub 与 Cloudflare 分别优化 AI 编码流程与 MCP 安全识别；阮一峰周刊则将 AI 缓存列为控制 Token 成本的关键议题。",
+  "tech_briefs": [
+    {
+      "title": "Cloudflare 强化 MCP 流量识别与安全防护",
+      "url": "https://blog.cloudflare.com/mcp-security-updates/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare Gateway 利用协议启发式规则识别 MCP 请求，帮助安全团队发现影子 MCP 流量，限制经门户访问已批准服务器并阻断禁用端点。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub推出Copilot Java SDK",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 发布 Copilot SDK for Java，支持企业开发者以惯用 Java 代码、注解与虚拟线程驱动 Copilot，把 AI 辅助能力嵌入既有工程栈。",
+      "importance": 7
+    },
+    {
+      "title": "needle：面向微型设备的 14MB 基础模型",
+      "url": "https://github.com/cactus-compute/needle",
+      "source": "GitHub Trending",
+      "summary": "needle 是一个仅 14MB 的基础模型，面向手机、可穿戴设备、智能家居与机器人，能在资源受限硬件上运行，降低端侧 AI 部署门槛。",
+      "importance": 8
+    },
+    {
+      "title": "Unsloth 本地 UI：运行与训练主流开源模型",
+      "url": "https://github.com/unslothai/unsloth",
+      "source": "GitHub Trending",
+      "summary": "Unsloth 提供本地 UI，支持 Qwen3.8、Kimi K3、DeepSeek-V4 等模型在本机运行与微调，让个人开发者无需云端即可训练和部署开源模型。",
+      "importance": 7
+    },
+    {
+      "title": "阮一峰周刊：你需要知道的 AI 缓存知识",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
+      "source": "阮一峰的网络日志",
+      "summary": "阮一峰第 408 期周刊聚焦 AI 缓存知识，讲解通过输入输出 Token 缓存降低大模型调用成本的方法，并收录程序员招聘等科技动态。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "端侧模型与开发者工具链的进展表明，AI 竞争正从参数规模转向落地效率；安全与成本成为新一轮叙事焦点。",
+  "keywords": [
+    "AI 缓存",
+    "端侧模型",
+    "MCP 安全",
+    "GitHub Copilot",
+    "开源模型",
+    "本地训练",
+    "Token 成本",
+    "开发者工具"
+  ]
+}
