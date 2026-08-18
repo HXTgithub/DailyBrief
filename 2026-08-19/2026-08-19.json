@@ -1,0 +1,54 @@
+{
+  "hero_headline": "Mojo编程语言开源，国产大模型评测引关注",
+  "daily_overview": "今日技术圈围绕 AI 基础层展开：Mojo 编程语言正式开源，为高性能 AI 开发提供 Python 友好新选项；开源大模型 Qwen 3.8 27B 与 GLM-5.3 基准测试引发关注，前者表现出色但默认过度推理；Cloudflare 聚焦 AI 安全，新增 MCP 流量识别与防护；面向 Agent 记忆管理的 OpenViking 亦在 GitHub 走热。整体信号：AI 开发正向工程化与安全治理延伸。",
+  "tech_briefs": [
+    {
+      "title": "「Mojo」编程语言正式开源",
+      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+      "source": "Simon Willison",
+      "summary": "Mojo 编程语言宣布开源，兼顾 Python 易用性与高性能计算能力，面向 AI 基础设施开发。开源后开发者可自主部署与定制。",
+      "importance": 9
+    },
+    {
+      "title": "Qwen 3.8 27B 评测高分但默认过度推理",
+      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+      "source": "Simon Willison",
+      "summary": "Qwen 3.8 27B 在 Artificial Analysis 智能指数上取得 52 分，表现优秀，但默认倾向过度思考，导致推理开销偏高。开发者可通过参数或配置关闭该行为。",
+      "importance": 8
+    },
+    {
+      "title": "GLM-5.3 基准测试成绩公布",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "source": "Hacker News",
+      "summary": "GLM-5.3 模型基准测试页面在 Artificial Analysis 上线，引发社区讨论。具体性能数据与正式发布计划仍有待官方披露。",
+      "importance": 7
+    },
+    {
+      "title": "Cloudflare 推出 MCP 流量识别与防护",
+      "url": "https://blog.cloudflare.com/mcp-security-updates/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare Gateway 新增基于协议特征的 MCP 请求识别能力，帮助安全团队发现影子 MCP 流量，并为已批准服务器实施专属访问控制。",
+      "importance": 7
+    },
+    {
+      "title": "Agent 记忆库 OpenViking 开源",
+      "url": "https://github.com/volcengine/OpenViking",
+      "source": "GitHub Trending",
+      "summary": "火山引擎开源自进化上下文数据库 OpenViking，统一管理 Agent 记忆、知识 RAG 与技能，帮助 AI Agent 在长期任务中保持上下文一致性，解决多 Agent 协作时的记忆割裂问题。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "当天动态显示，AI 竞争焦点正从单一模型性能，扩展到开源生态、工程效率与安全治理，开发者应关注基础设施层面的新机会。",
+  "keywords": [
+    "Mojo",
+    "Qwen 3.8",
+    "GLM-5.3",
+    "MCP安全",
+    "OpenViking",
+    "开源AI",
+    "Agent记忆",
+    "Cloudflare"
+  ]
+}
