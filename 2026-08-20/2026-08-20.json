@@ -1,0 +1,54 @@
+{
+  "hero_headline": "Mojo开源与云安全新报告领衔今日科技",
+  "daily_overview": "今日技术聚焦 AI 基础设施与安全。Mojo 语言开源，Qwen 3.8 27B 评测得分 52；Cloudflare 披露远程 Spectre 新攻击面，并推出 Worker 访问防护；GitHub 提供 Copilot SDK Java 版，火山引擎开源 AI 代理上下文数据库 OpenViking，安全技能集标准化开放。生态更强调工程化与治理。",
+  "tech_briefs": [
+    {
+      "title": "Cloudflare 披露远程 Spectre 攻击新细节",
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 复盘 2024-2025 年对 Worker 基础设施的远程 Spectre 攻击评估，详述 Spectre 小工具、远程计时器、共位与劫持等新型攻击原语，提醒开发者关注执行隔离边界。",
+      "importance": 9
+    },
+    {
+      "title": "AI 编程语言 Mojo 正式开源",
+      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+      "source": "Simon Willison",
+      "summary": "面向 AI 基础设施的编程语言 Mojo 正式开源，开发者可自由查看、修改与构建工具链。该语言主打高性能与 Python 生态兼容，社区反响热烈。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub 发布 Copilot SDK 的 Java 版本",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 工程团队宣布 Java 开发者可用原生 Java 代码配合注解与虚拟线程调用 GitHub Copilot，为企业级 Java 应用接入 AI 辅助开发提供了官方 SDK 路径。",
+      "importance": 7
+    },
+    {
+      "title": "火山引擎开源 AI 代理上下文数据库 OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "source": "GitHub Trending",
+      "summary": "OpenViking 是一款面向 AI 代理的自进化上下文数据库，将代理长期记忆、知识库检索（RAG）与技能管理统一到一个存储层，减少多工具拼接带来的上下文碎片化。",
+      "importance": 7
+    },
+    {
+      "title": "开源仓库收录 817 项 AI 代理网络安全技能",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending",
+      "summary": "该项目以 agentskills.io 标准整理 817 个结构化网络安全技能，映射 MITRE ATT&CK、NIST CSF 2.0 等六大框架，让 AI 代理能按规范执行安全操作。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "当日信号显示，AI 正从模型竞赛转向工程化与安全治理：开源语言、代理记忆与安全标准同步加速，开发者仍需警惕基础设施层新增的攻击面。",
+  "keywords": [
+    "Mojo开源",
+    "Spectre攻击",
+    "Cloudflare",
+    "GitHub Copilot",
+    "OpenViking",
+    "AI代理",
+    "网络安全",
+    "Qwen 3.8"
+  ]
+}
