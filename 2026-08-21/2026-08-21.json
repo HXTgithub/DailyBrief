@@ -1,0 +1,54 @@
+{
+  "hero_headline": "GitHub 中断与爬虫争议，AI 安全成焦点",
+  "daily_overview": "当日技术圈围绕运维、安全与 AI 工具展开：GitHub 就 8·17 中断发布复盘，可用性议题升温；Aaron Swartz 爬虫旧案被重提，数据抓取公平性遭热议；Cloudflare 披露 Worker 远程 Spectre 攻击新原语，安全威胁升级。AI 编程方面，GitHub Copilot SDK for Java 与 Modular 的 MAX+Mojo 平台相继亮相，开发者工具效率与风险并存。",
+  "tech_briefs": [
+    {
+      "title": "GitHub 公布 8·17 中断复盘与改进",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "source": "Hacker News",
+      "summary": "GitHub 发布 8 月 17 日中断事件复盘，详述事故原因与后续运维改进，开发者社区围绕大规模服务的可用性展开讨论。",
+      "importance": 9
+    },
+    {
+      "title": "爬虫合法性引争议，Aaron Swartz 案重提",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "source": "Hacker News",
+      "summary": "一篇高赞博文指出，RSS 联合创始人 Aaron Swartz 曾因爬取学术论文被诉，而 Meta 大规模抓取数据却少受追责，引发对网络抓取公平与法律一致的质疑。",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare 重审 Worker 远程 Spectre 威胁",
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 复盘 2024-2025 年对 Workers 基础设施的远程 Spectre 攻击研究，披露 Spectre 攻击小工具、远程计时器等新原语及缓解措施。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub 推出 Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 发布 Copilot SDK for Java，企业开发者可借助注解和虚拟线程在惯用 Java 代码中调用 Copilot，降低 AI 编程助手集成成本。",
+      "importance": 7
+    },
+    {
+      "title": "Modular 平台开源：MAX 与 Mojo 亮相",
+      "url": "https://github.com/modular/modular",
+      "source": "GitHub Trending",
+      "summary": "Modular 为开源 AI 基础设施平台，内含 MAX 推理引擎与 Mojo 语言；Mojo 结合 Python 易用性与 C 性能，面向高效 AI 模型开发与部署。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "AI 工具加速切入企业开发，安全与公平议题同步凸显。技术社区在追逐效率时，仍需保持透明与治理意识，避免信任透支。",
+  "keywords": [
+    "GitHub中断",
+    "爬虫争议",
+    "AI编程",
+    "Spectre",
+    "Mojo",
+    "Cloudflare",
+    "开发者工具",
+    "可用性"
+  ]
+}
