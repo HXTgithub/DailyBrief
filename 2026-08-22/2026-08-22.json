@@ -1,0 +1,54 @@
+{
+  "hero_headline": "AI Agent 生态加速，开发者治理与职业议题升温",
+  "daily_overview": "当日技术风向集中在 AI Agent 与开发者生态。Cloudflare 推出机器人偏好同步，统一管理 AI 爬虫访问；Martin Fowler 提出「公民构建、代理执行、专家治理」的新范式；阮一峰周刊聚焦程序员职业未来。GitHub Trending 上，Rust 编写的 OpenLogi 提供本地优先的罗技外设替代方案；另有研究者演示远程解锁电动滑板车漏洞，暴露物联网设备认证短板。整体看，AI 工具扩散与治理缺位并存。",
+  "tech_briefs": [
+    {
+      "title": "Cloudflare 推出机器人偏好同步功能",
+      "url": "https://blog.cloudflare.com/bot-preference-sync%20/",
+      "source": "Cloudflare Blog",
+      "summary": "新功能可自动同步 robots.txt 与 AI 搜索、代理、训练等机器人策略，站点无需分别维护规则。",
+      "importance": 8
+    },
+    {
+      "title": "Martin Fowler：公民构建、代理执行、专家治理",
+      "url": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+      "source": "Martin Fowler",
+      "summary": "作者认为周末完成原型与构建企业软件不同，AI 时代需要区分公民开发者、智能代理与领域专家，建立分层治理的软件生产模式。",
+      "importance": 9
+    },
+    {
+      "title": "阮一峰周刊探讨程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "source": "阮一峰的网络日志",
+      "summary": "周刊第 409 期围绕“AI 生成代码是否取代程序员”展开讨论，分析自动化对岗位结构的影响与工程师的长期定位。",
+      "importance": 7
+    },
+    {
+      "title": "开源项目 OpenLogi：用 Rust 替代罗技驱动",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "source": "GitHub Trending",
+      "summary": "OpenLogi 是一个用 Rust 编写的本地优先工具，可通过 HID++ 协议重映射鼠标按键、DPI 与 SmartShift，无需罗技账号或遥测，注重隐私与开源性。",
+      "importance": 5
+    },
+    {
+      "title": "研究者演示远程解锁电动滑板车漏洞",
+      "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
+      "source": "Hacker News",
+      "summary": "安全研究者公开了远程解锁电动滑板车的方法，说明部分共享出行设备的近距离通信协议缺乏认证保护，存在被越权控制的风险。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "AI 加速渗透研发全链路，工具门槛与治理需求同步上升。行业需在创新速度与责任边界间找平衡，避免“周末造产品”叙事掩盖长期工程风险。",
+  "keywords": [
+    "AI Agent",
+    "Cloudflare",
+    "开发者工具",
+    "程序员职业",
+    "开源",
+    "Rust",
+    "物联网安全",
+    "软件治理"
+  ]
+}
