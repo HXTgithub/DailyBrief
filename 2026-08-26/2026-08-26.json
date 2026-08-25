@@ -1,0 +1,54 @@
+{
+  "hero_headline": "AI 智能体生态爆发，安全与成本博弈加剧",
+  "daily_overview": "AI智能体生态加速成型：Claude推出社区插件市场，Apache孵化本地优先工作区Maka，多智能体应用延伸至金融与求职。Anthropic最强模型遭遇低价工具竞争，Cloudflare推出AI爬虫偏好同步，并重估Workers平台Spectre攻击风险，安全与成本成为行业焦点。",
+  "tech_briefs": [
+    {
+      "title": "Claude 推出社区插件市场，支持协作与代码工具",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "source": "GitHub Trending",
+      "summary": "Anthropic 官方发布 Claude 插件社区市场，供开发者提交 Claude Cowork 与 Claude Code 的扩展插件。该仓库为只读镜像，插件需通过官方目录提交，意在推动智能体生态协作。",
+      "importance": 8
+    },
+    {
+      "title": "Apache 孵化本地优先 AI 智能体工作区 Maka",
+      "url": "https://github.com/apache/maka",
+      "source": "GitHub Trending",
+      "summary": "Apache Maka（孵化中）是一款本地优先的 AI 智能体工作区，以追加式日志记录模型消息、工具调用、权限决策和终止事件，强调可审计性与可复现性，适合敏感环境部署。",
+      "importance": 7
+    },
+    {
+      "title": "Anthropic 最强模型用户增长遇冷，低价工具受青睐",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "source": "Simon Willison",
+      "summary": "报道指出 Anthropic 性能最强的 AI 模型在吸引用户方面遇到困难，更便宜的替代工具反而受到市场青睐，反映出大模型商业化面临性价比竞争压力。",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare 推出机器人偏好同步，统一 AI 爬虫策略",
+      "url": "https://blog.cloudflare.com/bot-preference-sync/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 新功能可自动将 robots.txt 与搜索、代理、训练等 AI 机器人策略对齐，无需分别维护，简化网站对 AI 爬虫的管控流程。",
+      "importance": 7
+    },
+    {
+      "title": "Cloudflare 重新评估 Workers 远程 Spectre 攻击风险",
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 公布 2024-2025 年对 Workers 基础设施的远程 Spectre 攻击再评估结果，介绍了 Spectre 小工具、远程计时器等新攻击原语，以及同驻与缓解措施。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "AI智能体正从理念走向工程化，社区生态与本地部署成为变量；安全威胁常态化，平台需在开放与管控间持续权衡。",
+  "keywords": [
+    "AI智能体",
+    "Claude插件",
+    "Apache Maka",
+    "Anthropic",
+    "Cloudflare",
+    "Spectre",
+    "机器人偏好同步",
+    "本地优先"
+  ]
+}
