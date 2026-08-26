@@ -1,0 +1,54 @@
+{
+  "hero_headline": "IBM发布下一代双架构处理器",
+  "daily_overview": "今日技术要点集中在硬件与开发工具链两大方向。IBM发布面向大型机的下一代双架构处理器，强化AI与传统负载融合；Cloudflare推出AI机器人访问策略同步机制，回应网站与爬虫的治理需求。开发者生态方面，EVE Online启动Python 3迁移、mold并行链接器论文引发讨论，GitHub Trending上的archify等AI Agent工具也持续升温。",
+  "tech_briefs": [
+    {
+      "title": "IBM发布下一代双架构处理器",
+      "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
+      "source": "Hacker News",
+      "summary": "IBM推出面向IBM Z与LinuxONE的下一代双架构处理器，兼顾传统工作负载与新兴AI需求，具体性能与规格暂未披露。",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare推出机器人偏好同步功能",
+      "url": "https://blog.cloudflare.com/bot-preference-sync/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare新的Bot Preference Sync可自动让robots.txt与针对搜索、代理、训练等场景的AI机器人策略保持一致，简化网站对爬虫访问的管理。",
+      "importance": 7
+    },
+    {
+      "title": "EVE Online启动向Python 3迁移",
+      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+      "source": "Simon Willison",
+      "summary": "大型多人在线游戏EVE Online宣布启动向Python 3的迁移。该游戏长期使用Python 2，迁移涉及大量代码与基础设施改造。",
+      "importance": 6
+    },
+    {
+      "title": "并行链接器mold发表技术论文",
+      "url": "https://arxiv.org/abs/2608.23228",
+      "source": "Hacker News",
+      "summary": "论文详细介绍mold并行链接器的设计，利用多核并行处理显著缩短大型C++项目的构建时间，并讨论其性能优势与实现要点。",
+      "importance": 6
+    },
+    {
+      "title": "archify：为AI代理生成可视化图表",
+      "url": "https://github.com/tt-a1i/archify",
+      "source": "GitHub Trending",
+      "summary": "archify是一个面向架构师的Agent技能，可生成架构、工作流、时序、数据流和生命周期等图表，输出为带动效的自包含HTML，便于验证与导出。",
+      "importance": 5
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "硬件与软件工具链同步更新，显示行业正同时推进算力升级与AI治理。IBM与Cloudflare的举措均强调现有系统向AI时代的平稳过渡，开发者工具的热度则反映出对效率与可视化的持续追求。",
+  "keywords": [
+    "IBM",
+    "双架构处理器",
+    "Cloudflare",
+    "AI机器人策略",
+    "EVE Online",
+    "Python 3",
+    "mold",
+    "archify"
+  ]
+}
