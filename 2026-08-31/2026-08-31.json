@@ -1,0 +1,47 @@
+{
+  "hero_headline": "多智能体学习与科学智能体技能库同日上线",
+  "daily_overview": "今日科技领域围绕AI Agent展开密集动作：清华大学开源多智能体交互课堂OpenMAIC，降低AI教学门槛；科学Agent技能库发布，使通用agent具备科研能力；Cloudflare通过Rust优化DNS缓存节省100TB内存，展现基础设施效率潜力；此外，LLM生成STEM讲座视频的尝试探索AI教育新形态。整体看，AI正从对话工具走向可执行复杂任务的多智能体协作阶段。",
+  "tech_briefs": [
+    {
+      "title": "OpenMAIC开源：一键搭建多智能体交互课堂",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "source": "GitHub Trending",
+      "summary": "清华大学团队开源OpenMAIC，提供沉浸式多智能体交互学习体验，用户可一键部署，用于AI教学与仿真场景。",
+      "importance": 7
+    },
+    {
+      "title": "科学Agent技能库发布：让AI化身科学家",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending",
+      "summary": "K-Dense-AI推出科学Agent技能库，包含165个验证技能和100+科学数据库，覆盖生物等领域，已被19万科学家使用，旨在将任意AI agent变成AI科学家。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare优化DNS缓存：节省100TB内存",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare通过五项Rust级内存优化，将Big Pineapple DNS缓存每条目内存占用降低56%，在整个网络中共节省约100TB内存。",
+      "importance": 8
+    },
+    {
+      "title": "Academa：LLM生成STEM长篇讲座视频",
+      "url": "https://academa.ai/",
+      "source": "Hacker News",
+      "summary": "两位博士生推出Academa，将讲座视频视为代码，利用LLM和计算机图形学编译成视频，可生成长篇STEM教学视频。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "AI Agent从概念走向落地，开源生态和基础设施优化同步推进。需要关注此类工具的可控性与真实性，避免过度宣传。",
+  "keywords": [
+    "AI Agent",
+    "多智能体",
+    "开源",
+    "科学计算",
+    "DNS优化",
+    "AI教育",
+    "大模型",
+    "智能体技能库"
+  ]
+}
