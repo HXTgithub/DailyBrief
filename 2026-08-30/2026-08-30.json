@@ -1,0 +1,54 @@
+{
+  "hero_headline": "Claude Code自动模式被破解 引发AI安全讨论",
+  "daily_overview": "AI Agent生态持续升温：开发者演示破解Claude Code Opus 5自动模式，引发对代理安全边界的讨论；科学Agent技能库与数据准备指南同期发布。与此同时，Cloudflare通过内存优化节省100TB，海洋温度创纪录与Flock监控滥用调查亦受关注。",
+  "tech_briefs": [
+    {
+      "title": "全球海洋温度创新高 强厄尔尼诺形成",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "source": "Hacker News",
+      "summary": "今年全球海洋温度达到有记录以来最高值，同时强大的厄尔尼诺正在形成。气候科学家警告极端天气风险或将显著上升。",
+      "importance": 8
+    },
+    {
+      "title": "美媒调查揭Flock摄像头滥用与隐秘资金",
+      "url": "https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/",
+      "source": "Hacker News",
+      "summary": "华盛顿邮报与德州论坛分别调查发现，多州警方违规使用Flock车牌识别摄像头，部分项目资金来自车险保单附加费，相关警局此前并不知情。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare优化DNS缓存释放100TB内存",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare对1.1.1.1 DNS缓存进行五项Rust级内存优化，每条目内存占用减少56%，整个网络累计释放约100TB内存。",
+      "importance": 7
+    },
+    {
+      "title": "开发者演示破解Claude Code自动模式",
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "source": "Simon Willison",
+      "summary": "技术作者Simon Willison发布演示，突破Claude Code Opus 5的自动模式限制，引发对AI代理权限边界与安全设计的讨论。",
+      "importance": 8
+    },
+    {
+      "title": "开源科学Agent技能库服务19万科研人员",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending",
+      "summary": "K-Dense-AI发布scientific-agent-skills，内置165个经学术验证的Agent技能及100多个科学数据库，可将任意AI代理转化为科研助手。该项目登上GitHub Trending，显示科研自动化需求旺盛。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "AI Agent从能力展示转向真实部署，安全边界与数据基础成为关键议题；监控技术滥用案例则提醒，技术落地后的监督和透明度不可或缺。",
+  "keywords": [
+    "AI Agent",
+    "Claude Code",
+    "海洋温度",
+    "厄尔尼诺",
+    "Flock监控",
+    "DNS缓存",
+    "内存优化",
+    "开源"
+  ]
+}
