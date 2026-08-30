@@ -6,140 +6,140 @@
       "title": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "excerpt": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "meta": "JavaScript · ★ 31,038 · 🍴 1,933 · 📈 3,902 stars today",
+      "meta": "JavaScript · ★ 31,077 · 🍴 1,935 · 📈 3,902 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI agent 的绘图技能包，用于生成架构、工作流、时序、数据流和生命周期等图表。输出自带动效、可验证的独立 HTML 文件，支持高清导出，方便 agent 在代码库中快速产出可视化文档。"
+      "summary": "为 AI agent 提供绘图技能，生成架构图、流程图、时序图、数据流与生命周期图；输出自包含 HTML，支持动效与清晰导出，可用于系统设计文档与架构评审，确保图表可验证。"
     },
     {
       "sourceId": "github-trending",
       "title": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "excerpt": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "meta": "JavaScript · ★ 12,617 · 🍴 2,497 · 📈 1,855 stars today",
+      "meta": "JavaScript · ★ 12,635 · 🍴 2,501 · 📈 1,855 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "在浏览器里模拟间谍卫星视角，基于真实开源空间数据，在照片级 3D 地球上展示实时目标与地理信息。适合地理空间分析、态势感知演示和数据可视化爱好者，无需卫星即可体验卫星侦察与开源情报（OSINT）工作流。"
+      "summary": "浏览器中的间谍卫星模拟器，但数据真实。基于开源空间情报数据，在逼真 3D 地球上实时可视化卫星观测，适合地理空间数据探索与卫星态势感知。"
     },
     {
       "sourceId": "github-trending",
       "title": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "excerpt": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigrav",
-      "meta": "Python · ★ 37,936 · 🍴 3,573 · 📈 1,587 stars today",
+      "meta": "Python · ★ 37,949 · 🍴 3,574 · 📈 1,587 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向科研场景的 Agent Skills 技能库，可将任意 AI agent 变成“AI 科学家”，已被全球 19 万+科研人员使用。内置 165 个已验证技能和 100+ 科学数据库，覆盖生物等学科，可自动化文献分析、实验设计与数据处理流程。"
+      "summary": "把任意 AI agent 变成 AI 科学家的技能库，包含 165 个验证过的科研技能与 100+ 科学数据库，覆盖生物等领域，供研究人员快速搭建实验、分析数据的智能工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "tailscale/tailcat",
       "url": "https://github.com/tailscale/tailcat",
       "excerpt": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "meta": "Go · ★ 3,482 · 🍴 103 · 📈 789 stars today",
+      "meta": "Go · ★ 3,493 · 🍴 104 · 📈 789 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "类似 netcat 的网络工具，但直接走 Tailscale 数据面，不经过其控制平面。可在已建立 Tailscale 网络的设备间快速收发数据、测试端口或搭建临时通道，适合调试端到端连通性、传输文件和执行远程命令等场景。"
+      "summary": "类似 netcat 的网络工具，但通过 Tailscale 数据面传输，不依赖其控制面。适合在 Tailscale 节点间快速建立加密通道、传输数据或调试服务，无需额外配置控制服务器。"
     },
     {
       "sourceId": "github-trending",
       "title": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "excerpt": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "meta": "TypeScript · ★ 22,216 · 🍴 4,306 · 📈 907 stars today",
+      "meta": "TypeScript · ★ 22,249 · 🍴 4,309 · 📈 907 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源多智能体交互式课堂，一键启动沉浸式学习体验。通过多个 AI agent 模拟教学场景，支持课堂互动与协作学习，适用于教师开展基于多智能体的课程演示、学生自主探索和 AI 辅助教学场景。"
+      "summary": "开源多智能体交互课堂，一键启动沉浸式多 agent 学习环境。面向 AI 教育场景，让学习者与多个智能体互动，适用于课堂教学、自学与实验演示，降低多智能体系统搭建门槛。"
     },
     {
       "sourceId": "github-trending",
       "title": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "excerpt": "Fully automatic censorship removal for language models",
-      "meta": "Python · ★ 28,691 · 🍴 3,163 · 📈 150 stars today",
+      "meta": "Python · ★ 28,699 · 🍴 3,163 · 📈 150 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自动化移除语言模型内置审查限制的工具，无需人工配置即可让模型摆脱内容过滤。主要面向本地部署或可控环境下的研究者与开发者，用于测试模型真实能力、分析对齐策略或开展安全研究。"
+      "summary": "一个全自动移除语言模型内容审查（censorship）的工具，主要面向安全研究人员，用于分析模型的对齐机制、审查策略与潜在风险，需严格在合规与法律框架内使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "bigskysoftware/htmx",
       "url": "https://github.com/bigskysoftware/htmx",
       "excerpt": "</> htmx - high power tools for HTML",
-      "meta": "JavaScript · ★ 49,115 · 🍴 1,640 · 📈 32 stars today",
+      "meta": "JavaScript · ★ 49,119 · 🍴 1,640 · 📈 32 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个轻量级前端库，通过在 HTML 标签上使用属性即可实现 AJAX、CSS 过渡、WebSocket 和服务器发送事件等交互能力，无需手写 JavaScript。适合偏好服务端渲染和超媒体架构的开发者，用来快速构建动态网页应用。"
+      "summary": "htmx 是 HTML 扩展库，通过在属性中直接声明 AJAX、CSS 过渡、WebSocket 等行为，无需编写 JavaScript 即可构建动态交互页面。适合后端开发者快速实现现代前端体验，保持服务端渲染架构。"
     },
     {
       "sourceId": "github-trending",
       "title": "JetBrains/go-modern-guidelines",
       "url": "https://github.com/JetBrains/go-modern-guidelines",
       "excerpt": "Help AI coding agents write modern Go",
-      "meta": "Go · ★ 2,869 · 🍴 81 · 📈 303 stars today",
+      "meta": "Go · ★ 2,871 · 🍴 81 · 📈 303 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "JetBrains 推出的 Go 开发指南，专门帮助 AI 编码代理写出符合现代实践的 Go 代码。涵盖项目结构、并发、错误处理、性能等规范，适用于使用 Cursor、Copilot 等 AI 工具进行 Go 开发的团队，可显著减少代码审查返工。"
+      "summary": "JetBrains 出品的 Go 现代编码指南，面向 AI 编程 agent，提供规范、模式与最佳实践，帮助它们生成符合现代 Go 风格、可维护且高效的代码。适合使用 AI 辅助 Go 开发的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "excerpt": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "meta": "Python · ★ 73,919 · 🍴 8,469 · 📈 73 stars today",
+      "meta": "Python · ★ 73,922 · 🍴 8,470 · 📈 73 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "精选的 Claude Skills 资源清单，汇总高质量技能、工具和相关项目，帮助用户定制 Claude 工作流。适合 Anthropic Claude 应用开发者、提示词工程师和自动化爱好者，能快速找到社区最佳实践并扩展 Claude 的能力边界。"
+      "summary": "精选 Claude Skills 资源列表，收录用于定制 Claude AI 工作流的技能、工具与资料。开发者可按需挑选插件，扩展 Claude 在编码、自动化、数据分析等场景的能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "excerpt": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "meta": "Python · ★ 54,060 · 🍴 6,714 · 📈 806 stars today",
+      "meta": "Python · ★ 54,068 · 🍴 6,714 · 📈 806 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源智能体视频制作系统，宣称是同类首个。内置 12 条生产流程、100+ 工具和 700+ agent 技能/制作知识文件，能把 AI 编程助手变成完整视频制作团队。适合自动化生成脚本、剪辑、后期等视频生产流程，覆盖从创意到成片的端到端制作。"
+      "summary": "开源智能体视频制作系统，提供 12 条制作流程、100+ 工具和 700+ 技能/制作知识文件，可将 AI 编程助手变成完整视频制作团队，适用于自动化剪辑、生成、后期等视频生产场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "excerpt": "Open source alternative to Semrush and Ahrefs",
-      "meta": "TypeScript · ★ 14,639 · 🍴 1,756 · 📈 517 stars today",
+      "meta": "TypeScript · ★ 14,645 · 🍴 1,756 · 📈 517 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源 SEO 工具，定位为 Semrush、Ahrefs 的替代品。支持自托管部署，用来自主掌控网站 SEO 数据、关键词表现和竞品情况，适合预算有限或注重数据隐私的独立站运营者与营销团队。"
+      "summary": "开源的 SEO 工具，定位为 Semrush 和 Ahrefs 的替代方案。提供关键词研究、排名跟踪、外链分析与站点审计等功能，面向 SEO 从业者与站长，数据自托管，避免商业 SaaS 的订阅成本。"
     },
     {
       "sourceId": "github-trending",
       "title": "Osmantic/ODS",
       "url": "https://github.com/Osmantic/ODS",
       "excerpt": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "meta": "Python · ★ 4,909 · 🍴 741 · 📈 35 stars today",
+      "meta": "Python · ★ 4,917 · 🍴 741 · 📈 35 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "把 PC、Mac 或 Linux 设备变成一台功能完整的 AI 服务器，支持本地 LLM 推理、聊天界面、语音交互、Agent、工作流、RAG 检索增强生成和图像生成。适合想完全本地化运行 AI 服务、保护隐私或低成本搭建私有 AI 基础设施的个人和团队。"
+      "summary": "把 PC、Mac 或 Linux 设备变成 AI 服务器，集成 LLM 推理、聊天 UI、语音、Agent、工作流、RAG 与图像生成。适合个人或小团队本地部署私有 AI 服务，保护数据并降低 API 成本。"
     },
     {
       "sourceId": "github-trending",
       "title": "abi/screenshot-to-code",
       "url": "https://github.com/abi/screenshot-to-code",
       "excerpt": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "meta": "Python · ★ 76,038 · 🍴 9,261 · 📈 550 stars today",
+      "meta": "Python · ★ 76,039 · 🍴 9,261 · 📈 550 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "把 UI 截图一键转换为干净的前端代码，支持 HTML/Tailwind/React/Vue 等多种技术栈。适合设计师和前端开发者，能快速将设计稿或竞品界面变成可运行的页面代码，同时保留原始布局与视觉细节。"
+      "summary": "将截图自动转换为整洁的前端代码，支持 HTML/Tailwind/React/Vue。利用 AI 视觉识别界面布局与样式，快速生成可运行代码，适合设计师与开发者快速原型或还原设计稿。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "excerpt": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "meta": "Python · ★ 35,402 · 🍴 3,958 · 📈 358 stars today",
+      "meta": "Python · ★ 35,407 · 🍴 3,958 · 📈 358 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件，方便开发者发现、安装和管理用于 Claude Code 的扩展能力。借助该目录可以快速为 Claude Code 接入工具链，扩展其在编码、自动化等场景下的功能。"
+      "summary": "Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件，扩展 Claude 在代码分析、自动化任务、工具集成等方面的能力。开发者可通过官方渠道发现并安装经过验证的插件，提升开发工作流。"
     },
     {
       "sourceId": "github-trending",
@@ -149,7 +149,7 @@
       "meta": "C++ · ★ 39,320 · 🍴 10,878 · 📈 128 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google 开源的 C++ 测试与 Mock 框架，提供单元测试、断言宏、测试固件、死亡测试、参数化测试和 mock 对象等功能。广泛用于 C++ 项目的测试驱动开发和持续集成，是 C++ 社区最常用的测试框架之一。"
+      "summary": "Google 开源的 C++ 测试与模拟框架，支持单元测试、断言、测试夹具及 mock 对象。广泛用于 C++ 项目的自动化测试，兼容多种构建系统，是业界标准的测试工具之一。"
     },
     {
       "sourceId": "github-trending",
@@ -159,147 +159,177 @@
       "meta": "TypeScript · ★ 8,803 · 🍴 2,756 · 📈 5 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub Actions 官方工作流动作，用于在 CI/CD 任务中把仓库代码检出到运行环境中。支持指定分支、ref、fetch-depth 和 token 等参数，是绝大多数 GitHub Actions 工作流的第一步，常配合后续构建、测试和部署步骤使用。"
+      "summary": "GitHub Actions 官方动作，用于在 workflow 中检出仓库代码到运行环境。支持指定分支、标签、提交及子模块，是几乎所有 CI/CD 工作流的第一步，用以获取源码并执行后续构建与测试任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "kaifcodec/user-scanner",
       "url": "https://github.com/kaifcodec/user-scanner",
       "excerpt": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
-      "meta": "Python · ★ 3,542 · 🍴 408 · 📈 39 stars today",
+      "meta": "Python · ★ 3,557 · 🍴 409 · 📈 39 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "二合一 OSINT 侦察套件，仅凭邮箱或用户名就能自动执行深度数据提取。内置 455+ 个实时维护的扫描向量（175+ 邮箱、280+ 用户名），适用于安全研究、威胁情报调查和数字足迹分析，可帮助调查人员快速梳理公开信息。"
+      "summary": "邮件与用户名 OSINT 侦查套件，仅凭单个邮箱或用户名即可执行深度数据提取，支持 175+ 邮箱和 280+ 用户名扫描向量，共 455+。面向安全研究人员进行威胁情报收集与账户暴露面分析。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 90,709 · 🍴 9,709 · 📈 196 stars today",
+      "meta": "JavaScript · ★ 90,712 · 🍴 9,710 · 📈 196 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "由 Addy Osmani 维护的生产级工程技能集，为 AI 编码代理提供工程实践指南和高质量代码生成规范，帮助 agent 在真实项目中写出更可靠、可维护的代码，并减少人工审查成本。"
+      "summary": "为 AI 编程代理提供生产级工程技能，涵盖代码审查、测试、性能优化等场景。帮助 agent 遵循工程最佳实践，生成更可靠、可维护的代码，适合将 AI 集成到正式开发流程的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "workweave/router",
       "url": "https://github.com/workweave/router",
       "excerpt": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-      "meta": "Go · ★ 2,712 · 🍴 77 · 📈 284 stars today",
+      "meta": "Go · ★ 2,716 · 🍴 77 · 📈 284 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向智能体系统的模型路由器，能在 50ms 内将每个 prompt 路由到最合适的 LLM。只需修改 endpoint 即可接入，可将模型调用成本降低 40-70%，同时平衡响应质量、速度与价格，适合多模型 AI 应用与大规模 Agent 工作流。"
+      "summary": "面向智能体系统的模型路由器，在 50ms 内将每个 prompt 分配到最合适的模型，仅需更换 endpoint 即可降低 40-70% 成本。适合多模型应用的开发者，平衡响应质量与 API 开销。"
     },
     {
       "sourceId": "hackernews",
       "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
       "url": "https://github.com/Lakr233/vphone-cli",
-      "excerpt": "376 points · 101 comments",
+      "excerpt": "378 points · 101 comments",
       "publishedAt": "2026-08-28T23:02:21.000Z",
       "category": "tech",
-      "score": 376,
+      "score": 378,
       "source": "Hacker News",
-      "summary": "开源工具vphone-cli通过Apple的Virtualization.framework在Mac上实现虚拟iPhone启动，让开发者无需实体设备即可运行和测试iOS应用，并支持命令行操作。"
+      "summary": "vphone-cli项目利用Apple Virtualization.framework在苹果设备上启动虚拟iPhone，允许用户在虚拟机中运行iOS系统，引发开发者兴趣。"
     },
     {
       "sourceId": "hackernews",
       "title": "Tether: iMessage, SMS, etc. on Linux",
       "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "excerpt": "304 points · 128 comments",
+      "excerpt": "314 points · 130 comments",
       "publishedAt": "2026-08-24T05:09:23.000Z",
       "category": "tech",
-      "score": 304,
+      "score": 314,
       "source": "Hacker News",
-      "summary": "Tether项目让Linux用户能够使用iMessage和SMS等消息服务，通过桥接实现跨平台通信，解决Linux下无法原生使用苹果消息的问题。"
+      "summary": "Tether项目旨在让Linux系统原生支持iMessage、短信等消息服务，解决跨平台通信难题，引发开发者讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "EVE Online moves to Python 3",
       "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "excerpt": "294 points · 152 comments",
+      "excerpt": "296 points · 152 comments",
       "publishedAt": "2026-08-25T13:04:55.000Z",
       "category": "tech",
-      "score": 294,
+      "score": 296,
       "source": "Hacker News",
-      "summary": "EVE Online宣布正式启动向Python 3的迁移项目，这一长期维护的大型游戏将逐步替换旧版Python 2代码，以提升运行性能与兼容性。"
+      "summary": "EVE Online宣布开始迁移至Python 3，涉及大量代码库和工具链升级，引发开发者关于大规模迁移的讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
       "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-      "excerpt": "269 points · 43 comments",
+      "excerpt": "277 points · 43 comments",
       "publishedAt": "2026-08-29T18:44:37.000Z",
       "category": "tech",
-      "score": 269,
+      "score": 277,
       "source": "Hacker News",
-      "summary": "美国国土安全部（DHS）被曝利用一项冷门法律调取记者、非营利组织和工会的通信记录，引发对隐私和新闻自由的担忧。"
+      "summary": "美国国土安全部（DHS）利用一项鲜为人知的法律，调取记者、非营利组织和工会的记录，引发隐私及言论自由担忧。"
     },
     {
       "sourceId": "hackernews",
-      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-      "excerpt": "252 points · 119 comments",
-      "publishedAt": "2026-08-29T15:26:28.000Z",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "excerpt": "275 points · 73 comments",
+      "publishedAt": "2026-08-28T23:27:45.000Z",
       "category": "tech",
-      "score": 252,
+      "score": 275,
       "source": "Hacker News",
-      "summary": "GrapheneOS项目表示，Pixel 11不再支持硬件内存标记（MTE），这一变化削弱了内存安全防护能力，并引发安全社区广泛关注。"
+      "summary": "作者意外发现LLM内存机制可应用于程序分析，探索将大型语言模型的记忆能力转化为代码分析工具的新路径。"
     },
     {
       "sourceId": "hackernews",
       "title": "Glacier Mice",
       "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-      "excerpt": "248 points · 48 comments",
+      "excerpt": "250 points · 48 comments",
       "publishedAt": "2026-08-24T18:58:13.000Z",
       "category": "tech",
-      "score": 248,
+      "score": 250,
       "source": "Hacker News",
-      "summary": "冰川老鼠（Glacier Mice）是冰川表面由苔藓形成的球状集合体，会成群移动，其移动机制和生态作用引发研究兴趣。"
+      "summary": "维基百科词条介绍冰川老鼠——由苔藓聚集形成的球状体，能在冰川表面集体移动，成因奇特，引发探索兴趣。"
     },
     {
       "sourceId": "hackernews",
       "title": "Samsung's Processing-in-Memory (PIM)",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "excerpt": "242 points · 91 comments",
+      "excerpt": "243 points · 92 comments",
       "publishedAt": "2026-08-29T06:06:51.000Z",
       "category": "tech",
-      "score": 242,
+      "score": 243,
       "source": "Hacker News",
-      "summary": "Hot Chips 2026上，三星展示了其存内处理（PIM）技术，将计算单元集成到内存中，以减少数据搬运开销，提升AI等计算负载的性能。"
+      "summary": "Hot Chips 2026大会上，三星展示了Processing-in-Memory（PIM）技术，将处理单元集成进内存，以减少数据搬运瓶颈、提升能效。"
     },
     {
       "sourceId": "hackernews",
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "excerpt": "223 points · 49 comments",
+      "excerpt": "230 points · 52 comments",
       "publishedAt": "2026-08-29T17:19:47.000Z",
       "category": "tech",
-      "score": 223,
+      "score": 230,
       "source": "Hacker News",
-      "summary": "文章认为，良好的文化是最大的生产力提升手段，而非AI；组织信任、心理安全和协作机制比技术更能驱动效率。"
+      "summary": "文章提出良好的团队文化才是最大的生产力提升因素，而非AI工具，强调工程管理中文化建设的重要性。"
     },
     {
       "sourceId": "hackernews",
-      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "excerpt": "203 points · 58 comments",
+      "publishedAt": "2026-08-29T01:24:13.000Z",
+      "category": "tech",
+      "score": 203,
+      "source": "Hacker News",
+      "summary": "StemDeck是一款免费、开源的本地AI音轨分离工具，能够在本地将歌曲拆分成人声、鼓、贝斯等独立音轨。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Hy4 preview",
       "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "excerpt": "163 points · 100 comments",
+      "excerpt": "171 points · 106 comments",
       "publishedAt": "2026-08-29T19:33:23.000Z",
       "category": "tech",
-      "score": 163,
+      "score": 171,
       "source": "Hacker News",
-      "summary": "腾讯发布了Tencent Hy4预览版并宣布开源，开发者可提前体验新特性并参与改进，相关细节以官方文档为准。"
+      "summary": "腾讯发布并开源了Hy4预览版，目前公开的技术细节有限，开发者社区正在热议其功能定位、性能表现和潜在应用场景。"
     },
     {
       "sourceId": "hackernews",
       "title": "SQLite as a Document Database (2020)",
       "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "excerpt": "159 points · 43 comments",
+      "excerpt": "164 points · 43 comments",
       "publishedAt": "2026-08-24T23:00:10.000Z",
       "category": "tech",
-      "score": 159,
-      "source": "Hacker News",
-      "summary": "文章介绍了如何将SQLite用作文档数据库，利用其JSON扩展和查询能力，在轻量应用中替代传统NoSQL方案，实现结构化数据管理。"
+      "score": 164,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "excerpt": "https:&#x2F;&#x2F;nextspaceflight.com&#x2F;launches&#x2F;details&#x2F;6983&#x2F;https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grac...https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nancy_Grace_Roman",
+      "publishedAt": "2026-08-29T15:48:02.000Z",
+      "category": "tech",
+      "score": 112,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "excerpt": "97 points · 40 comments",
+      "publishedAt": "2026-08-29T17:39:18.000Z",
+      "category": "tech",
+      "score": 97,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
@@ -308,75 +338,65 @@
       "excerpt": "Hey HN!I built Typebase, a library that gives you Convex&#x27;s DX with Supabase&#x27;s openness.After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn&#x27;t like using RLS and SQL for authorization. With Convex I loved how your server &quot;lives&quot; in your code,",
       "publishedAt": "2026-08-26T11:33:31.000Z",
       "category": "tech",
-      "score": 95,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "url": "https://tucker.wales/writing/bias-towards-action/",
-      "excerpt": "93 points · 38 comments",
-      "publishedAt": "2026-08-29T17:39:18.000Z",
-      "category": "tech",
-      "score": 93,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "vLLM v0.28.0",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-      "excerpt": "91 points · 31 comments",
-      "publishedAt": "2026-08-29T18:22:00.000Z",
-      "category": "tech",
-      "score": 91,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Creating the Aetheryte Radio",
-      "url": "https://haz.ee/posts/aetheryte-radio.html",
-      "excerpt": "66 points · 12 comments",
-      "publishedAt": "2026-08-28T14:59:15.000Z",
-      "category": "tech",
-      "score": 66,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "url": "https://uecker.codeberg.page/2026-08-29.html",
-      "excerpt": "64 points · 39 comments",
-      "publishedAt": "2026-08-29T14:20:33.000Z",
-      "category": "tech",
-      "score": 64,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Quantifying Colour",
-      "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-      "excerpt": "63 points · 6 comments",
-      "publishedAt": "2026-08-29T15:43:53.000Z",
-      "category": "tech",
-      "score": 63,
+      "score": 96,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
       "url": "https://defrag98.com",
-      "excerpt": "59 points · 27 comments",
+      "excerpt": "73 points · 39 comments",
       "publishedAt": "2026-08-29T22:51:17.000Z",
       "category": "tech",
-      "score": 59,
+      "score": 73,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
-      "excerpt": "56 points · 8 comments",
-      "publishedAt": "2026-08-28T18:53:48.000Z",
+      "title": "I co-founded Burning Man. The festival has lost its soul",
+      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+      "excerpt": "67 points · 37 comments",
+      "publishedAt": "2026-08-29T23:12:25.000Z",
+      "category": "tech",
+      "score": 67,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Creating the Aetheryte Radio",
+      "url": "https://haz.ee/posts/aetheryte-radio.html",
+      "excerpt": "67 points · 13 comments",
+      "publishedAt": "2026-08-28T14:59:15.000Z",
+      "category": "tech",
+      "score": 67,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "excerpt": "65 points · 39 comments",
+      "publishedAt": "2026-08-29T14:20:33.000Z",
+      "category": "tech",
+      "score": 65,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Quantifying Colour",
+      "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+      "excerpt": "64 points · 7 comments",
+      "publishedAt": "2026-08-29T15:43:53.000Z",
+      "category": "tech",
+      "score": 64,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "What we want is a hunter gatherer lifestyle with space age tools",
+      "url": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+      "excerpt": "56 points · 51 comments",
+      "publishedAt": "2026-08-29T20:53:56.000Z",
       "category": "tech",
       "score": 56,
       "source": "Hacker News"
@@ -385,118 +405,98 @@
       "sourceId": "hackernews",
       "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
       "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-      "excerpt": "52 points · 7 comments",
+      "excerpt": "53 points · 7 comments",
       "publishedAt": "2026-08-25T03:26:09.000Z",
       "category": "tech",
-      "score": 52,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "I co-founded Burning Man. The festival has lost its soul",
-      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
-      "excerpt": "43 points · 29 comments",
-      "publishedAt": "2026-08-29T23:12:25.000Z",
-      "category": "tech",
-      "score": 43,
+      "score": 53,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Domain-Driven Agents",
       "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "excerpt": "37 points · 6 comments",
+      "excerpt": "40 points · 6 comments",
       "publishedAt": "2026-08-29T19:28:28.000Z",
       "category": "tech",
-      "score": 37,
+      "score": 40,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
       "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-      "excerpt": "37 points · 4 comments",
+      "excerpt": "40 points · 5 comments",
       "publishedAt": "2026-08-29T19:01:09.000Z",
       "category": "tech",
-      "score": 37,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Recovering Corrupt Zip Files",
-      "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
-      "excerpt": "30 points · 6 comments",
-      "publishedAt": "2026-08-26T13:14:46.000Z",
-      "category": "tech",
-      "score": 30,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-      "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
-      "excerpt": "27 points · 4 comments",
-      "publishedAt": "2026-08-29T16:24:21.000Z",
-      "category": "tech",
-      "score": 27,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "A safe MySQL upgrade that wasn't so safe",
-      "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-      "excerpt": "27 points · 4 comments",
-      "publishedAt": "2026-08-29T19:15:51.000Z",
-      "category": "tech",
-      "score": 27,
+      "score": 40,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
       "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
-      "excerpt": "20 points · 2 comments",
+      "excerpt": "39 points · 7 comments",
       "publishedAt": "2026-08-29T23:26:44.000Z",
       "category": "tech",
-      "score": 20,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Police departments weren’t looking for Flock abuse. We did it for them.",
-      "url": "https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/",
-      "excerpt": "11 points · 2 comments",
-      "publishedAt": "2026-08-29T23:22:42.000Z",
-      "category": "tech",
-      "score": 11,
+      "score": 39,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
       "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "excerpt": "11 points · 2 comments",
+      "excerpt": "33 points · 4 comments",
       "publishedAt": "2026-08-29T23:17:17.000Z",
       "category": "tech",
-      "score": 11,
+      "score": 33,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "The Finn – an agent that lives in my router and complains about it",
-      "url": "https://github.com/YuriKovalov22/the-finn",
-      "excerpt": "10 points · 2 comments",
-      "publishedAt": "2026-08-28T13:38:30.000Z",
+      "title": "Recovering Corrupt Zip Files",
+      "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
+      "excerpt": "31 points · 7 comments",
+      "publishedAt": "2026-08-26T13:14:46.000Z",
       "category": "tech",
-      "score": 10,
+      "score": 31,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+      "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+      "excerpt": "29 points · 5 comments",
+      "publishedAt": "2026-08-29T16:24:21.000Z",
+      "category": "tech",
+      "score": 29,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A safe MySQL upgrade that wasn't so safe",
+      "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+      "excerpt": "29 points · 4 comments",
+      "publishedAt": "2026-08-29T19:15:51.000Z",
+      "category": "tech",
+      "score": 29,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The Wandering Yamamura Theater Troupe",
       "url": "https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/",
-      "excerpt": "5 points · 0 comments",
+      "excerpt": "6 points · 0 comments",
       "publishedAt": "2026-08-27T14:13:15.000Z",
+      "category": "tech",
+      "score": 6,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Is it safe to call print in a Python signal handler?",
+      "url": "https://iafisher.com/2026/08/sigprint",
+      "excerpt": "5 points · 0 comments",
+      "publishedAt": "2026-08-26T14:53:41.000Z",
       "category": "tech",
       "score": 5,
       "source": "Hacker News"
