@@ -1,0 +1,53 @@
+{
+  "hero_headline": "Chrome 全面移除 MV2 扩展，uBlock Origin 在列",
+  "daily_overview": "今日技术动态聚焦浏览器扩展生态与 AI 基础设施。谷歌从 Chrome 应用商店移除全部 Manifest V2 扩展，uBlock Origin 等广告拦截工具受影响，开发者须加速迁移至 MV3。Cloudflare 同日发布自适应智能反机器人引擎，并宣布通过优化 DNS 缓存节省约 100TB 内存。AI 领域，Martin Fowler 强调数据治理是智能体 AI 落地的关键，多个开源智能体项目引发关注。",
+  "tech_briefs": [
+    {
+      "title": "谷歌移除 Chrome 商店 MV2 扩展，uBlock Origin 在列",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "source": "Hacker News",
+      "summary": "Google 已从 Chrome 应用商店移除全部 Manifest V2 扩展，包括知名广告拦截工具 uBlock Origin。现有 MV2 扩展将逐步停止支持，开发者需迁移至 MV3。",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare 推出自适应智能反机器人引擎",
+      "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 推出 Adaptive Intelligence 引擎，用动态行为分析取代静态规则，使机器人攻击者难以通过更换代理和工具绕过检测，扭转攻防成本优势。",
+      "importance": 7
+    },
+    {
+      "title": "Cloudflare 优化 DNS 缓存节省 100TB 内存",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 对其 1.1.1.1 DNS 缓存布局实施五项 Rust 级内存优化，单条目内存占用下降 56%，全球节省约 100TB 内存。",
+      "importance": 7
+    },
+    {
+      "title": "Martin Fowler：为智能体 AI 准备数据",
+      "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "source": "Martin Fowler",
+      "summary": "Martin Fowler 撰文指出，智能体 AI 的效果取决于底层数据质量。企业需提前完成数据组织、清洗和治理，才能让 AI 智能体安全可靠地落地。",
+      "importance": 6
+    },
+    {
+      "title": "科学智能体技能库 scientific-agent-skills 开源",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending",
+      "summary": "K-Dense-AI 推出科学技能库 scientific-agent-skills，包含 165 个经过验证的技能与 100 多个科学数据库，可将任意 AI 智能体变为 AI 科学家，覆盖生物、化学等研究场景。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "Chrome 移除 MV2 是平台安全升级的必然，但 uBlock Origin 的处境反映出浏览器扩展生态的脆弱性，厂商需兼顾安全与用户选择。",
+  "keywords": [
+    "Chrome MV2",
+    "uBlock Origin",
+    "Cloudflare",
+    "智能体 AI",
+    "DNS 缓存优化",
+    "数据治理",
+    "开源智能体"
+  ]
+}
