@@ -1,53 +1,45 @@
 {
-  "hero_headline": "Chrome 全面移除 MV2 扩展，uBlock Origin 在列",
-  "daily_overview": "今日技术动态聚焦浏览器扩展生态与 AI 基础设施。谷歌从 Chrome 应用商店移除全部 Manifest V2 扩展，uBlock Origin 等广告拦截工具受影响，开发者须加速迁移至 MV3。Cloudflare 同日发布自适应智能反机器人引擎，并宣布通过优化 DNS 缓存节省约 100TB 内存。AI 领域，Martin Fowler 强调数据治理是智能体 AI 落地的关键，多个开源智能体项目引发关注。",
+  "hero_headline": "Cloudflare 推出自适应智能，全面反制机器人攻击",
+  "daily_overview": "今日科技核心聚焦 AI 代理（Agent）生态的快速扩张与安全博弈。Cloudflare 发布 Adaptive Intelligence 引擎，意在打破机器人攻击方的经济优势，同时 BotBase 目录开放运营方声明。开源侧，AI 科学家技能库 scientific-agent-skills 在 GitHub 持续走热，提供 165 个验证技能与上百个科研数据库。工程方面，Cloudflare 通过 Rust 级内存优化，为 1.1.1.1 的 DNS 缓存节省约 100 TB 内存。研究诚信领域，一篇高影响力拖延症论文被指存在数据欺诈。",
   "tech_briefs": [
     {
-      "title": "谷歌移除 Chrome 商店 MV2 扩展，uBlock Origin 在列",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "source": "Hacker News",
-      "summary": "Google 已从 Chrome 应用商店移除全部 Manifest V2 扩展，包括知名广告拦截工具 uBlock Origin。现有 MV2 扩展将逐步停止支持，开发者需迁移至 MV3。",
+      "title": "Cloudflare 推出自适应智能引擎与 BotBase 目录",
+      "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 发布 Adaptive Intelligence，以动态检测扭转机器人攻击的经济优势；同时更新 BotBase 目录，供机器人运营方声明行为、跟踪提交状态。",
       "importance": 9
     },
     {
-      "title": "Cloudflare 推出自适应智能反机器人引擎",
-      "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
-      "source": "Cloudflare Blog",
-      "summary": "Cloudflare 推出 Adaptive Intelligence 引擎，用动态行为分析取代静态规则，使机器人攻击者难以通过更换代理和工具绕过检测，扭转攻防成本优势。",
-      "importance": 7
-    },
-    {
-      "title": "Cloudflare 优化 DNS 缓存节省 100TB 内存",
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "source": "Cloudflare Blog",
-      "summary": "Cloudflare 对其 1.1.1.1 DNS 缓存布局实施五项 Rust 级内存优化，单条目内存占用下降 56%，全球节省约 100TB 内存。",
-      "importance": 7
-    },
-    {
-      "title": "Martin Fowler：为智能体 AI 准备数据",
-      "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
-      "source": "Martin Fowler",
-      "summary": "Martin Fowler 撰文指出，智能体 AI 的效果取决于底层数据质量。企业需提前完成数据组织、清洗和治理，才能让 AI 智能体安全可靠地落地。",
-      "importance": 6
-    },
-    {
-      "title": "科学智能体技能库 scientific-agent-skills 开源",
+      "title": "AI 科学家技能库火爆 GitHub，提供 165 项科研技能",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "source": "GitHub Trending",
-      "summary": "K-Dense-AI 推出科学技能库 scientific-agent-skills，包含 165 个经过验证的技能与 100 多个科学数据库，可将任意 AI 智能体变为 AI 科学家，覆盖生物、化学等研究场景。",
-      "importance": 6
+      "summary": "该项目将任意 AI 代理转化为「AI 科学家」，内置 165 个经验证的技能与 100+ 科学数据库，覆盖生物等领域，已有 19 万科学家使用。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 优化 DNS 缓存，节省约 100 TB 内存",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source": "Cloudflare Blog",
+      "summary": "通过五项 Rust 级内存优化，Cloudflare 将 1.1.1.1 DNS 缓存每条目占用降低 56%，在全网释放约 100 TB 内存。",
+      "importance": 7
+    },
+    {
+      "title": "高影响力拖延症研究被指存在数据欺诈",
+      "url": "https://datacolada.org/138",
+      "source": "Hacker News",
+      "summary": "Data Colada 发布分析，指一篇关于拖延症的著名研究存在欺诈证据，质疑其结论可重复性，引发学界与科技社区讨论。",
+      "importance": 8
     }
   ],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "Chrome 移除 MV2 是平台安全升级的必然，但 uBlock Origin 的处境反映出浏览器扩展生态的脆弱性，厂商需兼顾安全与用户选择。",
+  "editor_note": "AI 代理正在从实验室走向生产和科研，但安全与诚信问题同样不容忽视。技术突破与伦理反思并行，是本周最重要的信号。",
   "keywords": [
-    "Chrome MV2",
-    "uBlock Origin",
+    "AI代理",
     "Cloudflare",
-    "智能体 AI",
-    "DNS 缓存优化",
-    "数据治理",
-    "开源智能体"
+    "机器人攻击",
+    "DNS缓存优化",
+    "开源项目",
+    "科研诚信"
   ]
 }

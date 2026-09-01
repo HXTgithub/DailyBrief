@@ -6,248 +6,226 @@
       "title": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "excerpt": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "meta": "TypeScript · ★ 26,922 · 🍴 4,747 · 📈 2,819 stars today",
+      "meta": "TypeScript · ★ 26,938 · 🍴 4,749 · 📈 2,824 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "清华大学团队开源的多智能体交互教室，一键即可启动沉浸式学习环境。系统让多个AI智能体模拟真实课堂互动，支持教学演示、自主学习与教育研究，降低多智能体场景搭建门槛，适合教师、学生及AI教育开发者使用。"
+      "summary": "基于多智能体系统的交互式课堂平台，一键开启沉浸式学习体验，模拟真实课堂互动与协作，适用于远程教育、教师培训和AI教学研究。"
     },
     {
       "sourceId": "github-trending",
       "title": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "excerpt": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "meta": "JavaScript · ★ 38,577 · 🍴 2,466 · 📈 3,993 stars today",
+      "meta": "JavaScript · ★ 38,606 · 🍴 2,468 · 📈 3,991 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向AI Agent的绘图技能包，可生成架构图、工作流图、序列图、数据流图和生命周期图。输出为自包含HTML，支持动画效果与高清导出，图表结构可验证。适合开发者在Claude Code等工具中用自然语言快速生成专业技术图。"
+      "summary": "为AI Agent而设的图表生成技能，可输出架构、工作流、时序、数据流和生命周期图，结果为自包含HTML，带动效且支持高清导出，适合技术文档编写与方案展示。"
     },
     {
       "sourceId": "github-trending",
       "title": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "excerpt": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigrav",
-      "meta": "Python · ★ 40,695 · 🍴 3,769 · 📈 1,968 stars today",
+      "meta": "Python · ★ 40,697 · 🍴 3,769 · 📈 1,980 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "科学领域最大的Agent技能库之一，提供165个开箱即用的验证技能和100多个科学数据库，让任意AI Agent具备科研能力，覆盖文献分析、实验设计、数据挖掘等场景，已有19万科学家使用。适合科研工作者与AI开发者。"
+      "summary": "科学领域专用的Agent技能库，提供165个经过验证的科研技能和100+科学数据库，能将通用AI Agent转化为AI科学家，全球19万科学家使用，覆盖文献分析、实验设计等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "k1tbyte/Wand-Enhancer",
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "excerpt": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "meta": "C# · ★ 23,361 · 🍴 59,553 · 📈 511 stars today",
+      "meta": "C# · ★ 23,371 · 🍴 59,567 · 📈 582 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为Wand（WeMod）游戏修改器打造的高级UX与互操作性扩展，优化界面交互并增强与其他工具的协同能力，提升修改器的使用效率与可扩展性。适合游戏玩家和模组爱好者，需配合WeMod运行。"
+      "summary": "为Wand（WeMod）应用打造的UX与互操作性增强扩展，优化界面体验并打通与其他工具的集成，提供更流畅的操作和扩展能力，主要面向游戏修改器用户与Mod开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "majd/ipatool",
       "url": "https://github.com/majd/ipatool",
       "excerpt": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "meta": "Go · ★ 10,517 · 🍴 895 · 📈 376 stars today",
+      "meta": "Go · ★ 10,519 · 🍴 895 · 📈 373 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "命令行工具，可直接从App Store搜索并下载iOS、iPadOS、tvOS及visionOS应用的ipa安装包，便于开发者提取应用包用于测试与逆向分析。无需图形界面，脚本化使用，适合移动开发和安全研究场景。"
+      "summary": "命令行工具，用于从App Store搜索并下载iOS、iPadOS、tvOS和visionOS应用的ipa安装包，适合开发者测试、企业内部分发或苹果生态研究。"
     },
     {
       "sourceId": "github-trending",
       "title": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "excerpt": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "meta": "Python · ★ 56,073 · 🍴 7,316 · 📈 472 stars today",
+      "meta": "Python · ★ 56,077 · 🍴 7,317 · 📈 495 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量级开源项目，教你从零训练仅6400万参数的大语言模型，单机2小时即可完成。代码精简、教程完整，适合深度学习初学者快速理解LLM的预训练、微调与推理全流程，也可作为教学示例。"
+      "summary": "轻量级大模型训练项目，从零开始训练仅64M参数的LLM，全程只需约2小时，适合入门LLM训练流程、复现前沿技术或硬件受限环境下的快速实验。"
     },
     {
       "sourceId": "github-trending",
       "title": "Osmantic/ODS",
       "url": "https://github.com/Osmantic/ODS",
       "excerpt": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "meta": "Python · ★ 5,465 · 🍴 772 · 📈 163 stars today",
+      "meta": "Python · ★ 5,475 · 🍴 773 · 📈 77 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "可将PC、Mac或Linux设备一键改造为本地AI服务器，内置LLM推理、聊天界面、语音交互、Agent、工作流、RAG检索增强生成和图像生成等功能。面向注重隐私的开发者与团队，支持完全本地化部署。"
+      "summary": "将PC、Mac或Linux设备一键变成AI服务器，内置LLM推理、聊天界面、语音、Agent、工作流、RAG与图像生成能力，适合本地私有化部署和离线AI服务。"
     },
     {
       "sourceId": "github-trending",
       "title": "checkstyle/checkstyle",
       "url": "https://github.com/checkstyle/checkstyle",
       "excerpt": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-      "meta": "Java · ★ 9,403 · 🍴 4,206 · 📈 199 stars today",
+      "meta": "Java · ★ 9,406 · 🍴 4,206 · 📈 198 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Java静态代码分析工具，帮助开发者遵循Google Java Style或Sun Code Conventions等编码规范，高度可配置，支持自定义规则，常用于CI流程。适合Java团队统一代码风格、减少审查成本，是经典的开源检查工具。"
+      "summary": "Java代码规范检查工具，默认支持Google Java Style与Sun Code Conventions，并高度可配置，帮助团队统一编码风格、及时发现违规，常集成于CI构建流水线。"
     },
     {
       "sourceId": "github-trending",
       "title": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "excerpt": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Cla",
-      "meta": "PowerShell · ★ 33,089 · 🍴 4,490 · 📈 1,439 stars today",
+      "meta": "PowerShell · ★ 33,097 · 🍴 4,493 · 📈 1,401 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向逆向工程、授权渗透测试与安全研究的AI技能路由包，支持Claude Code等Agent工具。内置AI智能路由、按需工具链启动和自进化知识库，能根据任务自动匹配安全分析流程，适合红队与安全研究人员。"
+      "summary": "面向逆向工程与授权渗透测试的技能路由包，提供AI驱动的路由、按需工具链引导和自进化知识库，支持Claude Code等Agent，服务于安全研究人员。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 245,230 · 🍴 37,047 · 📈 548 stars today",
+      "meta": "JavaScript · ★ 245,235 · 🍴 37,049 · 📈 512 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为Claude Code、Codex、Cursor等AI编程助手打造的性能优化系统，统一管理技能、直觉、记忆与安全策略，强调研究驱动开发。旨在提升Agent在复杂任务中的执行效率与稳定性，适合重度使用AI编码工具的开发者。"
+      "summary": "Agent性能优化系统，整合技能、直觉、记忆与安全模块，支持Claude Code、Codex、Cursor等工具，采用研究优先的开发方式，提升Agent开发效率和稳定性。"
     },
     {
       "sourceId": "github-trending",
       "title": "kaifcodec/user-scanner",
       "url": "https://github.com/kaifcodec/user-scanner",
       "excerpt": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
-      "meta": "Python · ★ 4,215 · 🍴 444 · 📈 184 stars today",
+      "meta": "Python · ★ 4,225 · 🍴 445 · 📈 93 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向安全研究的两合一OSINT套件，仅凭一个邮箱或用户名即可执行深度数据提取，内置465+活跃扫描向量（邮箱175+、用户名290+）。可用于溯源分析、风险排查与授权渗透测试，帮助安全人员快速搜集公开情报。"
+      "summary": "邮箱与用户名OSINT综合套件，仅需一个邮箱或用户名即可深度提取关联数据，分析465+活跃扫描向量（175+邮箱/290+用户名），用于安全研究与威胁情报。"
     },
     {
       "sourceId": "github-trending",
       "title": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "excerpt": "Open source alternative to Semrush and Ahrefs",
-      "meta": "TypeScript · ★ 15,736 · 🍴 1,897 · 📈 608 stars today",
+      "meta": "TypeScript · ★ 15,738 · 🍴 1,897 · 📈 610 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源SEO平台，定位为Semrush和Ahrefs的免费替代品，提供关键词研究、排名追踪、网站审计、竞争对手分析等核心功能。适合个人站长、SEO从业者和小型团队，可自部署以掌控数据隐私。"
+      "summary": "开源SEO平台，作为Semrush和Ahrefs的替代品，提供关键词研究、外链分析、排名追踪等核心功能，支持自托管，适合中小站点和SEO从业者。"
     },
     {
       "sourceId": "github-trending",
       "title": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "excerpt": "Fully automatic censorship removal for language models",
-      "meta": "Python · ★ 29,637 · 🍴 3,247 · 📈 536 stars today",
+      "meta": "Python · ★ 29,639 · 🍴 3,247 · 📈 537 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个全自动工具，用于移除语言模型的审查限制。面向AI研究与定制化部署场景，通过自动化方式让模型输出更少过滤，需在合规前提下使用。"
+      "summary": "全自动去除语言模型内置审查机制的工具，适用于研究模型的内容策略与安全边界，但需在合规和授权的场景下使用，警惕滥用风险。"
     },
     {
       "sourceId": "github-trending",
       "title": "handsomestWei/patent-disclosure-skill",
       "url": "https://github.com/handsomestWei/patent-disclosure-skill",
       "excerpt": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "meta": "Python · ★ 6,193 · 🍴 728 · 📈 571 stars today",
+      "meta": "Python · ★ 6,195 · 🍴 728 · 📈 571 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向AI Agent的中文专利技能包，辅助完成专利点挖掘、发明/实用/外观交底书编写、专利通俗解读、政策动向追踪与审查答复。适合企业专利工程师、代理人和发明人，降低专利文档撰写门槛。"
+      "summary": "中国专利专项Agent技能，支持专利点挖掘、交底书（发明/实用/外观）编写、通俗解读专利、政策动向嗅探和审查答复辅助，适用于专利代理人、企业IP工程师及研发人员。"
     },
     {
       "sourceId": "github-trending",
       "title": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "excerpt": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "meta": "Rust · ★ 17,342 · 🍴 1,199 · 📈 199 stars today",
+      "meta": "Rust · ★ 17,347 · 🍴 1,199 · 📈 228 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于Rust的高性能PDF处理库，专注于PDF检测、分类与文本提取，能智能区分扫描版和文本版PDF，帮助上层系统做出路由决策。适合文档处理流水线、RAG应用和批处理场景，速度快、资源占用低。"
+      "summary": "高性能Rust库，用于PDF检查、分类与文本抽取，能智能区分扫描版与文字版PDF，辅助路由决策，适用于文档流水线、数据清洗与OCR流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "pollen-robotics/microduck_rl",
       "url": "https://github.com/pollen-robotics/microduck_rl",
       "excerpt": "RL training environments for Microduck (mjlab)",
-      "meta": "Python · ★ 1,122 · 🍴 193 · 📈 384 stars today",
+      "meta": "Python · ★ 1,128 · 🍴 193 · 📈 385 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为Microduck机器人设计的强化学习训练环境，基于mjlab（MuJoCo工具链）构建。提供模拟训练场景，支持策略训练与迁移，适合机器人RL研究和运动控制开发。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "OpenShot 4.0 – Open-source video editor",
-      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "excerpt": "521 points · 120 comments",
-      "publishedAt": "2026-08-31T09:59:05.000Z",
-      "category": "tech",
-      "score": 521,
-      "source": "Hacker News",
-      "summary": "开源视频编辑器 OpenShot 发布 4.0 版本，宣称在录制、剪辑、调色等方面带来前所未有的体验，引发 HN 用户讨论。"
+      "summary": "为Microduck机器人提供强化学习训练环境，基于MJLab物理仿真平台，支持RL算法开发和验证，便于从仿真到真机的迁移研究，面向腿足机器人与具身智能领域。"
     },
     {
       "sourceId": "hackernews",
       "title": "Playa Phone",
       "url": "https://playaphone.com/",
-      "excerpt": "465 points · 175 comments",
+      "excerpt": "468 points · 175 comments",
       "publishedAt": "2026-08-31T14:52:26.000Z",
       "category": "tech",
-      "score": 465,
+      "score": 468,
       "source": "Hacker News",
-      "summary": "名为 Playa Phone 的产品页面登上 HN 热榜，标题未提供细节，具体功能与定位尚待了解，讨论热烈。"
+      "summary": "HN 热帖介绍名为 Playa Phone 的产品，目前获得 468 分和 175 条评论，社区讨论热烈，但原帖未提供更多细节。"
     },
     {
       "sourceId": "hackernews",
       "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
       "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "excerpt": "353 points · 262 comments",
+      "excerpt": "377 points · 291 comments",
       "publishedAt": "2026-08-31T21:10:58.000Z",
       "category": "tech",
-      "score": 353,
+      "score": 377,
       "source": "Hacker News",
-      "summary": "谷歌从 Chrome 网上应用店移除 Manifest V2 扩展，包括知名的广告拦截工具 uBlock Origin，引发用户对广告拦截未来的担忧。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "excerpt": "335 points · 113 comments",
-      "publishedAt": "2026-08-31T07:49:18.000Z",
-      "category": "tech",
-      "score": 335,
-      "source": "Hacker News",
-      "summary": "研究人员演示破解 Claude Code Opus 5 的自动模式（Auto Mode），暴露 AI 编程助手中的安全边界问题，HN 用户热议其影响。"
+      "summary": "谷歌从 Chrome 应用商店移除 Manifest V2 扩展，包括 uBlock Origin 等，引发用户广泛关注，帖子获 377 点 291 评论。"
     },
     {
       "sourceId": "hackernews",
       "title": "I turned my security cameras into an automatic bird identification system",
       "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "excerpt": "334 points · 90 comments",
+      "excerpt": "340 points · 91 comments",
       "publishedAt": "2026-08-31T16:47:11.000Z",
       "category": "tech",
-      "score": 334,
+      "score": 340,
       "source": "Hacker News",
-      "summary": "作者将安防摄像头改造成自动鸟类识别系统，基于 BirdNET Go 实现鸟类检测与分类，分享完整搭建经验。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "excerpt": "269 points · 309 comments",
-      "publishedAt": "2026-08-31T12:41:22.000Z",
-      "category": "tech",
-      "score": 269,
-      "source": "Hacker News",
-      "summary": "苹果对 Mac Mini 和 Mac Studio 的 AI 需求估计不足，导致措手不及，供应链或产能面临压力，引发广泛讨论。"
+      "summary": "作者利用 BirdNET-Go 将安防摄像头改造成自动鸟类识别系统，并分享了详细技术方案，引发 340 点 91 评论的热议。"
     },
     {
       "sourceId": "hackernews",
       "title": "Dwarf Fortress is getting the mother of all magic updates",
       "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "excerpt": "262 points · 99 comments",
+      "excerpt": "272 points · 101 comments",
       "publishedAt": "2026-08-27T16:45:22.000Z",
       "category": "tech",
-      "score": 262,
+      "score": 272,
       "source": "Hacker News",
-      "summary": "游戏《矮人要塞》（Dwarf Fortress）将迎来规模空前的魔法更新，改动延伸至游戏宇宙的宇宙学基础设定，引发玩家高度期待。"
+      "summary": "《矮人要塞》将推出大型魔法更新，扩展至游戏宇宙的基本宇宙论构成，让玩家社群充满期待，获 272 点 101 评论。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "excerpt": "270 points · 314 comments",
+      "publishedAt": "2026-08-31T12:41:22.000Z",
+      "category": "tech",
+      "score": 270,
+      "source": "Hacker News",
+      "summary": "苹果对 Mac Mini 和 Mac Studio 的 AI 需求预估不足，导致供应意外紧张，相关讨论已获 270 点 314 评论。"
     },
     {
       "sourceId": "hackernews",
       "title": "I think the military commissary's freezers were hacked",
       "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "excerpt": "223 points · 128 comments",
+      "excerpt": "227 points · 131 comments",
       "publishedAt": "2026-08-31T11:45:48.000Z",
       "category": "tech",
-      "score": 223,
+      "score": 227,
       "source": "Hacker News",
-      "summary": "作者怀疑军队小卖部的冷柜遭到黑客入侵，详述可疑证据与调查过程，引发对冷链设备网络安全的讨论。"
+      "summary": "有帖子怀疑军事小卖部的冰柜遭到黑客入侵，引发对供应链安全漏洞的讨论，获 227 点 131 评论。"
     },
     {
       "sourceId": "hackernews",
@@ -256,40 +234,42 @@
       "excerpt": "ASCII City: Traffic and Detail Update - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=DSRooHo_HSIASCII City Update: Interiors, Elevation and Skyscrapers - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=UCKEDWowc0o",
       "publishedAt": "2026-08-31T18:21:33.000Z",
       "category": "tech",
-      "score": 175,
+      "score": 179,
       "source": "Hacker News",
-      "summary": "用单个 HTML 文件实现的可步行 ASCII 赛博朋克城市，更新视频展示交通细节、室内、高楼等内容，视觉效果独特。"
+      "summary": "一则视频展示用单个 HTML 文件构建的可步行 ASCII 赛博朋克城市，包含交通、室内、高度和摩天楼等更新，令人惊叹。"
     },
     {
       "sourceId": "hackernews",
       "title": "ChatGPT Work Tool and Skill Reference",
       "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "excerpt": "166 points · 49 comments",
+      "excerpt": "170 points · 49 comments",
       "publishedAt": "2026-08-31T14:07:15.000Z",
       "category": "tech",
-      "score": 166,
+      "score": 170,
       "source": "Hacker News",
-      "summary": "该参考站点汇总 ChatGPT Work 工具与技能（Skills）的用法，为开发者提供系统性的功能查询与使用指南。"
+      "summary": "HN 上发布了 ChatGPT 工作工具与技能参考页面，提供相关文档或资源，获 170 分和 49 条评论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Internet centralization and the original sin of NAT",
       "url": "https://dreamstation.systems/personal/ntppost.html",
-      "excerpt": "165 points · 126 comments",
+      "excerpt": "166 points · 125 comments",
       "publishedAt": "2026-08-31T02:23:03.000Z",
       "category": "tech",
-      "score": 165,
-      "source": "Hacker News"
+      "score": 166,
+      "source": "Hacker News",
+      "summary": "文章探讨互联网集中化问题，将 NAT 视为其“原罪”，引发对网络架构设计的热烈讨论，获 166 点 125 评论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "excerpt": "156 points · 20 comments",
+      "excerpt": "164 points · 20 comments",
       "publishedAt": "2026-08-30T22:37:01.000Z",
       "category": "tech",
-      "score": 156,
-      "source": "Hacker News"
+      "score": 164,
+      "source": "Hacker News",
+      "summary": "视频中数学家陶哲轩（Terence Tao）讲解 6 个基本数学概念，深入浅出，获 164 点 20 评论，适合数学与编程爱好者学习。"
     },
     {
       "sourceId": "hackernews",
@@ -305,60 +285,60 @@
       "sourceId": "hackernews",
       "title": "Smartphone LED detects hidden cameras with AI",
       "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "excerpt": "132 points · 32 comments",
+      "excerpt": "133 points · 34 comments",
       "publishedAt": "2026-08-30T06:52:04.000Z",
       "category": "tech",
-      "score": 132,
+      "score": 133,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Reverse engineering my ADHD test",
       "url": "https://nullpt.rs/reverse-engineering-adhd-test",
-      "excerpt": "125 points · 43 comments",
+      "excerpt": "127 points · 47 comments",
       "publishedAt": "2026-08-27T16:49:40.000Z",
       "category": "tech",
-      "score": 125,
+      "score": 127,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "No country for mediocre mathematicians",
       "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
-      "excerpt": "124 points · 73 comments",
+      "excerpt": "127 points · 74 comments",
       "publishedAt": "2026-08-30T02:35:14.000Z",
       "category": "tech",
-      "score": 124,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Show HN: Laser Graffiti",
-      "url": "https://laser.consti.de",
-      "excerpt": "105 points · 21 comments",
-      "publishedAt": "2026-08-29T12:28:11.000Z",
-      "category": "tech",
-      "score": 105,
+      "score": 127,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "'Mad honey' that can stop your heart is being sold online",
       "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "excerpt": "102 points · 61 comments",
+      "excerpt": "111 points · 66 comments",
       "publishedAt": "2026-08-28T09:17:27.000Z",
       "category": "tech",
-      "score": 102,
+      "score": 111,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "excerpt": "108 points · 22 comments",
+      "publishedAt": "2026-08-29T12:28:11.000Z",
+      "category": "tech",
+      "score": 108,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The safest job from AI may be writing",
       "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "excerpt": "74 points · 117 comments",
+      "excerpt": "77 points · 121 comments",
       "publishedAt": "2026-08-31T18:12:20.000Z",
       "category": "tech",
-      "score": 74,
+      "score": 77,
       "source": "Hacker News"
     },
     {
@@ -385,7 +365,7 @@
       "sourceId": "hackernews",
       "title": "Since it was stripped of planetary status, Pluto’s defenders have been fighting",
       "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
-      "excerpt": "41 points · 117 comments",
+      "excerpt": "41 points · 121 comments",
       "publishedAt": "2026-08-31T06:05:07.000Z",
       "category": "tech",
       "score": 41,
@@ -405,60 +385,80 @@
       "sourceId": "hackernews",
       "title": "Euphemisation of Taboo Areas (2023) [pdf]",
       "url": "https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf",
-      "excerpt": "31 points · 2 comments",
+      "excerpt": "33 points · 2 comments",
       "publishedAt": "2026-08-27T16:14:23.000Z",
       "category": "tech",
-      "score": 31,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Lion-man – the oldest confirmed statue ever discovered",
-      "url": "https://en.wikipedia.org/wiki/Lion-man",
-      "excerpt": "15 points · 3 comments",
-      "publishedAt": "2026-08-29T23:17:15.000Z",
-      "category": "tech",
-      "score": 15,
+      "score": 33,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Run macOS Software on Linux",
       "url": "https://www.darlinghq.org/",
-      "excerpt": "14 points · 3 comments",
+      "excerpt": "30 points · 5 comments",
       "publishedAt": "2026-08-31T22:53:45.000Z",
       "category": "tech",
-      "score": 14,
+      "score": 30,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Lion-man – the oldest confirmed statue ever discovered",
+      "url": "https://en.wikipedia.org/wiki/Lion-man",
+      "excerpt": "24 points · 3 comments",
+      "publishedAt": "2026-08-29T23:17:15.000Z",
+      "category": "tech",
+      "score": 24,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
       "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "excerpt": "14 points · 4 comments",
+      "excerpt": "16 points · 7 comments",
       "publishedAt": "2026-08-31T22:32:22.000Z",
       "category": "tech",
-      "score": 14,
+      "score": 16,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "How we configured OpenTelemetry logs in Rails",
       "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
-      "excerpt": "13 points · 2 comments",
+      "excerpt": "14 points · 2 comments",
       "publishedAt": "2026-08-31T21:12:22.000Z",
       "category": "tech",
-      "score": 13,
+      "score": 14,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
       "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
-      "excerpt": "11 points · 8 comments",
+      "excerpt": "12 points · 9 comments",
       "publishedAt": "2026-08-24T18:58:19.000Z",
       "category": "tech",
-      "score": 11,
+      "score": 12,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "excerpt": "4 points · 0 comments",
+      "publishedAt": "2026-08-31T23:45:56.000Z",
+      "category": "tech",
+      "score": 4,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Visualizing Combos in Judo in R",
+      "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
+      "excerpt": "4 points · 0 comments",
+      "publishedAt": "2026-08-26T09:21:45.000Z",
+      "category": "tech",
+      "score": 4,
       "source": "Hacker News"
     },
     {
