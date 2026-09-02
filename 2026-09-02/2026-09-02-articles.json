@@ -6,140 +6,140 @@
       "title": "Gitlawb/openclaude",
       "url": "https://github.com/Gitlawb/openclaude",
       "excerpt": "runs anywhere. uses anything",
-      "meta": "TypeScript · ★ 31,274 · 🍴 8,947 · 📈 80 stars today",
+      "meta": "TypeScript · ★ 31,280 · 🍴 8,948 · 📈 80 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个强调“随处运行、使用任何东西”的 Claude 相关项目。具体实现方式未详述，从命名看可能提供跨平台兼容层，让 Claude 灵活接入各种外部服务和工具。适合希望突破官方客户端限制、自定义部署 AI 助手的用户。"
+      "summary": "一个强调可移植性和通用性的工具，宣称能运行于任意环境并调用任意资源。具体实现与适用场景在描述中未展开，适合追求灵活部署、希望打通不同工具链的开发者自行探索与试验。"
     },
     {
       "sourceId": "github-trending",
       "title": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "excerpt": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "meta": "Python · ★ 44,868 · 🍴 3,548 · 📈 193 stars today",
+      "meta": "Python · ★ 44,878 · 🍴 3,548 · 📈 193 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "针对 Claude Code 的学术研究技能包，将工作流组织为“研究→写作→评审→修订→定稿”五阶段。用户可让 Claude 按学术规范完成文献调研、论文起草、同行评审式反馈和最终润色，适合科研人员、学生以及需要系统化辅助学术写作的场景。"
+      "summary": "面向 Claude Code 的学术研究技能包，覆盖从研究、写作、评审、修订到定稿的完整流程。通过结构化提示词或工具链辅助科研人员完成文献调研、论文撰写与迭代优化，适合需要持续产出高质量学术内容的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "excerpt": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "meta": "TypeScript · ★ 29,446 · 🍴 4,966 · 📈 3,128 stars today",
+      "meta": "TypeScript · ★ 29,455 · 🍴 4,967 · 📈 3,128 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "清华大学开源的多智能体交互教室，一键创建沉浸式多智能体学习环境。通过多个 AI 智能体模拟课堂互动，支持角色扮演、问答讨论等，为在线教育提供新颖的教学体验。适合教师构建互动课程、学习者进行探索式学习。"
+      "summary": "清华大学开源的多智能体交互课堂，采用多智能体模拟教学环境，用户仅需一键即可获得沉浸式学习体验。通过多个 AI 角色互动协作，适用于探索多智能体系统、AI 辅助教学及交互式学习场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "iv-org/invidious",
       "url": "https://github.com/iv-org/invidious",
       "excerpt": "Invidious is an alternative front-end to YouTube",
-      "meta": "Crystal · ★ 23,758 · 🍴 2,674 · 📈 577 stars today",
+      "meta": "Crystal · ★ 23,762 · 🍴 2,674 · 📈 577 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "YouTube 的替代前端，注重隐私与自由。它无需账号即可订阅、搜索、观看视频，并去除广告和追踪器，同时提供轻量、可自托管的界面。适合注重隐私的用户、想避开 YouTube 推荐算法的用户，以及希望自行托管服务的人群。"
+      "summary": "YouTube 的替代前端，注重隐私保护，无广告、无追踪，支持订阅频道、播放列表和评论浏览。用户可绕过官方界面限制，在自托管或公共实例上稍作配置即可使用，是注重隐私和轻量体验的 YouTube 用户的选择。"
     },
     {
       "sourceId": "github-trending",
       "title": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "excerpt": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "meta": "Python · ★ 57,032 · 🍴 7,413 · 📈 1,005 stars today",
+      "meta": "Python · ★ 57,040 · 🍴 7,414 · 📈 1,005 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个极小规模的语言模型项目，支持在 2 小时内从头训练 64M 参数的 LLM。涵盖数据准备、预训练、微调等完整流程，适合想快速理解 LLM 训练细节的开发者、学生和研究者，也是低成本进行 NLP 实验的入门选择。"
+      "summary": "从零开始训练仅 64M 参数的语言模型，耗时约 2 小时即可完成。项目旨在降低大模型入门门槛，帮助开发者理解 LLM 的训练全流程，适合教学演示、快速实验和个人学习，也适合在有限算力下探索模型行为。"
     },
     {
       "sourceId": "github-trending",
       "title": "3b1b/manim",
       "url": "https://github.com/3b1b/manim",
       "excerpt": "Animation engine for explanatory math videos",
-      "meta": "Python · ★ 92,544 · 🍴 7,615 · 📈 86 stars today",
+      "meta": "Python · ★ 92,545 · 🍴 7,616 · 📈 86 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用于制作数学解释视频的动画引擎，由 3Blue1Brown 开源。通过 Python 代码精确控制几何图形、坐标转换和动态效果，可将抽象的数学概念可视化为高质量动画。适合数学教育者、科普视频创作者及编程爱好者。"
+      "summary": "3Blue1Brown 出品的数学动画引擎，用于创建解释性数学视频。通过 Python 代码精确控制图形、公式和场景变换，支持将复杂的数学概念可视化，广受数学教育者、科普视频创作者和动画爱好者欢迎。"
     },
     {
       "sourceId": "github-trending",
       "title": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "excerpt": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "meta": "Rust · ★ 17,905 · 🍴 1,220 · 📈 541 stars today",
+      "meta": "Rust · ★ 17,917 · 🍴 1,222 · 📈 541 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 Rust 的快速 PDF 检查、分类与文本提取库。能够智能区分扫描版和文本型 PDF，帮助系统对文档进行路由。适用于需要批量处理 PDF、自动识别文档类型的后端服务，性能高、资源占用低。"
+      "summary": "基于 Rust 编写的高性能 PDF 检查库，支持 PDF 分类、文本提取，并能智能区分扫描版与文本版 PDF，为路由决策提供依据。适合自动化处理 PDF 文档流、构建文档管道或进行内容预处理的开发场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "excerpt": "Edit videos with coding agents",
-      "meta": "Python · ★ 22,916 · 🍴 2,810 · 📈 472 stars today",
+      "meta": "Python · ★ 22,923 · 🍴 2,811 · 📈 472 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向编码代理（coding agents）的视频编辑工具，允许开发者通过自然语言或代码指令自动完成视频剪辑、拼接、特效等操作。它将 AI Agent 引入视频制作流程，适合用自动化脚本批量处理视频的创作者和开发团队。"
+      "summary": "让编码智能体直接编辑视频的工具，将视频剪辑能力接入 AI Agent 工作流。开发者可通过自然语言或代码指令驱动智能体完成视频处理，适合自动化视频生产、批量剪辑以及与现有编程流程集成的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "excerpt": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigrav",
-      "meta": "Python · ★ 41,520 · 🍴 3,826 · 📈 912 stars today",
+      "meta": "Python · ★ 41,524 · 🍴 3,826 · 📈 912 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "将任意 AI Agent 变成“AI 科学家”的技能库，提供 165 个经过验证的科学技能和 100+ 科学数据库，覆盖生物学等多个领域。全球已有 19 万科学家使用。可帮助研究者自动完成文献分析、实验设计等科研任务，推动 AI for Science 落地。"
+      "summary": "面向科学研究的 Agent 技能库，声称可将任意 AI Agent 转变为“AI 科学家”。提供 165 个经过验证的即用技能，并接入 100 多个科学数据库，覆盖生物等多个学科，已有 19 万科学家使用，适合科研人员加速文献分析、实验设计等流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "handsomestWei/patent-disclosure-skill",
       "url": "https://github.com/handsomestWei/patent-disclosure-skill",
       "excerpt": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "meta": "Python · ★ 6,678 · 🍴 759 · 📈 501 stars today",
+      "meta": "Python · ★ 6,683 · 🍴 759 · 📈 501 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向中国专利场景的 Claude 技能，支持专利点挖掘、发明/实用新型/外观设计交底书编写，还能通俗解读专利、嗅探政策动向、辅助审查意见答复。适合专利代理人、企业研发人员或知识产权从业者，提高专利申请效率。"
+      "summary": "面向中文专利场景的技能包，支持专利点挖掘、技术交底书（发明/实用/外观）编写、专利通俗解读、政策动向嗅探及审查意见答复辅助。适用于专利代理人、企业研发人员或独立发明人快速生成规范交底材料并跟进审查流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "VoltAgent/awesome-design-md",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "excerpt": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "meta": "★ 112,710 · 🍴 12,772 · 📈 323 stars today",
+      "meta": "★ 112,725 · 🍴 12,772 · 📈 323 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收集了知名品牌设计系统的 DESIGN.md 文件，分析其设计规范。用户可将相应文件放入项目，让编码代理生成风格匹配的 UI。适合前端开发者快速对齐品牌视觉、简化界面设计流程，尤其适合与 AI 编码工具配合使用。"
+      "summary": "收集各大品牌设计系统分析而得的 DESIGN.md 文件，将它们放入项目中，编码智能体即可据此生成风格匹配的 UI。适合需要快速产出高质量、品牌一致界面的前端开发者和 AI 辅助设计流程使用者。"
     },
     {
       "sourceId": "github-trending",
       "title": "averygan/reclip",
       "url": "https://github.com/averygan/reclip",
       "excerpt": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "meta": "HTML · ★ 7,636 · 🍴 1,314 · 📈 56 stars today",
+      "meta": "HTML · ★ 7,640 · 🍴 1,314 · 📈 56 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量级、可自托管的视频下载器，支持从几乎所有网站抓取视频。提供简洁的 Web UI，方便用户粘贴链接即可下载，同时支持本地部署以保证隐私和可控性。适合需要收藏视频、离线观看或批量下载的用户。"
+      "summary": "轻量级、自托管的媒体下载器，可从几乎所有网站下载视频，并配有简洁的 Web 界面。用户自行部署后可轻松抓取在线视频，适合个人媒体收藏、离线观看或作为内网下载服务使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 245,751 · 🍴 37,087 · 📈 623 stars today",
+      "meta": "JavaScript · ★ 245,756 · 🍴 37,087 · 📈 623 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Claude Code、Codex、Opencode、Cursor 等编码代理的工具链性能优化系统，整合技能、直觉、记忆、安全机制，强调研究先行。通过统一配置增强 Agent 的能力与稳定性，适合深度使用 AI 编程助手的开发者和团队。"
+      "summary": "面向 Agent Harness 的性能优化系统，整合技能、本能、记忆、安全模块，并采用研究优先的开发策略。兼容 Claude Code、Codex、Opencode、Cursor 等多种 AI 编程工具，适合需要提升 Agent 执行效率与可扩展性的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
       "excerpt": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "meta": "Python · ★ 80,841 · 🍴 8,356 · 📈 145 stars today",
+      "meta": "Python · ★ 80,845 · 🍴 8,356 · 📈 145 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的 LLM 友好型网页爬虫与抓取工具，专为大语言模型设计。可将网页内容转换为干净的 Markdown 或结构化数据，方便直接用于 AI 训练、RAG 或智能体调用。适合需要大规模获取网页知识的开发者。"
+      "summary": "开源、对 LLM 友好的网络爬虫与抓取工具，能够高效抓取网页并转化为适合大模型使用的格式。支持结构化输出和定制抓取策略，是构建 RAG 知识库、训练数据采集及智能化信息提取的常用组件。"
     },
     {
       "sourceId": "hackernews",
@@ -148,108 +148,108 @@
       "excerpt": "What&#x27;s new in Claude Fable 5.1 – https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...System Card: https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32...",
       "publishedAt": "2026-09-01T17:53:53.000Z",
       "category": "tech",
-      "score": 858,
+      "score": 884,
       "source": "Hacker News",
-      "summary": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 模型，并更新文档与系统卡，详细介绍新特性。"
+      "summary": "Anthropic 推出 Claude Fable 5.1 与 Claude Mythos 5.1 模型。官方文档列举 Fable 5.1 的新特性，同时发布 System Card，说明安全与评估细节。"
     },
     {
       "sourceId": "hackernews",
       "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
       "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-      "excerpt": "815 points · 240 comments",
+      "excerpt": "820 points · 242 comments",
       "publishedAt": "2026-09-01T10:11:02.000Z",
       "category": "tech",
-      "score": 815,
+      "score": 820,
       "source": "Hacker News",
-      "summary": "AnkiDroid 开发者称 Google Play 不再允许其展示 Open Collective 捐赠链接，引发关于应用商店政策的讨论。"
+      "summary": "AnkiDroid 在 GitHub 上报告，Google Play 政策不再允许其应用内包含 Open Collective 捐赠链接，引发开源项目筹款渠道受限制的讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "excerpt": "553 points · 148 comments",
+      "excerpt": "559 points · 149 comments",
       "publishedAt": "2026-09-01T09:52:45.000Z",
       "category": "tech",
-      "score": 553,
+      "score": 559,
       "source": "Hacker News",
-      "summary": "作者用 1.5 小时训练了一个小型 Transformer 模型，声称其性能超越许多大型语言模型（LLM）。"
+      "summary": "一位开发者分享实验：仅用 1.5 小时训练的小型 Transformer 模型，在多项基准上超越许多大型语言模型（LLM），引发对模型规模与效率的讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
       "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-      "excerpt": "454 points · 198 comments",
+      "excerpt": "456 points · 198 comments",
       "publishedAt": "2026-09-01T15:55:53.000Z",
       "category": "tech",
-      "score": 454,
+      "score": 456,
       "source": "Hacker News",
-      "summary": "Play Store 阻止了 AuroraStore，对 GrapheneOS 用户的下载体验造成影响，引发社区对平台控制的讨论。"
+      "summary": "Google Play Store 开始拦截 AuroraStore，导致 GrapheneOS 用户无法正常使用该第三方应用商店下载应用，引发隐私系统生态受损的争议。"
     },
     {
       "sourceId": "hackernews",
       "title": "American Airlines mechanic Azriel “Al” Blackman has died",
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "excerpt": "366 points · 149 comments",
+      "excerpt": "368 points · 149 comments",
       "publishedAt": "2026-08-29T21:25:17.000Z",
       "category": "tech",
-      "score": 366,
+      "score": 368,
       "source": "Hacker News",
-      "summary": "美国航空机械师 Azriel「Al」Blackman 去世，享年 100 岁，曾在该公司工作 80 年，创下服务纪录。"
+      "summary": "美国航空机械师 Azriel “Al” Blackman 去世，享年 100 岁；他职业生涯长达 80 年，创下纪录。"
     },
     {
       "sourceId": "hackernews",
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron/",
-      "excerpt": "344 points · 406 comments",
+      "excerpt": "358 points · 433 comments",
       "publishedAt": "2026-09-01T18:35:15.000Z",
       "category": "tech",
-      "score": 344,
+      "score": 358,
       "source": "Hacker News",
-      "summary": "Dan Luu 发文评估评论家 Ed Zitron 对 AI 行业的怀疑论预测有多准确，引发大量讨论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Introducing Ad Blocker for Firefox on iOS",
-      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "excerpt": "276 points · 100 comments",
-      "publishedAt": "2026-09-01T13:46:49.000Z",
-      "category": "tech",
-      "score": 276,
-      "source": "Hacker News",
-      "summary": "Mozilla 为 iOS 版 Firefox 推出广告拦截器，这项新增功能可减少页面干扰，提升隐私保护和浏览体验。"
+      "summary": "Dan Luu 撰文评估科技评论人 Ed Zitron 对 AI 行业的质疑预测是否准确，逐一梳理过往论断与实际发展间的差距，引发热议。"
     },
     {
       "sourceId": "hackernews",
       "title": "Hang on to Your Firefox",
       "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-      "excerpt": "256 points · 137 comments",
+      "excerpt": "307 points · 175 comments",
       "publishedAt": "2026-09-01T20:30:51.000Z",
       "category": "tech",
-      "score": 256,
+      "score": 307,
       "source": "Hacker News",
-      "summary": "文章呼吁用户不要放弃 Firefox，讨论浏览器市场现状、Mozilla 的挑战以及保留这一独立浏览器的重要性。"
+      "summary": "文章呼吁用户继续使用 Firefox，强调保持浏览器生态多样性的重要性，并讨论当前浏览器市场竞争与用户选择的意义。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "excerpt": "284 points · 102 comments",
+      "publishedAt": "2026-09-01T13:46:49.000Z",
+      "category": "tech",
+      "score": 284,
+      "source": "Hacker News",
+      "summary": "Mozilla 官方宣布 Firefox for iOS 新增广告拦截功能，用户可在设置中开启，以提升浏览速度并减少跟踪，相关功能正在逐步推出。"
     },
     {
       "sourceId": "hackernews",
       "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
       "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "excerpt": "216 points · 106 comments",
+      "excerpt": "222 points · 109 comments",
       "publishedAt": "2026-09-01T20:07:57.000Z",
       "category": "tech",
-      "score": 216,
+      "score": 222,
       "source": "Hacker News",
-      "summary": "Simon Willison 发现 ChatGPT/Codex 应用捆绑了完整版 LibreOffice，或用于文档处理，引发讨论。"
+      "summary": "Simon Willison 发现，ChatGPT/Codex 应用内捆绑了完整版 LibreOffice，推测用于文档处理能力，引发关于应用体积与依赖的讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Ambient CSS v3 – Blender meets CSS",
       "url": "https://ambientcss.vercel.app/",
-      "excerpt": "185 points · 67 comments",
+      "excerpt": "188 points · 68 comments",
       "publishedAt": "2026-09-01T15:35:11.000Z",
       "category": "tech",
-      "score": 185,
+      "score": 188,
       "source": "Hacker News",
-      "summary": "Ambient CSS v3 发布，定位为“Blender 遇上 CSS”，将 3D 创作能力与 CSS 工作流结合。"
+      "summary": "Ambient CSS v3 正式发布，融合 Blender 的三维设计理念与 CSS，为网页界面带来类似 3D 渲染的视觉表现，引发开发者兴趣。"
     },
     {
       "sourceId": "hackernews",
@@ -258,37 +258,37 @@
       "excerpt": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn&#x27;t ",
       "publishedAt": "2026-09-01T15:01:17.000Z",
       "category": "tech",
-      "score": 177,
+      "score": 179,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The creator of Jujutsu has joined ERSC",
       "url": "https://ersc.io/blog/martin-joins-ersc",
-      "excerpt": "169 points · 136 comments",
+      "excerpt": "173 points · 138 comments",
       "publishedAt": "2026-09-01T17:46:21.000Z",
       "category": "tech",
-      "score": 169,
+      "score": 173,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
       "url": "https://moviescenemap.com/",
-      "excerpt": "142 points · 28 comments",
+      "excerpt": "145 points · 28 comments",
       "publishedAt": "2026-09-01T16:34:45.000Z",
       "category": "tech",
-      "score": 142,
+      "score": 145,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Atlas: A World Model for Spatial Intelligence",
       "url": "https://www.worldlabs.ai/blog/atlas",
-      "excerpt": "132 points · 27 comments",
+      "excerpt": "137 points · 31 comments",
       "publishedAt": "2026-09-01T17:36:02.000Z",
       "category": "tech",
-      "score": 132,
+      "score": 137,
       "source": "Hacker News"
     },
     {
@@ -298,7 +298,7 @@
       "excerpt": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory&#x2F;RAM, thanks to expert-offloading&#x2F;ssd-streaming. Easy to install&#x2F;update, and mac-native using MLX and Swift.It ships with auto-mode, wh",
       "publishedAt": "2026-09-01T16:42:46.000Z",
       "category": "tech",
-      "score": 130,
+      "score": 134,
       "source": "Hacker News"
     },
     {
@@ -308,57 +308,47 @@
       "excerpt": "Hey HN, I’m Antonio from Nori Robotics (https:&#x2F;&#x2F;norirobotics.com). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but g",
       "publishedAt": "2026-09-01T17:35:10.000Z",
       "category": "tech",
-      "score": 110,
+      "score": 111,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "url": "https://openai.com/index/path-to-astra/",
-      "excerpt": "73 points · 29 comments",
+      "excerpt": "80 points · 37 comments",
       "publishedAt": "2026-09-01T20:20:41.000Z",
       "category": "tech",
-      "score": 73,
+      "score": 80,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
       "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "excerpt": "72 points · 34 comments",
+      "excerpt": "75 points · 35 comments",
       "publishedAt": "2026-09-01T19:55:47.000Z",
       "category": "tech",
-      "score": 72,
+      "score": 75,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Magic eye tube",
       "url": "https://en.wikipedia.org/wiki/Magic_eye_tube",
-      "excerpt": "71 points · 22 comments",
+      "excerpt": "73 points · 22 comments",
       "publishedAt": "2026-08-29T15:03:41.000Z",
       "category": "tech",
-      "score": 71,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Ask HN: Who wants to be hired? (September 2026)",
-      "url": "https://news.ycombinator.com/item?id=49522896",
-      "excerpt": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé&#x2F;CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here.Readers: please only email ",
-      "publishedAt": "2026-09-01T15:01:17.000Z",
-      "category": "tech",
-      "score": 68,
+      "score": 73,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Specifications Don't Exist (2025)",
       "url": "https://www.galois.com/articles/specifications-dont-exist",
-      "excerpt": "46 points · 3 comments",
+      "excerpt": "50 points · 8 comments",
       "publishedAt": "2026-08-26T12:40:56.000Z",
       "category": "tech",
-      "score": 46,
+      "score": 50,
       "source": "Hacker News"
     },
     {
@@ -368,17 +358,17 @@
       "excerpt": "I&#x27;m the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube&#x2",
       "publishedAt": "2026-09-01T22:06:57.000Z",
       "category": "tech",
-      "score": 34,
+      "score": 39,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "My local model setup on an M4 Pro Mac Mini",
       "url": "https://lws.io/blog/my-local-model-setup/",
-      "excerpt": "28 points · 3 comments",
+      "excerpt": "35 points · 7 comments",
       "publishedAt": "2026-09-01T22:30:52.000Z",
       "category": "tech",
-      "score": 28,
+      "score": 35,
       "source": "Hacker News"
     },
     {
@@ -388,14 +378,24 @@
       "excerpt": "Hi!Every month the &quot;Who Wants to Be Hired?&quot; and &quot;Who&#x27;s Hiring?&quot; Threads come through I would think to myself, &quot;there should be a match maker for these two threads&quot;.So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using ",
       "publishedAt": "2026-09-01T20:53:35.000Z",
       "category": "tech",
-      "score": 27,
+      "score": 33,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Sonic Pi",
+      "url": "https://sonic-pi.net/",
+      "excerpt": "20 points · 2 comments",
+      "publishedAt": "2026-08-28T17:51:19.000Z",
+      "category": "tech",
+      "score": 20,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Fluorescent lamps (don't) have ears",
       "url": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
-      "excerpt": "19 points · 4 comments",
+      "excerpt": "19 points · 6 comments",
       "publishedAt": "2026-09-01T21:19:10.000Z",
       "category": "tech",
       "score": 19,
@@ -403,42 +403,42 @@
     },
     {
       "sourceId": "hackernews",
-      "title": "Sonic Pi",
-      "url": "https://sonic-pi.net/",
-      "excerpt": "16 points · 2 comments",
-      "publishedAt": "2026-08-28T17:51:19.000Z",
-      "category": "tech",
-      "score": 16,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
       "title": "Make a Portable Wide-screen Mechanical TV",
       "url": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-      "excerpt": "16 points · 2 comments",
+      "excerpt": "17 points · 2 comments",
       "publishedAt": "2026-08-28T15:06:31.000Z",
       "category": "tech",
-      "score": 16,
+      "score": 17,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "What's within a 10-minute walk in 50 European cities",
-      "url": "https://strado.info/",
-      "excerpt": "8 points · 1 comments",
-      "publishedAt": "2026-09-01T22:45:54.000Z",
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "excerpt": "7 points · 1 comments",
+      "publishedAt": "2026-09-01T23:48:05.000Z",
       "category": "tech",
-      "score": 8,
+      "score": 7,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Building Autonomous Goal Loops That Deliver",
+      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
+      "excerpt": "5 points · 0 comments",
+      "publishedAt": "2026-08-29T11:49:32.000Z",
+      "category": "tech",
+      "score": 5,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Improving our alignment and security efforts",
       "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "excerpt": "3 points · 1 comments",
+      "excerpt": "5 points · 1 comments",
       "publishedAt": "2026-09-01T23:12:45.000Z",
       "category": "tech",
-      "score": 3,
+      "score": 5,
       "source": "Hacker News"
     },
     {
@@ -1038,6 +1038,15 @@
     },
     {
       "sourceId": "simonwillison",
+      "title": "GeoJSON Map Viewer",
+      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T18:05:45.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
       "title": "Quoting Tarn Adams",
       "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
       "excerpt": "",
@@ -1276,15 +1285,6 @@
       "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
       "excerpt": "",
       "publishedAt": "2026-08-19T22:46:07.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "Mojo🔥 is now open source",
-      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
-      "excerpt": "",
-      "publishedAt": "2026-08-18T21:39:20.000Z",
       "category": "tech",
       "source": "Simon Willison"
     },
