@@ -1,0 +1,46 @@
+{
+  "hero_headline": "人工智能安全与工程降本成为今日焦点",
+  "daily_overview": "当日技术圈聚焦安全与工程效率：METR发布OpenAI与Hugging Face遭入侵调查报告；Cloudflare实验压缩缓存以节省PB级存储；GitHub探讨AI编程降本，减少无效计算。开源领域，Google推出时间序列基础模型TimesFM，可用于零样本预测。",
+  "tech_briefs": [
+    {
+      "title": "OpenAI与Hugging Face遭入侵 METR发布调查报告",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "source": "Hacker News",
+      "summary": "METR发布关于OpenAI与Hugging Face遭黑客入侵事件的调查报告，给出该事件的核心教训与推理供应链安全建议。",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare用Zstandard压缩缓存 释放PB级空间",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare用Zstandard在缓存层做压缩原型验证，希望在相同硬件下缓存更多内容，进而节省PB级存储空间。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub公布AI编程降本策略与具体实践",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub详解AI编程成本优化：输出越短并非越便宜，关键在于减少完整任务中的无效计算，从而平衡成本与效果。",
+      "importance": 7
+    },
+    {
+      "title": "Google开源时间序列基础模型TimesFM",
+      "url": "https://github.com/google-research/timesfm",
+      "source": "GitHub Trending",
+      "summary": "TimesFM是Google Research预训练的时间序列基础模型，可零样本完成预测任务，适用于需求预测、指标监控等场景。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "行业重心正从单纯追求模型能力，转向供应链安全、基础设施效率与AI工程成本等扎实问题，值得持续观察。",
+  "keywords": [
+    "人工智能安全",
+    "Cloudflare",
+    "开源",
+    "时间序列模型",
+    "GitHub Copilot",
+    "缓存优化",
+    "工程效能"
+  ]
+}
