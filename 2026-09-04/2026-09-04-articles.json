@@ -6,201 +6,201 @@
       "title": "fmtlib/fmt",
       "url": "https://github.com/fmtlib/fmt",
       "excerpt": "A modern formatting library",
-      "meta": "C++ · ★ 25,061 · 🍴 3,014 · 📈 963 stars today",
+      "meta": "C++ · ★ 25,064 · 🍴 3,015 · 📈 963 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "fmt 是一个现代的 C++ 格式化库，用类似 Python 的 {} 语法提供类型安全、高性能的字符串格式化，替代 printf 与 iostream。它被广泛用于日志和字符串拼接，C++20 标准库的 std::format 也借鉴了它的设计。"
+      "summary": "现代 C++ 格式化库，类型安全、速度快，替代繁琐的 printf 与 sstream 写法，同时提供可扩展的格式化语法；C++20 的 std::format 即源自该项目。适合需要高性能日志、错误消息和字符串格式化的 C++ 开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
-      "meta": "Shell · ★ 247,336 · 🍴 20,967 · 📈 1,601 stars today",
+      "meta": "Shell · ★ 247,357 · 🍴 20,971 · 📈 1,601 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "mattpocock/skills 整理了一份供真实工程师使用的 AI agent skills，内容直接来自作者日常开发所用的 .agents 目录。面向编码智能体，把经验沉淀成可复用技能，适合想要提升 Claude Code 等工具工程能力的人。"
+      "summary": "Matt Pocock 公开自己的 AI 编码代理技能集，内容来自作者的真实 .agents 目录。它把资深工程师的工作习惯沉淀为可复用提示词模块，让 Claude Code 等代理按专业标准处理日常编码任务，适合想提升 AI 编码助手实战水平的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "excerpt": "The agent that grows with you",
-      "meta": "Python · ★ 240,825 · 🍴 49,340 · 📈 774 stars today",
+      "meta": "Python · ★ 240,832 · 🍴 49,342 · 📈 774 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hermes Agent 是 NousResearch 推出的智能体项目，主打“随用户一起成长”。它希望通过持续交互逐步适配个人工作流，做长期的 AI 协作助手；具体技术细节与用法需要参考仓库文档和发布说明。"
+      "summary": "Nous Research 发布的 AI Agent 项目，核心卖点是“随你一起成长”：不是一次性问答工具，而是在持续使用中逐步适应个人需求，带有开放研究性质。适合对个性化、可进化智能体感兴趣的开发者和研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "excerpt": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "meta": "JavaScript · ★ 123,379 · 🍴 6,668 · 📈 2,128 stars today",
+      "meta": "JavaScript · ★ 123,399 · 🍴 6,668 · 📈 2,128 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ponytail 让 AI 编码 agent 像最懒的资深工程师一样思考：凡是能不写的代码就不写，能不改动的代码就不动。它用于约束 agent 做最小化修改，减少无谓重构，适合维护大型代码库、控制变更风险和回归问题。"
+      "summary": "一个 AI agent 技能/提示词策略，鼓励模型像“组里最懒的资深工程师”一样思考：不写多余的代码，不做无谓重构，最好的代码是没写的代码。用于减少生成量、降低维护成本，适合希望 agent 更克制、不制造技术债的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "excerpt": "Public repository for Agent Skills",
-      "meta": "Python · ★ 173,639 · 🍴 20,603 · 📈 281 stars today",
+      "meta": "Python · ★ 173,646 · 🍴 20,605 · 📈 281 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这是 Anthropic 官方维护的 Agent Skills 公共仓库，用于发布和共享可复用的 agent 技能。每个 skill 将特定任务的提示词、知识与流程打包，供 Claude Code 等智能体按需调用，提升复杂操作的稳定性与可维护性。"
+      "summary": "Anthropic 官方的 Agent Skills 公开仓库。Skill 把提示词、示例与资源打包成独立模块，Claude Code 等代理可按需加载，从而复用某类工程能力。适合希望在团队里标准化 AI 编码工作流、共建内部技能库的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 247,162 · 🍴 37,245 · 📈 751 stars today",
+      "meta": "JavaScript · ★ 247,171 · 🍴 37,248 · 📈 751 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ECC 是一个面向 AI agent 执行框架的性能优化系统，为 Claude Code、Codex、OpenCode、Cursor 等补上 skills、instincts、memory、security 等能力，并采用 research-first 的开发流程，提升智能体在真实工程中的表现。"
+      "summary": "面向编码 agent 的 harness 性能优化系统。通过技能、直觉、记忆、安全与研究优先的方式，让 Claude Code、Codex、OpenCode、Cursor 等工具在真实任务中更聪明、更可控。适合重度依赖 AI 代理、需要系统化调优的工程师。"
     },
     {
       "sourceId": "github-trending",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "excerpt": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "meta": "Go · ★ 103,084 · 🍴 5,994 · 📈 543 stars today",
+      "meta": "Go · ★ 103,090 · 🍴 5,994 · 📈 543 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "caveman 是面向 Claude Code 的 skill，通过让模型用“原始人式”极简英文表达，少说空话、只保留关键信息，声称可为交互削减 65% 的 token 消耗。适合对模型成本敏感、需要批量处理长文本或频繁调用 agent 的场景。"
+      "summary": "Claude Code 专用技能：让模型改用“原始人式”输出，词少、句子短、不要废话，从而削减 token 消耗约 65%。适合成本敏感的长会话和批量代码处理场景，但需要接受输出更简短。"
     },
     {
       "sourceId": "github-trending",
       "title": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "excerpt": "Agent skill that removes signs of AI-generated writing from text",
-      "meta": "Python · ★ 41,452 · 🍴 3,547 · 📈 1,208 stars today",
+      "meta": "Python · ★ 41,462 · 🍴 3,547 · 📈 1,208 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "humanizer 是一个 AI agent skill，用于去除文本中明显的 AI 写作痕迹，例如套路化措辞、机械句式和过度工整的过渡。它把文字改写得更像真人表达，适合内容编辑、博客撰写和营销文案等需要自然语感的场景。"
+      "summary": "Agent 技能，用于消除文本中的 AI 写作痕迹。它会改写过于工整、机械和“AI 腔”的句子，让内容更像人写的。适用于营销文案、博客、邮件等对外材料，也可嵌入 Claude Code 等 agent 的后期处理流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "excerpt": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "meta": "Python · ★ 30,693 · 🍴 2,930 · 📈 1,618 stars today",
+      "meta": "Python · ★ 30,696 · 🍴 2,930 · 📈 1,618 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "TimesFM 是 Google Research 开发并开源的时间序列基础模型，专注于时间序列预测。它通过大规模预训练学习通用的时间序列规律，可在新数据集上直接执行零样本预测，常用于销量预测、资源监控、异常检测等业务场景。"
+      "summary": "TimesFM 是 Google Research 开源的预训练时间序列基础模型，基于 Transformer 在大规模时间序列数据上预训练。它能在不针对新数据训练的情况下做零样本预测，适合销售预测、流量估计、服务器监控与金融时序等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "averygan/reclip",
       "url": "https://github.com/averygan/reclip",
       "excerpt": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "meta": "HTML · ★ 8,349 · 🍴 1,362 · 📈 88 stars today",
+      "meta": "HTML · ★ 8,358 · 🍴 1,363 · 📈 88 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "reclip 是一个轻量级、可自托管的媒体下载器，带简洁的 Web UI，能解析并下载来自几乎所有网站的视频。用户可把它部署在自己的服务器或 NAS 上，获得无广告、无在线限制的私有下载服务。"
+      "summary": "可自托管的轻量媒体下载器，支持从绝大多数网站下载视频，并提供简洁的 Web 操作界面。部署后直接在浏览器里粘贴链接即可保存内容，服务端完全自控，适合离线备份视频、不想依赖中心化下载服务的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "bannedbook/fanqiang",
       "url": "https://github.com/bannedbook/fanqiang",
       "excerpt": "翻墙-科学上网",
-      "meta": "Kotlin · ★ 52,129 · 🍴 8,468 · 📈 522 stars today",
+      "meta": "Kotlin · ★ 52,136 · 🍴 8,468 · 📈 522 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目以“翻墙-科学上网”为主题，集中整理了相关工具、教程与使用资料。作为 GitHub 上长期维护的资源仓库，它旨在为需要了解网络访问技术和工具的读者提供一份可参考的集合，具体内容包括客户端、配置和常见说明。"
+      "summary": "被广泛收藏的“科学上网/翻墙”资料合集，持续整理代理客户端、协议、订阅服务、工具配置与常见问题。适合有跨境网络访问需求的读者快速查找工具、比较不同方案；项目时效性强，使用前需自行评估安全与合规风险。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 92,023 · 🍴 9,810 · 📈 264 stars today",
+      "meta": "JavaScript · ★ 92,024 · 🍴 9,812 · 📈 264 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "addyosmani/agent-skills 是 Addy Osmani 维护的生产级 AI 编码智能体技能集。它把代码审查、调试、性能分析、工程最佳实践等整理成可复用的技能文件，供 Claude Code 等 AI agent 在真实项目中调用，帮助开发者获得更像资深工程师的辅助。"
+      "summary": "Addy Osmani 开的 AI 编码代理技能集，主打“生产级工程能力”。它把代码审查、重构、性能优化、测试等经验固化为 agent 可加载的技能，让代理按专业工程师的方式工作。适合在真实项目中严肃使用 Claude Code 等编码代理的人。"
     },
     {
       "sourceId": "github-trending",
       "title": "ByteByteGoHq/system-design-101",
       "url": "https://github.com/ByteByteGoHq/system-design-101",
       "excerpt": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-      "meta": "★ 88,321 · 🍴 9,821 · 📈 171 stars today",
+      "meta": "★ 88,329 · 🍴 9,821 · 📈 171 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ByteByteGo 出品的系统设计图解教程，用可视化方式和通俗语言解释复杂系统。内容覆盖架构、分布式系统、消息队列、数据库等主题，适合准备系统设计面试的工程师，也适合希望快速建立系统设计知识框架的自学者。"
+      "summary": "ByteByteGo 出品的图解系统设计教程，用大量图示和通俗语言解释复杂系统。内容覆盖数据库、缓存、消息队列、API 网关、微服务与一致性等核心主题，目标是帮助工程师准备系统设计面试、建立架构全局观。"
     },
     {
       "sourceId": "github-trending",
       "title": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
       "excerpt": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "meta": "TypeScript · ★ 1,935 · 🍴 142 · 📈 161 stars today",
+      "meta": "TypeScript · ★ 1,944 · 🍴 142 · 📈 161 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Magnitude 是一个开源推理服务器，能根据当前硬件自动选择和运行最适合的开源本地模型，并提供接入现有 AI agent 的端口。它兼容 Claude Code、Codex、OpenCode、Hermes 等工具，适合想用本地模型换隐私与低成本团队。"
+      "summary": "开源推理服务器，能根据当前硬件自动选择并运行最合适的本地模型，同时接入 Codex、Claude Code、OpenCode、Hermes 等常用 agent。它把本地推理无缝接进现有 AI 编码工作流，兼顾数据隐私与低延迟，适合自托管开发环境。"
     },
     {
       "sourceId": "github-trending",
       "title": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "excerpt": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "meta": "Python · ★ 45,986 · 🍴 3,602 · 📈 496 stars today",
+      "meta": "Python · ★ 45,990 · 🍴 3,602 · 📈 496 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "academic-research-skills 为 Claude Code 提供了一条学术研究技能链：research → write → review → revise → finalize。适合用 AI agent 做文献调研、论文初稿、同行评审式修改和最终润色的科研人员，让写作流程更结构化。"
+      "summary": "为 Claude Code 设计的学术研究技能包，把论文工作组织成“研究→写作→评审→修改→定稿”流程。用户可分阶段调用，获得文献调研、起草、批判性审稿与润色辅助。适合希望借助 agent 推进论文的研究生和科研人员。"
     },
     {
       "sourceId": "github-trending",
       "title": "Gitlawb/openclaude",
       "url": "https://github.com/Gitlawb/openclaude",
       "excerpt": "runs anywhere. uses anything",
-      "meta": "TypeScript · ★ 32,335 · 🍴 9,018 · 📈 451 stars today",
+      "meta": "TypeScript · ★ 32,340 · 🍴 9,018 · 📈 451 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenClaude 的简介很短：runs anywhere, uses anything。结合项目名推测，它想提供一个不受平台和模型绑定的 Claude 风格智能体工具；不过仓库信息有限，具体支持哪些运行环境和后端还需阅读 README 确认。"
+      "summary": "开源 AI 代理运行工具，口号是“随处运行、使用任何东西”。它不强绑定某个模型或运行环境，旨在让 agent 在不同平台上接入多种后端与工具链。适合想自由组合模型、避免工具锁定的开发者，具体能力需参考仓库文档。"
     },
     {
       "sourceId": "github-trending",
       "title": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "meta": "Python · ★ 16,232 · 🍴 2,201 · 📈 1,672 stars today",
+      "meta": "Python · ★ 16,246 · 🍴 2,201 · 📈 1,672 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "VoiceStudio 是开源、完全本地运行的 ElevenLabs 替代品，支持声音克隆、声音设计、视频配音、听写、转写和有声书生成，宣称覆盖 646 种语言。数据全程本地处理，适合注重隐私的内容创作者和有声内容生产团队。"
+      "summary": "开源且完全本地的语音工具套件，被视为 ElevenLabs 的自托管替代方案。支持声音克隆、音色设计、视频配音、听写、转录和有声书生成，声称覆盖 646 种语言。由于数据不出本机，适合隐私敏感的创作者、研究者和语音产品团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "excerpt": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "meta": "HTML · ★ 168,972 · 🍴 21,761 · 📈 168 stars today",
+      "meta": "HTML · ★ 168,978 · 🍴 21,761 · 📈 168 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "prompts.chat 是社区驱动的 AI 提示词分享与发现平台，前身是 Awesome ChatGPT Prompts。项目免费开源，可以自托管部署到组织内部，使团队在完全隐私可控的环境下收集、共享和沉淀日常使用的提示词。"
+      "summary": "开源的提示词分享与发现平台，前身是 Awesome ChatGPT Prompts。支持社区上传、浏览和收藏提示词，也支持企业自托管，把数据与使用记录留在内网。适合想要内部沉淀提示词资产、又希望保留公共社区资源的 AI 团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 281,325 · 🍴 25,202 · 📈 462 stars today",
+      "meta": "Shell · ★ 281,331 · 🍴 25,203 · 📈 462 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "superpowers 是一套 agentic skills 框架与软件开发方法论，为 AI 智能体提供可组合的技能组织和开发流程。它不只是零散 skill 的集合，还配合一套可执行的方法论，让 Claude Code 等 agent 在软件项目中更可靠地完成任务。"
+      "summary": "一套 agentic skills 框架与软件开发方法论，把 AI 代理的技能模块同真实开发流程结合，让 agent 不只是“回答问题”，而能稳定推动代码项目前进。适合正在把编码代理引入日常研发、需要可重复工作流的工程师与团队。"
     },
     {
       "sourceId": "hackernews",
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
-      "excerpt": "1259 points · 360 comments",
+      "excerpt": "1280 points · 366 comments",
       "publishedAt": "2026-09-03T14:54:39.000Z",
       "category": "tech",
-      "score": 1259,
+      "score": 1280,
       "source": "Hacker News",
-      "summary": "HN 热榜上的一篇博文围绕 .name 顶级域名终止展开；当前获 1259 分与 360 条评论，讨论热度较高。"
+      "summary": "Neil Fraser 发表文章《.name Termination》，讨论 .name 项目或服务的终止。HN 帖子获得 1280 点，社区正热议该话题。"
     },
     {
       "sourceId": "hackernews",
@@ -209,42 +209,42 @@
       "excerpt": "System Card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astraRelated ongoing threads:OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https:&#x2F;&#x2F;news",
       "publishedAt": "2026-09-03T18:41:05.000Z",
       "category": "tech",
-      "score": 1184,
+      "score": 1211,
       "source": "Hacker News",
-      "summary": "OpenAI 发布 GPT-6 Astra 并释出系统卡（System Card），在 ARC-AGI-3 与 Artificial Analysis 编码智能体指数上均取得较大提升。"
+      "summary": "OpenAI 发布 GPT-6 Astra，并附系统卡；HN 相关讨论包括其在 ARC-AGI-3 与 Artificial Analysis Coding Agent Index 上的表现。"
     },
     {
       "sourceId": "hackernews",
       "title": "Audacity 4.0",
       "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-      "excerpt": "1032 points · 229 comments",
+      "excerpt": "1035 points · 231 comments",
       "publishedAt": "2026-09-03T10:53:08.000Z",
       "category": "tech",
-      "score": 1032,
+      "score": 1035,
       "source": "Hacker News",
-      "summary": "开源音频编辑器 Audacity 4.0 正式发布，GitHub 已放出该版本；HN 帖获 1032 分与 229 条评论。"
+      "summary": "开源音频编辑软件 Audacity 发布 4.0 正式版；HN 用户讨论新功能、改动与升级体验，帖子获得 1035 点与 231 条评论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
       "url": "https://anyhumanever.com/",
-      "excerpt": "444 points · 218 comments",
+      "excerpt": "451 points · 224 comments",
       "publishedAt": "2026-09-03T14:51:10.000Z",
       "category": "tech",
-      "score": 444,
+      "score": 451,
       "source": "Hacker News",
-      "summary": "Any Human Ever 这个网站会从所有曾活过的人中随机抽取一位，展示其一生；这一创意引发关于生命与历史的讨论。"
+      "summary": "网站「Any Human Ever」随机抽取一个曾经生活过的人，展示其一生轨迹；HN 用户围绕生命、历史与随机性展开讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "url": "https://inference-docs.cerebras.ai/models/overview",
-      "excerpt": "412 points · 125 comments",
+      "excerpt": "424 points · 125 comments",
       "publishedAt": "2026-09-03T18:32:13.000Z",
       "category": "tech",
-      "score": 412,
+      "score": 424,
       "source": "Hacker News",
-      "summary": "Cerebras 推理平台上线 Qwen 3.8 27B，推理速度可达 1500 tokens/s；HN 帖已有 412 分与 125 条评论。"
+      "summary": "Cerebras 宣布上线 Qwen 3.8 27B 模型，推理速度达 1500 tokens/s；HN 社区关注其速度、成本与模型表现。"
     },
     {
       "sourceId": "hackernews",
@@ -253,31 +253,42 @@
       "excerpt": "https:&#x2F;&#x2F;status.openai.comhttps:&#x2F;&#x2F;status.claude.comhttps:&#x2F;&#x2F;status.x.aiChatGPT outage – Resolved - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614 (315 comments)Claude outage – Resolved - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49549676 (146 comme",
       "publishedAt": "2026-09-03T15:07:01.000Z",
       "category": "tech",
-      "score": 321,
+      "score": 322,
       "source": "Hacker News",
-      "summary": "OpenAI、Claude 与 Grok 在同一时段发生服务中断，Ask HN 帖追问为何三者同时宕机；帖子列出的状态页均显示已恢复。"
+      "summary": "有用户在 HN 提问：为什么 OpenAI、Claude 与 Grok 同时宕机？状态页显示均已恢复，讨论聚焦于故障原因与现象。"
     },
     {
       "sourceId": "hackernews",
       "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
       "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-      "excerpt": "266 points · 181 comments",
+      "excerpt": "268 points · 183 comments",
       "publishedAt": "2026-09-03T11:01:04.000Z",
       "category": "tech",
-      "score": 266,
+      "score": 268,
       "source": "Hacker News",
-      "summary": "Gergely Orosz 在 Twitter 指出，Google Antigravity TOS 规定第三方使用可导致 Google 账号被暂停，引发 181 条 HN 评论。"
+      "summary": "有帖子指出 Google Antigravity 的服务条款允许第三方使用导致 Google 账号被暂停；HN 用户对此政策影响进行讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "K2 Horizon: A connected fleet of six open models",
       "url": "https://ifm.ai/blog/k2/",
-      "excerpt": "240 points · 79 comments",
+      "excerpt": "242 points · 79 comments",
       "publishedAt": "2026-09-03T15:36:43.000Z",
       "category": "tech",
-      "score": 240,
+      "score": 242,
       "source": "Hacker News",
-      "summary": "K2 Horizon 正式发布，定位为由六个开放模型组成的互联模型舰队；HN 讨论关注多模型之间的协作与生态。"
+      "summary": "ifm.ai 发布 K2 Horizon：一个由六个开源模型组成的互联模型舰队；HN 讨论其架构、开放性与应用场景。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "excerpt": "177 points · 49 comments",
+      "publishedAt": "2026-09-03T01:11:22.000Z",
+      "category": "tech",
+      "score": 177,
+      "source": "Hacker News",
+      "summary": "围棋棋手 Shin 以两子劣势击败 AI KataGo；这一结果引发对 KataGo 水平与人类棋手能力的讨论。"
     },
     {
       "sourceId": "hackernews",
@@ -286,30 +297,9 @@
       "excerpt": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.I spent the last few weeks analyzi",
       "publishedAt": "2026-09-03T14:28:18.000Z",
       "category": "tech",
-      "score": 171,
+      "score": 176,
       "source": "Hacker News",
-      "summary": "作者分享将 1993 年在巴格达用 MC68000 汇编开发的 Amiga 游戏移植到 Godot 的过程：借助 Claude Fable 5 阅读汇编，一晚完成移植；后续手感调整与发布又花了数个周末。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "excerpt": "170 points · 47 comments",
-      "publishedAt": "2026-09-03T01:11:22.000Z",
-      "category": "tech",
-      "score": 170,
-      "source": "Hacker News",
-      "summary": "围棋高手 Shin 在让两子的对局中击败 AI KataGo；HN 帖获 170 分与 47 条评论，引发对人机对弈的讨论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "excerpt": "151 points · 81 comments",
-      "publishedAt": "2026-09-03T19:45:00.000Z",
-      "category": "tech",
-      "score": 151,
-      "source": "Hacker News"
+      "summary": "作者分享用 Claude Fable 5 阅读 68000 汇编，将 1993 年在巴格达用 MC68000 汇编编写的 Amiga 游戏移植到 Godot；主体移植只用了一个晚上。"
     },
     {
       "sourceId": "hackernews",
@@ -318,27 +308,47 @@
       "excerpt": "https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-e...",
       "publishedAt": "2026-09-01T19:02:34.000Z",
       "category": "tech",
-      "score": 149,
+      "score": 161,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Gloria Steinem has died",
-      "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
-      "excerpt": "https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;03&#x2F;us&#x2F;politics&#x2F;gloria-steine..., https:&#x2F;&#x2F;archive.ph&#x2F;cfC1K",
-      "publishedAt": "2026-09-03T10:31:18.000Z",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "excerpt": "154 points · 85 comments",
+      "publishedAt": "2026-09-03T19:45:00.000Z",
       "category": "tech",
-      "score": 132,
+      "score": 154,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
       "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "excerpt": "126 points · 36 comments",
+      "excerpt": "130 points · 42 comments",
       "publishedAt": "2026-09-03T16:21:33.000Z",
       "category": "tech",
-      "score": 126,
+      "score": 130,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "excerpt": "108 points · 13 comments",
+      "publishedAt": "2026-08-31T22:21:58.000Z",
+      "category": "tech",
+      "score": 108,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "excerpt": "104 points · 48 comments",
+      "publishedAt": "2026-09-03T00:49:07.000Z",
+      "category": "tech",
+      "score": 104,
       "source": "Hacker News"
     },
     {
@@ -353,82 +363,72 @@
     },
     {
       "sourceId": "hackernews",
-      "title": "GPS glitched across the US by as much as 33 feet",
-      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
-      "excerpt": "98 points · 37 comments",
-      "publishedAt": "2026-09-03T00:49:07.000Z",
-      "category": "tech",
-      "score": 98,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
       "title": "Unusual Suspects",
       "url": "https://neal.fun/unusual-suspects/",
-      "excerpt": "93 points · 21 comments",
+      "excerpt": "95 points · 21 comments",
       "publishedAt": "2026-09-02T15:48:13.000Z",
       "category": "tech",
-      "score": 93,
+      "score": 95,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "How concerned should we be about Astra's recurrent architecture?",
       "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
-      "excerpt": "78 points · 40 comments",
+      "excerpt": "81 points · 41 comments",
       "publishedAt": "2026-09-03T17:10:06.000Z",
       "category": "tech",
-      "score": 78,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Xanadu was waiting for agents",
-      "url": "https://zed.dev/blog/agentic-xanadu",
-      "excerpt": "70 points · 25 comments",
-      "publishedAt": "2026-09-01T18:50:42.000Z",
-      "category": "tech",
-      "score": 70,
+      "score": 81,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
       "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "excerpt": "66 points · 17 comments",
+      "excerpt": "71 points · 20 comments",
       "publishedAt": "2026-09-03T21:20:34.000Z",
       "category": "tech",
-      "score": 66,
+      "score": 71,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Xanadu was waiting for agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "excerpt": "71 points · 26 comments",
+      "publishedAt": "2026-09-01T18:50:42.000Z",
+      "category": "tech",
+      "score": 71,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The asteroid currently hitting front end web development",
       "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-      "excerpt": "62 points · 58 comments",
+      "excerpt": "64 points · 61 comments",
       "publishedAt": "2026-09-03T19:17:24.000Z",
       "category": "tech",
-      "score": 62,
+      "score": 64,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The true horror of Edgar Allan Poe’s stories lies in their confessions",
       "url": "https://yalereview.org/article/emily-ogden-edgar-allan-poe",
-      "excerpt": "48 points · 19 comments",
+      "excerpt": "52 points · 19 comments",
       "publishedAt": "2026-09-02T15:18:59.000Z",
       "category": "tech",
-      "score": 48,
+      "score": 52,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+      "title": "GLP-1s are being linked to fewer serious infections, including TB",
       "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-      "excerpt": "28 points · 14 comments",
+      "excerpt": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260903235256&#x2F;https:&#x2F;&#x2F;gizmodo.c...",
       "publishedAt": "2026-09-03T22:37:31.000Z",
       "category": "tech",
-      "score": 28,
+      "score": 34,
       "source": "Hacker News"
     },
     {
@@ -453,32 +453,22 @@
     },
     {
       "sourceId": "hackernews",
-      "title": "Protecting Engineers' Skills in the AI Era",
-      "url": "https://spectrum.ieee.org/ai-engineer-skills",
-      "excerpt": "22 points · 12 comments",
-      "publishedAt": "2026-09-03T23:00:04.000Z",
-      "category": "tech",
-      "score": 22,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
       "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
       "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
-      "excerpt": "22 points · 4 comments",
+      "excerpt": "24 points · 6 comments",
       "publishedAt": "2026-09-01T20:46:03.000Z",
       "category": "tech",
-      "score": 22,
+      "score": 24,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "ITA Controlled English (CE)",
-      "url": "https://github.com/ce-store/ce-store",
-      "excerpt": "5 points · 0 comments",
-      "publishedAt": "2026-09-02T06:39:23.000Z",
+      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+      "url": "https://news.ycombinator.com/item?id=49555592",
+      "excerpt": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in &quot;strict&quot; mode. Disabled Privacy Badger for that site, and it didn&#x27;t help. Tried private browsing, and it didn&#x27;t help.Is this part of Google&#x27;s war aga",
+      "publishedAt": "2026-09-03T19:38:46.000Z",
       "category": "tech",
-      "score": 5,
+      "score": 11,
       "source": "Hacker News"
     },
     {
@@ -488,7 +478,17 @@
       "excerpt": "Hi everyone,Wanted to share a game I built. It&#x27;s called Unscramble! and I believe it&#x27;s the simplest word building game.Rules: You get a few letters on screen. You need to make one word with all the letters. Tap a letter to select. Tap again to deselect. Faster you go, better you score.If y",
       "publishedAt": "2026-09-03T14:37:21.000Z",
       "category": "tech",
-      "score": 4,
+      "score": 5,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "ITA Controlled English (CE)",
+      "url": "https://github.com/ce-store/ce-store",
+      "excerpt": "5 points · 1 comments",
+      "publishedAt": "2026-09-02T06:39:23.000Z",
+      "category": "tech",
+      "score": 5,
       "source": "Hacker News"
     },
     {
@@ -500,6 +500,15 @@
       "category": "tech",
       "score": 1,
       "source": "Hacker News"
+    },
+    {
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（via） OpenClaw 2.0 是一个缩影 本周，OpenClaw 发布了2.0版。 是不是很久没听到这个名字了？现在很少有人提到它，不过就是半年。 回想今年春节，它一夜走红，引发了全民热议。一时间，上门安装龙虾成了热门服务，还真有不少人付费。 仅仅过了半年，它就成了昨日黄花，已经被遗忘了。AI 时代就是这样，新事物层出不穷，再大的热门也就走红几天。 用了半年，它终于从",
+      "publishedAt": "2026-09-03T23:59:05.000Z",
+      "category": "tech",
+      "source": "阮一峰的网络日志"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -516,15 +525,6 @@
       "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
       "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁波的杭州湾海月剧场，原址是江边的废弃码头，被改建为古典园林。（via） 程序员的职业未来 程序员这个职业，将来会怎样？现在有很多说法。 一些人认为，将来的代码都是 AI 生成，市场不需要那么多程序员。极端情况下，程序员职业可能会消失。 另一些人认为，不必杞人忧天，AI 不过替代一部分手工编码，替代不了人类的判断。AI 让世界需要更多的代码，程序员职业不仅不会萎缩，反而继续兴旺下去。 我最近看到一个老外对程序员职业的",
       "publishedAt": "2026-08-20T23:53:54.000Z",
-      "category": "tech",
-      "source": "阮一峰的网络日志"
-    },
-    {
-      "sourceId": "ruanyf-blog",
-      "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
-      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 浙江台州的椒江滨江公共空间生态绿廊，象征涟漪从水面蔓延，涌上岸边，堆积成丘。（via） 你需要知道的 AI 缓存知识 大模型的价格，主要是 Token 的输入价格和输出价格，这个很容易理解。 但是，还有一项\"输入 Token 的缓存命中价格\"，这是什么东西？ 上图是 DeepSeek V4 Flash 模型的定价，可以看到缓存命中的输入价格只有2分钱，足足是未命中的输入价格的五十分之一！ 为什么相差这些大？我们能不能",
-      "publishedAt": "2026-08-13T23:54:49.000Z",
       "category": "tech",
       "source": "阮一峰的网络日志"
     },

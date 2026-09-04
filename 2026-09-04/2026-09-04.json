@@ -1,47 +1,54 @@
 {
-  "hero_headline": "Anthropic 开设智能体技能公开仓库",
-  "daily_overview": "今日焦点是 AI 工程化落地：Anthropic 公开 Agent Skills 仓库，技能复用趋势渐明；Cloudflare 结合 OpenAI 模型实现上下文感知漏洞修复；一项 17k 次实测对比编程 Agent 工具偏好；GitHub Copilot 也在探索降低生成成本。AI 应用正从追逐模型参数转向构建可靠且可负担的生产力。",
+  "hero_headline": "GPT-6 Astra 评测引热议，AI 安全修复与编程提效并行",
+  "daily_overview": "当日 AI 领域信号密集：GPT-6 Astra 在 ARC-AGI-3 基准上的表现成为社区焦点；Cloudflare 将生产流量与 OpenAI Daybreak 模型结合，探索从漏洞发现到补丁建议的闭环；GitHub Copilot 与多份实测报告则推动 AI 编程走向降本和工具选型精细化；医药领域也有关联性研究更新。",
   "tech_briefs": [
     {
-      "title": "Anthropic 开设智能体技能公开仓库",
-      "url": "https://github.com/anthropics/skills",
-      "source": "GitHub Trending",
-      "summary": "Anthropic 在 GitHub 开设公开的 Agent Skills 仓库，集中托管可复用的智能体技能定义。开发者可借此分享标准化的工具调用与任务处理流程，降低智能体编排门槛，是 Agent 生态组件化的一次重要推进。",
-      "importance": 8
+      "title": "GPT-6 Astra 在 ARC-AGI-3 基准上的表现引热议",
+      "url": "https://arcprize.org/blog/astra",
+      "source": "Hacker News",
+      "summary": "ARC Prize 公布 OpenAI GPT-6 Astra 在 ARC-AGI-3 推理基准上的结果，引发模型能力与基准意义的讨论；Simon Willison 也同步发布相关解读（多家报道）。",
+      "importance": 9
     },
     {
-      "title": "Cloudflare 发布上下文感知漏洞修复",
+      "title": "Cloudflare 让 AI 参与漏洞发现与修复闭环",
       "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
       "source": "Cloudflare Blog",
-      "summary": "Cloudflare 将 Web 防火墙数据与 OpenAI Daybreak 模型结合，利用生产流量和安全信号给漏洞排序，在安全时先行缓解，并自动生成代码补丁，完成上下文感知的漏洞发现与修复。",
+      "summary": "Cloudflare 将 WAF 数据与 OpenAI Daybreak 模型结合，利用生产流量和安全信号排出漏洞优先级，并给出边缘缓解方案与代码补丁建议。",
       "importance": 8
     },
     {
-      "title": "17k 次编程运行揭示 Agent 工具偏好",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "source": "Hacker News",
-      "summary": "一项对 17000 次编程运行的分析统计了 Claude、Codex、Cursor 在完成任务时会主动选用哪些工具，结果可为开发者选择编程智能体及预装环境提供参考，并引发对于 Agent 默认行为差异的讨论。",
+      "title": "GitHub Copilot 探索 AI 编码降本路径",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub Engineering 介绍 Copilot 如何减少完整编码任务中的无效工作，在降低算力成本的同时保持任务质量。",
       "importance": 7
     },
     {
-      "title": "GitHub Copilot 探索降本不降质编码策略",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-      "source": "GitHub Engineering",
-      "summary": "GitHub 工程团队解释为何短输出未必更省钱，并介绍 Copilot 在完整编码任务中减少无效计算、降低推理成本的同时保持任务质量的实现思路，为 AI 编程工具的经济性优化提供参考。",
+      "title": "1.7 万次实测：AI 编程代理工具选择有差异",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "source": "Hacker News",
+      "summary": "一项针对 Claude、Codex、Cursor 等编码代理的 1.7 万次运行统计显示，不同智能体在工具安装与调用习惯上存在差异，可供开发者优化工作流参考。",
+      "importance": 7
+    },
+    {
+      "title": "GLP-1 药物与结核等严重感染减少相关",
+      "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+      "source": "Hacker News",
+      "summary": "新证据显示，服用 GLP-1 类药物的人群出现肺结核等严重感染的几率较低，研究团队正探讨其潜在免疫调节机制。",
       "importance": 6
     }
   ],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "AI 发展正从单纯模型比拼转向工程落地。技能仓库、漏洞自动修复与成本优化共同指向同一方向：把更强模型转化为可靠且可负担的生产力。",
+  "editor_note": "模型迭代与安全基建同速前进，业界更看重成本和可验证收益。漏洞闭环与疗效证据仍需审慎跟进，避免被单一结论带偏。",
   "keywords": [
-    "Agent Skills",
-    "AI安全",
-    "漏洞修复",
-    "Anthropic",
+    "GPT-6 Astra",
+    "ARC-AGI-3",
     "Cloudflare",
+    "OpenAI Daybreak",
     "GitHub Copilot",
-    "成本优化",
-    "AI工程化"
+    "AI 编程",
+    "漏洞修复",
+    "GLP-1"
   ]
 }
