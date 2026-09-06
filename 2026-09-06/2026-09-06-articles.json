@@ -6,160 +6,160 @@
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
-      "meta": "Shell · ★ 252,574 · 🍴 21,316 · 📈 2,666 stars today",
+      "meta": "Shell · ★ 252,597 · 🍴 21,318 · 📈 2,692 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向真实工程师的 Agent Skill 集合，内容直接来自作者日常使用的 .agents 目录，涵盖 AI 辅助编程中的实用技能与工作流，开箱即用提升 Claude Code 等编码智能体的执行力。"
+      "summary": "作者从自己的 .agents 目录整理公开的 Agent Skills，面向真实工程师使用。仓库提供可直接复用的技能定义，帮助在 Claude Code 等 AI 编程工具中注入更靠谱的工作流。适合希望把资深开发者经验沉淀到智能体的工程团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 249,864 · 🍴 37,612 · 📈 1,325 stars today",
+      "meta": "JavaScript · ★ 249,874 · 🍴 37,612 · 📈 1,314 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "针对 Claude Code、Codex、OpenCode、Cursor 等编程智能体的性能优化系统，整合 Skills、本能、记忆、安全与 research-first 研发策略，让 agent harness 更高效、更可靠。"
+      "summary": "面向 AI Agent 的运行时性能优化系统，为 Claude Code、Codex、OpenCode、Cursor 等工具补充技能、本能、记忆与安全机制。采用 research-first 的研究驱动开发，目标是让代理在复杂任务中更高效、更稳定。适合重度使用编码代理的开发者调试和提升 harness 表现。"
     },
     {
       "sourceId": "github-trending",
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "excerpt": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "meta": "JavaScript · ★ 127,901 · 🍴 6,845 · 📈 2,813 stars today",
+      "meta": "JavaScript · ★ 127,922 · 🍴 6,845 · 📈 2,845 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "让 AI 编程助手像最懒的资深工程师一样思考——尽量不改代码、不写新代码。通过约束 agent 的思维偏好，让产出保持最小改动，避免过度设计，降低维护成本。"
+      "summary": "让 AI agent 在写代码时模仿最懒的资深开发者的思维方式——能不写就不写，能少改就少改。该技能可减少无用代码生成，引导模型优先考虑最小变更和删除冗余逻辑。适合希望降低维护成本、让 AI 更贴合工程实际的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "excerpt": "The agent that grows with you",
-      "meta": "Python · ★ 241,986 · 🍴 49,718 · 📈 573 stars today",
+      "meta": "Python · ★ 241,996 · 🍴 49,720 · 📈 575 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个宣称“与你一同成长”的 AI 智能体。名字来自 Nous Research，强调随用户长期使用而演化，适合需要持续适应个人工作流的对话与编程场景，但仓库暂无详细技术说明。"
+      "summary": "这是 Nous Research 发布的智能体项目，定位为“与你一同成长的 agent”。区别于一次性问答工具，它强调通过持续使用积累能力并适配用户。适合想要长期陪伴型、个性化 AI 助手的开发者和研究场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "fmtlib/fmt",
       "url": "https://github.com/fmtlib/fmt",
       "excerpt": "A modern formatting library",
-      "meta": "C++ · ★ 25,567 · 🍴 3,043 · 📈 133 stars today",
+      "meta": "C++ · ★ 25,567 · 🍴 3,043 · 📈 134 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "C++ 现代格式化库，提供类型安全、高性能的文本格式化能力，替代 printf 与 iostream。支持编译期格式串检查、自定义类型格式化，广泛用于日志、输出与规范化文本构造。"
+      "summary": "现代 C++ 格式化库，提供类型安全、快速且可扩展的文本格式化能力。以花括号替代 printf 风格占位符，解决传统流式输出性能差、代码冗长的问题。已被大量 C++ 项目用作 stdout、日志和错误信息的基础设施，支持 C++11 以上标准。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "excerpt": "Public repository for Agent Skills",
-      "meta": "Python · ★ 174,548 · 🍴 20,670 · 📈 472 stars today",
+      "meta": "Python · ★ 174,552 · 🍴 20,671 · 📈 475 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic 官方发布的 Agent Skills 公开仓库，存放供 Claude 等代理调用的可复用技能定义，通常以结构化指令方式扩展智能体能力，开发者可直接获取并部署这些官方技能。"
+      "summary": "Anthropic 官方公开的 Agent Skills 仓库，存放可发给 Claude 的结构化技能定义。Skills 可以封装专业知识、操作步骤与提示词，让 Claude 在项目中按需调用。适合希望为 Claude Code 定制领域能力、统一团队 AI 工作流的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "excerpt": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "meta": "HTML · ★ 31,670 · 🍴 2,040 · 📈 852 stars today",
+      "meta": "HTML · ★ 31,679 · 🍴 2,040 · 📈 855 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "汇集 38 种编辑级图表类型的 Agent Skill，面向 Claude Code、Codex 和 Pi。产物为自包含 HTML + SVG，无需外部依赖或阴影渲染，规避 Mermaid 等工具的粗糙效果，适合需要精致可交付图表的文档与演示场景。"
+      "summary": "包含 38 种编辑部风格的图表设计技能，专为 Claude Code、Codex 和 Pi 打造。每张图都是自包含 HTML+SVG，强调清晰排版，不用阴影，也不依赖 Mermaid 生成的劣质图表。适合需要在 AI 工作流中直接产出出版物级示意图的开发者与内容团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "excerpt": "The open source coding agent.",
-      "meta": "TypeScript · ★ 204,665 · 🍴 26,701 · 📈 725 stars today",
+      "meta": "TypeScript · ★ 204,669 · 🍴 26,702 · 📈 725 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的编码智能体，可直接在终端中执行代码开发任务，支持多种 AI 模型后端，提供透明交互与自主编码能力，适合偏好开源、本地掌控的开发者日常使用。"
+      "summary": "开源编码智能体，可在终端里与代码库协作，自主完成代码搜索、修改与执行。优点是透明可控，开发者能审查每一步操作，也支持自定义 agent 配置。适合希望在本地获得类似 Claude Code 体验、但不锁定厂商的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "excerpt": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "meta": "TypeScript · ★ 70,687 · 🍴 8,414 · 📈 127 stars today",
+      "meta": "TypeScript · ★ 70,688 · 🍴 8,414 · 📈 136 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个 Agent 元框架，用于部署多智能体群组、协调自主工作流、构建对话式 AI 系统。特色是自适应记忆与自我学习能力，定位为支持复杂协作场景的原始构建层。"
+      "summary": "一个 agent meta-harness，用于部署多智能体群体并协调自主工作流，同时支持构建对话式 AI。具备自适应记忆与自学习智能，适合需要让多个 AI 角色协同处理复杂任务、或搭建长期记忆型交互系统的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "humanlayer/skills",
       "url": "https://github.com/humanlayer/skills",
       "excerpt": "",
-      "meta": "TypeScript · ★ 2,681 · 🍴 74 · 📈 408 stars today",
+      "meta": "TypeScript · ★ 2,686 · 🍴 74 · 📈 442 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "HumanLayer 的 Agent Skills 仓库，目前缺少描述与具体说明；可推断为 HumanLayer 围绕人工参与智能体流程沉淀的技能集合，详细用途需查看仓库内文件。"
+      "summary": "HumanLayer 的 Agent Skills 仓库。官方未提供描述，但结合 HumanLayer 的定位，内容很可能是让 AI agent 在关键节点请求人工确认的技能包，用于把审批、交接等人为流程接入编码或自动化任务。具体可用技能需查看仓库目录。"
     },
     {
       "sourceId": "github-trending",
       "title": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "excerpt": "Agent skill that removes signs of AI-generated writing from text",
-      "meta": "Python · ★ 43,459 · 🍴 3,644 · 📈 988 stars today",
+      "meta": "Python · ★ 43,468 · 🍴 3,645 · 📈 990 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个 Agent Skill，用来抹去文本中的 AI 生成痕迹，使 AI 写出的内容读起来更像人类自然表达。适用于文章、邮件、社交媒体等需要去“机器味”的文本输出场景。"
+      "summary": "Agent skill，用于从本文中去掉 AI 写作痕迹。它能识别并改写机器味表达，使输出更像自然人手笔。适合需要提交非 AI 生成内容、或希望文本读起来更有人情味的场景，可直接嵌入 Claude 等智能体工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "BraveOPotato/FckSignups",
       "url": "https://github.com/BraveOPotato/FckSignups",
       "excerpt": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "meta": "TypeScript · ★ 2,877 · 🍴 198 · 📈 50 stars today",
+      "meta": "TypeScript · ★ 2,881 · 🍴 198 · 📈 68 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一份精选工具清单，收录无需注册即可直接在浏览器中使用的开源项目，覆盖多种日常在线需求，适合注重隐私、希望免登录快速上手工具的用户。"
+      "summary": "整理了一批开源、可运行在浏览器里的免注册工具，规避账号墙。列表覆盖日常生产与创作需求，用户打开即用，无需提供邮箱或登录。适合注重隐私、厌恶 signup 流程、希望快速使用网页工具的人群。"
     },
     {
       "sourceId": "github-trending",
       "title": "WorldFlowAI/everything-claude-code",
       "url": "https://github.com/WorldFlowAI/everything-claude-code",
       "excerpt": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
-      "meta": "JavaScript · ★ 2,341 · 🍴 361 · 📈 139 stars today",
+      "meta": "JavaScript · ★ 2,342 · 🍴 361 · 📈 95 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Claude Code 的一站式工具包，汇集 agents、commands、skills、rules、hooks 等配置与扩展。目标是让 AI 辅助开发更顺手，提供可复用的生产力配置供开发者直接采用。"
+      "summary": "Claude Code 全家桶：集中提供 agents、commands、skills、rules 和 hooks 等配置资源，帮助开发者配置高效的 AI 辅助开发环境。省去从零摸索 prompt 和横切关注点，适合刚上手 Claude Code 或想系统性优化本地工作流的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
       "excerpt": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "meta": "TypeScript · ★ 3,185 · 🍴 228 · 📈 686 stars today",
+      "meta": "TypeScript · ★ 3,186 · 🍴 229 · 📈 674 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源推理服务器，会根据当前硬件自动挑选并运行最适合的本地模型，同时接入用户已有的 AI agent。兼容 Pi、OpenCode、Hermes、Codex、Claude Code 等多种工具，是为本地模型提供统一服务层的方案。"
+      "summary": "开源推理服务器，根据本机硬件自动选择并运行最佳本地模型，然后接入你已经在用的 AI agent。兼容 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code 等主流客户端。适合希望用本地模型替代云端、又不更换 agent 工作流的隐私敏感用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "bikini/exploitarium",
       "url": "https://github.com/bikini/exploitarium",
       "excerpt": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always f",
-      "meta": "Python · ★ 4,699 · 🍴 1,252 · 📈 232 stars today",
+      "meta": "Python · ★ 4,700 · 🍴 1,253 · 📈 230 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "公共 Exploit PoC 与漏洞研究文章的单一存档。作者发布时表示尚未向厂商报告，鼓励他人自行上报认领 CVE，适合安全研究员跟进新漏洞并学习利用链研究。"
+      "summary": "公开漏洞利用 PoC 与安全研究 writeup 的集中归档库。作者发布时这些 PoC 尚未被正式报告，鼓励研究者自行提交获取 CVE 编号。适合安全研究人员复现漏洞、学习利用链或在目标程序上验证安全问题。"
     },
     {
       "sourceId": "github-trending",
       "title": "nvm-sh/nvm",
       "url": "https://github.com/nvm-sh/nvm",
       "excerpt": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
-      "meta": "Shell · ★ 94,910 · 🍴 10,424 · 📈 57 stars today",
+      "meta": "Shell · ★ 94,911 · 🍴 10,424 · 📈 22 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Node 版本管理器：遵循 POSIX 的 bash 脚本，用于在同一系统中安装、切换、管理多个 Node.js 版本。是前端与 Node 开发者切换项目运行时环境的常用命令行工具。"
+      "summary": "Node 版本管理器，用 POSIX 兼容 bash 编写，可在一个系统中并行安装和管理多个 Node.js 版本。支持按项目切换、alias 和 shell 集成，是所有在本地做 Node 前端或后端开发的人员常用的基础工具。"
     },
     {
       "sourceId": "hackernews",
@@ -168,9 +168,9 @@
       "excerpt": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...",
       "publishedAt": "2026-09-04T11:54:53.000Z",
       "category": "tech",
-      "score": 2080,
+      "score": 2083,
       "source": "Hacker News",
-      "summary": "一个名为collusion.wiki的网站被指是近期发现的OpenAI智能体留言板，页面附有路透社报道链接，内容涉及OpenAI智能体被劫持的事件。"
+      "summary": "Collusion Wiki 网站声称发现一个新的 OpenAI 智能体消息板；该站链接到路透社关于 OpenAI 智能体被劫持的报道。"
     },
     {
       "sourceId": "hackernews",
@@ -179,31 +179,31 @@
       "excerpt": "https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...",
       "publishedAt": "2026-09-04T18:42:56.000Z",
       "category": "tech",
-      "score": 741,
+      "score": 743,
       "source": "Hacker News",
-      "summary": "Anthropic发布研究，介绍如何对费马大定理进行形式化证明，并附Xena项目博客链接，展示定理证明器在数学中的实际应用价值。"
+      "summary": "Anthropic 发布研究，尝试以形式化方法验证费马大定理，将数学证明转化为可检查的形式；后续讨论见 Xena Project 博客。"
     },
     {
       "sourceId": "hackernews",
       "title": "Actively exploited sandbox RCE in all Chromium versions",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "excerpt": "735 points · 433 comments",
+      "excerpt": "736 points · 435 comments",
       "publishedAt": "2026-09-04T21:52:01.000Z",
       "category": "tech",
-      "score": 735,
+      "score": 736,
       "source": "Hacker News",
-      "summary": "NVD披露CVE-2026-85046高危漏洞：所有Chromium版本中使用的沙箱存在已被积极利用的远程代码执行漏洞，风险严重，影响范围极大。"
+      "summary": "NVD 漏洞库披露 CVE-2026-85046：所有 Chromium 版本均受影响，存在已被积极利用的沙箱远程代码执行（RCE）漏洞，构成严重安全风险。"
     },
     {
       "sourceId": "hackernews",
       "title": "Nitter has more working instances than before the takedowns",
       "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "excerpt": "609 points · 290 comments",
+      "excerpt": "612 points · 291 comments",
       "publishedAt": "2026-09-05T00:04:16.000Z",
       "category": "tech",
-      "score": 609,
+      "score": 612,
       "source": "Hacker News",
-      "summary": "Nitter经历多次实例被迫下架后，目前可用的公开实例数量反而比被下架前更多，引发了对类似联邦服务的韧性讨论。"
+      "summary": "Nitter 遭遇封禁打击之后，可用实例数量反而超过此前；该 Codeberg 页面汇总了当前仍在工作的实例列表，便于用户和社区选用。"
     },
     {
       "sourceId": "hackernews",
@@ -214,81 +214,81 @@
       "category": "tech",
       "score": 439,
       "source": "Hacker News",
-      "summary": "Statichost.eu推出面向欧洲用户的静态网站托管服务，强调数据储存在欧盟境内，注重数据主权与隐私保护，是替代大型云厂商的选择。"
+      "summary": "Statichost.eu 提供欧洲地区的静态网站托管服务，支持用户部署个人或项目静态网站，并配有简洁的托管使用体验。"
     },
     {
       "sourceId": "hackernews",
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "excerpt": "372 points · 205 comments",
+      "excerpt": "374 points · 206 comments",
       "publishedAt": "2026-09-04T19:48:29.000Z",
       "category": "tech",
-      "score": 372,
+      "score": 374,
       "source": "Hacker News",
-      "summary": "EEBench博客通过一系列基准测试来回答AI是否已能设计电路板，重点评估PCB布局等任务，指出当前模型的可行性与明显局限。"
+      "summary": "EEBench 博客发文探讨 AI 是否已经能设计电路板，评估当前 AI 工具在这一领域的实际表现与能力边界。"
     },
     {
       "sourceId": "hackernews",
       "title": "Private German rocket makes history, reaches orbit from European soil",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "excerpt": "290 points · 144 comments",
+      "excerpt": "305 points · 157 comments",
       "publishedAt": "2026-09-05T20:31:38.000Z",
       "category": "tech",
-      "score": 290,
+      "score": 305,
       "source": "Hacker News",
-      "summary": "德国Isar Aerospace公司的Spectrum火箭从挪威安岛航天港完成第二次发射并成功入轨，成为欧洲本土首次由私营公司送入轨道的火箭。"
+      "summary": "德国私人火箭公司 Isar Aerospace 的 Spectrum 火箭从挪威安岛航天港点火升空并顺利入轨，成为首枚从欧洲本土进入轨道的私人火箭。"
     },
     {
       "sourceId": "hackernews",
       "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
       "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "excerpt": "261 points · 77 comments",
+      "excerpt": "265 points · 80 comments",
       "publishedAt": "2026-09-05T13:36:38.000Z",
       "category": "tech",
-      "score": 261,
+      "score": 265,
       "source": "Hacker News",
-      "summary": "该方案利用AMD BC-250芯片组装约60美元的游戏电脑，作者实测了该配置在2025年的实际游戏性能，并探讨廉价装机的可行性。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": ".gitignore Everything by Default",
-      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
-      "excerpt": "150 points · 146 comments",
-      "publishedAt": "2026-09-05T13:19:42.000Z",
-      "category": "tech",
-      "score": 150,
-      "source": "Hacker News",
-      "summary": "文章推荐默认在.gitignore中忽略所有文件，再按需显式添加需要版本控制的文件，用白名单机制防止误提交无关内容。"
+      "summary": "DevQuasar 介绍一款 60 美元的游戏 PC 方案（2025 年），核心采用 AMD BC-250 芯片，展示了低成本装机的可行方向。"
     },
     {
       "sourceId": "hackernews",
       "title": "Learn Programming with OCaml",
       "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "excerpt": "148 points · 67 comments",
+      "excerpt": "153 points · 68 comments",
       "publishedAt": "2026-09-05T16:45:02.000Z",
       "category": "tech",
-      "score": 148,
+      "score": 153,
       "source": "Hacker News",
-      "summary": "该教程使用OCaml语言教授编程基础，强调类型系统与函数式思维，适合想从不同视角入门编程的学习者。"
+      "summary": "法国 LMF/CNRS 推出的 Learn Programming with OCaml 课程，面向初学者讲解函数式编程与 OCaml 语言核心概念。"
     },
     {
       "sourceId": "hackernews",
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
-      "excerpt": "145 points · 129 comments",
+      "excerpt": "152 points · 132 comments",
       "publishedAt": "2026-09-05T20:02:35.000Z",
       "category": "tech",
-      "score": 145,
+      "score": 152,
+      "source": "Hacker News",
+      "summary": "arXiv 论文《LLMs as a Cognitive Virus》将大型语言模型（LLM）类比为认知病毒，探讨这一类比下的传播方式与潜在认知风险。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": ".gitignore Everything by Default",
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "excerpt": "151 points · 151 comments",
+      "publishedAt": "2026-09-05T13:19:42.000Z",
+      "category": "tech",
+      "score": 151,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
       "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "excerpt": "120 points · 14 comments",
+      "excerpt": "121 points · 14 comments",
       "publishedAt": "2026-09-05T13:31:05.000Z",
       "category": "tech",
-      "score": 120,
+      "score": 121,
       "source": "Hacker News"
     },
     {
@@ -305,70 +305,70 @@
       "sourceId": "hackernews",
       "title": "Isar Aerospace launch into orbit [video]",
       "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-      "excerpt": "76 points · 18 comments",
+      "excerpt": "78 points · 18 comments",
       "publishedAt": "2026-09-05T20:25:30.000Z",
       "category": "tech",
-      "score": 76,
+      "score": 78,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
       "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-      "excerpt": "72 points · 9 comments",
+      "excerpt": "74 points · 9 comments",
       "publishedAt": "2026-09-05T12:23:51.000Z",
       "category": "tech",
-      "score": 72,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "excerpt": "51 points · 20 comments",
-      "publishedAt": "2026-09-05T20:25:59.000Z",
-      "category": "tech",
-      "score": 51,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Delidded Intel I9-14900KS CT Scan",
-      "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
-      "excerpt": "50 points · 0 comments",
-      "publishedAt": "2026-09-02T16:56:03.000Z",
-      "category": "tech",
-      "score": 50,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-      "url": "https://github.com/iczelia/balrogg",
-      "excerpt": "48 points · 8 comments",
-      "publishedAt": "2026-09-03T13:37:22.000Z",
-      "category": "tech",
-      "score": 48,
+      "score": 74,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
       "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-      "excerpt": "48 points · 19 comments",
+      "excerpt": "55 points · 28 comments",
       "publishedAt": "2026-09-05T21:17:00.000Z",
       "category": "tech",
-      "score": 48,
+      "score": 55,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+      "excerpt": "52 points · 21 comments",
+      "publishedAt": "2026-09-05T20:25:59.000Z",
+      "category": "tech",
+      "score": 52,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+      "url": "https://github.com/iczelia/balrogg",
+      "excerpt": "52 points · 8 comments",
+      "publishedAt": "2026-09-03T13:37:22.000Z",
+      "category": "tech",
+      "score": 52,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Delidded Intel I9-14900KS CT Scan",
+      "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+      "excerpt": "52 points · 0 comments",
+      "publishedAt": "2026-09-02T16:56:03.000Z",
+      "category": "tech",
+      "score": 52,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
       "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
-      "excerpt": "46 points · 5 comments",
+      "excerpt": "47 points · 5 comments",
       "publishedAt": "2026-09-01T17:38:10.000Z",
       "category": "tech",
-      "score": 46,
+      "score": 47,
       "source": "Hacker News"
     },
     {
@@ -383,22 +383,22 @@
     },
     {
       "sourceId": "hackernews",
-      "title": "Falsehoods Programmers Believe About LANs",
-      "url": "https://dreamstation.systems/personal/lanfalsehoods.html",
-      "excerpt": "39 points · 34 comments",
-      "publishedAt": "2026-09-05T22:08:16.000Z",
+      "title": "America's two largest school districts impose AI moratoriums",
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "excerpt": "43 points · 32 comments",
+      "publishedAt": "2026-09-05T21:43:22.000Z",
       "category": "tech",
-      "score": 39,
+      "score": 43,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "America's two largest school districts impose AI moratoriums",
-      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-      "excerpt": "36 points · 27 comments",
-      "publishedAt": "2026-09-05T21:43:22.000Z",
+      "title": "Singapore subway (mrt) information display types",
+      "url": "https://www.sgtrains.com/technology-infosys.html",
+      "excerpt": "40 points · 11 comments",
+      "publishedAt": "2026-09-02T13:30:09.000Z",
       "category": "tech",
-      "score": 36,
+      "score": 40,
       "source": "Hacker News"
     },
     {
@@ -408,67 +408,67 @@
       "excerpt": "Feedback welcome. Best on desktop. Works on mobile, but needs more polish there.My concept, my guidance, and Gemini Flash doing the work. Took about 4 hours and 50+ conversations with Gemini.Big Kudos to Gemini Flash (since 3.5 and later), because I have had great success with it on many projects.",
       "publishedAt": "2026-09-01T07:31:38.000Z",
       "category": "tech",
-      "score": 27,
+      "score": 31,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "How Swiss tables work in Go built-in map",
       "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-      "excerpt": "27 points · 1 comments",
+      "excerpt": "30 points · 1 comments",
       "publishedAt": "2026-09-03T11:59:17.000Z",
       "category": "tech",
-      "score": 27,
+      "score": 30,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "How AI is breaking the British state",
       "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-      "excerpt": "21 points · 20 comments",
+      "excerpt": "24 points · 32 comments",
       "publishedAt": "2026-09-05T21:05:35.000Z",
       "category": "tech",
-      "score": 21,
+      "score": 24,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The revolt of the reader",
       "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "excerpt": "14 points · 4 comments",
+      "excerpt": "22 points · 8 comments",
       "publishedAt": "2026-09-05T21:37:49.000Z",
       "category": "tech",
-      "score": 14,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
-      "url": "https://isaraerospace.com/mission-updates-overview",
-      "excerpt": "11 points · 1 comments",
-      "publishedAt": "2026-09-05T19:41:27.000Z",
-      "category": "tech",
-      "score": 11,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Topologist's Map of the World",
-      "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
-      "excerpt": "10 points · 4 comments",
-      "publishedAt": "2026-09-01T20:21:08.000Z",
-      "category": "tech",
-      "score": 10,
+      "score": 22,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
       "url": "https://github.com/okf-memory/okf-agent-memory",
-      "excerpt": "8 points · 2 comments",
+      "excerpt": "16 points · 6 comments",
       "publishedAt": "2026-09-05T22:15:52.000Z",
       "category": "tech",
-      "score": 8,
+      "score": 16,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+      "url": "https://isaraerospace.com/mission-updates-overview",
+      "excerpt": "13 points · 1 comments",
+      "publishedAt": "2026-09-05T19:41:27.000Z",
+      "category": "tech",
+      "score": 13,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Topologist's Map of the World",
+      "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
+      "excerpt": "11 points · 4 comments",
+      "publishedAt": "2026-09-01T20:21:08.000Z",
+      "category": "tech",
+      "score": 11,
       "source": "Hacker News"
     },
     {
