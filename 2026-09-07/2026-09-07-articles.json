@@ -6,213 +6,213 @@
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 251,273 · 🍴 37,774 · 📈 1,486 stars today",
+      "meta": "JavaScript · ★ 251,285 · 🍴 37,779 · 📈 1,485 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ECC 是面向 Claude Code、Codex、Opencode、Cursor 等 AI 编程代理的性能优化系统，为提示词技能、模型记忆、安全策略和研究优先开发提供统一协调。它把这些 harness 能力组件化，适合需要跨工具强化 Agent 开发效率与可控性的开发者。"
+      "summary": "ECC 是面向 AI 编程代理的运行时性能优化系统，将技能、本能、记忆、安全和研究驱动的开发方法整合为统一框架，支持 Claude Code、Codex、Opencode、Cursor 等主流 agent。适合需要系统化提升智能体长任务执行效率、稳定性和可扩展性的开发团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
-      "meta": "Shell · ★ 254,487 · 🍴 21,463 · 📈 2,206 stars today",
+      "meta": "Shell · ★ 254,508 · 🍴 21,465 · 📈 2,207 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该仓库收录了来自资深工程师 Matt Pocock 实际使用的 .agents 目录的 AI Agent 技能。它让 Claude Code 等编码代理直接复用真实开发者的工作流，弥补通用配置缺少工程上下文的问题，适合追求高效、真实编码体验的开发者。"
+      "summary": "TypeScript 专家 Matt Pocock 开源的 AI 编程技能集，内容直接取自他的 .agents 工作目录。包含大量真实工程中验证过的操作规范和编码习惯，可帮助 Claude Code 等智能体写出更务实、更符合工程师水准的代码。"
     },
     {
       "sourceId": "github-trending",
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "excerpt": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "meta": "HTML · ★ 32,318 · 🍴 2,074 · 📈 621 stars today",
+      "meta": "HTML · ★ 32,337 · 🍴 2,075 · 📈 620 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "提供 38 种编辑级图表类型，面向 Claude Code、Codex 与 Pi 等 AI 代理。所有图表输出为自包含 HTML+SVG，不依赖 Mermaid，无阴影，视觉效果更干净。适合需要让代理生成可直接嵌入文档或演示的高质量数据图表的用户。"
+      "summary": "为 Claude Code、Codex、Pi 等 AI 代理准备的 38 种编辑级图表设计类型。每种图表均以自包含 HTML+SVG 输出，不使用 Mermaid，也不带阴影等杂乱效果，适合需要生成可直接嵌入文档或演示的高质量结构化图表的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "excerpt": "The agent that grows with you",
-      "meta": "Python · ★ 242,528 · 🍴 49,878 · 📈 520 stars today",
+      "meta": "Python · ★ 242,534 · 🍴 49,883 · 📈 520 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hermes Agent 是 Nous Research 出品的智能代理项目，定位为“能随你一起成长”的代理。它强调在长期使用中学习用户习惯、积累记忆并持续适应个人需求，使助手越用越贴合自己的工作方式，适合追求个性化长期陪伴式 AI 助手的用户。"
+      "summary": "Nous Research 推出的 AI 代理项目，强调“会随着你成长”。它能够在使用过程中持续适应用户偏好和需求，逐渐形成个性化交互方式，适合希望拥有长期陪伴、可不断进化的 AI 助手的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "openai/skills",
       "url": "https://github.com/openai/skills",
       "excerpt": "Skills Catalog for Codex",
-      "meta": "Python · ★ 25,605 · 🍴 1,729 · 📈 44 stars today",
+      "meta": "Python · ★ 25,613 · 🍴 1,729 · 📈 46 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenAI 官方发布的 Codex Skills 目录，集中存放可被 Codex 调用的技能定义。通过将任务流程、Agent 行为和工程实践结构化，让 Codex 在复杂编码任务中表现更好；适合使用 Codex 并希望复用官方最佳实践的开发团队。"
+      "summary": "OpenAI 官方发布的 Codex 技能目录，收录了可复用的技能定义与工作流配置。开发者可以基于这些 skill 让 Codex 掌握特定领域的知识、编码规范或操作系统命令，从而在编程、调试和自动化任务中表现得更精准可靠。"
     },
     {
       "sourceId": "github-trending",
       "title": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "excerpt": "The open source coding agent.",
-      "meta": "TypeScript · ★ 205,241 · 🍴 26,772 · 📈 552 stars today",
+      "meta": "TypeScript · ★ 205,251 · 🍴 26,773 · 📈 551 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "opencode 是一款开源编程代理，能在终端中理解代码库并完成代码生成、修改、运行诊断等任务。它提供可本地部署、可审查的开放替代方案，适合不想被闭源编码服务锁定、需要将 Agent 深度接入自有开发工具的工程师。"
+      "summary": "anomalyco 维护的开源 AI 编码代理，以终端为主要交互界面，能够理解代码仓库、规划修改并自动执行命令。它强调开放性和可定制性，适合希望脱离闭源工具链、在本地搭建自主编程助手的开发者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "excerpt": "Agent skill that removes signs of AI-generated writing from text",
-      "meta": "Python · ★ 44,207 · 🍴 3,678 · 📈 748 stars today",
+      "meta": "Python · ★ 44,224 · 🍴 3,678 · 📈 748 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Humanizer 是一个面向 AI Agent 的技能包，用来去除文本中的 AI 生成痕迹，让语气和措辞更接近真实人类的写作习惯。可接入支持 skills 的代理，适合自动生成博客、邮件、报告或社交内容后需要降低机器感、提升自然度的场景。"
+      "summary": "一个用于去除文本 AI 生成痕迹的智能体技能。它通过调整措辞、句式和语言节奏，使内容读起来更像真人写作，适合内容创作者、博主以及需要降低文本机械感的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
       "excerpt": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "meta": "LLVM · ★ 40,207 · 🍴 18,559 · 📈 35 stars today",
+      "meta": "LLVM · ★ 40,210 · 🍴 18,559 · 📈 23 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "LLVM 项目是一套模块化、可复用的编译器与工具链技术集合，围绕语言无关的优化器与代码生成后端，构建了 Clang 等知名前端工具。它是大量编译器和开发者工具的基础设施，适合语言开发者、底层性能研究人员和工具链工程师使用。"
+      "summary": "LLVM 项目是模块化、可重用的编译器与工具链基础设施，涵盖中间表示、优化、代码生成和调试支持。它是 Clang、Rust、Swift 等语言工具链的核心底座，广泛用于编译器研发、静态分析和底层性能优化。"
     },
     {
       "sourceId": "github-trending",
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "excerpt": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "meta": "JavaScript · ★ 129,307 · 🍴 6,926 · 📈 1,539 stars today",
+      "meta": "JavaScript · ★ 129,322 · 🍴 6,927 · 📈 1,539 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Ponytail 让 AI 代理按“最懒的资深工程师”方式工作：能不写代码就不写，优先复用已有实现、删除多余抽象，把减少代码变更作为第一原则。它避免过度设计和无谓重写，适合想把生成代码用于遗留系统维护和架构简化的工程团队。"
+      "summary": "这个技能让 AI 代理像“团队里最懒的资深工程师”一样思考——最好的代码是无需写的代码。它会优先寻找不编码的解决方案，减少不必要的改动和复杂度，适合用来控制代码膨胀、避免过度工程。"
     },
     {
       "sourceId": "github-trending",
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "excerpt": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "meta": "TypeScript · ★ 70,971 · 🍴 8,435 · 📈 276 stars today",
+      "meta": "TypeScript · ★ 70,974 · 🍴 8,435 · 📈 276 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ruflo 是一个 agent 元框架，用于部署多智能体 swarm、协调自主工作流并构建对话式 AI 系统。它内置自适应记忆与自学习能力，使多个代理可以并发协作、持续演进；适合需要处理复杂自动化任务或快速搭建 AI 产品原型的开发者。"
+      "summary": "ruflo 是一个 Agent 元框架，用于部署多智能体“蜂群”、编排自主工作流以及构建对话式 AI 系统。它内置自适应记忆与自学习能力，适合需要多角色协同、复杂任务自动拆解和动态决策的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
       "excerpt": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "meta": "TypeScript · ★ 3,660 · 🍴 259 · 📈 604 stars today",
+      "meta": "TypeScript · ★ 3,666 · 🍴 259 · 📈 604 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Magnitude 是开源推理服务器，能根据当前硬件挑选最合适的本地模型并运行，再接入用户正在使用的 AI 代理。它兼容 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code 等工具，适合希望用本地模型保护隐私、降低调用成本同时保留现有工作流的开发者。"
+      "summary": "开源的本地推理服务器，能够根据你的硬件自动挑选并运行最佳本地模型，并接入 Claude Code、Codex、OpenCode、Hermes 等已有 AI 代理。适合既想保护数据隐私、又不想抛弃现有 agent 工作流的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "BraveOPotato/FckSignups",
       "url": "https://github.com/BraveOPotato/FckSignups",
       "excerpt": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "meta": "TypeScript · ★ 3,301 · 🍴 209 · 📈 436 stars today",
+      "meta": "TypeScript · ★ 3,308 · 🍴 209 · 📈 436 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个精选工具清单，收集开源、可在浏览器中直接使用且无需注册的工具。它专门应对“打开先注册/登录”的痛点，为编辑、转换、翻译等需求提供轻量替代品，适合注重隐私、讨厌账号流程或只想临时用一次解决任务的用户。"
+      "summary": "一个精心整理的清单，收录无需注册、开源且直接在浏览器中使用的工具。覆盖写作、开发、设计等常见需求，适合注重隐私、讨厌繁琐注册流程，或想快速试用各类在线工具的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "excerpt": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "meta": "JavaScript · ★ 47,495 · 🍴 7,386 · 📈 355 stars today",
+      "meta": "JavaScript · ★ 47,503 · 🍴 7,387 · 📈 329 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一组面向 Claude Code 等 AI 代理的营销技能合集，覆盖 CRO 转化率优化、文案写作、SEO、数据分析与增长工程。它把成熟营销方法固化为可调用技能，让团队可以用自然语言驱动完整任务流程，适合快速产出和迭代增长实验的独立开发者与营销团队。"
+      "summary": "专为 Claude Code 和 AI 代理设计的营销技能包，涵盖 CRO、文案写作、SEO、数据分析与增长工程。营销团队可以用自然语言驱动智能体完成竞品研究、页面优化、内容生成和数据复盘等日常工作。"
     },
     {
       "sourceId": "github-trending",
       "title": "aipoch/open-science",
       "url": "https://github.com/aipoch/open-science",
       "excerpt": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
-      "meta": "TypeScript · ★ 3,841 · 🍴 238 · 📈 145 stars today",
+      "meta": "TypeScript · ★ 3,850 · 🍴 238 · 📈 146 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Open Science 是 AIPOCH 推出的开源、本地优先、模型无关 AI 研究平台，支持 macOS、Windows 和 Linux。内置科学 agent、Python/R notebook、数据连接器与可复现实验流程，适合科研人员在不放弃本地隐私的前提下完成数据分析、实验记录和结果复现。"
+      "summary": "AIPOCH 开源的科学 AI 研究工作台，本地优先、支持 macOS/Windows/Linux，且不绑定特定模型。内置科学计算代理、Python/R notebook、数据连接器和可复现实验流程，适合科研人员和数据科学家在桌面上完成端到端研究。"
     },
     {
       "sourceId": "github-trending",
       "title": "OpenWhispr/openwhispr",
       "url": "https://github.com/OpenWhispr/openwhispr",
       "excerpt": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
-      "meta": "JavaScript · ★ 7,335 · 🍴 930 · 📈 225 stars today",
+      "meta": "JavaScript · ★ 7,350 · 🍴 930 · 📈 121 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenWhispr 是跨平台语音转文字听写应用，支持本地模型（Nvidia Parakeet/Whisper）和自带 API key 的云端模型。它采用隐私优先设计，音频可留在本机处理；适合需要听写、速记和无障碍输入，同时不愿将语音内容上传至第三方服务的用户。"
+      "summary": "跨平台的语音转文字听写应用，支持本地 Nvidia Parakeet/Whisper 模型，也可自带云模型密钥。采用隐私优先设计，音频默认在本地处理，适合对数据敏感的用户用于会议记录、笔记整理和快速文字输入。"
     },
     {
       "sourceId": "github-trending",
       "title": "humanlayer/skills",
       "url": "https://github.com/humanlayer/skills",
       "excerpt": "",
-      "meta": "TypeScript · ★ 3,119 · 🍴 90 · 📈 451 stars today",
+      "meta": "TypeScript · ★ 3,126 · 🍴 91 · 📈 451 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "HumanLayer/skills 目前只有“skills”这个名称，没有附带项目描述。它大概率与 HumanLayer 的 AI agent 生态相关，可能包含一批可复用技能或配置样例；因信息不足，建议直接查看仓库文件结构来判断是否适合自己的 Agent 工作流。"
+      "summary": "HumanLayer 官方的智能体技能仓库，致力于把 human-in-the-loop 能力封装为可复用技能。通过这套 skills，AI 代理可以在重要步骤请求人工确认、反馈或审批，使自动化流程具备可控性和安全性。"
     },
     {
       "sourceId": "github-trending",
       "title": "The-Swarm-Corporation/AutoHedge",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "excerpt": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "meta": "Python · ★ 4,697 · 🍴 775 · 📈 137 stars today",
+      "meta": "Python · ★ 4,706 · 🍴 775 · 📈 142 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AutoHedge 宣称能在几分钟内搭建自主对冲基金，利用群体智能（swarm intelligence）和 AI agents 自动化市场分析、风险管理与交易执行。它面向量化交易开发者和算法交易团队，用来快速验证和部署交易策略；但实盘使用前仍需独立审查回测逻辑与风控设计。"
+      "summary": "AutoHedge 利用群智和 AI 代理自动搭建量化对冲基金，在数分钟内即可启动一套完整系统。它自动化了市场分析、风险管理与交易执行，适合量化开发者用来快速验证策略或部署小规模自动交易。"
     },
     {
       "sourceId": "github-trending",
       "title": "Stremio/stremio-web",
       "url": "https://github.com/Stremio/stremio-web",
       "excerpt": "Stremio - Freedom to Stream",
-      "meta": "JavaScript · ★ 13,466 · 🍴 1,544 · 📈 121 stars today",
+      "meta": "JavaScript · ★ 13,469 · 🍴 1,544 · 📈 122 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Stremio Web 是流媒体平台 Stremio 的网页版，让用户在一个统一界面中接入多个插件和视频源，直接通过浏览器观看和整理内容。它支持 add-on 生态与观看进度同步，适合不想安装桌面应用、希望跨设备保持影像库一致的自由流媒体用户。"
+      "summary": "Stremio 是开源媒体中心，stremio-web 是它的网页版，让用户无需安装桌面客户端即可在浏览器中聚合、播放来自各类插件源的影视内容。界面简洁、扩展生态丰富，适合想自由组合视频源并在多设备上观看的用户。"
     },
     {
       "sourceId": "hackernews",
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "excerpt": "550 points · 177 comments",
+      "excerpt": "553 points · 178 comments",
       "publishedAt": "2026-09-06T07:21:06.000Z",
       "category": "tech",
-      "score": 550,
+      "score": 553,
       "source": "Hacker News",
-      "summary": "德国航天公司Isar Aerospace在第二次试飞中成功入轨并部署有效载荷，被视为欧洲商业航天的重要里程碑，HN用户对此反应热烈。"
+      "summary": "德国太空初创公司Isar Aerospace第二次飞行即成功入轨并部署载荷，创造了欧洲航天史的新纪录，标志着欧洲商业航天的重要突破。"
     },
     {
       "sourceId": "hackernews",
       "title": "A/I shuts down – Stay human",
       "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "excerpt": "490 points · 351 comments",
+      "excerpt": "500 points · 358 comments",
       "publishedAt": "2026-09-06T14:34:34.000Z",
       "category": "tech",
-      "score": 490,
+      "score": 500,
       "source": "Hacker News",
-      "summary": "一篇标题为「A/I关闭——保持人性」的公告引发热议，内容涉及AI项目关停，讨论主要围绕人与AI的关系及人类立场。"
+      "summary": "KeepItFree宣布其A/I服务关闭，并呼吁“保持人性”。该消息引发关于AI技术发展方向与人文价值的广泛讨论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Your intellectual fly is open (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "excerpt": "481 points · 308 comments",
+      "excerpt": "490 points · 318 comments",
       "publishedAt": "2026-09-06T11:56:43.000Z",
       "category": "tech",
-      "score": 481,
+      "score": 490,
       "source": "Hacker News",
-      "summary": "Bryan Cantrill发文，用「裤子拉链没拉」比喻技术人在不自知中暴露智识短板，文章批判工程傲慢与思维盲区，引发大量讨论。"
+      "summary": "Bryan Cantrill撰文讨论技术圈中智力与沟通的“敞开的门”，反思技术人常忽视的认知盲区，引发社区热议。"
     },
     {
       "sourceId": "hackernews",
@@ -221,20 +221,20 @@
       "excerpt": "https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitterhttps:&#x2F;&#x2F;xcancel.com&#x2F;cdclegalhttps:&#x2F;&#x2F;nitter.net&#x2F;https:&#x2F;&#x2F;xcancel.com&#x2F;",
       "publishedAt": "2026-09-06T17:49:47.000Z",
       "category": "tech",
-      "score": 397,
+      "score": 415,
       "source": "Hacker News",
-      "summary": "开源Twitter/X前端Nitter与XCancel在取得法律建议后宣布恢复服务，相关代码提交确认了项目走向，受到隐私保护社区密切关注。"
+      "summary": "Nitter与XCancel在获得法律建议后恢复服务。此前项目曾暂停，现重新上线，相关法律与代码细节引起关注。"
     },
     {
       "sourceId": "hackernews",
       "title": "Doomscrolling Ourselves to Death",
       "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "excerpt": "351 points · 251 comments",
+      "excerpt": "355 points · 253 comments",
       "publishedAt": "2026-09-06T11:53:40.000Z",
       "category": "tech",
-      "score": 351,
+      "score": 355,
       "source": "Hacker News",
-      "summary": "文章《末日刷屏至死》（Doomscrolling Ourselves to Death）分析无休止浏览负面信息如何侵蚀人们的身心健康，引发关于媒介环境与公共情绪的讨论。"
+      "summary": "文章探讨“末日刷屏”现象如何侵蚀心理健康与认知能力，分析持续消费负面信息带来的危害，引发广泛反思与讨论。"
     },
     {
       "sourceId": "hackernews",
@@ -243,110 +243,130 @@
       "excerpt": "https:&#x2F;&#x2F;www.phoronix.com&#x2F;news&#x2F;Asahi-Linux-Official-M3",
       "publishedAt": "2026-09-06T14:08:59.000Z",
       "category": "tech",
-      "score": 327,
+      "score": 339,
       "source": "Hacker News",
-      "summary": "Asahi Linux项目在M3芯片适配方面取得新进展，发布官方进展内容并获得Phoronix关注，其对Apple Silicon的持续支持受到Linux用户与苹果生态用户期待。"
+      "summary": "Asahi Linux宣布正式支持M3芯片，文章标题暗示系列连载开始。此前Phoronix报道其官方M3支持状态，社区期待进展。"
     },
     {
       "sourceId": "hackernews",
       "title": "An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind/",
-      "excerpt": "295 points · 256 comments",
+      "excerpt": "305 points · 266 comments",
       "publishedAt": "2026-09-06T16:27:05.000Z",
       "category": "tech",
-      "score": 295,
+      "score": 305,
       "source": "Hacker News",
-      "summary": "OpenAI发表《异类心智》一文，探讨人工智能可能形成不同于人类的思维方式，引发关于AI可解释性与安全风险的激烈讨论。"
+      "summary": "OpenAI发布题为“异类心智”的文章，探讨AI智能与人类思维的差异，引发关于AGI本质与未来的热议。"
     },
     {
       "sourceId": "hackernews",
       "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
       "url": "https://en.wikipedia.org/wiki/M-DISC",
-      "excerpt": "178 points · 82 comments",
+      "excerpt": "178 points · 83 comments",
       "publishedAt": "2026-09-02T04:10:21.000Z",
       "category": "tech",
       "score": 178,
       "source": "Hacker News",
-      "summary": "维基百科条目介绍M-DISC：一种兼容DVD与蓝光的光盘介质，据称数据保存寿命可达1000年，适合用于长期归档和数字存储。"
+      "summary": "M-DISC是一种宣称可保存长达1000年的DVD/蓝光兼容光盘，采用无机记录层以提升耐久性，适用于长期数据归档。"
     },
     {
       "sourceId": "hackernews",
       "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
       "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "excerpt": "145 points · 56 comments",
+      "excerpt": "156 points · 77 comments",
       "publishedAt": "2026-09-06T20:24:00.000Z",
       "category": "tech",
-      "score": 145,
+      "score": 156,
       "source": "Hacker News",
-      "summary": "GrapheneOS完成了默认应用和安全剪贴板的改版，强化对剪贴板敏感数据的保护，进一步提升Android系统的隐私与安全特性。"
+      "summary": "GrapheneOS在Mastodon上宣布对其默认应用与安全剪贴板进行重大改进，强调隐私与安全性能提升，引发关注。"
     },
     {
       "sourceId": "hackernews",
       "title": "It took a year to ship WebAssembly in Anubis",
       "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "excerpt": "111 points · 74 comments",
+      "excerpt": "119 points · 81 comments",
       "publishedAt": "2026-09-06T20:32:38.000Z",
       "category": "tech",
-      "score": 111,
+      "score": 119,
       "source": "Hacker News",
-      "summary": "作者回顾了耗时一年在Anubis中交付WebAssembly支持的过程，分享性能优化、兼容性取舍等工程挑战，引发开发者讨论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "excerpt": "98 points · 4 comments",
-      "publishedAt": "2026-09-06T15:44:24.000Z",
-      "category": "tech",
-      "score": 98,
-      "source": "Hacker News"
+      "summary": "开发者讲述为Anubis项目引入WebAssembly历经一年的过程，涉及性能优化和技术选型挑战，分享了移植经验与心得。"
     },
     {
       "sourceId": "hackernews",
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "excerpt": "97 points · 68 comments",
+      "excerpt": "101 points · 70 comments",
       "publishedAt": "2026-09-06T15:08:44.000Z",
       "category": "tech",
-      "score": 97,
+      "score": 101,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "excerpt": "100 points · 4 comments",
+      "publishedAt": "2026-09-06T15:44:24.000Z",
+      "category": "tech",
+      "score": 100,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
       "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-      "excerpt": "81 points · 32 comments",
+      "excerpt": "86 points · 39 comments",
       "publishedAt": "2026-09-03T18:40:07.000Z",
       "category": "tech",
-      "score": 81,
+      "score": 86,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Research carried out using NetBSD",
       "url": "https://www.netbsd.org/gallery/research.html",
-      "excerpt": "73 points · 16 comments",
+      "excerpt": "74 points · 17 comments",
       "publishedAt": "2026-09-06T16:10:05.000Z",
       "category": "tech",
-      "score": 73,
+      "score": 74,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
       "url": "https://github.com/marsbos/mador",
-      "excerpt": "56 points · 21 comments",
+      "excerpt": "59 points · 21 comments",
       "publishedAt": "2026-09-06T20:45:13.000Z",
       "category": "tech",
-      "score": 56,
+      "score": 59,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
       "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-      "excerpt": "45 points · 31 comments",
+      "excerpt": "51 points · 38 comments",
       "publishedAt": "2026-09-06T21:16:10.000Z",
+      "category": "tech",
+      "score": 51,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Political meddling at the Census Bureau damages the US statistical system",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+      "excerpt": "48 points · 12 comments",
+      "publishedAt": "2026-09-06T22:36:07.000Z",
+      "category": "tech",
+      "score": 48,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Vidact – a compiler that turns React into direct DOM operations",
+      "url": "https://www.vidact.dev/",
+      "excerpt": "45 points · 21 comments",
+      "publishedAt": "2026-09-02T20:34:24.000Z",
       "category": "tech",
       "score": 45,
       "source": "Hacker News"
@@ -355,28 +375,28 @@
       "sourceId": "hackernews",
       "title": "Electronic skin for prosthetics to sense temperature and pressure",
       "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-      "excerpt": "42 points · 5 comments",
+      "excerpt": "44 points · 5 comments",
       "publishedAt": "2026-09-02T18:06:56.000Z",
       "category": "tech",
-      "score": 42,
+      "score": 44,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Vidact – a compiler that turns React into direct DOM operations",
-      "url": "https://www.vidact.dev/",
-      "excerpt": "41 points · 21 comments",
-      "publishedAt": "2026-09-02T20:34:24.000Z",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "excerpt": "38 points · 12 comments",
+      "publishedAt": "2026-09-06T23:14:08.000Z",
       "category": "tech",
-      "score": 41,
+      "score": 38,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Political meddling at the Census Bureau damages the US statistical system",
-      "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
-      "excerpt": "36 points · 6 comments",
-      "publishedAt": "2026-09-06T22:36:07.000Z",
+      "title": "Icy Moons Are Ocean Worlds",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "excerpt": "36 points · 3 comments",
+      "publishedAt": "2026-09-06T13:07:52.000Z",
       "category": "tech",
       "score": 36,
       "source": "Hacker News"
@@ -385,80 +405,60 @@
       "sourceId": "hackernews",
       "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
       "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
-      "excerpt": "32 points · 6 comments",
+      "excerpt": "35 points · 8 comments",
       "publishedAt": "2026-09-02T18:47:55.000Z",
       "category": "tech",
-      "score": 32,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "url": "https://arxiv.org/abs/2505.12540",
-      "excerpt": "30 points · 3 comments",
-      "publishedAt": "2026-09-06T20:31:20.000Z",
-      "category": "tech",
-      "score": 30,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "excerpt": "25 points · 7 comments",
-      "publishedAt": "2026-09-06T23:14:08.000Z",
-      "category": "tech",
-      "score": 25,
+      "score": 35,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
       "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-      "excerpt": "24 points · 10 comments",
+      "excerpt": "35 points · 14 comments",
       "publishedAt": "2026-09-06T22:43:25.000Z",
       "category": "tech",
-      "score": 24,
+      "score": 35,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "excerpt": "33 points · 3 comments",
+      "publishedAt": "2026-09-06T20:31:20.000Z",
+      "category": "tech",
+      "score": 33,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
       "url": "https://github.com/FulltimeFeline/Sol",
-      "excerpt": "18 points · 4 comments",
+      "excerpt": "23 points · 10 comments",
       "publishedAt": "2026-09-06T20:24:56.000Z",
       "category": "tech",
-      "score": 18,
+      "score": 23,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "D2 Is Non-Profit",
       "url": "https://d2lang.com/blog/d2-non-profit/",
-      "excerpt": "14 points · 5 comments",
+      "excerpt": "21 points · 6 comments",
       "publishedAt": "2026-09-06T19:11:05.000Z",
       "category": "tech",
-      "score": 14,
+      "score": 21,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Reverse engineering the storage format for an undocumented database",
       "url": "https://blog.glazer.ee/posts/converting-cronos/",
-      "excerpt": "12 points · 0 comments",
+      "excerpt": "18 points · 0 comments",
       "publishedAt": "2026-09-04T07:17:00.000Z",
       "category": "tech",
-      "score": 12,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "UN backs new map showing Africa's true relative size with US alone in opposition",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
-      "excerpt": "6 points · 0 comments",
-      "publishedAt": "2026-09-06T23:21:16.000Z",
-      "category": "tech",
-      "score": 6,
+      "score": 18,
       "source": "Hacker News"
     },
     {
@@ -1060,6 +1060,15 @@
     },
     {
       "sourceId": "simonwillison",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "excerpt": "",
+      "publishedAt": "2026-09-06T23:57:40.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
       "title": "The purpose of DNS is to spread scams",
       "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
       "excerpt": "",
@@ -1316,15 +1325,6 @@
       "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
       "excerpt": "",
       "publishedAt": "2026-08-24T11:38:15.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-      "excerpt": "",
-      "publishedAt": "2026-08-23T20:24:52.000Z",
       "category": "tech",
       "source": "Simon Willison"
     },
