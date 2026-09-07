@@ -1,0 +1,1562 @@
+{
+  "date": "2026-09-08",
+  "articles": [
+    {
+      "sourceId": "github-trending",
+      "title": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "excerpt": "Write HTML. Render video. Built for agents.",
+      "meta": "TypeScript · ★ 45,814 · 🍴 4,306 · 📈 734 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "面向 AI Agent 的 HTML 视频渲染工具：开发者或 Agent 能用 HTML 直接编写画面，再渲染为视频。它把视频制作变成可编程流程，省去传统剪辑/合成环节，适合自动化生成长视频、批量渲染模板，以及 Agent 自主产出视觉内容的场景。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "excerpt": "Python tool for converting files and office documents to Markdown.",
+      "meta": "Python · ★ 180,145 · 🍴 13,258 · 📈 771 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "微软开源的 Python 转换工具。它将 Word、PowerPoint、Excel、PDF 等办公文档及常见文件转换为格式统一的 Markdown 文本，方便后续提取与加工。适合用于文档解析、内容清洗，以及给大语言模型构建 RAG 知识库时准备训练和检索语料。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "excerpt": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "meta": "TypeScript · ★ 20,801 · 🍴 1,518 · 📈 147 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "针对 AI 编程 Agent 的上下文窗口优化系统。它通过沙箱隔离工具输出，可将上下文占用减少约 98%；还会持久化保存会话记忆，并依靠 MCP 与 hooks 在 17 个平台间完成路由。主要解决长任务中的上下文膨胀、工具输出污染和记忆丢失问题。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "excerpt": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "meta": "JavaScript · ★ 9,655 · 🍴 1,012 · 📈 285 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "面向 AI Agent 的隐蔽无头浏览器，可绕过 Cloudflare、机器人检测和常见反爬限制，降低自动化任务被拦截的概率。设计目标是成为 Puppeteer/Playwright 的即插即用替代品，适合网页数据采集、端点探测、自动化测试以及 Agent 需要伪装真人浏览器的场景。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "excerpt": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "meta": "TypeScript · ★ 9,695 · 🍴 8,986 · 📈 171 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "关于此仓库，可见信息只有授权条款：采用 CC BY-NC-SA 许可，禁止商业化，衍生项目必须保留原仓库地址并以相同方式开源。仓库名 LunaTV 未能对应明确的功能描述，因此暂不进行用途推断。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "meta": "JavaScript · ★ 252,796 · 🍴 37,923 · 📈 1,905 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "面向 Claude Code、Codex、Opencode、Cursor 等多款编程 Agent 的 Harness 性能优化系统，组合了技能、本能、记忆与安全机制，并以研究驱动的方式持续改进。可以用来增强 Agent 的指令遵循、工具调用和长任务稳定性，适合在多个 Agent 平台间统一能力与配置。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "excerpt": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "meta": "JavaScript · ★ 48,095 · 🍴 7,435 · 📈 602 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "为 Claude Code 和 AI Agent 设计的营销技能集合，覆盖 CRO、撰写文案、搜索引擎优化、数据分析与增长工程。通过加载这些技能，可让 Agent 自动完成竞品与市场调研、生成并优化落地页文案、设计转化实验，并把营销策略落地为可重复执行的工作流。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "excerpt": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "meta": "Python · ★ 5,232 · 🍴 799 · 📈 541 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "一个让用户快速搭建自主对冲基金的框架，借助 swarm intelligence 与多个 AI Agent 的分工协作，把市场分析、风险管理和交易执行串联成自动化流程。适合量化研究者、交易团队或技术用户实验多智能体驱动的算法交易策略。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "excerpt": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "meta": "TypeScript · ★ 3,796 · 🍴 225 · 📈 497 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "一个开源工具清单，收录完全开源、能在浏览器中直接使用且无需注册的项目。目标是让用户免去创建账号、填写邮箱和等待验证的麻烦，打开网页即可试用工具；适合开发者、设计师和普通用户寻找零门槛的在线开源工具。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "excerpt": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "meta": "Python · ★ 81,832 · 🍴 11,290 · 📈 188 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "字节跳动开源的长周期 SuperAgent 运行框架，能够承担研究、编程和内容创作等复杂任务。它把沙箱、记忆、工具、技能、子代理和消息网关集成在一起，按任务复杂度分配层级；适合用来构建可以进行多步规划、自主执行并持续学习的深度 Agent 应用。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "excerpt": "Skills Catalog for Codex",
+      "meta": "Python · ★ 26,019 · 🍴 1,746 · 📈 372 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "OpenAI 为 Codex 整理的 Skills Catalog，用来组织和发现可复用的 Agent 技能。开发者可以从中选用官方或社区定义的技能，帮助 Codex 更稳定地完成编写代码、测试、文档处理等任务，也可作为扩展自定义技能与分享最佳实践的参考。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "excerpt": "Lightpanda: the headless browser designed for AI and automation",
+      "meta": "Zig · ★ 34,830 · 🍴 1,646 · 📈 116 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Lightpanda 是专为 AI 与自动化场景打造的无头浏览器，比通用浏览器更轻量、启动更快，并针对无人值守和程序化控制做了优化。它能作为常见无头浏览器的替代方案，用于网页抓取、自动化测试、AI Agent 访问网页和批量信息收集等任务。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "excerpt": "Create and share 3D architectural projects.",
+      "meta": "TypeScript · ★ 22,313 · 🍴 2,858 · 📈 136 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "一款用于创建和分享三维建筑项目的编辑器，用户在浏览器中就可以搭建建筑模型、布置场景并导出/分享成果。它降低三维方案展示的门槛，适合建筑师、室内设计师、建筑专业学生以及需要远程协作评审设计方案的团队。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "excerpt": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "meta": "TypeScript · ★ 71,375 · 🍴 8,458 · 📈 392 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "ruflo 是一个 Agent 元框架，提供部署多智能体群组、编排自主工作流和构建对话式 AI 的能力；内置自适应记忆与自学习机制，让智能体在运行中不断调整策略。适合想要搭建可进化的协作式 Agent 系统、而不只是单轮对话机器人的开发者。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "excerpt": "933 points · 242 comments",
+      "publishedAt": "2026-09-07T03:29:51.000Z",
+      "category": "tech",
+      "score": 933,
+      "source": "Hacker News",
+      "summary": "互联网档案馆（Archive.org）发文请求捐款以维持服务器运行，宣布2026年9月的定期捐款将获得3倍配捐。该帖在 HN 引发热议。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "excerpt": "https:&#x2F;&#x2F;www.notebookcheck.net&#x2F;LG-smart-TVs-caught-logging-au...",
+      "publishedAt": "2026-09-07T00:22:04.000Z",
+      "category": "tech",
+      "score": 430,
+      "source": "Hacker News",
+      "summary": "YouTube 视频称2.16亿台 LG 智能电视存在“间谍电视”问题，并引用 NotebookCheck 报道指出 LG 电视被曝记录用户数据，HN 围绕隐私风险展开讨论。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "excerpt": "362 points · 103 comments",
+      "publishedAt": "2026-09-07T13:35:13.000Z",
+      "category": "tech",
+      "score": 362,
+      "source": "Hacker News",
+      "summary": "GitHub 上的开源压缩工具 bzip3 登上 HN 热榜，用户围绕其压缩率、运行速度、资源占用及实际使用体验展开交流。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "excerpt": "215 points · 74 comments",
+      "publishedAt": "2026-09-07T09:26:53.000Z",
+      "category": "tech",
+      "score": 215,
+      "source": "Hacker News",
+      "summary": "Caltech Mathathon 号称首个专注研究级数学的黑客松，HN 用户热议其赛制、题目难度以及对数学研究能否带来实际推动。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
+      "excerpt": "Paper [pdf]: https:&#x2F;&#x2F;storage.googleapis.com&#x2F;deepmind-media&#x2F;papers&#x2F;weather...",
+      "publishedAt": "2026-09-03T16:06:08.000Z",
+      "category": "tech",
+      "score": 190,
+      "source": "Hacker News",
+      "summary": "Google DeepMind 发布 WeatherNext 3 天气预报模型，论文 PDF 已公开；HN 讨论其技术原理、预报性能与应用前景。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "excerpt": "181 points · 74 comments",
+      "publishedAt": "2026-09-07T09:02:47.000Z",
+      "category": "tech",
+      "score": 181,
+      "source": "Hacker News",
+      "summary": "一个展示比利时公共交通实时运行情况的地图网站引发关注，HN 用户讨论数据来源、车辆定位实现与可视化设计。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "excerpt": "177 points · 79 comments",
+      "publishedAt": "2026-09-07T18:52:06.000Z",
+      "category": "tech",
+      "score": 177,
+      "source": "Hacker News",
+      "summary": "交互式可视化项目展示洛杉矶自1880年至2026年逐栋建筑拔地而起的城市演变过程；HN 讨论其历史数据来源与网页呈现效果。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Simple Is Not Small",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "excerpt": "171 points · 56 comments",
+      "publishedAt": "2026-09-03T23:47:28.000Z",
+      "category": "tech",
+      "score": 171,
+      "source": "Hacker News",
+      "summary": "技术博客文章“Simple Is Not Small”指出“简单”不等于代码量“小”，反对以体积论简洁；HN 评论围绕软件抽象与复杂度管理展开辩论。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "This Month in Ladybird – August 2026",
+      "url": "https://ladybird.org/newsletter/2026-08-31/",
+      "excerpt": "132 points · 23 comments",
+      "publishedAt": "2026-09-04T22:47:04.000Z",
+      "category": "tech",
+      "score": 132,
+      "source": "Hacker News",
+      "summary": "Ladybird 浏览器发布2026年8月月度进展，回顾近期开发成果；HN 用户讨论其独立浏览器引擎的进度与挑战。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Icy Moons Are Ocean Worlds",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "excerpt": "116 points · 10 comments",
+      "publishedAt": "2026-09-06T13:07:52.000Z",
+      "category": "tech",
+      "score": 116,
+      "source": "Hacker News",
+      "summary": "科普文章提出“冰卫星即海洋世界”的观点，探讨此类行星天体的结构特征与潜在宜居性，HN 评论聚焦行星科学。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "excerpt": "113 points · 26 comments",
+      "publishedAt": "2026-09-05T11:25:18.000Z",
+      "category": "tech",
+      "score": 113,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "excerpt": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CfjnTJos_no",
+      "publishedAt": "2026-09-04T20:28:52.000Z",
+      "category": "tech",
+      "score": 105,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "excerpt": "104 points · 7 comments",
+      "publishedAt": "2026-09-04T05:53:38.000Z",
+      "category": "tech",
+      "score": 104,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Dataflow Model Revisited",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "excerpt": "PDF: https:&#x2F;&#x2F;www.vldb.org&#x2F;pvldb&#x2F;vol19&#x2F;p4953-fernandez-moctezuma.p...",
+      "publishedAt": "2026-09-06T18:10:53.000Z",
+      "category": "tech",
+      "score": 78,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How to bring up the Linux Kernel on a new platform",
+      "url": "https://werwolv.net/posts/linux_bringup/",
+      "excerpt": "64 points · 4 comments",
+      "publishedAt": "2026-09-03T17:57:49.000Z",
+      "category": "tech",
+      "score": 64,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Whistle Synth Mac App",
+      "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
+      "excerpt": "58 points · 13 comments",
+      "publishedAt": "2026-09-04T09:44:45.000Z",
+      "category": "tech",
+      "score": 58,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "My practical approach to surfing the web safely",
+      "url": "https://molily.de/safe-websurfing/",
+      "excerpt": "57 points · 25 comments",
+      "publishedAt": "2026-09-02T13:49:12.000Z",
+      "category": "tech",
+      "score": 57,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "url": "https://kallus.org/blog/dummit_and_foote.html",
+      "excerpt": "55 points · 32 comments",
+      "publishedAt": "2026-09-04T20:20:07.000Z",
+      "category": "tech",
+      "score": 55,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Decapitating a MacBook (2025)",
+      "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
+      "excerpt": "51 points · 35 comments",
+      "publishedAt": "2026-09-06T04:40:00.000Z",
+      "category": "tech",
+      "score": 51,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Replaceable but Employed: Automation and the Meaning of Work",
+      "url": "https://www.nber.org/papers/w35559",
+      "excerpt": "48 points · 27 comments",
+      "publishedAt": "2026-09-07T19:06:01.000Z",
+      "category": "tech",
+      "score": 48,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Interactive Tree of Life",
+      "url": "https://ptree.org/",
+      "excerpt": "Ptree consolidates of 11 taxonomic trees, both categorical like we used in school (plant, animalia) and phylogenetic (evolutionary descent), with instant crosswalk between them.Across those trees it overlays 41 visual properties (categorical and numerical) assembled from hundreds of biological trait",
+      "publishedAt": "2026-09-04T00:40:06.000Z",
+      "category": "tech",
+      "score": 44,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Education of a Doomer",
+      "url": "https://borretti.me/article/the-education-of-a-doomer",
+      "excerpt": "43 points · 32 comments",
+      "publishedAt": "2026-09-07T21:19:12.000Z",
+      "category": "tech",
+      "score": 43,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "excerpt": "42 points · 14 comments",
+      "publishedAt": "2026-09-07T20:32:55.000Z",
+      "category": "tech",
+      "score": 42,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Methods for Random Gradients (2024)",
+      "url": "https://justinjay.wang/methods-for-random-gradients/",
+      "excerpt": "42 points · 4 comments",
+      "publishedAt": "2026-09-03T22:26:44.000Z",
+      "category": "tech",
+      "score": 42,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Working on Economics with Fable 5",
+      "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+      "excerpt": "29 points · 11 comments",
+      "publishedAt": "2026-09-07T21:18:15.000Z",
+      "category": "tech",
+      "score": 29,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Macbeth and His Problems",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "excerpt": "29 points · 9 comments",
+      "publishedAt": "2026-09-07T20:34:32.000Z",
+      "category": "tech",
+      "score": 29,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "She Also Found It at the Movies",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
+      "excerpt": "19 points · 1 comments",
+      "publishedAt": "2026-09-04T14:04:42.000Z",
+      "category": "tech",
+      "score": 19,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: I built an aesthetically pleasing puzzle",
+      "url": "https://jigsawhaiku.com/",
+      "excerpt": "18 points · 6 comments",
+      "publishedAt": "2026-09-04T18:14:44.000Z",
+      "category": "tech",
+      "score": 18,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "excerpt": "Stuxnet! Here reproduced by me. Only researchs educations purposes.",
+      "publishedAt": "2026-09-07T22:12:38.000Z",
+      "category": "tech",
+      "score": 11,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Catching Crumbs from the Table (2000)",
+      "url": "https://www.nature.com/articles/35014679",
+      "excerpt": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20150719010624&#x2F;http:&#x2F;&#x2F;www.nature...https:&#x2F;&#x2F;www.scribd.com&#x2F;document&#x2F;893921964&#x2F;CHIANG-Catching-Cr...",
+      "publishedAt": "2026-09-06T07:15:10.000Z",
+      "category": "tech",
+      "score": 11,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（via） OpenClaw 2.0 是一个缩影 本周，OpenClaw 发布了2.0版。 是不是很久没听到这个名字了？现在很少有人提到它，不过就是半年。 回想今年春节，它一夜走红，引发了全民热议。一时间，上门安装龙虾成了热门服务，还真有不少人付费。 仅仅过了半年，它就成了昨日黄花，已经被遗忘了。AI 时代就是这样，新事物层出不穷，再大的热门也就走红几天。 用了半年，它终于从",
+      "publishedAt": "2026-09-03T23:59:05.000Z",
+      "category": "tech",
+      "source": "阮一峰的网络日志"
+    },
+    {
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（via） 你需要知道的 AI 三种机制 这是\"AI 小知识系列\"的第三篇，前两篇分别是《大模型需要多少内存》和《AI 缓存是什么》。 我分享一些自己的学习笔记，用来理清对于 AI 技术的理解。我尽量写得通俗，希望对大家有用。 今天谈一个基本问题：AI 为什么能够回答我们的提问，它怎么会知道答案？ 你可以找到很多这方面的论文和书籍，详细解释大模型的运作，通常非常难懂。但是，对于非专业人士",
+      "publishedAt": "2026-08-27T23:56:43.000Z",
+      "category": "tech",
+      "source": "阮一峰的网络日志"
+    },
+    {
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁波的杭州湾海月剧场，原址是江边的废弃码头，被改建为古典园林。（via） 程序员的职业未来 程序员这个职业，将来会怎样？现在有很多说法。 一些人认为，将来的代码都是 AI 生成，市场不需要那么多程序员。极端情况下，程序员职业可能会消失。 另一些人认为，不必杞人忧天，AI 不过替代一部分手工编码，替代不了人类的判断。AI 让世界需要更多的代码，程序员职业不仅不会萎缩，反而继续兴旺下去。 我最近看到一个老外对程序员职业的",
+      "publishedAt": "2026-08-20T23:53:54.000Z",
+      "category": "tech",
+      "source": "阮一峰的网络日志"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 125 期",
+      "url": "https://hellogithub.com/periodical/volume/125",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (4)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2026-08-28T00:14:02.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 124 期",
+      "url": "https://hellogithub.com/periodical/volume/124",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (1)，Go 项目 (4)，Java 项目 (1)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (2)，Skills (3)，Swift 项目 (3)，人工智能 (5)，其它 (5)，开源书籍 (2)",
+      "publishedAt": "2026-07-28T00:10:05.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 123 期",
+      "url": "https://hellogithub.com/periodical/volume/123",
+      "excerpt": "本期共有 38 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (4)",
+      "publishedAt": "2026-06-29T00:10:22.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 122 期",
+      "url": "https://hellogithub.com/periodical/volume/122",
+      "excerpt": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (4)，Rust 项目 (3)，Skills (3)，Swift 项目 (3)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2026-05-28T00:07:51.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 121 期",
+      "url": "https://hellogithub.com/periodical/volume/121",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (3)，Rust 项目 (4)，Skills (4)，Swift 项目 (3)，人工智能 (5)，其它 (5)，开源书籍 (2)",
+      "publishedAt": "2026-04-28T00:05:57.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 120 期",
+      "url": "https://hellogithub.com/periodical/volume/120",
+      "excerpt": "本期共有 39 个项目，包含 C 项目 (1)，C# 项目 (4)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (4)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2026-03-27T00:08:31.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 119 期",
+      "url": "https://hellogithub.com/periodical/volume/119",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (3)，人工智能 (6)，其它 (5)",
+      "publishedAt": "2026-02-28T00:10:09.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 118 期",
+      "url": "https://hellogithub.com/periodical/volume/118",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (3)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2026-01-28T00:10:57.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 117 期",
+      "url": "https://hellogithub.com/periodical/volume/117",
+      "excerpt": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (1)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，PHP 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (1)，人工智能 (5)，其它 (6)",
+      "publishedAt": "2025-12-26T00:03:43.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 116 期",
+      "url": "https://hellogithub.com/periodical/volume/116",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (4)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，PHP 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2025-11-28T00:02:57.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 115 期",
+      "url": "https://hellogithub.com/periodical/volume/115",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (3)，Go 项目 (3)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (6)，开源书籍 (1)",
+      "publishedAt": "2025-10-28T00:04:46.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 114 期",
+      "url": "https://hellogithub.com/periodical/volume/114",
+      "excerpt": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (5)，开源书籍 (1)",
+      "publishedAt": "2025-09-27T23:49:05.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 113 期",
+      "url": "https://hellogithub.com/periodical/volume/113",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (5)，开源书籍 (1)",
+      "publishedAt": "2025-08-28T00:09:53.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 112 期",
+      "url": "https://hellogithub.com/periodical/volume/112",
+      "excerpt": "本期共有 42 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (4)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2025-07-28T00:05:17.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 111 期",
+      "url": "https://hellogithub.com/periodical/volume/111",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Objective-C 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (5)，其它 (6)",
+      "publishedAt": "2025-06-26T23:56:20.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 110 期",
+      "url": "https://hellogithub.com/periodical/volume/110",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (3)，CSS 项目 (1)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (1)，人工智能 (5)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2025-05-28T00:05:12.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 109 期",
+      "url": "https://hellogithub.com/periodical/volume/109",
+      "excerpt": "本期共有 43 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，PHP 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (5)，其它 (5)，开源书籍 (3)",
+      "publishedAt": "2025-04-28T00:00:16.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 108 期",
+      "url": "https://hellogithub.com/periodical/volume/108",
+      "excerpt": "本期共有 38 个项目，包含 C 项目 (3)，C# 项目 (1)，C++ 项目 (3)，CSS 项目 (1)，Go 项目 (2)，Java 项目 (1)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (1)，人工智能 (5)，其它 (5)，开源书籍 (3)",
+      "publishedAt": "2025-03-27T23:52:53.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 107 期",
+      "url": "https://hellogithub.com/periodical/volume/107",
+      "excerpt": "本期共有 43 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (5)，其它 (6)，开源书籍 (1)",
+      "publishedAt": "2025-02-28T00:00:24.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 106 期",
+      "url": "https://hellogithub.com/periodical/volume/106",
+      "excerpt": "本期共有 42 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (4)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2025-01-27T00:07:40.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 105 期",
+      "url": "https://hellogithub.com/periodical/volume/105",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (2)，CSS 项目 (1)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2024-12-27T00:03:55.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 104 期",
+      "url": "https://hellogithub.com/periodical/volume/104",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (5)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (4)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2024-11-28T00:15:37.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 103 期",
+      "url": "https://hellogithub.com/periodical/volume/103",
+      "excerpt": "本期共有 43 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (7)，开源书籍 (1)",
+      "publishedAt": "2024-10-28T00:04:36.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 102 期",
+      "url": "https://hellogithub.com/periodical/volume/102",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (2)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2024-09-26T23:55:17.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 101 期",
+      "url": "https://hellogithub.com/periodical/volume/101",
+      "excerpt": "本期共有 44 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，PHP 项目 (2)，Python 项目 (5)，Rust 项目 (4)，Swift 项目 (1)，人工智能 (4)，其它 (6)，开源书籍 (1)",
+      "publishedAt": "2024-08-28T00:03:47.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 100 期",
+      "url": "https://hellogithub.com/periodical/volume/100",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (2)，C# 项目 (4)，C++ 项目 (1)，Go 项目 (4)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (3)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2024-07-26T00:04:22.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 99 期",
+      "url": "https://hellogithub.com/periodical/volume/99",
+      "excerpt": "本期共有 42 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，PHP 项目 (1)，Python 项目 (5)，Ruby 项目 (1)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2024-06-28T00:11:44.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 98 期",
+      "url": "https://hellogithub.com/periodical/volume/98",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (3)，其它 (5)，开源书籍 (2)",
+      "publishedAt": "2024-05-28T00:12:43.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 97 期",
+      "url": "https://hellogithub.com/periodical/volume/97",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (3)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (5)，开源书籍 (2)",
+      "publishedAt": "2024-04-28T00:09:55.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 96 期",
+      "url": "https://hellogithub.com/periodical/volume/96",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (4)，CSS 项目 (1)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (4)，其它 (5)，开源书籍 (1)",
+      "publishedAt": "2024-03-28T00:09:14.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Bliki: Paracelsus Maxim",
+      "url": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+      "excerpt": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good thing sitting in my garden, but not while driving my car. But another variable i",
+      "publishedAt": "2026-09-02T22:03:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "An Accidental Blackboard",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "excerpt": "Giles Edwards-Alexander reports that during an experiment to see how productive a team could be using fully agentic engineering practices, the team accidentally prompted the agents into creating a blackboard coordination system inside the git repository. more…",
+      "publishedAt": "2026-09-02T14:45:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Maybe We Shouldn't Be Reviewing All This Code",
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+      "excerpt": "TL;DR Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we di",
+      "publishedAt": "2026-09-02T13:32:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: September  1",
+      "url": "https://martinfowler.com/fragments/2026-09-01.html",
+      "excerpt": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing. That page points out that: Humans are notoriously bad at dis",
+      "publishedAt": "2026-09-01T19:50:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Making Your Data Ready for Agentic AI",
+      "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "excerpt": "Lots of organizations are excited about what AI can do to streamline their processes, save money, and juice margins. But AI's capabilities are founded on the data that AI accesses, and for many organizations that foundation is little more than sand. Pramod Sadalage and Prem Chandrasekaran write abou",
+      "publishedAt": "2026-08-27T13:11:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: August 24",
+      "url": "https://martinfowler.com/fragments/2026-08-24.html",
+      "excerpt": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents",
+      "publishedAt": "2026-08-24T15:29:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Citizens Build, Agents Execute, Experts Govern",
+      "url": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+      "excerpt": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is. The conversation usually sta",
+      "publishedAt": "2026-08-19T18:30:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
+      "url": "https://martinfowler.com/articles/practitioner-voice.html",
+      "excerpt": "Jim Highsmith recognizes that effective writing from a practitioner is a style distinct from academic writing or thought-leadership content. It's a style that I advocate, and my contributors mostly follow. Jim decided it was important to give it a name, and identify what makes it distinctive. more…",
+      "publishedAt": "2026-08-19T18:15:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: August 18",
+      "url": "https://martinfowler.com/fragments/2026-08-18.html",
+      "excerpt": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So I rel",
+      "publishedAt": "2026-08-18T15:04:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "TDD inside the agent loop - theater or actual value?",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+      "excerpt": "My colleagues at Thoughtworks tend to be big fans of Test-Driven Development, and many people in the industry advocate telling LLM agents to use TDD when building software. Birgitta Böckeler was curious if this really makes a difference, so conducted a few experiments. more…",
+      "publishedAt": "2026-08-11T11:39:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: August  4",
+      "url": "https://martinfowler.com/fragments/2026-08-04.html",
+      "excerpt": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incidents where models had gained unauthorized access to data in other organizations. ",
+      "publishedAt": "2026-08-04T12:08:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "The Conductor Developer",
+      "url": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+      "excerpt": "TL;DR Why I think software development is starting to feel a little more like conducting an orchestra. There’s a shift happening in software development that I don’t think we’re talking about clearly enough. For the last couple of years we’ve framed AI as a productivity tool. How much faster can it ",
+      "publishedAt": "2026-07-31T13:48:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "The Economic Benefit of Refactoring",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "excerpt": "Giles Edwards-Alexander does an experiment to see if decomposing a large function helps reduce token costs, suggesting that is may now be possible to measure the economic benefit of refactoring more…",
+      "publishedAt": "2026-07-30T13:04:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "The Orchestrator's Tax",
+      "url": "https://martinfowler.com/articles/orchestrator-tax.html",
+      "excerpt": "Subagents get justified by time saved and parallel execution, but Rahul Garg explains that's not what matters most. Every token in the orchestrator's context is competing for its attention, and the real value of a subagent is what it keeps out of that context. Subagents should be treated as a tool f",
+      "publishedAt": "2026-07-28T13:10:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Why I’m Writing Rachel’s Ramblings",
+      "url": "https://martinfowler.com/rachels-ramblings/intro.html",
+      "excerpt": "TL;DR I have ideas. I haven’t been writing them. That’s about to change. I promise… myself. I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software confere",
+      "publishedAt": "2026-07-28T12:32:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: July 21",
+      "url": "https://martinfowler.com/fragments/2026-07-21.html",
+      "excerpt": "With this post, I’ll wrap up my notes from the second Future of Software Development Retreat. But before I do, I should note that the full Thoughtworks report on the retreat is now available. They have five headline findings: Code generation is no longer the bottleneck — verification is. ‘Harness en",
+      "publishedAt": "2026-07-21T13:13:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "The Archaeologist’s Copilot",
+      "url": "https://martinfowler.com/articles/archaeologist-copilot.html",
+      "excerpt": "When people think of legacy modernization, most folks aren't imagining the target environment will be Java 8. But this was the challenge facing Nik Malykhin when he needed to run a Java 1.5 codebase on today's hardware. His early use of LLMs gave plausible answers that did not hold up in the codebas",
+      "publishedAt": "2026-07-16T13:25:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "excerpt": "LLMs generate code incredibly fast, but to ensure they generate exactly what is intended, they need clear boundaries. Abstractions and Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs right from the start. Unmesh Joshi describes how the example of Tickloom - a domain model ",
+      "publishedAt": "2026-07-14T12:51:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: July 13",
+      "url": "https://martinfowler.com/fragments/2026-07-13.html",
+      "excerpt": "Some more of my notes from Thoughtworks Future of Software Development Retreat. When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering. This time we had a whole session on it. When comes to the guide side of harnesses, most of the discussion is about context m",
+      "publishedAt": "2026-07-13T12:51:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Experiences with local models for coding",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
+      "excerpt": "Birgitta Böckeler now reports on her recent experiences trying local LLMs for coding. She compares them using two standard tasks, and tries out the most promising model for day-to-day use. more…",
+      "publishedAt": "2026-07-08T11:57:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Viability of local models for coding",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
+      "excerpt": "Birgitta Böckeler recently spent some time trying out running local LLMs for some programming tasks. In this memo she outlines the factors that influence how viable they are for the job. more…",
+      "publishedAt": "2026-07-07T12:34:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: July  6",
+      "url": "https://martinfowler.com/fragments/2026-07-06.html",
+      "excerpt": "Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I could, at best, only attend ⅕ of sessions. This isn’t an event that forms conclusion",
+      "publishedAt": "2026-07-06T12:53:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Building Reliable Agentic AI Systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "excerpt": "One of the most interesting projects my colleagues have done with LLMs has been building a system with Bayer to allow pharmaceutical researchers to query decades of information about studies buried in PDF reports. Sarang Sanjay Kulkarni describes its evolution from keyword-based search to an intelli",
+      "publishedAt": "2026-06-16T12:11:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: June 16",
+      "url": "https://martinfowler.com/fragments/2026-06-16.html",
+      "excerpt": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young. Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people",
+      "publishedAt": "2026-06-16T12:44:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: June  2",
+      "url": "https://martinfowler.com/fragments/2026-06-02.html",
+      "excerpt": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a dif",
+      "publishedAt": "2026-06-02T15:21:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: May 27",
+      "url": "https://martinfowler.com/fragments/2026-05-27.html",
+      "excerpt": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our experiences with LLM-augmented programming (at that point - October 2025), we show ou",
+      "publishedAt": "2026-05-27T19:40:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "The test suite as a regression sensor",
+      "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor",
+      "excerpt": "Birgitta Böckeler finishes her post on sensors for coding agents by examining the role of a test suite as a regression sensor, focusing on the role mutation testing can play. more…",
+      "publishedAt": "2026-05-27T15:01:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "The VibeSec Reckoning",
+      "url": "https://martinfowler.com/articles/vibesec-reckoning.html",
+      "excerpt": "Vibe coding has significantly accelerated software prototyping but AI agents frequently recommend insecure configurations, creating security problems. Gautam Koul, Lucian Moss, Neil Drew-Lopez, and Daberechi Ruth Edeokoh share their experience while building applications for Thoughtworks's global ma",
+      "publishedAt": "2026-05-27T14:03:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Bliki: Vibe Coding",
+      "url": "https://martinfowler.com/bliki/VibeCoding.html",
+      "excerpt": "Vibe coding is building a software application by prompting an LLM, telling it what to build, trying it out, prompting for changes - but without looking at any of the code that the LLM generates. This technique can be used by people without any knowledge of programming. However the resulting softwar",
+      "publishedAt": "2026-05-21T11:49:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Three more static code analysis sensors",
+      "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules",
+      "excerpt": "Birgitta Böckeler adds discussion of three more sensors for static code analysis, focusing on checking and enforcing better modularity. Computational sensors for dependency checks were good at enforcing rules, but the rules were limited. Building a computational sensor for coupling data proved lackl",
+      "publishedAt": "2026-05-20T14:27:00.000Z",
+      "category": "tech",
+      "source": "Martin Fowler"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Creepy crawlies",
+      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+      "excerpt": "",
+      "publishedAt": "2026-09-07T23:08:58.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Jakub Pachocki",
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "excerpt": "",
+      "publishedAt": "2026-09-07T22:26:25.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Video compressor",
+      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "excerpt": "",
+      "publishedAt": "2026-09-07T18:29:07.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Mercator ↔ Equal Earth",
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "excerpt": "",
+      "publishedAt": "2026-09-07T16:24:16.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "excerpt": "",
+      "publishedAt": "2026-09-06T23:57:40.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "excerpt": "",
+      "publishedAt": "2026-09-06T14:40:07.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "excerpt": "",
+      "publishedAt": "2026-09-06T09:08:06.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Zach Kehs",
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "excerpt": "",
+      "publishedAt": "2026-09-06T08:42:49.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Introducing GPT-6 Astra for developers",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "excerpt": "",
+      "publishedAt": "2026-09-05T23:27:48.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Using Blender with coding agents on macOS",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "excerpt": "",
+      "publishedAt": "2026-09-05T15:51:09.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "excerpt": "",
+      "publishedAt": "2026-09-04T23:59:05.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "excerpt": "",
+      "publishedAt": "2026-09-04T17:38:48.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "August newsletter is out",
+      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+      "excerpt": "",
+      "publishedAt": "2026-09-04T05:54:40.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "GPT‑6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "excerpt": "",
+      "publishedAt": "2026-09-03T20:18:41.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "llm-gemini 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "excerpt": "",
+      "publishedAt": "2026-09-02T16:39:38.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "excerpt": "",
+      "publishedAt": "2026-09-02T14:16:42.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Rick Brewster",
+      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "excerpt": "",
+      "publishedAt": "2026-09-02T05:50:57.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T23:57:28.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Codex bundles LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T19:03:01.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "GeoJSON Map Viewer",
+      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T18:05:45.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Tarn Adams",
+      "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T17:01:11.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-mcp 0.2",
+      "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T15:30:12.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Python 3.15.0 candidate 2 is here!",
+      "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T14:59:18.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Introducing wrapture",
+      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+      "excerpt": "",
+      "publishedAt": "2026-08-31T23:59:36.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Andrew Digby",
+      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+      "excerpt": "",
+      "publishedAt": "2026-08-31T22:25:02.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "excerpt": "",
+      "publishedAt": "2026-08-30T23:59:47.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "excerpt": "",
+      "publishedAt": "2026-08-29T23:53:13.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+      "excerpt": "",
+      "publishedAt": "2026-08-28T22:12:02.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "excerpt": "",
+      "publishedAt": "2026-08-27T22:50:25.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+      "excerpt": "",
+      "publishedAt": "2026-08-26T23:52:58.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+      "excerpt": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
+      "publishedAt": "2026-09-03T21:03:02.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "excerpt": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+      "publishedAt": "2026-09-01T12:59:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
+      "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+      "excerpt": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling. Cloudflare's new Adaptive Intelligence engine flips this dynamic by autonomously learning from the meta-signals of live traffic and deploying disposable rules",
+      "publishedAt": "2026-08-31T12:59:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+      "url": "https://blog.cloudflare.com/botbase-for-operators/",
+      "excerpt": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.",
+      "publishedAt": "2026-08-28T12:59:44.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "excerpt": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
+      "publishedAt": "2026-08-27T17:02:35.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "The Cloudflare Blog — brought to you by EmDash",
+      "url": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
+      "excerpt": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
+      "publishedAt": "2026-08-24T19:00:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Say it once: Introducing Bot Preference Sync",
+      "url": "https://blog.cloudflare.com/bot-preference-sync/",
+      "excerpt": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
+      "publishedAt": "2026-08-21T23:19:57.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "From all-or-nothing to task-based OAuth consent",
+      "url": "https://blog.cloudflare.com/task-based-oauth-consent/",
+      "excerpt": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.",
+      "publishedAt": "2026-08-20T17:03:03.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+      "excerpt": "In 2024 and 2025, we reassessed remote Spectre attacks on our Workers infrastructure. We share details about the new attack primitives like Spectre gadgets, remote timers, achieving co-location and how new defenses further harden Cloudflare Workers.",
+      "publishedAt": "2026-08-19T16:00:28.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "BGP Role model: tracking the adoption of RFC 9234",
+      "url": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
+      "excerpt": "RFC 9234 lets routers reject route leaks on their own, using BGP Roles and the Only to Customer attribute. We measured who has deployed it, and found two Tier 1 networks unexpectedly stripping OTC.",
+      "publishedAt": "2026-08-18T15:21:32.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "How Cloudflare detects MCP traffic and helps secure it",
+      "url": "https://blog.cloudflare.com/mcp-security-updates/",
+      "excerpt": "Cloudflare Gateway identifies MCP requests using protocol-level heuristics. Security teams can use that signal to find shadow MCP traffic, enforce Portal-only access for approved servers, and block direct connections on managed network paths.",
+      "publishedAt": "2026-08-14T13:12:12.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Secure all your internal vibe-coded applications — in one click",
+      "url": "https://blog.cloudflare.com/workers-protected-by-access/",
+      "excerpt": "Introducing Cloudflare Access for Workers. Attach an Access policy directly to a Worker and it applies everywhere that Worker runs — routes, custom domains, workers.dev, and previews — automatically.",
+      "publishedAt": "2026-08-14T13:00:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
+      "url": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
+      "excerpt": "Cloudflare's data shows a clear impact on Internet traffic from Iceland to Spain and Portugal, following the path of totality of the total solar eclipse that occurred on August 12, 2026.",
+      "publishedAt": "2026-08-13T19:58:01.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Certificate Transparency Monitoring is now generally available",
+      "url": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
+      "excerpt": "Cloudflare's Certificate Transparency Monitoring is now generally available. The biggest change: we no longer email you about certificates Cloudflare issued for your domain, so when an alert lands in your inbox, it's worth a look.",
+      "publishedAt": "2026-08-13T13:00:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
+      "excerpt": "In the first half of 2026, Cloudflare detected a 519% surge in hyper-volumetric DDos attacks across its network. These attacks were driven heavily by DNS and CLDAP reflection vectors. This report breaks down how major geopolitical conflicts reshaped the global cyber threat landscape.",
+      "publishedAt": "2026-08-11T13:00:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Everything we launched during Agents Week",
+      "url": "https://blog.cloudflare.com/agents-week-review-august-2026/",
+      "excerpt": "Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar.",
+      "publishedAt": "2026-08-10T18:34:10.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
+      "url": "https://blog.cloudflare.com/fedramp-class-d-certification/",
+      "excerpt": "Cloudflare for Government achieves FedRAMP Class D (High) Certified status. We also announce our commitment to pursue DoD IL4 authorization. Cloudflare brings world-class security, performance, and developer products to the public sector.",
+      "publishedAt": "2026-08-10T13:00:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Unveiling good and bad behaviors on the Agentic Internet",
+      "url": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
+      "excerpt": "Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precursor — and try out our Precursor Trace simulation to see how your own cursor move",
+      "publishedAt": "2026-08-07T13:01:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+      "url": "https://blog.cloudflare.com/introducing-radar-researcher/",
+      "excerpt": "Cloudflare Radar Researcher is a new AI-powered tool that lets you explore global Internet trends and traffic data using plain language. Built entirely on Cloudflare's Developer Platform, it turns natural language queries into real, interactive charts.",
+      "publishedAt": "2026-08-07T13:00:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
+      "url": "https://blog.cloudflare.com/community-program-refresh/",
+      "excerpt": "We are launching updated community programs, including Cloudflare Ambassadors and Community Engineers, backed by $1M in open-source funding. Learn how we are supporting maintainers and scaling our developer community.",
+      "publishedAt": "2026-08-07T13:00:00.000Z",
+      "category": "tech",
+      "source": "Cloudflare Blog"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "excerpt": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
+      "publishedAt": "2026-09-02T18:00:00.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+      "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "excerpt": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog.",
+      "publishedAt": "2026-08-24T20:56:32.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "excerpt": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog.",
+      "publishedAt": "2026-08-10T19:30:00.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "Turn one giant AI-generated pull request to a reviewable stack",
+      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+      "excerpt": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog.",
+      "publishedAt": "2026-08-04T16:47:18.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "Don’t stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "excerpt": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog.",
+      "publishedAt": "2026-07-31T16:00:00.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "excerpt": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadenc",
+      "publishedAt": "2026-07-29T16:00:00.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "The cost of saying yes has changed",
+      "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+      "excerpt": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog.",
+      "publishedAt": "2026-07-17T16:46:47.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+      "excerpt": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog.",
+      "publishedAt": "2026-07-10T15:57:47.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+      "excerpt": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog.",
+      "publishedAt": "2026-07-08T21:11:56.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    },
+    {
+      "sourceId": "github-engineering",
+      "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
+      "url": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
+      "excerpt": "How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation performance appeared first on The GitHub Blog.",
+      "publishedAt": "2026-05-14T16:00:00.000Z",
+      "category": "tech",
+      "source": "GitHub Engineering"
+    }
+  ]
+}
