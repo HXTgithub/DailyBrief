@@ -6,182 +6,182 @@
       "title": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "excerpt": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "meta": "Python · ★ 30,359 · 🍴 1,853 · 📈 656 stars today",
+      "meta": "Python · ★ 30,405 · 🍴 1,853 · 📈 656 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI 编程代理的技能包，解决回答被冗长输出淹没的问题。采用 ADHD 友好格式，要求先给结论、高亮关键信息、删掉无关内容，适合希望快速看到答案的开发者。"
+      "summary": "这是一个面向 AI 编程代理的技能包，通过指令优化输出格式，让回答直接简洁、不淹没关键结论，特别适合注意力不集中（ADHD）的开发者。可集成到 Claude Code、Cursor 等支持技能/自定义指令的工具中，在代码问答、调试等场景减少信息干扰。"
     },
     {
       "sourceId": "github-trending",
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "excerpt": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "meta": "HTML · ★ 34,757 · 🍴 2,199 · 📈 710 stars today",
+      "meta": "HTML · ★ 34,780 · 🍴 2,200 · 📈 710 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 Claude Code、Codex、Pi 等编程代理提供 38 种编辑级图表模板。每种图表都是自包含 HTML + SVG，无阴影、不依赖 Mermaid 生成杂乱图形，适合在技术文档或 AI 生成报告中直接嵌入清晰示意图。"
+      "summary": "提供 38 种编辑级图表类型，以自包含 HTML+SVG 实现，供 Claude Code、Codex、Pi 等 AI 编程代理直接生成干净、清晰的图表。取代默认 Mermaid 或带阴影的模糊样式，适合论文、演示和产品文档等对图表质量要求高的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "openai/skills",
       "url": "https://github.com/openai/skills",
       "excerpt": "Skills Catalog for Codex",
-      "meta": "Python · ★ 26,499 · 🍴 1,775 · 📈 490 stars today",
+      "meta": "Python · ★ 26,506 · 🍴 1,775 · 📈 490 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenAI 为 Codex 维护的 Skills 目录，收录可复用的技能定义。开发者可将这些 Skills 接入 Codex，让 AI 编程代理按需调用特定能力，减少重复提示，适用于自动化开发与复杂编码任务。"
+      "summary": "OpenAI 官方为 Codex 准备的一个技能目录（Skills Catalog），集中收录并分类可复用的技能。开发者可以从中选取、加载，让 Codex 完成更复杂的编程任务或遵循特定工作流，是构建/分享 Agent 技能的参考入口。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 254,284 · 🍴 38,107 · 📈 1,427 stars today",
+      "meta": "JavaScript · ★ 254,295 · 🍴 38,108 · 📈 1,427 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Claude Code、Codex、Opencode、Cursor 等工具的 agent 性能优化系统。通过统一 skills、instincts、memory、security 与 research-first 流程，提升编程代理的执行效率和可靠性。"
+      "summary": "ECC 是一套代理 harness 性能优化系统，通过技能、本能、记忆、安全与研究优先的开发策略，作用于 Claude Code、Codex、Opencode、Cursor 等工具，解决多编程代理协作中的效率、上下文与安全挑战。"
     },
     {
       "sourceId": "github-trending",
       "title": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "excerpt": "Write HTML. Render video. Built for agents.",
-      "meta": "TypeScript · ★ 47,739 · 🍴 4,392 · 📈 2,627 stars today",
+      "meta": "TypeScript · ★ 47,751 · 🍴 4,393 · 📈 2,627 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI 代理的视频渲染方案：用 HTML 描述画面，再由工具渲染成视频。它把视频生成变成可编程流程，适合代理自动制作动态字幕、数据可视化和演示视频，替代传统手动剪辑。"
+      "summary": "Hyperframes 是一个面向 AI Agent 的视频生成工具，理念是“写 HTML，渲染视频”。代理把 HTML/CSS 描述的页面或动画逐帧捕获并合成为视频，省去复杂的剪辑流程，适合需要程序化、自动化批量产出视频的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "excerpt": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "meta": "JavaScript · ★ 48,795 · 🍴 7,494 · 📈 666 stars today",
+      "meta": "JavaScript · ★ 48,802 · 🍴 7,494 · 📈 666 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Claude Code 等 AI 代理的营销技能集合，覆盖 CRO、文案创作、SEO、数据分析与增长工程。营销人员可让代理按需调用这些技能，完成落地页优化、内容产出和流量分析。"
+      "summary": "面向 Claude Code 等 AI 代理的营销技能库，覆盖 CRO、文案撰写、SEO、数据分析与增长工程。营销人员可以通过自然语言调用这些技能，让代理完成任务，例如分析落地页、生成优化建议或执行 SEO 审计。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 283,346 · 🍴 25,366 · 📈 452 stars today",
+      "meta": "Shell · ★ 283,353 · 🍴 25,366 · 📈 452 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套 agentic skills 框架和软件开发方法论，旨在让 AI 编程代理真正在真实项目里高效工作。框架提供可组合技能模块与流程约定，适合希望在工程中系统化使用 agent 的团队。"
+      "summary": "Superpowers 是一套 agentic skills 框架兼软件开发方法论：为 AI 代理提供可组合的技能定义和规范操作流程，使其能系统化地规划、编码、测试并迭代。目标是让 Claude Code 等代理处理复杂任务时表现更可预测、更可靠。"
     },
     {
       "sourceId": "github-trending",
       "title": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "excerpt": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "meta": "★ 211,436 · 🍴 21,469 · 📈 333 stars today",
+      "meta": "★ 211,449 · 🍴 21,469 · 📈 333 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 Andrej Karpathy 对 LLM 编码常见问题的观察，整理成单个 CLAUDE.md 文件，用来改进 Claude Code 的行为。开发者直接引入该文件即可让编码代理避开典型错误，更贴近可靠工程实践。"
+      "summary": "将 Andrej Karpathy 对 LLM 编程常见陷阱的观察浓缩为单个 CLAUDE.md 文件。加载到 Claude Code 后，模型会修正一些易犯问题（如过早优化、忽略测试、过度自信等），提升代码质量。适合所有想减少 AI 编程坏习惯的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "excerpt": "Python tool for converting files and office documents to Markdown.",
-      "meta": "Python · ★ 181,661 · 🍴 13,345 · 📈 2,047 stars today",
+      "meta": "Python · ★ 181,670 · 🍴 13,345 · 📈 2,047 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软开源的 Python 文档转换工具，把 Office 文档和常见文件转为 Markdown。适合需要统一文本格式的 RAG、知识库构建、LLM 数据预处理等场景，为下游 AI 应用提供干净输入。"
+      "summary": "微软出品的 Python 转换工具，用于把 PDF、Word、Excel、PowerPoint 等文件与 Office 文档转成 Markdown。转换结果干净、可读取，方便大模型上下文理解或知识库检索，是构建 RAG/文档问答流程时常用的预处理组件。"
     },
     {
       "sourceId": "github-trending",
       "title": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "excerpt": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "meta": "JavaScript · ★ 10,475 · 🍴 1,051 · 📈 871 stars today",
+      "meta": "JavaScript · ★ 10,484 · 🍴 1,051 · 📈 871 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 AI 代理设计的隐身无头浏览器，可绕过 Cloudflare、机器人检测和反爬机制，并能直接替代 Puppeteer/Playwright。适合网页抓取、自动化验证和需要真实浏览器环境的智能体任务。"
+      "summary": "一个隐身无头浏览器，专为 AI 代理设计，能规避 Cloudflare、机器人检测和反爬限制。可以直接替换 Puppeteer/Playwright，原有自动化脚本改动很小即可使用，适合网页数据采集、自动测试和代理浏览场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "MoonTechLab/LunaTV",
       "url": "https://github.com/MoonTechLab/LunaTV",
       "excerpt": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
-      "meta": "TypeScript · ★ 10,154 · 🍴 9,046 · 📈 505 stars today",
+      "meta": "TypeScript · ★ 10,156 · 🍴 9,046 · 📈 505 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "LunaTV 采用 CC BY-NC-SA 协议发布，禁止任何商业化行为；任何衍生项目必须保留原项目地址，并以相同协议开源。这种许可方式适合希望严格限制商用、同时维持衍生作品开源的创作者。"
+      "summary": "该仓库的描述只声明了 CC BY-NC-SA 许可：禁止商业化，衍生项目必须保留原仓库地址并以相同协议开源；没有说明功能或技术栈。从名称 LunaTV 猜测可能与电视/影音相关，实际内容需查看仓库源码。"
     },
     {
       "sourceId": "github-trending",
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
       "excerpt": "Agents that use the browser.",
-      "meta": "Python · ★ 113,475 · 🍴 12,487 · 📈 228 stars today",
+      "meta": "Python · ★ 113,488 · 🍴 12,488 · 📈 228 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "让 AI 代理直接操作真实浏览器的 Python 库。智能体通过大模型决策驱动浏览器完成导航、点击、填表、抓取等网页操作，把网页自动化能力接入 AI 工作流，适合做需要在线交互的 agent 应用。"
+      "summary": "browser-use 是一个让 AI 代理直接操作浏览器的开源框架：通过自然语言指令即可驱动浏览器完成点击、输入、导航和数据抓取。代理可实时观察页面状态并调整行动，适用于网页自动化、端到端测试、智能体上网等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "excerpt": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "meta": "TypeScript · ★ 21,376 · 🍴 1,544 · 📈 651 stars today",
+      "meta": "TypeScript · ★ 21,381 · 🍴 1,544 · 📈 651 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI 编程代理的上下文窗口优化工具：将工具输出放入沙箱以减少约 98% 的上下文占用，持久化会话记忆，并通过 MCP 与 hooks 在 17 个平台间强制路由，适合长时间跨平台 coding agent 任务。"
+      "summary": "Context Mode 面向 AI 编程代理进行上下文优化：将工具输出放入沙箱并压缩约 98%，支持跨会话持久记忆，并借助 MCP 与 hooks 在 17 个平台间路由。适合需要长时间上下文连续性、多工具协同的 Agent 开发环境。"
     },
     {
       "sourceId": "github-trending",
       "title": "The-Swarm-Corporation/AutoHedge",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "excerpt": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "meta": "Python · ★ 5,692 · 🍴 839 · 📈 494 stars today",
+      "meta": "Python · ★ 5,694 · 🍴 839 · 📈 494 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "让用户快速搭建自主对冲基金的 AI 系统，结合群体智能与多 AI 代理自动完成市场分析、风险管理和交易执行。适合量化交易团队、研究者和开发者用于构建半自动或全自动交易策略。"
+      "summary": "AutoHedge 利用群体智能和多个 AI 代理自动完成市场分析、风险管理与交易执行，目标是让用户快速搭建自主对冲基金。适用于量化投资、研究多代理交易策略的开发者，可作为一个实验性金融自动化框架。"
     },
     {
       "sourceId": "github-trending",
       "title": "viarotel-org/escrcpy",
       "url": "https://github.com/viarotel-org/escrcpy",
       "excerpt": "📱 Display and control your Android device graphically with scrcpy.",
-      "meta": "JavaScript · ★ 11,380 · 🍴 795 · 📈 178 stars today",
+      "meta": "JavaScript · ★ 11,386 · 🍴 795 · 📈 178 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 scrcpy 的 Android 设备图形化控制工具，无需命令行即可显示屏幕并操作 Android 设备。适合开发调试、App 演示、远程协助和课堂投屏等需要实时看到设备画面的场景。"
+      "summary": "Escrcpy 是一个 scrcpy 的图形化客户端，让你通过图形界面在电脑上显示并控制 Android 设备。它封装了 scrcpy 的 USB/无线连接能力，提供点击、滑动、输入和文件操作等实用功能，适合不喜欢用命令行的手机投屏/管理用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "excerpt": "OpenAI Plugins",
-      "meta": "JavaScript · ★ 5,781 · 🍴 797 · 📈 105 stars today",
+      "meta": "JavaScript · ★ 5,787 · 🍴 798 · 📈 105 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenAI 官方 Plugins 仓库，集中承载插件机制相关的内容。开发者可参考其中的实现或扩展插件能力，为支持的 OpenAI 产品增加功能；具体用法以仓库文档为准。"
+      "summary": "OpenAI 官方仓库，名称与描述都只写着 \"OpenAI Plugins\"，没有其他信息。推测用于存放插件相关文档、示例或规范，开发者可关注其 README/源码，但就当前描述无法确认具体功能。"
     },
     {
       "sourceId": "hackernews",
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "excerpt": "1167 points · 513 comments",
+      "excerpt": "1188 points · 523 comments",
       "publishedAt": "2026-09-08T05:42:28.000Z",
       "category": "tech",
-      "score": 1167,
+      "score": 1188,
       "source": "Hacker News",
-      "summary": "纽约大学学者Tristan Buckmaster发布一份关于Navier–Stokes方程的PDF声明，讨论流体运动方程相关的数学难题，引发大量关注。"
+      "summary": "纽约大学数学家 Tristan Buckmaster 发表一份关于 Navier-Stokes 方程的声明文件，讨论流体运动规律的数学表述，或与千禧年问题研究相关。"
     },
     {
       "sourceId": "hackernews",
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "url": "https://openai.com/index/navier-stokes-solution/",
-      "excerpt": "1061 points · 902 comments",
+      "excerpt": "1071 points · 922 comments",
       "publishedAt": "2026-09-08T17:13:21.000Z",
       "category": "tech",
-      "score": 1061,
+      "score": 1071,
       "source": "Hacker News",
-      "summary": "OpenAI官方撰文讨论Navier–Stokes千年奖问题，围绕流体力学与偏微分方程的重要数学难题，阐述当前研究进展与面临的挑战，吸引众多技术讨论。"
+      "summary": "OpenAI 发布名为《On the Navier-Stokes Millennium Prize Problem》的文章，围绕流体力学千禧年问题的背景和难度展开阐述，引发社区大量讨论。"
     },
     {
       "sourceId": "hackernews",
@@ -190,135 +190,155 @@
       "excerpt": "https:&#x2F;&#x2F;deepmind.google&#x2F;blog&#x2F;alphagenome-atlas-a-predictive-...https:&#x2F;&#x2F;deepmind.google.com&#x2F;science&#x2F;alphagenome&#x2F;atlas",
       "publishedAt": "2026-09-08T14:55:45.000Z",
       "category": "tech",
-      "score": 475,
+      "score": 480,
       "source": "Hacker News",
-      "summary": "谷歌DeepMind发布AlphaGenome Atlas，提供人类DNA的高分辨率图谱，帮助科学家理解基因组结构与功能，助力疾病研究与生命科学探索。"
+      "summary": "谷歌及 DeepMind 发布 AlphaGenome Atlas，这是一张人类 DNA 的高分辨率图谱，让研究人员能够以更精细的尺度浏览和分析基因组数据。"
     },
     {
       "sourceId": "hackernews",
       "title": "We built our house for LAN parties (2024)",
       "url": "https://lanparty.house/",
-      "excerpt": "395 points · 309 comments",
+      "excerpt": "401 points · 305 comments",
       "publishedAt": "2026-09-05T18:44:40.000Z",
       "category": "tech",
-      "score": 395,
+      "score": 401,
       "source": "Hacker News",
-      "summary": "一篇文章讲述了作者在2024年专门为局域网游戏派对（LAN party）建造住宅的完整经历，涵盖房屋设计、搭建考量与实际游玩体验。"
+      "summary": "作者回顾 2024 年为举办 LAN Party 而专门建造的住宅，讲述空间规划、网络布线与设备安排等面向多人游戏场景的特殊设计考虑。"
     },
     {
       "sourceId": "hackernews",
       "title": "DaVinci Resolve 21.1",
       "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "excerpt": "340 points · 151 comments",
+      "excerpt": "343 points · 152 comments",
       "publishedAt": "2026-09-08T13:36:53.000Z",
       "category": "tech",
-      "score": 340,
+      "score": 343,
       "source": "Hacker News",
-      "summary": "Blackmagic Design正式发布DaVinci Resolve 21.1新版本，为专业视频剪辑、调色及后期制作流程带来功能改进和优化更新。"
+      "summary": "Blackmagic Design 正式推出 DaVinci Resolve 21.1，这款专业视频剪辑与调色软件的新版本将带来新功能和性能提升。"
     },
     {
       "sourceId": "hackernews",
       "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "excerpt": "293 points · 230 comments",
+      "excerpt": "298 points · 236 comments",
       "publishedAt": "2026-09-08T14:13:26.000Z",
       "category": "tech",
-      "score": 293,
+      "score": 298,
       "source": "Hacker News",
-      "summary": "GitHub项目“I-have-ADHD”提供一种技能，让编码代理不再把答案淹没在冗长输出里，从而更直接地呈现核心结果，提升AI编程工具使用效率。"
+      "summary": "GitHub 项目 I-have-ADHD 提供一组技能，让 AI 编程代理在回复时直接给出答案，避免把结论埋藏在大量代码和解释之中。"
     },
     {
       "sourceId": "hackernews",
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
-      "excerpt": "220 points · 211 comments",
+      "excerpt": "249 points · 232 comments",
       "publishedAt": "2026-09-08T19:25:00.000Z",
       "category": "tech",
-      "score": 220,
+      "score": 249,
       "source": "Hacker News",
-      "summary": "Meta发布个人AI智能体Muse，定位为上下文感知的个性化AI助手，可帮助用户完成日常任务并参与自然对话，是其在AI代理领域的新动作。"
+      "summary": "Meta 推出名为 Muse 的个人 AI 智能体，旨在通过对话等多种形式提供个性化帮助，是 Meta 在轻量级 AI 助手方向上的最新尝试。"
     },
     {
       "sourceId": "hackernews",
       "title": "The two Christian saints who are the Buddha",
       "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-      "excerpt": "207 points · 145 comments",
+      "excerpt": "215 points · 148 comments",
       "publishedAt": "2026-09-08T14:44:25.000Z",
       "category": "tech",
-      "score": 207,
+      "score": 215,
       "source": "Hacker News",
-      "summary": "一篇博客主张，两位基督教圣人的真实身份实际上是佛陀；作者结合圣像、传说与历史资料，为这一跨宗教观点提供论证。"
+      "summary": "文章提出，有两位基督教圣徒背后其实对应着佛陀形象；作者援引图像和传说，比较这些圣人原型中的跨文化联系。"
     },
     {
       "sourceId": "hackernews",
       "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
       "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "excerpt": "202 points · 99 comments",
+      "excerpt": "204 points · 102 comments",
       "publishedAt": "2026-09-08T14:49:19.000Z",
       "category": "tech",
-      "score": 202,
+      "score": 204,
       "source": "Hacker News",
-      "summary": "一项针对Qwen3.8 27B模型不同量化版本的基准测试显示：4-bit量化下性能保持良好，1-bit量化则出现明显性能崩溃，反映出精度与压缩间的取舍。"
+      "summary": "针对 Qwen3.8 27B 的量化基准测试显示，4-bit 在多数任务上保持性能，而 1-bit 表现大幅崩溃，几乎不适合使用。"
     },
     {
       "sourceId": "hackernews",
       "title": "Show HN: Copperhead – Cursor for circuit boards",
       "url": "https://copperhead.sh/",
-      "excerpt": "200 points · 77 comments",
+      "excerpt": "202 points · 78 comments",
       "publishedAt": "2026-09-08T13:26:45.000Z",
       "category": "tech",
-      "score": 200,
+      "score": 202,
       "source": "Hacker News",
-      "summary": "Show HN：Copperhead被称为“电路板界的Cursor”，利用AI辅助交互来设计和迭代PCB电路板，希望将类编程IDE的效率带入硬件设计环节。"
+      "summary": "Show HN 展示 Copperhead 项目，一款面向电路板设计的编辑工具，官方将其比喻为“电路板的 Cursor”，追求便捷的设计流程。"
     },
     {
       "sourceId": "hackernews",
       "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
       "url": "https://github.com/argonautlabsai/deltafin",
-      "excerpt": "195 points · 95 comments",
+      "excerpt": "198 points · 97 comments",
       "publishedAt": "2026-09-08T20:07:55.000Z",
       "category": "tech",
-      "score": 195,
+      "score": 198,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The Helicopter with Radioactive Blades",
       "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-      "excerpt": "142 points · 41 comments",
+      "excerpt": "145 points · 43 comments",
       "publishedAt": "2026-09-07T17:44:33.000Z",
       "category": "tech",
-      "score": 142,
+      "score": 145,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
       "url": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
-      "excerpt": "129 points · 11 comments",
+      "excerpt": "132 points · 11 comments",
       "publishedAt": "2026-09-06T22:27:27.000Z",
       "category": "tech",
-      "score": 129,
+      "score": 132,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Mercury 2.5",
       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "excerpt": "114 points · 14 comments",
+      "excerpt": "117 points · 15 comments",
       "publishedAt": "2026-09-08T20:14:52.000Z",
       "category": "tech",
-      "score": 114,
+      "score": 117,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Show HN: LLM Attention Visualization",
       "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "excerpt": "109 points · 19 comments",
+      "excerpt": "111 points · 19 comments",
       "publishedAt": "2026-09-08T16:59:41.000Z",
       "category": "tech",
-      "score": 109,
+      "score": 111,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "excerpt": "99 points · 18 comments",
+      "publishedAt": "2026-09-08T21:22:11.000Z",
+      "category": "tech",
+      "score": 99,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "excerpt": "96 points · 66 comments",
+      "publishedAt": "2026-09-08T21:00:52.000Z",
+      "category": "tech",
+      "score": 96,
       "source": "Hacker News"
     },
     {
@@ -333,50 +353,40 @@
     },
     {
       "sourceId": "hackernews",
-      "title": "How to build a printer",
-      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "excerpt": "81 points · 10 comments",
-      "publishedAt": "2026-09-08T21:22:11.000Z",
-      "category": "tech",
-      "score": 81,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "excerpt": "80 points · 48 comments",
-      "publishedAt": "2026-09-08T21:00:52.000Z",
-      "category": "tech",
-      "score": 80,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
       "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "excerpt": "76 points · 9 comments",
+      "excerpt": "78 points · 10 comments",
       "publishedAt": "2026-09-08T14:14:15.000Z",
       "category": "tech",
-      "score": 76,
+      "score": 78,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
       "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "excerpt": "73 points · 36 comments",
+      "excerpt": "76 points · 36 comments",
       "publishedAt": "2026-09-05T12:32:06.000Z",
       "category": "tech",
-      "score": 73,
+      "score": 76,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Connecting the machines",
       "url": "https://herdr.dev/blog/connecting-the-machines/",
-      "excerpt": "73 points · 25 comments",
+      "excerpt": "76 points · 25 comments",
       "publishedAt": "2026-09-08T16:43:55.000Z",
+      "category": "tech",
+      "score": 76,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "excerpt": "73 points · 38 comments",
+      "publishedAt": "2026-09-08T21:47:38.000Z",
       "category": "tech",
       "score": 73,
       "source": "Hacker News"
@@ -385,90 +395,80 @@
       "sourceId": "hackernews",
       "title": "C*: Unifying Programming and Verification in C (2025)",
       "url": "https://arxiv.org/abs/2504.02246",
-      "excerpt": "67 points · 41 comments",
+      "excerpt": "69 points · 41 comments",
       "publishedAt": "2026-09-08T15:56:56.000Z",
       "category": "tech",
-      "score": 67,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "excerpt": "63 points · 32 comments",
-      "publishedAt": "2026-09-08T21:47:38.000Z",
-      "category": "tech",
-      "score": 63,
+      "score": 69,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
       "url": "https://uecker.codeberg.page/2026-09-05.html",
-      "excerpt": "52 points · 9 comments",
+      "excerpt": "53 points · 9 comments",
       "publishedAt": "2026-09-05T12:09:29.000Z",
       "category": "tech",
-      "score": 52,
+      "score": 53,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Animation in Bevy: The Big Picture",
       "url": "https://glocq.com/en/blog/20260827/",
-      "excerpt": "39 points · 1 comments",
+      "excerpt": "41 points · 2 comments",
       "publishedAt": "2026-09-08T20:08:44.000Z",
       "category": "tech",
-      "score": 39,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Tracing np.add, all the way down",
-      "url": "https://blog.veitheller.de/numpy.html",
-      "excerpt": "28 points · 2 comments",
-      "publishedAt": "2026-09-04T09:42:29.000Z",
-      "category": "tech",
-      "score": 28,
+      "score": 41,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "A Topological Picture Book, Rendered",
       "url": "https://e-infinity.space/picture-book/",
-      "excerpt": "25 points · 0 comments",
+      "excerpt": "34 points · 4 comments",
       "publishedAt": "2026-09-08T22:28:14.000Z",
       "category": "tech",
-      "score": 25,
+      "score": 34,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Tracing np.add, all the way down",
+      "url": "https://blog.veitheller.de/numpy.html",
+      "excerpt": "33 points · 2 comments",
+      "publishedAt": "2026-09-04T09:42:29.000Z",
+      "category": "tech",
+      "score": 33,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Reverse Engineering an ASIC",
       "url": "https://kjartanvandriel.github.io/asic/",
-      "excerpt": "19 points · 3 comments",
+      "excerpt": "23 points · 5 comments",
       "publishedAt": "2026-09-07T16:02:02.000Z",
       "category": "tech",
-      "score": 19,
+      "score": 23,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The Microeconomics of Artificial Intelligence (2025)",
       "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-      "excerpt": "18 points · 3 comments",
+      "excerpt": "19 points · 5 comments",
       "publishedAt": "2026-09-06T21:24:23.000Z",
       "category": "tech",
-      "score": 18,
+      "score": 19,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Getting phpBB 1.4.4 working in Docker",
       "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
-      "excerpt": "6 points · 0 comments",
+      "excerpt": "11 points · 2 comments",
       "publishedAt": "2026-09-07T14:35:12.000Z",
       "category": "tech",
-      "score": 6,
+      "score": 11,
       "source": "Hacker News"
     },
     {
@@ -1040,6 +1040,15 @@
     },
     {
       "sourceId": "simonwillison",
+      "title": "Quoting Terence Tao",
+      "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+      "excerpt": "",
+      "publishedAt": "2026-09-09T00:20:17.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
       "excerpt": "",
@@ -1296,15 +1305,6 @@
       "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
       "excerpt": "",
       "publishedAt": "2026-09-01T14:59:18.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "Introducing wrapture",
-      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
-      "excerpt": "",
-      "publishedAt": "2026-08-31T23:59:36.000Z",
       "category": "tech",
       "source": "Simon Willison"
     },
