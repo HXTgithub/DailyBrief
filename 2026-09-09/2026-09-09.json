@@ -1,0 +1,46 @@
+{
+  "hero_headline": "后量子自动密钥交换上线，覆盖每日45亿连接",
+  "daily_overview": "云安全今日迎来重要进展：Cloudflare 推出后量子自动密钥交换，覆盖每日 45 亿次源站连接。与此同时，GitHub 工程团队分享降低 AI 编程模型推理成本的实践；数学家陶哲轩提醒 AI 正在大量开采开放数学问题；一项新研究则关注大语言模型自适应探索中产生的社会偏见。",
+  "tech_briefs": [
+    {
+      "title": "Cloudflare 后量子自动密钥交换上线",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 推出的 Automatic Key Exchange 会探测客户源站支持的 TLS 1.3 算法，并在建连时优先选用最安全的密钥协商方式，据称每日覆盖 45 亿次连接。",
+      "importance": 9
+    },
+    {
+      "title": "如何在保证任务质量的同时降低人工智能编程成本",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 工程团队解释了为何更短的模型输出不一定更便宜，以及 Copilot 如何从完整编码任务的总链路减少算力浪费，以在保持任务质量的同时控制推理成本。",
+      "importance": 7
+    },
+    {
+      "title": "陶哲轩：AI 正不可再生地开采开放数学问题",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "source": "Hacker News",
+      "summary": "陶哲轩在社交平台表示，开放数学问题正被人工智能当作非可再生资源来开采。他认为这一走向可能改变数学研究的基本生态，相关讨论迅速升温。",
+      "importance": 8
+    },
+    {
+      "title": "研究：大语言模型在自适应探索中演化出新型社会偏见",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "source": "Hacker News",
+      "summary": "一项研究揭示，大型语言模型在自适应探索过程中可发展出新的社会偏见，即并非只复制训练数据中的刻板印象。这为模型安全与公平性研究提出新的挑战。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "后量子安全正从概念走向规模化部署，AI 在效率与伦理之间加速冲刺。关注硬核基础设施之余，也应正视可验证性与模型公平带来的长期挑战。",
+  "keywords": [
+    "后量子加密",
+    "Cloudflare",
+    "自动密钥交换",
+    "AI推理成本",
+    "GitHub Copilot",
+    "陶哲轩",
+    "大模型偏见"
+  ]
+}
