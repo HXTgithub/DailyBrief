@@ -1,0 +1,54 @@
+{
+  "hero_headline": "OpenAI 发布 Agents API 与 Lean 4 数学证明",
+  "daily_overview": "今日技术线以 OpenAI 的双线动作最受关注：一边上线 Agents API 官方文档，一边在 Navier-Stokes 相关成果中附带 Lean 4 形式化证明，AI 与形式化方法的结合再进一步。基础设施侧，Cloudflare 把后量子能力推向 DNSSEC 验证与源站握手。开发者社区则在讨论 Agent 技能框架与移动端原生路线。",
+  "tech_briefs": [
+    {
+      "title": "OpenAI 数学成果附带 Lean 4 形式化证明",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "source": "Hacker News",
+      "summary": "有博客指出，OpenAI 的 Navier-Stokes 相关工作附带 Lean 4 形式化证明，结论可被证明助手逐步验证，而非仅靠人工审阅。该话题在 Hacker News 获得百余点讨论。",
+      "importance": 9
+    },
+    {
+      "title": "OpenAI 发布 Agents API 开发者文档",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "source": "Hacker News",
+      "summary": "OpenAI 上线 Agents API 官方概览文档，面向开发者说明智能体的构建与编排接口。Hacker News 相关讨论获得 71 点，关注点集中在其与既有工具链的衔接方式。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 为 DNS 与源站握手引入后量子能力",
+      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 宣布 1.1.1.1 改用 ML-DSA-44 验证 DNSSEC 签名，并推出 Automatic Key Exchange，连接源站时优先选用对方支持的最安全密钥协商算法，兼顾性能与后量子安全。（多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "GitHub 热门：obra/superpowers 智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "summary": "该项目提供面向编码智能体的技能框架与开发方法论，把常用工作流封装成可复用技能，让多个 Agent 按统一约定协作，适合希望为 AI 编码流程加上规范约束的团队。",
+      "importance": 6
+    },
+    {
+      "title": "Shopify 移动端路线转向原生开发",
+      "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+      "source": "Simon Willison",
+      "summary": "Simon Willison 提到，Shopify 已将移动端未来的技术方向定为原生开发。该公司此前以 React Native 实践著称，这一转向反映出大型团队对性能与体验的重新权衡。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "形式化证明与智能体接口同步推进，正在把「模型生成」推向「可被机器验证、可被工程调用」；后量子安全则从协议底层悄然铺开。",
+  "keywords": [
+    "OpenAI Agents API",
+    "Lean 4",
+    "形式化证明",
+    "后量子加密",
+    "DNSSEC",
+    "智能体技能框架",
+    "Shopify 原生开发",
+    "GitHub Trending"
+  ]
+}
