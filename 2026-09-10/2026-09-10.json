@@ -1,0 +1,53 @@
+{
+  "hero_headline": "苹果发布 iPhone Duo 产品，科技社区热议",
+  "daily_overview": "苹果上线 iPhone Duo，社区讨论热度领跑；Meta AI 智能体 Muse 与乐队品牌产生冲突。OpenAI 发布图像生成 2.5；Cloudflare 自动密钥交换覆盖每日 450 亿次连接，后量子安全加速落地；暴雪员工达成历史性工会合同，或重塑游戏开发者权益标准。",
+  "tech_briefs": [
+    {
+      "title": "苹果上线 iPhone Duo 产品页",
+      "url": "https://www.apple.com/iphone-duo/",
+      "source": "Hacker News",
+      "summary": "苹果官网新增 iPhone Duo 产品页，在 Hacker News 获得 825 分与 1619 条评论，成为当日科技社区讨论焦点。",
+      "importance": 10
+    },
+    {
+      "title": "Muse 乐队因 Meta AI 同名产品失去社交账号",
+      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "source": "Hacker News",
+      "summary": "Meta 推出同名 AI 智能体后，Muse 乐队原有社交账号出现归属变化，品牌命名冲突引发社区讨论。",
+      "importance": 6
+    },
+    {
+      "title": "暴雪员工赢得历史性工会合同",
+      "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+      "source": "Hacker News",
+      "summary": "暴雪员工达成具有里程碑意义的工会合同，可能为游戏开发者设定新的行业标准，其保障条款受到业界关注。",
+      "importance": 7
+    },
+    {
+      "title": "Cloudflare 自动密钥交换强化后量子安全",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 自动探测源站 TLS 1.3 密钥协商算法，优先采用更安全的后量子方案，覆盖每日约 450 亿次源站连接。",
+      "importance": 8
+    },
+    {
+      "title": "OpenAI 发布 ChatGPT Images 2.5",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "source": "Simon Willison",
+      "summary": "OpenAI 公布 ChatGPT 图像生成模型 2.5，Simon Willison 撰文介绍该更新，具体能力改进仍有待社区实测讨论。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "AI 服务的命名摩擦、后量子安全提速与游戏业劳工突破，共同表明技术扩张正同步带来规则与治理层面的新课题。",
+  "keywords": [
+    "iPhone Duo",
+    "AI智能体",
+    "Muse",
+    "后量子安全",
+    "Cloudflare",
+    "OpenAI",
+    "暴雪工会"
+  ]
+}
