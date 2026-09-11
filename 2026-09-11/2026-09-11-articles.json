@@ -6,193 +6,180 @@
       "title": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "excerpt": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "meta": "Python · ★ 38,169 · 🍴 2,197 · 📈 3,854 stars today",
+      "meta": "Python · ★ 38,313 · 🍴 2,203 · 📈 3,882 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向编程 Agent 的输出规范技能，用来阻止 AI 把关键答案埋在冗长解释里，改成 ADHD 友好的直给式输出。适合用 Claude Code、Codex 等编码助手时经常翻半天找不到结论的开发者，安装后即可约束回答结构。"
+      "summary": "为编程 AI agent 设计的输出风格技能，强制它先抛出结论和关键答案，不再把重点埋在冗长解释与推理过程里，输出对 ADHD 读者更友好。可以 skill 形式接入 Claude Code 等编码 agent，适合讨厌翻长文找答案的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "excerpt": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "meta": "JavaScript · ★ 24,138 · 🍴 5,024 · 📈 1,588 stars today",
+      "meta": "JavaScript · ★ 24,304 · 🍴 5,045 · 📈 1,762 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "浏览器里的间谍卫星模拟器，数据却是真实的：在照片级 3D 地球上做开源空间情报分析。用户可查看实时卫星影像与地理信息，适合对 OSINT、地理空间数据可视化感兴趣的人，打开网页即可体验。"
+      "summary": "浏览器里运行的间谍卫星模拟器，数据却是真实的：在照片级 3D 地球上叠加开源情报，实时查看卫星轨道、影像与地理空间信息。面向 OSINT 研究者、地理信息爱好者，以及想直观理解全球态势的人。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 284,680 · 🍴 25,464 · 📈 731 stars today",
+      "meta": "Shell · ★ 284,701 · 🍴 25,467 · 📈 732 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI Agent 的技能框架与软件开发方法论，把可复用的 agentic skills 与工程流程结合，让团队用一套约定驱动编码代理完成实际开发任务。适合希望把 Agent 真正落地到日常研发流程的工程师与团队。"
+      "summary": "面向 AI agent 的技能框架与配套软件开发方法论，把提示词、技能和工程实践组织成可复用工作流，让 agent 在真实项目中稳定交付。适合想系统化落地 agentic 编码流程的团队与个人开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
       "excerpt": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "meta": "TypeScript · ★ 1,613 · 🍴 253 · 📈 299 stars today",
+      "meta": "TypeScript · ★ 1,647 · 🍴 256 · 📈 277 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源 AI 交易代理，可自主跨 1000 多个市场运行，覆盖 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 及 5 条 EVM 链。能扫描套利与边缘机会、即时执行下单并管理风险，适合量化交易者与 DeFi 玩家。"
+      "summary": "开源 AI 交易 agent，可自主运行在 1000+ 市场上，覆盖 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 与 5 条 EVM 链，自动扫描套利与定价偏差、即时下单并管理风险。适合量化交易者与预测市场玩家。"
     },
     {
       "sourceId": "github-trending",
       "title": "Tencent/teamai-cli",
       "url": "https://github.com/Tencent/teamai-cli",
       "excerpt": "Make Every Team AI Native",
-      "meta": "TypeScript · ★ 3,752 · 🍴 242 · 📈 837 stars today",
+      "meta": "TypeScript · ★ 3,787 · 🍴 246 · 📈 841 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯推出的团队 AI 协作命令行工具，目标是让每个团队都能以 AI 原生方式工作。通过 CLI 把 AI 能力嵌入需求、开发与协作环节，适合企业团队统一接入和编排 AI 工作流。"
+      "summary": "腾讯开源的命令行工具，目标是让团队研发与协作流程全面 AI 化，把 AI 能力接入日常工程工作流。仓库描述较简短，具体功能需查阅文档；面向希望统一团队 AI 工具链的工程组织。"
     },
     {
       "sourceId": "github-trending",
       "title": "AlexsJones/llmfit",
       "url": "https://github.com/AlexsJones/llmfit",
       "excerpt": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "meta": "Rust · ★ 35,715 · 🍴 2,264 · 📈 247 stars today",
+      "meta": "Rust · ★ 35,733 · 🍴 2,266 · 📈 258 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一条命令即可判断哪些大模型能在你当前硬件上跑起来，内置数百个模型与提供商。它会根据显存、内存等条件筛选可用模型，适合本地部署 LLM 的用户快速选型，省去逐个试错的成本。"
+      "summary": "一条命令即可检测哪些大模型能在你当前硬件上跑起来，覆盖数百个模型与多家推理服务商。帮助开发者、研究者在本地部署前快速摸清显存、算力与量化版本的可行边界，省去逐个试错。"
     },
     {
       "sourceId": "github-trending",
       "title": "liquidslr/system-design-notes",
       "url": "https://github.com/liquidslr/system-design-notes",
       "excerpt": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "meta": "★ 18,748 · 🍴 3,480 · 📈 891 stars today",
+      "meta": "★ 18,777 · 🍴 3,484 · 📈 900 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "《System Design Interview: An Insider's Guide》一书的学习笔记，整理分布式系统设计的核心概念、经典架构与面试答题思路。适合准备系统设计面试的后端工程师和求职者当作复习提纲。"
+      "summary": "《System Design Interview: An Insider's Guide》的阅读笔记，按章节整理系统设计核心概念、经典题型与方案取舍。适合准备系统设计面试的后端工程师，也可作为分布式架构的入门复习材料。"
     },
     {
       "sourceId": "github-trending",
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "excerpt": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "meta": "HTML · ★ 37,700 · 🍴 2,389 · 📈 1,287 stars today",
+      "meta": "HTML · ★ 37,755 · 🍴 2,396 · 📈 1,294 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 Claude Code、Codex、Pi 提供 38 种编辑排版风格的图表模板，输出自包含的 HTML + SVG，无阴影，也不用 Mermaid 那种粗糙图。适合需要在文档和文章里放高质量架构图、流程图的开发者。"
+      "summary": "为 Claude Code、Codex、Pi 等编码 agent 准备的 38 种编辑级图表样式，输出自带 HTML 与 SVG、无外部依赖，回避 Mermaid 的千篇一律和阴影堆砌。适合需要在文档、报告中画干净专业图示的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "excerpt": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "meta": "JavaScript · ★ 30,813 · 🍴 2,984 · 📈 957 stars today",
+      "meta": "JavaScript · ★ 30,841 · 🍴 2,988 · 📈 962 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GPT Image 2 / 2.5 的提示词与案例库，收录 530 多个案例、20 多套工业级模板与可复用 Skills，并新增同提示词对比专区，附完整提示词与生成记录。适合用 GPT 生图的创作者参考复用。"
+      "summary": "以 Prompt as Code 为理念的 GPT Image 2/2.5 提示词与案例库，收录 530+ 实例、20+ 套工业级模板和可复用 Skills，并新增同提示词跨版本对比专区，附完整提示词与生成记录，持续更新。"
     },
     {
       "sourceId": "github-trending",
       "title": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "excerpt": "Graphics Creation Tools",
-      "meta": "C · ★ 4,400 · 🍴 519 · 📈 87 stars today",
+      "meta": "C · ★ 4,419 · 🍴 521 · 📈 72 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ArmorPaint 是开源 3D 纹理绘制工具，支持在模型表面直接进行 PBR 材质绘制，具备图层与笔刷工作流，可用于游戏、影视资产制作，适合独立开发者与美术人员作为付费工具的免费替代。"
+      "summary": "GPU 加速的 3D 纹理绘制工具，属于 Armory3D 生态，支持 PBR 材质绘制、笔刷编辑与贴图烘焙，可运行于桌面及浏览器环境。适合游戏美术、独立开发者与 3D 资产创作者制作模型贴图。"
     },
     {
       "sourceId": "github-trending",
       "title": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "excerpt": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/",
-      "meta": "TypeScript · ★ 64,205 · 🍴 8,993 · 📈 591 stars today",
+      "meta": "TypeScript · ★ 64,240 · 🍴 8,996 · 📈 626 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "MIT 协议免费 AI 网关，一个端点即可接入 352 家提供商（150+ 免费）和 1200 多个模型，涵盖 Claude、GPT、Gemini、DeepSeek 等。兼容 Claude Code、Codex、Cursor 等客户端，适合统一管理多模型调用。"
+      "summary": "MIT 协议的开源 AI 网关，用一个统一端点接入 352 家服务商、1200+ 模型，其中 150+ 家提供免费额度，兼容 Claude Code、Codex、Cursor、Cline 等客户端，避免因限流或更换模型而中断编码。"
     },
     {
       "sourceId": "github-trending",
       "title": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "excerpt": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "meta": "C · ★ 27,438 · 🍴 3,006 · 📈 130 stars today",
+      "meta": "C · ★ 27,465 · 🍴 3,010 · 📈 98 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用纯 C 编写、零依赖的推理引擎，让前沿 MoE 大模型跑在你已有的硬件上：专家权重从磁盘流式加载，小引擎也能驱动超大模型。适合显存有限、又想本地运行大模型的用户。"
+      "summary": "纯 C 编写、零依赖的推理引擎，通过把专家权重从磁盘流式加载，让个人现有硬件也能跑前沿 MoE 大模型。适合显存有限、想在本地体验大模型的开发者，引擎体量极小但可驱动的模型规模很大。"
     },
     {
       "sourceId": "github-trending",
       "title": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "excerpt": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "meta": "TypeScript · ★ 35,269 · 🍴 5,629 · 📈 806 stars today",
+      "meta": "TypeScript · ★ 35,313 · 🍴 5,632 · 📈 837 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源多智能体互动课堂，一键即可获得沉浸式的多智能体学习体验。由清华团队打造，把不同角色的 AI 智能体组织成教学场景，适合探索 AI 辅助教学与个性化学习的师生和研究者。"
+      "summary": "开放的多智能体互动课堂，一键进入沉浸式学习体验，由多个 AI agent 分工协作完成讲解与互动问答。面向探索 AI 辅助教学的教育机构、教师，以及希望获得个性化学习路径的自学者。"
     },
     {
       "sourceId": "github-trending",
       "title": "nashsu/llm_wiki",
       "url": "https://github.com/nashsu/llm_wiki",
       "excerpt": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "meta": "TypeScript · ★ 18,073 · 🍴 2,098 · 📈 94 stars today",
+      "meta": "TypeScript · ★ 18,105 · 🍴 2,099 · 📈 142 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "跨平台桌面应用，能把你的文档自动整理成相互链接的知识库，取代传统 RAG 每次从零检索回答的方式。适合需要长期沉淀个人知识、在本地构建文档网络的用户。"
+      "summary": "跨平台桌面应用，自动把本地文档整理成互相关联、可浏览的知识库，用持续演化的 Wiki 结构替代传统 RAG 的即取即答模式，让知识可积累而非每次重新检索。适合长期管理个人或团队资料的人。"
     },
     {
       "sourceId": "github-trending",
       "title": "vercel-labs/skills",
       "url": "https://github.com/vercel-labs/skills",
       "excerpt": "The open agent skills tool - npx skills",
-      "meta": "TypeScript · ★ 31,122 · 🍴 2,657 · 📈 175 stars today",
+      "meta": "TypeScript · ★ 31,146 · 🍴 2,661 · 📈 122 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源 Agent 技能工具，通过 npx skills 一条命令安装和管理各类技能，为编码代理扩展能力。由 Vercel Labs 推出，适合想让 Claude Code、Codex 等代理即插即用新技能的开发者。"
+      "summary": "Vercel 实验团队推出的开放 agent 技能工具，用 npx skills 即可安装、发现和分发各类技能包，让编码 agent 快速获得新能力。适合想统一管理 agent skills 生态的开发者与团队使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
       "excerpt": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "meta": "TypeScript · ★ 2,268 · 🍴 192 · 📈 636 stars today",
+      "meta": "TypeScript · ★ 2,297 · 🍴 193 · 📈 624 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "本地优先的 AI 编码代理桌面端，采用 Electron 前端加 Rust 宿主核心，配合 pi Agent Harness 与用户可安装插件。适合注重隐私、希望在自己机器上运行可扩展编码代理的开发者。"
+      "summary": "本地优先的 AI 编码 agent 桌面客户端，采用 Electron 前端加 Rust 主机内核，内置 pi Agent Harness 并支持用户自行安装插件扩展。适合不愿把代码上传云端、又需要可定制 agent 环境的开发者。"
     },
     {
       "sourceId": "hackernews",
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
-      "excerpt": "1403 points · 2422 comments",
+      "excerpt": "1412 points · 2428 comments",
       "publishedAt": "2026-09-09T18:15:43.000Z",
       "category": "tech",
-      "score": 1403,
-      "source": "Hacker News",
-      "summary": "苹果官网出现 iPhone Duo 产品页面，HN 上讨论热度达 1403 点、2422 条评论，热度集中在这款新品的定位与形态。"
+      "score": 1412,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "url": "https://shopify.engineering/back-to-native",
-      "excerpt": "663 points · 442 comments",
+      "excerpt": "751 points · 507 comments",
       "publishedAt": "2026-09-10T14:09:31.000Z",
       "category": "tech",
-      "score": 663,
-      "source": "Hacker News",
-      "summary": "Shopify 工程团队撰文说明将移动端从 React Native 迁回原生开发，改用 Swift 与 Kotlin，HN 讨论达 663 点、442 条评论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Rust is tier-1 language at Microsoft",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "excerpt": "576 points · 312 comments",
-      "publishedAt": "2026-09-10T13:39:16.000Z",
-      "category": "tech",
-      "score": 576,
-      "source": "Hacker News",
-      "summary": "Rust 基金会客座文章称 Rust 已成为微软的一级（tier-1）语言，介绍其在微软内部的使用与投入，HN 讨论 576 点、312 条评论。"
+      "score": 751,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
@@ -201,194 +188,147 @@
       "excerpt": "https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;status&#x2F;2097791836269977996, https:&#x2F;&#x2F;xcancel.com&#x2F;ValerioCapraro&#x2F;status&#x2F;209",
       "publishedAt": "2026-09-10T06:49:43.000Z",
       "category": "tech",
-      "score": 572,
-      "source": "Hacker News",
-      "summary": "数学界在 Mastodon 上继续追问：研究者能否放心把未发表的数学成果交给 OpenAI，帖中附多条相关讨论链接及他人推文。"
+      "score": 640,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "excerpt": "593 points · 338 comments",
+      "publishedAt": "2026-09-10T13:39:16.000Z",
+      "category": "tech",
+      "score": 593,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "List of references on Sony websites to players \"owning\" their digital games",
       "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-      "excerpt": "346 points · 115 comments",
+      "excerpt": "363 points · 120 comments",
       "publishedAt": "2026-09-10T12:18:06.000Z",
       "category": "tech",
-      "score": 346,
-      "source": "Hacker News",
-      "summary": "消费者权益 wiki 整理了索尼网站多处称玩家「拥有」数字游戏的表述，作为 PlayStation 数字游戏所有权诉讼的参考证据，HN 讨论 346 点。"
+      "score": 363,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "url": "https://cognition.com/blog/swe-2",
-      "excerpt": "334 points · 138 comments",
+      "excerpt": "345 points · 142 comments",
       "publishedAt": "2026-09-10T15:29:47.000Z",
       "category": "tech",
-      "score": 334,
-      "source": "Hacker News",
-      "summary": "Cognition 发布新模型 SWE-2，官方称其性能可对标 Fable 5.1 与 GPT-Astra，HN 上获得 334 点、138 条评论。"
+      "score": 345,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "What algorithm did Windows XP use to choose your initial user picture?",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-      "excerpt": "334 points · 164 comments",
+      "excerpt": "337 points · 165 comments",
       "publishedAt": "2026-09-10T09:04:14.000Z",
       "category": "tech",
-      "score": 334,
-      "source": "Hacker News",
-      "summary": "微软 Raymond Chen 的 Old New Thing 博文，探讨 Windows XP 当年用何种算法为新建账户挑选初始用户头像，引发 334 点讨论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "excerpt": "278 points · 214 comments",
-      "publishedAt": "2026-09-09T14:54:12.000Z",
-      "category": "tech",
-      "score": 278,
-      "source": "Hacker News",
-      "summary": "日立推出使用 CO2 冷媒的热泵热水器，支持与太阳能发电相配合的电价控制策略，pv-magazine 报道，HN 讨论 278 点、214 条评论。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Stockfish 19",
-      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-      "excerpt": "261 points · 146 comments",
-      "publishedAt": "2026-09-07T16:17:27.000Z",
-      "category": "tech",
-      "score": 261,
-      "source": "Hacker News",
-      "summary": "开源国际象棋引擎 Stockfish 发布第 19 版，官方博客介绍新版本改动，HN 讨论 261 点、146 条评论。"
+      "score": 337,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Don't let anyone take away your big box of cables",
       "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "excerpt": "256 points · 208 comments",
+      "excerpt": "306 points · 238 comments",
       "publishedAt": "2026-09-10T15:27:22.000Z",
       "category": "tech",
-      "score": 256,
-      "source": "Hacker News",
-      "summary": "Jim Nielsen 博文主张别让人拿走你那一大箱线缆，讨论囤积线缆与转接线在当下设备生态里的实用价值，HN 讨论 256 点。"
+      "score": 306,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
-      "excerpt": "242 points · 36 comments",
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "excerpt": "283 points · 223 comments",
+      "publishedAt": "2026-09-09T14:54:12.000Z",
+      "category": "tech",
+      "score": 283,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "excerpt": "https:&#x2F;&#x2F;dstretch.com&#x2F;DecorrelationStretch.pdfhttps:&#x2F;&#x2F;www.nasa.gov&#x2F;technology&#x2F;tech-transfer-spinoffs&#x2F;nasa-...",
       "publishedAt": "2026-09-10T15:29:30.000Z",
       "category": "tech",
-      "score": 242,
+      "score": 262,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Neki – Sharded Postgres",
       "url": "https://planetscale.com/blog/introducing-neki",
-      "excerpt": "188 points · 96 comments",
+      "excerpt": "195 points · 107 comments",
       "publishedAt": "2026-09-10T15:43:49.000Z",
       "category": "tech",
-      "score": 188,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Silicon Valley is transforming the military-industrial complex?",
-      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-      "excerpt": "138 points · 270 comments",
-      "publishedAt": "2026-09-10T15:47:50.000Z",
-      "category": "tech",
-      "score": 138,
+      "score": 195,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Music Theory for the 21st-Century Classroom",
       "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-      "excerpt": "137 points · 62 comments",
+      "excerpt": "153 points · 74 comments",
       "publishedAt": "2026-09-10T17:14:12.000Z",
       "category": "tech",
-      "score": 137,
+      "score": 153,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Silicon Valley is transforming the military-industrial complex? (2024)",
+      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "excerpt": "150 points · 293 comments",
+      "publishedAt": "2026-09-10T15:47:50.000Z",
+      "category": "tech",
+      "score": 150,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Forgejo <=16.0.3 Critical RCE",
       "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "excerpt": "136 points · 49 comments",
+      "excerpt": "147 points · 55 comments",
       "publishedAt": "2026-09-10T15:57:40.000Z",
       "category": "tech",
-      "score": 136,
+      "score": 147,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
       "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-      "excerpt": "126 points · 68 comments",
+      "excerpt": "138 points · 74 comments",
       "publishedAt": "2026-09-06T14:59:33.000Z",
       "category": "tech",
-      "score": 126,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Creativity is the new moat",
-      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-      "excerpt": "116 points · 61 comments",
-      "publishedAt": "2026-09-10T19:03:34.000Z",
-      "category": "tech",
-      "score": 116,
+      "score": 138,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
       "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-      "excerpt": "113 points · 109 comments",
+      "excerpt": "131 points · 131 comments",
       "publishedAt": "2026-09-10T21:22:59.000Z",
       "category": "tech",
-      "score": 113,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Python sets and dictionaries can have quadratic-time performance",
-      "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
-      "excerpt": "85 points · 49 comments",
-      "publishedAt": "2026-09-08T16:17:51.000Z",
-      "category": "tech",
-      "score": 85,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Schemy Lisp En DOS",
-      "url": "https://sled.neocities.org/",
-      "excerpt": "77 points · 17 comments",
-      "publishedAt": "2026-09-06T12:58:54.000Z",
-      "category": "tech",
-      "score": 77,
+      "score": 131,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "excerpt": "71 points · 55 comments",
+      "excerpt": "113 points · 74 comments",
       "publishedAt": "2026-09-10T19:43:22.000Z",
       "category": "tech",
-      "score": 71,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "JEP 544: Ahead-of-Time Code Compilation",
-      "url": "https://openjdk.org/jeps/544",
-      "excerpt": "64 points · 24 comments",
-      "publishedAt": "2026-09-10T17:30:39.000Z",
-      "category": "tech",
-      "score": 64,
+      "score": 113,
       "source": "Hacker News"
     },
     {
@@ -398,67 +338,67 @@
       "excerpt": "https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;e50be2e51e7695dc4b1366a37a245a...",
       "publishedAt": "2026-09-10T17:23:42.000Z",
       "category": "tech",
-      "score": 64,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-      "url": "https://tokenstead.ai/models/swe-2",
-      "excerpt": "52 points · 24 comments",
-      "publishedAt": "2026-09-10T16:52:11.000Z",
-      "category": "tech",
-      "score": 52,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "url": "https://merybenavente.me/blog/proof-of-capture",
-      "excerpt": "47 points · 36 comments",
-      "publishedAt": "2026-09-10T19:44:15.000Z",
-      "category": "tech",
-      "score": 47,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Bodily Oddities",
-      "url": "https://vester.si/bodily-oddities/",
-      "excerpt": "31 points · 23 comments",
-      "publishedAt": "2026-09-10T20:33:11.000Z",
-      "category": "tech",
-      "score": 31,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "What happens when a GPU writes memory",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-      "excerpt": "30 points · 1 comments",
-      "publishedAt": "2026-09-08T19:46:59.000Z",
-      "category": "tech",
-      "score": 30,
+      "score": 79,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
       "url": "https://auberon.xyz/blog/posts/deathray/",
-      "excerpt": "29 points · 5 comments",
+      "excerpt": "71 points · 47 comments",
       "publishedAt": "2026-09-10T19:34:20.000Z",
       "category": "tech",
-      "score": 29,
+      "score": 71,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "url": "https://openjdk.org/jeps/544",
+      "excerpt": "71 points · 24 comments",
+      "publishedAt": "2026-09-10T17:30:39.000Z",
+      "category": "tech",
+      "score": 71,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "excerpt": "64 points · 47 comments",
+      "publishedAt": "2026-09-10T19:44:15.000Z",
+      "category": "tech",
+      "score": 64,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "excerpt": "48 points · 69 comments",
+      "publishedAt": "2026-09-10T21:30:55.000Z",
+      "category": "tech",
+      "score": 48,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "What happens when a GPU writes memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "excerpt": "42 points · 1 comments",
+      "publishedAt": "2026-09-08T19:46:59.000Z",
+      "category": "tech",
+      "score": 42,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Recursion into madness",
       "url": "https://blog.coredump.cx/p/recursion-into-madness",
-      "excerpt": "21 points · 2 comments",
+      "excerpt": "32 points · 7 comments",
       "publishedAt": "2026-09-07T21:50:12.000Z",
       "category": "tech",
-      "score": 21,
+      "score": 32,
       "source": "Hacker News"
     },
     {
@@ -468,8 +408,67 @@
       "excerpt": "The origin of this project was me, as a casual farmers&#x27; market attendee, grossly misremembering the start date of early girl tomatoes. Ironically, I still haven&#x27;t achieved that goal, because I couldn&#x27;t find a suitable source with varietal level granularity online. I&#x27;m half dreadi",
       "publishedAt": "2026-09-08T01:08:10.000Z",
       "category": "tech",
-      "score": 18,
+      "score": 24,
       "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "excerpt": "13 points · 4 comments",
+      "publishedAt": "2026-09-10T23:10:06.000Z",
+      "category": "tech",
+      "score": 13,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Embedding a bitmap font in your HyperCard stack",
+      "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
+      "excerpt": "13 points · 1 comments",
+      "publishedAt": "2026-09-08T23:30:11.000Z",
+      "category": "tech",
+      "score": 13,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+      "url": "https://asm-editor.specy.app/",
+      "excerpt": "Asm Editor is an open-source browser IDE for writing, running, and debugging assembly.It currently supports M68K, Z80, MIPS, RISC-V (32- and 64-bit), and x86-64. The debugger includes breakpoints, backward stepping, execution history, register and memory inspection, and other tools intended to make ",
+      "publishedAt": "2026-09-08T11:08:53.000Z",
+      "category": "tech",
+      "score": 11,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Google will buy half the electricity of a nuclear power plant",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "excerpt": "8 points · 5 comments",
+      "publishedAt": "2026-09-11T00:42:41.000Z",
+      "category": "tech",
+      "score": 8,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "YuE2 · Frontier Music with Symbolic Planning",
+      "url": "https://map-yue2.github.io/",
+      "excerpt": "5 points · 1 comments",
+      "publishedAt": "2026-09-11T00:33:26.000Z",
+      "category": "tech",
+      "score": 5,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面 上海前滩太古里举办的\"英雄联盟15周年\"展览。（via） 禁止 issue，只用 PR 上周，PHP 框架 Laravel 宣布了一个新规定：禁止提交 issue，只能提交 Pull Request。 乍一看，这个规定太荒谬了。用户不能提交 issue，怎么报告问题呢？难道你要每个人都读懂源码，自己动手解决问题！ 但是仔细想想，你会发现这个措施很合理，甚至值得推广。 （1）没有了垃圾 issue。 如果一个用户愿意花时",
+      "publishedAt": "2026-09-11T00:11:50.000Z",
+      "category": "tech",
+      "source": "阮一峰的网络日志"
     },
     {
       "sourceId": "ruanyf-blog",
@@ -486,15 +485,6 @@
       "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
       "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（via） 你需要知道的 AI 三种机制 这是\"AI 小知识系列\"的第三篇，前两篇分别是《大模型需要多少内存》和《AI 缓存是什么》。 我分享一些自己的学习笔记，用来理清对于 AI 技术的理解。我尽量写得通俗，希望对大家有用。 今天谈一个基本问题：AI 为什么能够回答我们的提问，它怎么会知道答案？ 你可以找到很多这方面的论文和书籍，详细解释大模型的运作，通常非常难懂。但是，对于非专业人士",
       "publishedAt": "2026-08-27T23:56:43.000Z",
-      "category": "tech",
-      "source": "阮一峰的网络日志"
-    },
-    {
-      "sourceId": "ruanyf-blog",
-      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁波的杭州湾海月剧场，原址是江边的废弃码头，被改建为古典园林。（via） 程序员的职业未来 程序员这个职业，将来会怎样？现在有很多说法。 一些人认为，将来的代码都是 AI 生成，市场不需要那么多程序员。极端情况下，程序员职业可能会消失。 另一些人认为，不必杞人忧天，AI 不过替代一部分手工编码，替代不了人类的判断。AI 让世界需要更多的代码，程序员职业不仅不会萎缩，反而继续兴旺下去。 我最近看到一个老外对程序员职业的",
-      "publishedAt": "2026-08-20T23:53:54.000Z",
       "category": "tech",
       "source": "阮一峰的网络日志"
     },
@@ -1040,6 +1030,15 @@
     },
     {
       "sourceId": "simonwillison",
+      "title": "Any Nix package, live in your browser",
+      "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+      "excerpt": "",
+      "publishedAt": "2026-09-10T23:44:15.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
       "title": "Native is now the future of mobile at Shopify",
       "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
       "excerpt": "",
@@ -1076,7 +1075,7 @@
     },
     {
       "sourceId": "simonwillison",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "title": "Some thoughts on the Navier–Stokes Millennium Prize Problem",
       "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
       "excerpt": "",
       "publishedAt": "2026-09-08T23:55:12.000Z",
@@ -1296,15 +1295,6 @@
       "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
       "excerpt": "",
       "publishedAt": "2026-09-01T19:03:01.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "GeoJSON Map Viewer",
-      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
-      "excerpt": "",
-      "publishedAt": "2026-09-01T18:05:45.000Z",
       "category": "tech",
       "source": "Simon Willison"
     },

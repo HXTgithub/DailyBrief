@@ -1,54 +1,54 @@
 {
-  "hero_headline": "OpenAI 发布 Agents API 与 Lean 4 数学证明",
-  "daily_overview": "今日技术线以 OpenAI 的双线动作最受关注：一边上线 Agents API 官方文档，一边在 Navier-Stokes 相关成果中附带 Lean 4 形式化证明，AI 与形式化方法的结合再进一步。基础设施侧，Cloudflare 把后量子能力推向 DNSSEC 验证与源站握手。开发者社区则在讨论 Agent 技能框架与移动端原生路线。",
+  "hero_headline": "谷歌锁定核电半数电量，后量子加密进入生产环境",
+  "daily_overview": "谷歌签下核电站约半数电量，为 AI 数据中心锁定长期低碳电力；Cloudflare 在 1.1.1.1 上线后量子 DNSSEC，抗量子迁移进入生产环境；OpenAI 的纳维-斯托克斯成果附带 Lean 4 形式化证明，形式化验证开始为 AI 结论背书。开源侧，Laravel 改行「只收 PR」，重设协作门槛。",
   "tech_briefs": [
     {
-      "title": "OpenAI 数学成果附带 Lean 4 形式化证明",
-      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "title": "谷歌将采购核电站约半数发电量",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
       "source": "Hacker News",
-      "summary": "有博客指出，OpenAI 的 Navier-Stokes 相关工作附带 Lean 4 形式化证明，结论可被证明助手逐步验证，而非仅靠人工审阅。该话题在 Hacker News 获得百余点讨论。",
+      "summary": "报道称谷歌与核电项目达成长期购电安排，将买下约一半发电量，用于支撑数据中心与 AI 算力用电，显示科技公司正直接介入电源端以锁定稳定低碳电力。",
       "importance": 9
     },
     {
-      "title": "OpenAI 发布 Agents API 开发者文档",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "source": "Hacker News",
-      "summary": "OpenAI 上线 Agents API 官方概览文档，面向开发者说明智能体的构建与编排接口。Hacker News 相关讨论获得 71 点，关注点集中在其与既有工具链的衔接方式。",
-      "importance": 8
-    },
-    {
-      "title": "Cloudflare 为 DNS 与源站握手引入后量子能力",
+      "title": "Cloudflare 1.1.1.1 启用后量子 DNSSEC",
       "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
       "source": "Cloudflare Blog",
-      "summary": "Cloudflare 宣布 1.1.1.1 改用 ML-DSA-44 验证 DNSSEC 签名，并推出 Automatic Key Exchange，连接源站时优先选用对方支持的最安全密钥协商算法，兼顾性能与后量子安全。（多家报道）",
+      "summary": "1.1.1.1 公共解析器开始使用 NIST 后量子签名算法 ML-DSA-44 验证 DNSSEC，单条签名约 2420 字节；官方同时说明大规模部署下如何控制降级风险与开销。",
       "importance": 8
     },
     {
-      "title": "GitHub 热门：obra/superpowers 智能体技能框架",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub Trending",
-      "summary": "该项目提供面向编码智能体的技能框架与开发方法论，把常用工作流封装成可复用技能，让多个 Agent 按统一约定协作，适合希望为 AI 编码流程加上规范约束的团队。",
+      "title": "OpenAI 纳维-斯托克斯成果附 Lean 4 证明",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "source": "Hacker News",
+      "summary": "博客指出 OpenAI 关于纳维-斯托克斯方程的发布同时给出 Lean 4 形式化证明，被解读为形式化方法正从学术工具转为验证 AI 研究成果的标准手段之一。",
+      "importance": 8
+    },
+    {
+      "title": "Laravel 新规：不接受 issue，只接受 PR",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+      "source": "阮一峰的网络日志",
+      "summary": "科技周刊第 412 期提到，PHP 框架 Laravel 宣布禁止提交 issue、仅接受 Pull Request，作者借此讨论开源维护者负担与协作门槛之间的取舍。",
       "importance": 6
     },
     {
-      "title": "Shopify 移动端路线转向原生开发",
-      "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-      "source": "Simon Willison",
-      "summary": "Simon Willison 提到，Shopify 已将移动端未来的技术方向定为原生开发。该公司此前以 React Native 实践著称，这一转向反映出大型团队对性能与体验的重新权衡。",
-      "importance": 7
+      "title": "GitHub 热门项目：让编码智能体先给结论",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "source": "GitHub Trending",
+      "summary": "i-have-adhd 是一份给编码智能体使用的技能配置，强制模型把答案写在最前面、压缩铺垫与重复解释，解决长输出淹没关键结论的问题，属于近期兴起的智能体技能类小工具。",
+      "importance": 6
     }
   ],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "形式化证明与智能体接口同步推进，正在把「模型生成」推向「可被机器验证、可被工程调用」；后量子安全则从协议底层悄然铺开。",
+  "editor_note": "电力、密码与证明，同日显出同一逻辑：算力扩张的瓶颈正从芯片转向能源、信任与可验证性。",
   "keywords": [
-    "OpenAI Agents API",
-    "Lean 4",
-    "形式化证明",
     "后量子加密",
     "DNSSEC",
-    "智能体技能框架",
-    "Shopify 原生开发",
-    "GitHub Trending"
+    "谷歌",
+    "核电采购",
+    "Lean 4",
+    "形式化验证",
+    "开源协作",
+    "编码智能体"
   ]
 }
