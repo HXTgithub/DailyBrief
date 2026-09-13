@@ -6,193 +6,193 @@
       "title": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "excerpt": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "meta": "JavaScript · ★ 29,859 · 🍴 6,014 · 📈 2,265 stars today",
+      "meta": "JavaScript · ★ 29,913 · 🍴 6,022 · 📈 2,265 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "浏览器里运行的间谍卫星模拟器，特别之处在于数据全部来自真实开源情报。项目把公开空间数据接入逼真的 3D 地球，实时呈现卫星与地理信息，适合 OSINT 研究者、记者和情报爱好者做开源空间情报分析与演示。"
+      "summary": "在浏览器中运行的间谍卫星模拟器，但接入的是真实开源数据：以照片级 3D 地球为底图，实时呈现开源情报（OSINT）与空间信息。适合地理信息可视化、新闻核查、灾情与冲突追踪等场景，无需安装客户端即可交互探索。"
     },
     {
       "sourceId": "github-trending",
       "title": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "excerpt": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "meta": "TypeScript · ★ 1,798 · 🍴 549 · 📈 504 stars today",
+      "meta": "TypeScript · ★ 1,809 · 🍴 552 · 📈 504 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源自托管的 AI 销售系统，把 CRM 与原生 AI Agent、WhatsApp（基于 WAHA）打通，可看作 Kommo、Octadesk、Intercom 的开放替代。支持 MCP、多租户，并符合巴西 LGPD 隐私法规，适合以聊天为主要成交渠道的销售团队。"
+      "summary": "开源的 AI 销售操作系统：自托管 CRM，内置原生 AI 智能体，并通过 WAHA 接入 WhatsApp。定位为 Kommo、Octadesk、Intercom 的开放替代品，支持 MCP、多租户与 LGPD 合规，适合以聊天为主要成交渠道的中小团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "excerpt": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "meta": "JavaScript · ★ 65,392 · 🍴 10,735 · 📈 217 stars today",
+      "meta": "JavaScript · ★ 65,407 · 🍴 10,738 · 📈 217 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收集整理各大厂商模型被提取出的系统提示词，涵盖 Anthropic（Claude、Claude Code）、OpenAI（ChatGPT、Codex）、Google（Gemini、Antigravity）与 xAI（Grok）等。适合提示词工程师与研究者参考，了解商业模型的行为约束与调校方式。"
+      "summary": "收集整理从 Anthropic、OpenAI、Google、xAI 等厂商产品中提取的系统提示词，覆盖 Claude、ChatGPT、Codex、Gemini、Grok 等模型与工具。适合研究者分析提示词工程、对齐策略与产品行为边界，也可作为编写自有系统提示的参考。"
     },
     {
       "sourceId": "github-trending",
       "title": "nab138/iloader",
       "url": "https://github.com/nab138/iloader",
       "excerpt": "User friendly sideloader",
-      "meta": "TypeScript · ★ 3,075 · 🍴 211 · 📈 209 stars today",
+      "meta": "TypeScript · ★ 3,080 · 🍴 211 · 📈 209 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向普通用户的侧载（sideloading）工具，目标是简化把应用安装到设备上的流程。从命名与简介看，它把原本偏命令行的侧载操作包装成更友好的界面，降低非技术用户安装第三方应用的门槛，仓库未提供更多细节。"
+      "summary": "面向普通用户的侧载（sideload）工具，简化把 IPA 应用安装到 iPhone、iPad 的流程，降低命令行操作与证书配置的门槛。适合想安装非 App Store 应用、自签应用或进行开发测试的用户，具体支持范围以仓库文档为准。"
     },
     {
       "sourceId": "github-trending",
       "title": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "excerpt": "",
-      "meta": "Batchfile · ★ 33,208 · 🍴 2,540 · 📈 65 stars today",
+      "meta": "Batchfile · ★ 33,209 · 🍴 2,540 · 📈 65 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 zapret 的 DPI 绕过配置合集，主要用于在受限网络环境下恢复 Discord 语音和 YouTube 的访问。仓库提供现成的 Windows 脚本与参数，让用户无需自行研究网络协议，就能应对运营商级别的连接干扰。"
+      "summary": "基于 zapret 的配置与脚本合集，通过干扰 DPI 深度包检测绕过网络封锁，恢复 Discord 语音与 YouTube 的正常访问。面向在网络受限环境下需要稳定连接的用户，通常配合 Windows 或路由器上的 zapret 使用，安装步骤见仓库说明。"
     },
     {
       "sourceId": "github-trending",
       "title": "jihe520/MathModelAgent",
       "url": "https://github.com/jihe520/MathModelAgent",
       "excerpt": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "meta": "Python · ★ 5,125 · 🍴 401 · 📈 262 stars today",
+      "meta": "Python · ★ 5,129 · 🍴 401 · 📈 262 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专为数学建模设计的 AI Agent 与技能集，可自动完成选题分析、模型建立、代码求解和结果整理，最终生成一份可直接提交的完整论文。适合参加美赛、国赛的学生团队用于提效，也可作为教学演示工具。"
+      "summary": "面向数学建模竞赛的 AI Agent 与技能集：根据题目自动完成建模、求解、分析与写作，最终生成一份可直接提交的完整论文。适合参加国赛、美赛等数学建模比赛的学生，也适用于需要快速产出建模报告的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "Sonarr/Sonarr",
       "url": "https://github.com/Sonarr/Sonarr",
       "excerpt": "Smart PVR for newsgroup and bittorrent users.",
-      "meta": "C# · ★ 15,920 · 🍴 1,953 · 📈 227 stars today",
+      "meta": "C# · ★ 15,923 · 🍴 1,953 · 📈 227 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Usenet 与 BitTorrent 用户的智能 PVR：自动追踪剧集更新、按设定质量抓取资源，并整理重命名后推送到媒体库。常与下载客户端、索引器配合使用，是自建家庭影音服务器（Plex、Jellyfin 等）的标准组件之一。"
+      "summary": "开源的 PVR（个人视频录像机）管理器，面向 Usenet 新闻组与 BitTorrent 用户：自动追踪剧集更新、按质量规则抓取下载、重命名整理并推送通知。适合自建家庭影音服务器、搭配 Plex、Emby、Jellyfin 使用的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
       "excerpt": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "meta": "TypeScript · ★ 2,496 · 🍴 310 · 📈 376 stars today",
+      "meta": "TypeScript · ★ 2,503 · 🍴 310 · 📈 376 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源自主 AI 交易 Agent，覆盖 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 及多条 EVM 链等上千个市场。它持续扫描定价偏差与套利机会，自动下单执行并管理风险，面向量化交易者和链上套利玩家。"
+      "summary": "开源 AI 交易智能体，可自主运行在 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 及多条 EVM 链等 1000 多个市场上：扫描定价偏差机会、即时执行下单，并在持仓期间管理风险。面向量化爱好者与加密交易用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "yuliskov/SmartTube",
       "url": "https://github.com/yuliskov/SmartTube",
       "excerpt": "Browse media content with your own rules on Android TV",
-      "meta": "Java · ★ 33,210 · 🍴 2,014 · 📈 136 stars today",
+      "meta": "Java · ★ 33,214 · 🍴 2,014 · 📈 136 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Android TV 上的第三方 YouTube 客户端，允许用户按自己的规则浏览媒体内容：屏蔽广告与赞助商片段、隐藏 Shorts、自定义界面和播放行为。适合在电视盒子和智能电视上替代官方应用使用。"
+      "summary": "Android TV 上的第三方 YouTube 客户端，允许用户按自己的规则浏览内容：屏蔽推荐、去广告、只看订阅或指定频道，并支持 SponsorBlock 等增强功能。适合在电视盒子或智能电视上追求更干净观看体验的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "excerpt": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "meta": "Python · ★ 137,619 · 🍴 20,234 · 📈 230 stars today",
+      "meta": "Python · ★ 137,630 · 🍴 20,234 · 📈 230 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收录 100 多个免费开源 AI Agent、Agent Skills 与 RAG 应用的资源合集，覆盖从入门示例到可直接部署的完整项目。开发者可借此快速找到可复用的架构与代码，用于搭建自己的 LLM 应用或做技术选型参考。"
+      "summary": "精选的开源 LLM 应用合集，收录 100 多个 AI Agent、Agent Skills 与 RAG 应用，附带源码与教程。覆盖客服、数据分析、多智能体协作等场景，适合想快速上手大模型应用开发的开发者学习与二次改造。"
     },
     {
       "sourceId": "github-trending",
       "title": "p1neappleXpress/OpenFlux",
       "url": "https://github.com/p1neappleXpress/OpenFlux",
       "excerpt": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "meta": "Go · ★ 1,398 · 🍴 103 · 📈 355 stars today",
+      "meta": "Go · ★ 1,402 · 🍴 104 · 📈 355 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "网络栈研究工具，实现了一个支持可插拔传输层（pluggable transports）的 TCP 隧道，便于试验自定义协议、流量伪装与连通性方案。主要面向网络协议研究者、代理工具开发者以及关注 DPI 对抗的技术人员。"
+      "summary": "网络协议栈研究工具：提供 TCP 隧道并支持可插拔传输（pluggable transports），便于做流量伪装、协议行为测试与网络测量实验。面向网络研究员、安全工程师以及需要搭建和评估自定义传输方案的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "excerpt": "Graphics Creation Tools",
-      "meta": "C · ★ 4,908 · 🍴 547 · 📈 237 stars today",
+      "meta": "C · ★ 4,912 · 🍴 547 · 📈 237 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Armory 生态中的 3D 贴图绘制工具，支持 PBR 材质与 GPU 实时渲染，可在桌面和移动端运行，用于为游戏模型绘制纹理。面向独立游戏开发者与 3D 美术，常与 Blender 等建模软件配合使用。"
+      "summary": "开源 3D 纹理绘制工具，可直接在模型表面进行 PBR 材质绘制，支持烘焙贴图并导出到主流游戏引擎。由 Armory3D 团队开发，适合游戏美术与独立开发者制作角色、道具的贴图与材质。"
     },
     {
       "sourceId": "github-trending",
       "title": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "excerpt": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "meta": "Python · ★ 3,587 · 🍴 551 · 📈 113 stars today",
+      "meta": "Python · ★ 3,596 · 🍴 552 · 📈 113 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Claude Skills 体系整理的攻防安全技能库，每个技能都是一个结构化的 SKILL.md 文件，为 Claude 注入特定场景下的专家级渗透与红队方法论。适合安全研究人员在授权测试中快速调用标准化测试流程。"
+      "summary": "为 Claude Skills 体系整理的一套攻击性安全技能库：每个技能是一个结构化的 SKILL.md 文件，为 Claude 注入渗透测试、漏洞利用等专业方法论。适合安全研究人员在做红队评估、CTF 或漏洞挖掘时借助 Claude 执行标准化流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "excerpt": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "meta": "Python · ★ 7,277 · 🍴 821 · 📈 210 stars today",
+      "meta": "Python · ★ 7,289 · 🍴 824 · 📈 210 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源音乐生成模型 YuE 的续作，主打符号化规划（symbolic planning）、零样本翻唱（zero-shot covers）与 Agent 式音乐编辑。用户可用文本提示生成完整歌曲，也能对已有音乐做风格改编，面向 AI 音乐创作者与研究者。"
+      "summary": "YuE2 音乐生成模型：结合符号化规划（symbolic planning），支持零样本翻唱（zero-shot covers）与智能体式的音乐编辑。面向想用 AI 创作歌曲、翻唱或做编曲实验的音乐人与研究者，可生成带人声的完整音乐片段。"
     },
     {
       "sourceId": "github-trending",
       "title": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "excerpt": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "meta": "Rust · ★ 7,226 · 🍴 256 · 📈 54 stars today",
+      "meta": "Rust · ★ 7,236 · 🍴 256 · 📈 54 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "管理 Git worktree 的命令行工具，专为并行运行的 AI 编码 Agent 设计：让多个 Agent 各自在独立工作树中修改代码，避免分支和文件互相冲突。适合同时调度多个 Claude Code、Codex 类 Agent 的开发者。"
+      "summary": "面向并行 AI 智能体工作流的 Git worktree 管理 CLI：帮助开发者快速创建、切换与清理多个 worktree，让多个编码 Agent 在不同分支上同时工作而互不干扰。适合用 Claude Code、Codex 等工具做多任务并行的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "excerpt": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "meta": "Go · ★ 23,439 · 🍴 3,058 · 📈 189 stars today",
+      "meta": "Go · ★ 23,453 · 🍴 3,059 · 📈 189 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "全自主 AI Agent 系统，用于执行复杂的渗透测试任务：从信息收集、漏洞探测到利用验证，由多个 Agent 协同规划并推进。面向安全团队与红队，可在授权范围内替代部分重复性的人工测试工作。"
+      "summary": "全自主 AI 智能体系统，用于执行复杂渗透测试任务：可自主规划侦察、扫描、漏洞利用与后渗透流程，减少人工介入。面向安全团队与红队，用于授权范围内的自动化渗透测试、靶场演练与安全评估。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "excerpt": "629 points · 488 comments",
+      "publishedAt": "2026-09-12T03:14:20.000Z",
+      "category": "tech",
+      "score": 629,
+      "source": "Hacker News",
+      "summary": "谷歌上线 google.com/goto 链接形式，被视为针对爬虫抓取的反制性更新，引发 488 条讨论，关注点在其对搜索结果与抓取生态的影响。"
     },
     {
       "sourceId": "hackernews",
       "title": "IKEA made a mod for Skyrim [video]",
       "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "excerpt": "549 points · 146 comments",
+      "excerpt": "555 points · 148 comments",
       "publishedAt": "2026-09-10T07:20:50.000Z",
       "category": "tech",
-      "score": 549,
+      "score": 555,
       "source": "Hacker News",
-      "summary": "宜家为《上古卷轴5：天际》制作了一款模组，并以视频形式展示，该话题在 Hacker News 上获得 549 分、146 条评论。"
+      "summary": "宜家为《上古卷轴5：天际》制作了一款 mod，并发布视频展示，把家居品牌元素带入游戏世界，引来玩家热议。"
     },
     {
       "sourceId": "hackernews",
       "title": "We must pace the frontier",
       "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "excerpt": "513 points · 706 comments",
+      "excerpt": "527 points · 739 comments",
       "publishedAt": "2026-09-12T14:10:49.000Z",
       "category": "tech",
-      "score": 513,
+      "score": 527,
       "source": "Hacker News",
-      "summary": "Anthropic 创始人 Dario Amodei 撰文《We must pace the frontier》，讨论 AI 前沿模型的发展速度与安全节奏应如何把控。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "excerpt": "419 points · 122 comments",
-      "publishedAt": "2026-09-09T13:59:50.000Z",
-      "category": "tech",
-      "score": 419,
-      "source": "Hacker News",
-      "summary": "布朗大学博客系统梳理 async/await 的设计空间，比较不同异步编程模型在语义与实现上的取舍，引发 122 条讨论。"
+      "summary": "Anthropic 的 Dario Amodei 撰文主张 AI 前沿发展必须控制节奏，引发 HN 739 条讨论，争点在于安全与竞争速度之间的取舍。"
     },
     {
       "sourceId": "hackernews",
@@ -201,9 +201,20 @@
       "excerpt": "https:&#x2F;&#x2F;www.lg.com&#x2F;global&#x2F;newsroom&#x2F;news&#x2F;statements&#x2F;statement...",
       "publishedAt": "2026-09-10T15:31:37.000Z",
       "category": "tech",
-      "score": 401,
+      "score": 428,
       "source": "Hacker News",
-      "summary": "LG 否认电视窃听指控，称追踪与窥探方面的担忧「不实」；此前一项线上调查声称 2.16 亿台电视会录制音频。"
+      "summary": "LG 强烈否认其电视存在跟踪与窥探问题，称相关指控不实；此前有网络调查称约 2.16 亿台电视会录制音频。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "excerpt": "423 points · 123 comments",
+      "publishedAt": "2026-09-09T13:59:50.000Z",
+      "category": "tech",
+      "score": 423,
+      "source": "Hacker News",
+      "summary": "布朗大学研究者对 async/await 的编程语言设计空间做系统梳理，比较不同设计取舍，引发 123 条讨论。"
     },
     {
       "sourceId": "hackernews",
@@ -212,53 +223,53 @@
       "excerpt": "https:&#x2F;&#x2F;archive.ph&#x2F;kt50V",
       "publishedAt": "2026-09-12T15:08:27.000Z",
       "category": "tech",
-      "score": 366,
+      "score": 380,
       "source": "Hacker News",
-      "summary": "《经济学人》刊文把 Nvidia 比喻为 AI 时代的中央银行，分析其在算力供应与产业生态中的核心地位。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Navier-Stokes Announcement",
-      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "excerpt": "314 points · 249 comments",
-      "publishedAt": "2026-09-12T04:09:43.000Z",
-      "category": "tech",
-      "score": 314,
-      "source": "Hacker News",
-      "summary": "克雷数学研究所发布关于纳维-斯托克斯（Navier-Stokes）方程的公告，该方程是千禧年大奖难题之一，帖内已有 249 条讨论。"
+      "summary": "《经济学人》发文称英伟达是 AI 的「中央银行」，讨论其在算力供给与定价中的核心地位，正文另附存档链接。"
     },
     {
       "sourceId": "hackernews",
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "excerpt": "298 points · 71 comments",
+      "excerpt": "308 points · 75 comments",
       "publishedAt": "2026-09-12T16:25:08.000Z",
       "category": "tech",
-      "score": 298,
+      "score": 308,
       "source": "Hacker News",
-      "summary": "一份入门教程借助 JOSM 插件网站向导，引导新手完成对 OpenStreetMap 的第一次地图编辑。"
+      "summary": "该项目提供 JOSM 插件与网站向导，帮助新手完成对 OpenStreetMap 的第一次编辑，降低参与地图贡献的门槛。"
     },
     {
       "sourceId": "hackernews",
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
       "url": "https://eiln.github.io/posts/ane.html",
-      "excerpt": "218 points · 30 comments",
+      "excerpt": "220 points · 31 comments",
       "publishedAt": "2026-09-12T07:54:03.000Z",
       "category": "tech",
-      "score": 218,
+      "score": 220,
       "source": "Hacker News",
-      "summary": "作者以回顾视角逆向工程苹果神经引擎（Apple Neural Engine），分析其内部架构与运行机制。"
+      "summary": "作者回顾性地逆向工程苹果神经引擎（ANE），梳理其架构与指令等细节，分享分析过程与发现。"
     },
     {
       "sourceId": "hackernews",
       "title": "λ Snap – An inviting programming language for kids and adults for CS study",
       "url": "https://snap.berkeley.edu/",
-      "excerpt": "175 points · 109 comments",
+      "excerpt": "176 points · 112 comments",
       "publishedAt": "2026-09-11T17:36:11.000Z",
       "category": "tech",
-      "score": 175,
+      "score": 176,
       "source": "Hacker News",
-      "summary": "伯克利推出 λ Snap，一门面向儿童与成人、用于计算机科学学习的入门编程语言，获 109 条评论。"
+      "summary": "伯克利推出 λ Snap，一种面向儿童与成人、用于计算机科学学习的友好编程语言，强调易上手与可视化编程。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "excerpt": "171 points · 53 comments",
+      "publishedAt": "2026-09-12T18:58:57.000Z",
+      "category": "tech",
+      "score": 171,
+      "source": "Hacker News",
+      "summary": "有用户发现 Linux 版 Zoom 客户端会主动读取写入 X11 剪贴板的所有内容，引发对隐私与剪贴板安全的讨论。"
     },
     {
       "sourceId": "hackernews",
@@ -267,48 +278,37 @@
       "excerpt": "https:&#x2F;&#x2F;mullvad.net&#x2F;en&#x2F;blog&#x2F;another-way-to-leak-traffic-on-a...",
       "publishedAt": "2026-09-11T21:16:48.000Z",
       "category": "tech",
-      "score": 168,
-      "source": "Hacker News",
-      "summary": "研究发现安卓的 NAT-T keepalive 卸载机制可绕过 VPN 锁定，造成流量泄露；Mullvad 博客亦介绍了该问题。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-      "url": "https://hachyderm.io/@simontatham/117201594980991062",
-      "excerpt": "151 points · 48 comments",
-      "publishedAt": "2026-09-12T18:58:57.000Z",
-      "category": "tech",
-      "score": 151,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Stabilizing Rust's Never Type",
-      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "excerpt": "122 points · 25 comments",
-      "publishedAt": "2026-09-09T11:57:45.000Z",
-      "category": "tech",
-      "score": 122,
+      "score": 171,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "LG Says We're Fake News [video]",
       "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-      "excerpt": "119 points · 36 comments",
+      "excerpt": "150 points · 51 comments",
       "publishedAt": "2026-09-12T19:35:36.000Z",
       "category": "tech",
-      "score": 119,
+      "score": 150,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "The worst spam emails: iLands AI agent hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "excerpt": "99 points · 47 comments",
-      "publishedAt": "2026-09-12T11:13:38.000Z",
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "excerpt": "123 points · 26 comments",
+      "publishedAt": "2026-09-09T11:57:45.000Z",
       "category": "tech",
-      "score": 99,
+      "score": 123,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Apple iPod Engraver (2019)",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "excerpt": "110 points · 18 comments",
+      "publishedAt": "2026-09-09T01:57:37.000Z",
+      "category": "tech",
+      "score": 110,
       "source": "Hacker News"
     },
     {
@@ -318,15 +318,35 @@
       "excerpt": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260911105205&#x2F;https:&#x2F;&#x2F;www.wired...https:&#x2F;&#x2F;archive.ph&#x2F;1xTJ3",
       "publishedAt": "2026-09-11T14:07:08.000Z",
       "category": "tech",
+      "score": 101,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "excerpt": "101 points · 49 comments",
+      "publishedAt": "2026-09-12T11:13:38.000Z",
+      "category": "tech",
+      "score": 101,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+      "excerpt": "96 points · 47 comments",
+      "publishedAt": "2026-09-10T13:39:11.000Z",
+      "category": "tech",
       "score": 96,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Apple iPod Engraver (2019)",
-      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "excerpt": "94 points · 16 comments",
-      "publishedAt": "2026-09-09T01:57:37.000Z",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "excerpt": "94 points · 59 comments",
+      "publishedAt": "2026-09-12T20:25:48.000Z",
       "category": "tech",
       "score": 94,
       "source": "Hacker News"
@@ -335,140 +355,120 @@
       "sourceId": "hackernews",
       "title": "I made a build visualizer to understand Bun's compile times",
       "url": "https://lalitm.com/post/buildprof/",
-      "excerpt": "88 points · 17 comments",
+      "excerpt": "89 points · 17 comments",
       "publishedAt": "2026-09-12T14:45:28.000Z",
       "category": "tech",
-      "score": 88,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Performance of WebAssembly Runtimes in 2026",
-      "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-      "excerpt": "86 points · 20 comments",
-      "publishedAt": "2026-09-09T10:00:59.000Z",
-      "category": "tech",
-      "score": 86,
+      "score": 89,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
       "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "excerpt": "84 points · 23 comments",
+      "excerpt": "87 points · 24 comments",
       "publishedAt": "2026-09-12T15:49:52.000Z",
       "category": "tech",
-      "score": 84,
+      "score": 87,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "excerpt": "82 points · 54 comments",
-      "publishedAt": "2026-09-12T20:25:48.000Z",
+      "title": "Performance of WebAssembly Runtimes in 2026",
+      "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+      "excerpt": "87 points · 20 comments",
+      "publishedAt": "2026-09-09T10:00:59.000Z",
       "category": "tech",
-      "score": 82,
+      "score": 87,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Will There Be a 7G?",
       "url": "https://arxiv.org/abs/2609.01877",
-      "excerpt": "78 points · 131 comments",
+      "excerpt": "81 points · 134 comments",
       "publishedAt": "2026-09-12T17:05:31.000Z",
       "category": "tech",
-      "score": 78,
+      "score": 81,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "A Mathematical Framework for Transformer Circuits (2021)",
       "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "excerpt": "77 points · 17 comments",
+      "excerpt": "80 points · 17 comments",
       "publishedAt": "2026-09-12T13:56:58.000Z",
       "category": "tech",
-      "score": 77,
+      "score": 80,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Eating Fruit Skins",
       "url": "https://pgadey.ca/blog/eating-fruit-skins/",
-      "excerpt": "76 points · 161 comments",
+      "excerpt": "78 points · 170 comments",
       "publishedAt": "2026-09-09T12:01:38.000Z",
       "category": "tech",
-      "score": 76,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "excerpt": "65 points · 52 comments",
-      "publishedAt": "2026-09-12T20:28:29.000Z",
-      "category": "tech",
-      "score": 65,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "How Trail of Bits helps verify the integrity of Signal chats",
-      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-      "excerpt": "49 points · 27 comments",
-      "publishedAt": "2026-09-12T11:27:55.000Z",
-      "category": "tech",
-      "score": 49,
+      "score": 78,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Getting 50 GB/S Back from the Apple Neural Engine",
       "url": "https://eiln.github.io/posts/ane-dma.html",
-      "excerpt": "47 points · 10 comments",
+      "excerpt": "60 points · 11 comments",
       "publishedAt": "2026-09-10T00:16:10.000Z",
       "category": "tech",
-      "score": 47,
+      "score": 60,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Financial Times' 404 Page not Found",
-      "url": "https://www.ft.com/article/404",
-      "excerpt": "36 points · 5 comments",
-      "publishedAt": "2026-09-12T21:28:08.000Z",
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "excerpt": "51 points · 29 comments",
+      "publishedAt": "2026-09-12T11:27:55.000Z",
+      "category": "tech",
+      "score": 51,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How we manage and engage with our horses shapes their personality",
+      "url": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
+      "excerpt": "36 points · 14 comments",
+      "publishedAt": "2026-09-10T01:57:32.000Z",
       "category": "tech",
       "score": 36,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "StarCraft returns in 2030 as an open-world shooter",
-      "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-      "excerpt": "35 points · 32 comments",
-      "publishedAt": "2026-09-12T22:07:19.000Z",
+      "title": "The Magic Behind Cubacadabra",
+      "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
+      "excerpt": "10 points · 2 comments",
+      "publishedAt": "2026-09-10T18:01:47.000Z",
       "category": "tech",
-      "score": 35,
+      "score": 10,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "The Magic Behind Cubacadabra",
-      "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
-      "excerpt": "9 points · 2 comments",
-      "publishedAt": "2026-09-10T18:01:47.000Z",
+      "title": "Tree Calculus",
+      "url": "https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2",
+      "excerpt": "6 points · 1 comments",
+      "publishedAt": "2026-09-08T03:16:02.000Z",
       "category": "tech",
-      "score": 9,
+      "score": 6,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Show HN: See Sounds on Your Webcam",
       "url": "https://soundmap.darebuild.com/",
-      "excerpt": "4 points · 1 comments",
+      "excerpt": "5 points · 3 comments",
       "publishedAt": "2026-09-10T14:43:49.000Z",
       "category": "tech",
-      "score": 4,
+      "score": 5,
       "source": "Hacker News"
     },
     {
