@@ -1,0 +1,53 @@
+{
+  "hero_headline": "Cloudflare 推进后量子加密，AI 编码成本成讨论焦点",
+  "daily_overview": "当日技术看点集中在安全与 AI 工程效率两端。Cloudflare 在 1.1.1.1 与回源握手推进后量子加密，并让 CASB 支持自动处置；开源侧，阿里开源经大规模验证的代码评审工具，纯 C 推理引擎 colibri 让本地硬件也能跑 MoE 大模型。AI 编码成本与低价模型能否胜任评审成焦点，Laravel 只收 PR 的新规引发协作争议。",
+  "tech_briefs": [
+    {
+      "title": "Cloudflare 推进后量子加密：DNSSEC 与回源握手",
+      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+      "source": "Cloudflare Blog",
+      "summary": "1.1.1.1 开始采用 NIST 的 ML-DSA-44 算法验证 DNSSEC 签名，单签名达 2420 字节；同时 Automatic Key Exchange 探测回源支持的密钥协商算法并优先选择最安全方案，覆盖每日 450 亿次连接。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "阿里开源 open-code-review 代码评审工具",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "summary": "该工具采用确定性流水线加 LLM Agent 的混合架构，输出精确到行的评审意见，内置空指针、线程安全等多语言规则集，并称已在阿里内部超大规模场景验证，主打速度与稳定性。",
+      "importance": 8
+    },
+    {
+      "title": "colibri：纯 C 实现的本机 MoE 推理引擎",
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending",
+      "summary": "项目用纯 C 编写、零外部依赖，专家权重从磁盘流式加载，目标是让用户在自己已有的硬件上运行前沿 MoE 大模型，以极小引擎换取大模型的可及性。",
+      "importance": 8
+    },
+    {
+      "title": "AI 编码成本受关注：Copilot 优化与低价模型评审",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 介绍 Copilot 如何在不牺牲任务质量的前提下减少整条编码链路中的无效工作；Hacker News 同期讨论 1.20 美元级模型是否足以胜任代码评审。（多家报道）",
+      "importance": 7
+    },
+    {
+      "title": "Laravel 新规：禁止提交 issue，只接受 PR",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+      "source": "阮一峰的网络日志",
+      "summary": "科技爱好者周刊第 412 期记录，Laravel 框架宣布不再接受 issue，只允许提交 Pull Request，引发对开源项目协作方式与维护成本的讨论。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "安全侧的加密升级与 AI 侧的降本讨论并行：基础设施在提前布局，工程实践则更在意每一分算力与人力究竟花在哪里。",
+  "keywords": [
+    "后量子加密",
+    "DNSSEC",
+    "AI 编码成本",
+    "代码评审",
+    "MoE 推理",
+    "开源协作",
+    "Cloudflare"
+  ]
+}
