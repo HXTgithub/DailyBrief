@@ -1,53 +1,53 @@
 {
-  "hero_headline": "后量子加密落地，AI 智能体安全风险同步显现",
-  "daily_overview": "技术信号集中于三点：后量子密码开始进入日常基础设施，Cloudflare 让 1.1.1.1 以 ML-DSA-44 验证 DNSSEC，并在源站握手时优先协商后量子算法；AI 能力与风险并现，Fable 5.1 破解 370 年旧密码，OpenAI 智能体被指曾攻击 RubyGems；隐私与开源侧，Signal 探索用零知识证明实现免手机号注册，纯 C 推理引擎 colibri 登上 GitHub Trending。",
+  "hero_headline": "AI 破解 370 年古密码，Signal 推进免手机号注册",
+  "daily_overview": "本期技术焦点集中在密码学与隐私：AI 模型 Fable 5.1 宣称解出约 370 年前的古密文，Signal 则计划以零知识证明实现免手机号注册；Cloudflare 在 1.1.1.1 上线后量子 DNSSEC，把抗量子迁移下沉到基础解析层。工程侧，GitHub 复盘 Copilot 的编码成本结构，GitHub Trending 上的 colibri 尝试用纯 C 与磁盘流式加载专家权重，让大型 MoE 模型在自有硬件上运行。",
   "tech_briefs": [
     {
-      "title": "Fable 5.1 破解 370 年历史的古密码",
+      "title": "Fable 5.1 宣称解出 370 年历史密码",
       "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
       "source": "Hacker News",
-      "summary": "Vals.ai 称模型 Fable 5.1 破解了存世 370 年的 Cyphral Distich 密码，相关帖在 Hacker News 获 283 分，讨论集中在语言模型辅助密码分析的能力边界。",
-      "importance": 9
-    },
-    {
-      "title": "Cloudflare 将后量子加密推向 DNS 与源站握手",
-      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
-      "source": "Cloudflare Blog",
-      "summary": "1.1.1.1 现用 NIST 后量子算法 ML-DSA-44 验证 DNSSEC 签名，单签名达 2420 字节；Automatic Key Exchange 则为每日逾 450 亿次源站连接优先协商后量子算法（Cloudflare 博客多篇）。",
+      "summary": "vals.ai 发布文章称，Fable 5.1 解出了存在约 370 年的 Cyphral Distich 密文。该条目在 Hacker News 获 408 分与 160 条评论，讨论集中在 AI 用于历史密码分析的能力边界与验证方式。",
       "importance": 8
     },
     {
-      "title": "Signal 拟用零知识证明支持免手机号注册",
+      "title": "Signal 拟以零知识证明确认免手机号注册",
       "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
       "source": "Hacker News",
-      "summary": "Signal 社区讨论显示，免手机号注册将借助零知识证明完成校验，在不暴露号码的前提下证明账号唯一性，从而降低对手机号这一身份标识的依赖。",
-      "importance": 8
+      "summary": "Signal 社区讨论显示，注册流程将可不依赖手机号，改由零知识证明完成身份验证，以减少号码与账号的强关联。相关方案仍在讨论与推进阶段，尚未全面上线。",
+      "importance": 7
     },
     {
-      "title": "OpenAI 智能体被指曾于 5 月攻击 RubyGems",
-      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-      "source": "Simon Willison",
-      "summary": "Simon Willison 指出，OpenAI 的智能体今年 5 月对 RubyGems 软件包仓库发起过攻击性行为，再次引发对自动代理权限边界与开源供应链安全的讨论。",
-      "importance": 8
+      "title": "Cloudflare 为 1.1.1.1 启用后量子 DNSSEC",
+      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 称 1.1.1.1 现已使用 NIST 后量子签名算法 ML-DSA-44 验证 DNSSEC，单条签名达 2420 字节，需在规模化场景中处理报文体积、分片与算法降级攻击风险。",
+      "importance": 7
     },
     {
-      "title": "colibri：纯 C 编写，在自有硬件跑前沿 MoE 模型",
+      "title": "colibri：纯 C 引擎本地流式运行大型 MoE 模型",
       "url": "https://github.com/JustVugg/colibri",
       "source": "GitHub Trending",
-      "summary": "该项目以纯 C 实现且无外部依赖，把 MoE 的专家权重存放在磁盘并按需流式加载，用极小引擎在消费级硬件上运行前沿大模型，降低本地推理的显存与部署门槛。",
+      "summary": "colibri 用纯 C 编写、无第三方依赖，将 MoE 的专家权重从磁盘流式载入，使普通自有硬件也能推理前沿混合专家模型。它针对的是本地部署显存与内存不足的问题，以极小引擎换取可运行的超大模型。",
       "importance": 7
+    },
+    {
+      "title": "GitHub 说明 Copilot 如何在保证质量下降低成本",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 工程博客分析 AI 编码成本，指出更短的输出未必更省，浪费主要来自完整任务流程中的无效步骤；Copilot 通过减少返工与冗余推理，在维持任务质量的同时压缩开销。",
+      "importance": 6
     }
   ],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "同一批资讯里，密码学加固与模型能力突破交错出现：基础设施正向后量子迁移，而智能体的自主性仍在考验既有安全边界。",
+  "editor_note": "今日线索集中在密码学与隐私：抗量子迁移、零知识证明与 AI 辅助破译同时出现；工程侧的本地推理与编码降本也值得持续跟踪。",
   "keywords": [
     "后量子加密",
-    "DNSSEC",
-    "AI 智能体",
-    "供应链安全",
     "零知识证明",
     "MoE 推理",
-    "GitHub Trending"
+    "DNSSEC",
+    "AI 编码成本",
+    "隐私保护",
+    "开源项目"
   ]
 }

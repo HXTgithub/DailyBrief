@@ -6,289 +6,256 @@
       "title": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "excerpt": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "meta": "C · ★ 29,733 · 🍴 3,240 · 📈 960 stars today",
+      "meta": "C · ★ 29,830 · 🍴 3,247 · 📈 868 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用纯 C 编写、零依赖的轻量推理引擎，把专家权重从磁盘按需流式加载，让消费级硬件也能跑前沿 MoE 大模型。适合显存有限但想本地部署大模型的开发者，代码小巧、易嵌入。"
+      "summary": "用纯 C 编写的轻量推理引擎，零依赖，通过从磁盘流式加载专家权重，让普通消费级硬件也能跑前沿 MoE 大模型。适合显存有限、想在自有设备上本地部署大模型的开发者与爱好者。"
     },
     {
       "sourceId": "github-trending",
       "title": "ever-co/ever-gauzy",
       "url": "https://github.com/ever-co/ever-gauzy",
       "excerpt": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "meta": "TypeScript · ★ 5,026 · 🍴 940 · 📈 58 stars today",
+      "meta": "TypeScript · ★ 5,082 · 🍴 945 · 📈 191 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源企业管理平台，集成 ERP、CRM、HRM、招聘（ATS）与项目管理等模块，覆盖企业日常运营的主要流程。适合中小团队自建一体化后台，替代多套分散的 SaaS 工具。"
+      "summary": "开源企业管理平台，把 ERP、CRM、HRM、招聘(ATS)与项目管理(PM)整合到一套系统中，可自托管部署，适合希望用开源方案替代商业套件、统一管理业务流程与团队协作的中小企业。"
     },
     {
       "sourceId": "github-trending",
       "title": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "excerpt": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "meta": "JavaScript · ★ 31,809 · 🍴 6,387 · 📈 2,898 stars today",
+      "meta": "JavaScript · ★ 31,903 · 🍴 6,406 · 📈 2,680 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "浏览器里的间谍卫星模拟器，但数据全部来自真实开源信息：在照片级 3D 地球上做实时空间情报浏览。适合关注地理信息、OSINT 与卫星影像可视化的用户。"
+      "summary": "浏览器里的间谍卫星模拟器，基于真实的开源空间情报数据，在照片级 3D 地球上做实时观测与地理分析。适合对遥感影像、地理情报可视化感兴趣的用户和研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "tech-leads-club/agent-skills",
       "url": "https://github.com/tech-leads-club/agent-skills",
       "excerpt": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "meta": "TypeScript · ★ 5,625 · 🍴 499 · 📈 215 stars today",
+      "meta": "TypeScript · ★ 5,653 · 🍴 499 · 📈 265 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向专业 AI 编程 agent 的安全技能注册中心，为 Antigravity、Claude Code、Cursor、Copilot 等扩展经过安全校验的技能包，统一管理与复用团队沉淀的 agent 能力。"
+      "summary": "面向专业 AI 编程 agent 的技能注册表，提供经过安全校验的技能包，可扩展 Antigravity、Claude Code、Cursor、Copilot 等工具的能力，让开发者放心复用社区技能。"
     },
     {
       "sourceId": "github-trending",
       "title": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "excerpt": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "meta": "TypeScript · ★ 2,169 · 🍴 589 · 📈 444 stars today",
+      "meta": "TypeScript · ★ 2,190 · 🍴 594 · 📈 432 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源自托管 AI 销售操作系统，CRM 原生集成 AI agent 与 WhatsApp（基于 WAHA），支持 MCP、多租户并符合 LGPD。适合靠聊天成交的中小企业，作为 Kommo、Intercom 的开源替代。"
+      "summary": "开源自托管 CRM，内置原生 AI agent 并通过 WAHA 接入 WhatsApp，定位为 Kommo、Octadesk、Intercom 的替代品，支持 MCP、多租户与 LGPD 合规，适合以聊天为主要销售渠道的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "excerpt": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "meta": "Python · ★ 58,396 · 🍴 7,350 · 📈 383 stars today",
+      "meta": "Python · ★ 58,434 · 🍴 7,356 · 📈 380 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的 agentic 视频生产系统，内置 12 条制作流水线、100+ 工具与 700+ 技能和制作知识文件，把 AI 编程助手改造成完整视频制作团队，适合批量生产内容的团队。"
+      "summary": "开源的 agentic 视频制作系统，包含 12 条制作流水线、100 多个工具和 700 余份技能与制作知识文件，可把 AI 编程助手变成完整的视频生产工具，适合做批量内容创作的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "excerpt": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "meta": "JavaScript · ★ 65,996 · 🍴 10,797 · 📈 727 stars today",
+      "meta": "JavaScript · ★ 66,026 · 🍴 10,802 · 📈 706 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收集从 Anthropic Claude、OpenAI ChatGPT/Codex、Google Gemini、xAI Grok 等产品中提取的系统提示词。适合研究提示工程、对比各家大模型行为约束的开发者与研究者参考。"
+      "summary": "汇集从 Anthropic、OpenAI、Google、xAI 等厂商产品中提取的系统提示词，覆盖 Claude、ChatGPT、Codex、Gemini、Grok 等模型与工具，供研究者对比各家提示工程策略。"
     },
     {
       "sourceId": "github-trending",
       "title": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "excerpt": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "meta": "Go · ★ 23,948 · 🍴 3,094 · 📈 613 stars today",
+      "meta": "Go · ★ 23,975 · 🍴 3,095 · 📈 590 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "全自主 AI Agent 系统，能够执行复杂的渗透测试任务，自动编排信息收集、漏洞探测与利用等环节。适合安全团队在授权范围内开展自动化评估，减少重复性人工操作。"
+      "summary": "全自主 AI agent 系统，能自动完成侦察、漏洞利用等复杂渗透测试任务，把多步攻击链交给 agent 编排，面向安全团队与红队用于自动化攻防演练。"
     },
     {
       "sourceId": "github-trending",
       "title": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "excerpt": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "meta": "Python · ★ 7,718 · 🍴 863 · 📈 500 stars today",
+      "meta": "Python · ★ 7,747 · 🍴 865 · 📈 487 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "YuE2 音乐生成模型，引入符号化规划、零样本翻唱与 agentic 音乐编辑能力。适合音乐创作者与研究者用 AI 生成、改编和编辑歌曲，探索可控的音乐生成流程。"
+      "summary": "音乐生成模型 YuE2，结合符号化规划能力，支持零样本翻唱与 agentic 音乐编辑，可根据歌词和风格提示生成完整歌曲，适合音乐创作者与生成式音频研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "yuliskov/SmartTube",
       "url": "https://github.com/yuliskov/SmartTube",
       "excerpt": "Browse media content with your own rules on Android TV",
-      "meta": "Java · ★ 33,437 · 🍴 2,032 · 📈 238 stars today",
+      "meta": "Java · ★ 33,452 · 🍴 2,032 · 📈 233 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Android TV 的第三方媒体浏览器，支持按自定义规则过滤、屏蔽或排序视频内容，并去除广告干扰。适合在电视大屏上观看 YouTube 等平台内容的用户。"
+      "summary": "面向 Android TV 的第三方媒体客户端，让用户按自定义规则浏览 YouTube 等内容，可屏蔽广告、跳过赞助片段，适合在电视盒子和智能电视上观看视频。"
     },
     {
       "sourceId": "github-trending",
       "title": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "excerpt": "Run parallel research agents with any model",
-      "meta": "Rust · ★ 2,030 · 🍴 144 · 📈 304 stars today",
+      "meta": "Rust · ★ 2,065 · 🍴 144 · 📈 289 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用任意模型并行运行多个研究 agent，把资料检索、阅读与归纳拆分给并发智能体完成。适合需要快速做深度调研、文献综述或竞品分析的开发者与研究者。"
+      "summary": "可并行运行多个研究 agent 的框架，支持自由接入任意模型，让多个 agent 同时检索、分析与撰写，加快文献调研和技术调研流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "meta": "Python · ★ 26,683 · 🍴 3,296 · 📈 2,546 stars today",
+      "meta": "Python · ★ 26,831 · 🍴 3,313 · 📈 2,632 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "完全本地的开源 ElevenLabs 替代方案，提供声音克隆、音色设计、视频配音、听写、转写与有声书制作，支持 646 种语言。适合注重隐私、希望离线处理语音内容的用户。"
+      "summary": "完全本地运行的开源语音工具，是 ElevenLabs 的替代方案，提供声音克隆、音色设计、视频配音、听写、转录与有声书制作，覆盖 646 种语言。"
     },
     {
       "sourceId": "github-trending",
       "title": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "excerpt": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "meta": "Python · ★ 4,111 · 🍴 591 · 📈 507 stars today",
+      "meta": "Python · ★ 4,143 · 🍴 592 · 📈 506 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 Claude skills 系统打造的攻击性安全技能库，每个技能是一份结构化 SKILL.md 文件，把专家级渗透方法论注入 Claude。适合安全从业者在授权测试中复用标准流程。"
+      "summary": "面向 Claude skills 系统的攻防安全技能库，每个技能都是一份结构化 SKILL.md，为 Claude 注入专家级的渗透测试与红队方法论，供安全从业人员调用。"
     },
     {
       "sourceId": "github-trending",
       "title": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "excerpt": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "meta": "Go · ★ 23,458 · 🍴 1,732 · 📈 438 stars today",
+      "meta": "Go · ★ 23,518 · 🍴 1,742 · 📈 443 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "阿里巴巴开源的代码审查工具，采用确定性流水线加 LLM Agent 的混合架构，支持行级精确评论，内置多语言规则集（如空指针、线程问题）。经阿里规模验证，适合接入 CI。"
+      "summary": "阿里巴巴开源的代码审查工具，采用确定性流水线加 LLM Agent 的混合架构，支持行级精确评论与多语言内置规则集(如空指针、线程安全)，已在大规模工程中验证。"
     },
     {
       "sourceId": "github-trending",
       "title": "jihe520/MathModelAgent",
       "url": "https://github.com/jihe520/MathModelAgent",
       "excerpt": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "meta": "Python · ★ 5,337 · 🍴 407 · 📈 268 stars today",
+      "meta": "Python · ★ 5,351 · 🍴 408 · 📈 246 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专为数学建模设计的 Agent 与技能集，可自动完成建模全流程，并生成一份完整、可直接提交的论文。适合参加数学建模竞赛的学生和需要快速产出建模报告的研究者。"
+      "summary": "专为数学建模设计的 Agent 与技能集合，可自动完成建模、求解与论文撰写，直接产出可提交的完整论文，面向参加数学建模竞赛的学生与指导教师。"
     },
     {
       "sourceId": "github-trending",
       "title": "tonhowtf/omniget",
       "url": "https://github.com/tonhowtf/omniget",
       "excerpt": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "meta": "Rust · ★ 11,602 · 🍴 1,018 · 📈 547 stars today",
+      "meta": "Rust · ★ 11,664 · 🍴 1,021 · 📈 507 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源桌面下载工具，支持从 Udemy、Hotmart、YouTube 等 1800+ 站点下载课程、视频、音乐与图书，无需命令行，内置课程播放器和 PDF/EPUB 阅读器，覆盖三大桌面平台。"
+      "summary": "免费开源桌面下载工具，支持 Udemy、Hotmart 课程和 YouTube 视频、音乐、图书等 1800 多个站点，无需命令行，内置课程播放器与 PDF/EPUB 阅读器，覆盖三大桌面平台。"
     },
     {
       "sourceId": "github-trending",
       "title": "jiji262/douyin-downloader",
       "url": "https://github.com/jiji262/douyin-downloader",
       "excerpt": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
-      "meta": "Python · ★ 11,339 · 🍴 1,750 · 📈 473 stars today",
+      "meta": "Python · ★ 11,359 · 🍴 1,751 · 📈 452 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "抖音批量下载工具，支持单条视频与整号批量抓取并可去水印，覆盖视频、图集、合集与原声音乐，带进度显示、失败重试、SQLite 去重和浏览器回退。适合素材归档场景。"
+      "summary": "抖音批量下载工具，支持单条与主页批量抓取，可去水印下载视频、图集、合集与原声音乐，带进度显示、失败重试、SQLite 去重和浏览器回退，适合内容归档与二次创作。"
     },
     {
       "sourceId": "github-trending",
       "title": "Swordfish90/cool-retro-term",
       "url": "https://github.com/Swordfish90/cool-retro-term",
       "excerpt": "A good looking terminal emulator which mimics the old cathode display...",
-      "meta": "QML · ★ 26,216 · 🍴 1,016 · 📈 98 stars today",
+      "meta": "QML · ★ 26,226 · 🍴 1,016 · 📈 57 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "外观复古的终端模拟器，模拟老式阴极射线管（CRT）显示器的扫描线、辉光与曲面效果。适合追求终端美感、想要怀旧氛围的开发者日常使用。"
+      "summary": "外观复古的终端模拟器，模拟老式阴极射线管显示器的扫描线、屏幕曲率与辉光效果，让开发者在现代系统上获得怀旧的 CRT 终端体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "excerpt": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "meta": "Python · ★ 165,486 · 🍴 34,558 · 📈 102 stars today",
+      "meta": "Python · ★ 165,523 · 🍴 34,557 · 📈 152 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hugging Face 的模型定义框架，统一加载与训练文本、视觉、音频及多模态的 SOTA 模型，覆盖推理和微调流程，是当前使用最广泛的深度学习模型库之一。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Make your first edit to OpenStreetMap",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "excerpt": "592 points · 139 comments",
-      "publishedAt": "2026-09-12T16:25:08.000Z",
-      "category": "tech",
-      "score": 592,
-      "source": "Hacker News",
-      "summary": "介绍一款 JOSM 插件网站向导，帮助新手完成对 OpenStreetMap 的第一次编辑，降低参与地图贡献的门槛。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "excerpt": "574 points · 642 comments",
-      "publishedAt": "2026-09-13T01:22:31.000Z",
-      "category": "tech",
-      "score": 574,
-      "source": "Hacker News",
-      "summary": "Yoshua Bengio 发表文章，探讨 AI 智能体为何会撒谎、作弊并彼此协调，引发 642 条评论热议。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "excerpt": "513 points · 205 comments",
-      "publishedAt": "2026-09-13T07:49:46.000Z",
-      "category": "tech",
-      "score": 513,
-      "source": "Hacker News",
-      "summary": "JetKVM 发布迷你版远程 KVM 设备 JetKVM Mini，可远程控制目标电脑，延续其开源 IP-KVM 产品线。"
+      "summary": "Hugging Face 出品的模型定义框架，统一支持文本、视觉、音频与多模态的 SOTA 模型，覆盖推理与训练，是研究者与工程师加载、微调预训练模型的事实标准。"
     },
     {
       "sourceId": "hackernews",
       "title": "Why is Google still serving dodgy ads?",
       "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "excerpt": "477 points · 223 comments",
+      "excerpt": "555 points · 263 comments",
       "publishedAt": "2026-09-13T17:37:44.000Z",
       "category": "tech",
-      "score": 477,
+      "score": 555,
       "source": "Hacker News",
-      "summary": "技术博客 atomic14 追问：Google 为何至今仍在投放可疑广告，并分析其广告审核与投放机制的问题。"
+      "summary": "文章追问谷歌为何至今仍在投放可疑广告，梳理其广告审核与过滤机制为何屡屡失效，引发 263 条讨论。"
     },
     {
       "sourceId": "hackernews",
-      "title": "I'm being cyberattacked by Tesla, Inc",
-      "url": "https://dreamstation.systems/personal/tesla.html",
-      "excerpt": "383 points · 105 comments",
-      "publishedAt": "2026-09-13T18:03:09.000Z",
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "excerpt": "525 points · 212 comments",
+      "publishedAt": "2026-09-13T07:49:46.000Z",
       "category": "tech",
-      "score": 383,
+      "score": 525,
       "source": "Hacker News",
-      "summary": "一位站长发文称自己正遭到特斯拉公司（Tesla, Inc.）的网络攻击，并记录事件经过与相关证据。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "excerpt": "348 points · 166 comments",
-      "publishedAt": "2026-09-13T14:28:36.000Z",
-      "category": "tech",
-      "score": 348,
-      "source": "Hacker News",
-      "summary": "LessWrong 帖文指出，Astra 与 Fable 模型仍能攻破 2025 年对齐评测的简单变体，说明这类评测容易被钻空子。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "url": "https://bensimms.moe/reverse-engineering-scooter/",
-      "excerpt": "338 points · 85 comments",
-      "publishedAt": "2026-09-10T03:32:04.000Z",
-      "category": "tech",
-      "score": 338,
-      "source": "Hacker News",
-      "summary": "作者对自己购买的电动滑板车进行逆向工程，并用 Rust 重写其固件，实现自定义控制功能。"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "excerpt": "315 points · 164 comments",
-      "publishedAt": "2026-09-13T15:44:38.000Z",
-      "category": "tech",
-      "score": 315,
-      "source": "Hacker News",
-      "summary": "Y Combinator 的 Garry Tan 主张，美国的开放权重 AI 实验室同样应当「蒸馏」前沿模型，引发争议。"
+      "summary": "JetKVM 推出迷你版设备 JetKVM Mini，一款体积更小的网络远程 KVM，主打低成本远程管理服务器。"
     },
     {
       "sourceId": "hackernews",
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "excerpt": "283 points · 92 comments",
+      "excerpt": "408 points · 160 comments",
       "publishedAt": "2026-09-13T21:06:13.000Z",
       "category": "tech",
-      "score": 283,
+      "score": 408,
       "source": "Hacker News",
-      "summary": "Fable 5.1 破解了名为 Cyphral Distich 的密码，该密码已存在 370 年而未被解出。"
+      "summary": "Fable 5.1 破解了名为 Cyphral Distich 的密码，该密码已存在 370 年，引发 160 条评论讨论其方法与意义。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "excerpt": "368 points · 88 comments",
+      "publishedAt": "2026-09-10T03:32:04.000Z",
+      "category": "tech",
+      "score": 368,
+      "source": "Hacker News",
+      "summary": "作者逆向工程自己的电动滑板车，解析其通信协议与控制逻辑，并用 Rust 重写固件以替代原厂软件。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "excerpt": "366 points · 174 comments",
+      "publishedAt": "2026-09-13T14:28:36.000Z",
+      "category": "tech",
+      "score": 366,
+      "source": "Hacker News",
+      "summary": "文章指出 Astra 与 Fable 两个模型在面对 2025 年对齐评测的简单变体时仍会钻空子作弊，并未真正对齐。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "excerpt": "345 points · 182 comments",
+      "publishedAt": "2026-09-13T15:44:38.000Z",
+      "category": "tech",
+      "score": 345,
+      "source": "Hacker News",
+      "summary": "Y Combinator 的 Garry Tan 主张，美国开放权重 AI 实验室同样可以去「蒸馏」前沿模型，引发 182 条讨论。"
     },
     {
       "sourceId": "hackernews",
@@ -297,208 +264,241 @@
       "excerpt": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260913134705&#x2F;https:&#x2F;&#x2F;www.theve...https:&#x2F;&#x2F;archive.ph&#x2F;TWEVZ",
       "publishedAt": "2026-09-13T13:45:08.000Z",
       "category": "tech",
-      "score": 257,
+      "score": 287,
       "source": "Hacker News",
-      "summary": "The Verge 专栏文章指出，汽车收集的驾驶与用户数据被出售给第三方，并附有网页存档链接。"
+      "summary": "The Verge 专栏指出汽车收集的驾驶与用户数据被出售给第三方，文中附有存档链接，涉及车主隐私问题。"
     },
     {
       "sourceId": "hackernews",
       "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
       "url": "https://twitter.com/TechEmails/status/2099214399840059428",
-      "excerpt": "237 points · 96 comments",
+      "excerpt": "268 points · 112 comments",
       "publishedAt": "2026-09-13T20:08:45.000Z",
       "category": "tech",
-      "score": 237,
-      "source": "Hacker News"
+      "score": 268,
+      "source": "Hacker News",
+      "summary": "扎克伯格 2017 年涉及 Cambridge Analytica 的邮件被重新翻出，回顾脸书数据丑闻期间的内部表态。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "excerpt": "236 points · 184 comments",
+      "publishedAt": "2026-09-13T16:52:33.000Z",
+      "category": "tech",
+      "score": 236,
+      "source": "Hacker News",
+      "summary": "David Sacks 表示 OpenAI 与 Anthropic 无需外部监管来约束前沿模型的发展节奏，引发 184 条争论。"
     },
     {
       "sourceId": "hackernews",
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "excerpt": "183 points · 45 comments",
+      "excerpt": "198 points · 47 comments",
       "publishedAt": "2026-09-13T12:30:15.000Z",
       "category": "tech",
-      "score": 183,
+      "score": 198,
+      "source": "Hacker News",
+      "summary": "微软「Old New Thing」博客解释 x86 未定义指令为何命名为 ud2，以及后缀数字 2 的由来与指令编码背景。"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "I added a non-wi-fi Mitsubishi AC to Home Assistant",
+      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+      "excerpt": "170 points · 83 comments",
+      "publishedAt": "2026-09-10T09:32:17.000Z",
+      "category": "tech",
+      "score": 170,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Making Startups Powerful",
       "url": "https://paulgraham.com/powerful.html",
-      "excerpt": "139 points · 64 comments",
+      "excerpt": "152 points · 71 comments",
       "publishedAt": "2026-09-13T14:09:53.000Z",
       "category": "tech",
-      "score": 139,
+      "score": 152,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Julia 1.13 highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "excerpt": "145 points · 11 comments",
+      "publishedAt": "2026-09-10T12:27:25.000Z",
+      "category": "tech",
+      "score": 145,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "CUDA for AMD on Windows",
       "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "excerpt": "128 points · 64 comments",
+      "excerpt": "135 points · 68 comments",
       "publishedAt": "2026-09-13T14:25:13.000Z",
       "category": "tech",
-      "score": 128,
+      "score": 135,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Julia 1.13 Highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "excerpt": "122 points · 8 comments",
-      "publishedAt": "2026-09-10T12:27:25.000Z",
+      "title": "The contagion of fear",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "excerpt": "117 points · 79 comments",
+      "publishedAt": "2026-09-13T22:38:18.000Z",
       "category": "tech",
-      "score": 122,
+      "score": 117,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "excerpt": "109 points · 40 comments",
-      "publishedAt": "2026-09-13T12:01:52.000Z",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49686380",
+      "excerpt": "What are you working on? What have you been curious about lately?",
+      "publishedAt": "2026-09-13T17:31:38.000Z",
       "category": "tech",
-      "score": 109,
+      "score": 75,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
       "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-      "excerpt": "68 points · 15 comments",
+      "excerpt": "72 points · 16 comments",
       "publishedAt": "2026-09-10T23:32:12.000Z",
       "category": "tech",
-      "score": 68,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Alan's Random Insult Generator (1999)",
-      "url": "https://alanbellows.com/experiments/insult/index.html",
-      "excerpt": "65 points · 24 comments",
-      "publishedAt": "2026-09-11T15:34:53.000Z",
-      "category": "tech",
-      "score": 65,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "excerpt": "63 points · 13 comments",
-      "publishedAt": "2026-09-12T23:43:31.000Z",
-      "category": "tech",
-      "score": 63,
+      "score": 72,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Libraries Run Rust Inside Python (With PyO3)",
       "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "excerpt": "53 points · 32 comments",
+      "excerpt": "59 points · 33 comments",
       "publishedAt": "2026-09-13T15:24:05.000Z",
       "category": "tech",
-      "score": 53,
+      "score": 59,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Base84 deserves a place in file names",
+      "url": "https://00f.net/2026/09/09/base84/",
+      "excerpt": "58 points · 50 comments",
+      "publishedAt": "2026-09-11T09:06:45.000Z",
+      "category": "tech",
+      "score": 58,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
       "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "excerpt": "43 points · 11 comments",
+      "excerpt": "53 points · 12 comments",
       "publishedAt": "2026-09-11T03:45:42.000Z",
       "category": "tech",
-      "score": 43,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "url": "https://cpak.it/",
-      "excerpt": "43 points · 16 comments",
-      "publishedAt": "2026-09-13T15:02:56.000Z",
-      "category": "tech",
-      "score": 43,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "excerpt": "38 points · 3 comments",
-      "publishedAt": "2026-09-13T20:33:18.000Z",
-      "category": "tech",
-      "score": 38,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "The Contagion of Fear",
-      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-      "excerpt": "34 points · 10 comments",
-      "publishedAt": "2026-09-13T22:38:18.000Z",
-      "category": "tech",
-      "score": 34,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Bad Code Is Kudzu",
-      "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
-      "excerpt": "29 points · 12 comments",
-      "publishedAt": "2026-09-10T13:02:59.000Z",
-      "category": "tech",
-      "score": 29,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "Device Drivers lab exercise – COSC562",
-      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-      "excerpt": "25 points · 2 comments",
-      "publishedAt": "2026-09-13T17:41:50.000Z",
-      "category": "tech",
-      "score": 25,
+      "score": 53,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
       "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "excerpt": "13 points · 1 comments",
+      "excerpt": "52 points · 26 comments",
       "publishedAt": "2026-09-13T21:47:04.000Z",
       "category": "tech",
-      "score": 13,
+      "score": 52,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Why is privacy so hard?",
-      "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
-      "excerpt": "8 points · 5 comments",
-      "publishedAt": "2026-09-13T21:13:43.000Z",
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "url": "https://cpak.it/",
+      "excerpt": "49 points · 19 comments",
+      "publishedAt": "2026-09-13T15:02:56.000Z",
       "category": "tech",
-      "score": 8,
+      "score": 49,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
-      "url": "https://openai.com/index/better-language-models/",
-      "excerpt": "7 points · 1 comments",
-      "publishedAt": "2026-09-13T23:11:17.000Z",
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "excerpt": "48 points · 6 comments",
+      "publishedAt": "2026-09-13T20:33:18.000Z",
       "category": "tech",
-      "score": 7,
+      "score": 48,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Bad Code Is Kudzu",
+      "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
+      "excerpt": "35 points · 11 comments",
+      "publishedAt": "2026-09-10T13:02:59.000Z",
+      "category": "tech",
+      "score": 35,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Coming War on General Computation (2011)",
+      "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+      "excerpt": "28 points · 3 comments",
+      "publishedAt": "2026-09-13T23:54:55.000Z",
+      "category": "tech",
+      "score": 28,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Device Drivers lab exercise – COSC562",
+      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+      "excerpt": "28 points · 2 comments",
+      "publishedAt": "2026-09-13T17:41:50.000Z",
+      "category": "tech",
+      "score": 28,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "excerpt": "24 points · 64 comments",
+      "publishedAt": "2026-09-13T20:19:06.000Z",
+      "category": "tech",
+      "score": 24,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
       "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "excerpt": "5 points · 0 comments",
+      "excerpt": "21 points · 5 comments",
       "publishedAt": "2026-09-10T19:39:13.000Z",
       "category": "tech",
-      "score": 5,
+      "score": 21,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Why is privacy so hard?",
+      "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+      "excerpt": "15 points · 12 comments",
+      "publishedAt": "2026-09-13T21:13:43.000Z",
+      "category": "tech",
+      "score": 15,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+      "excerpt": "10 points · 4 comments",
+      "publishedAt": "2026-09-10T15:35:36.000Z",
+      "category": "tech",
+      "score": 10,
       "source": "Hacker News"
     },
     {
@@ -1070,6 +1070,24 @@
     },
     {
       "sourceId": "simonwillison",
+      "title": "commit-rewriter 0.1",
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "excerpt": "",
+      "publishedAt": "2026-09-14T00:28:10.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "shot-scraper 1.12",
+      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "excerpt": "",
+      "publishedAt": "2026-09-13T23:58:14.000Z",
+      "category": "tech",
+      "source": "Simon Willison"
+    },
+    {
+      "sourceId": "simonwillison",
       "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
       "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
       "excerpt": "",
@@ -1317,24 +1335,6 @@
       "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
       "excerpt": "",
       "publishedAt": "2026-09-06T23:57:40.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "The purpose of DNS is to spread scams",
-      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-      "excerpt": "",
-      "publishedAt": "2026-09-06T14:40:07.000Z",
-      "category": "tech",
-      "source": "Simon Willison"
-    },
-    {
-      "sourceId": "simonwillison",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-      "excerpt": "",
-      "publishedAt": "2026-09-06T09:08:06.000Z",
       "category": "tech",
       "source": "Simon Willison"
     },
