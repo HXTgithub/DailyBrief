@@ -1,0 +1,53 @@
+{
+  "hero_headline": "Cloudflare 允许被搜索收录但禁止 AI 训练",
+  "daily_overview": "Cloudflare 推出 AI 爬虫分级管控，站点可保留搜索引擎收录同时禁止训练抓取；阿里开源混合架构代码审查工具，用确定性流水线加 LLM Agent 做行级检查；纯 C 项目 colibri 让消费级硬件跑前沿 MoE 模型；开发者用一个月为 M4 Mac Mini 写出 Linux GPU 驱动。Laravel 禁止 issue、只用 PR 的新规也在开发者圈引发讨论。",
+  "tech_briefs": [
+    {
+      "title": "Cloudflare 上线 AI 爬虫分级管控与可问责标识",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 为站点提供新控件，可在保持搜索引擎可发现的同时禁止 AI 训练抓取，并引入 Accountable 标识，与苹果、谷歌、微软建立统一模型。",
+      "importance": 8
+    },
+    {
+      "title": "阿里开源混合架构代码审查工具 open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "summary": "该工具采用确定性流水线加 LLM Agent 的混合架构，输出行级精准评论，内置 NPE、线程安全等多语言规则集，并称已在阿里内部规模验证。",
+      "importance": 7
+    },
+    {
+      "title": "colibri：纯 C 零依赖在本地运行前沿 MoE 模型",
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending",
+      "summary": "项目以纯 C 编写、无外部依赖，把专家权重从磁盘流式加载，让已有消费级硬件也能跑前沿 MoE 大模型，卖点是用极小引擎驱动超大模型。",
+      "importance": 7
+    },
+    {
+      "title": "开发者一个月为 M4 Mac Mini 编写 Linux GPU 驱动",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "source": "Hacker News",
+      "summary": "作者记录用一个月时间为 M4 Mac Mini 开发 Linux GPU 驱动，尝试在苹果自研芯片上打通开源图形栈，该帖在 HN 获得约 140 点与 80 条讨论。",
+      "importance": 7
+    },
+    {
+      "title": "阮一峰周刊：Laravel 禁止 issue 只接受 PR",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+      "source": "阮一峰的网络日志",
+      "summary": "周刊第 412 期记录 Laravel 新规：不再接受 issue 提交，只接受 Pull Request，并讨论该做法对开源协作方式与维护成本的影响。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "爬虫授权、代码审查与本地推理三线并进，工具层正把 AI 能力收进更可控的边界。",
+  "keywords": [
+    "AI 爬虫",
+    "Cloudflare",
+    "代码审查",
+    "MoE 推理",
+    "开源协作",
+    "Linux 驱动",
+    "本地模型"
+  ]
+}
