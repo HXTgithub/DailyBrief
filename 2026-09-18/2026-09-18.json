@@ -1,0 +1,53 @@
+{
+  "hero_headline": "AI 智能体工具链加速开源，安全与内容授权成焦点",
+  "daily_overview": "今日技术信号集中在智能体基础设施与安全边界：阿里开源的代码审查工具以确定性流水线叠加 LLM 智能体，落地行级评论；Cloudflare 同时推进 AI 爬虫授权模型与智能体安全审计技能，试图在可发现与可训练之间划出可问责的界线。与此同时，压缩摘要中的自我提示注入、近无损模型压缩等议题，显示成本与安全正成为智能体规模化的两条主线。",
+  "tech_briefs": [
+    {
+      "title": "阿里开源代码审查智能体 open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "summary": "该工具采用确定性流水线加 LLM Agent 的混合架构，可给出精确到行级的评论，内置 NPE、线程安全等多语言规则集，并称已在阿里内部规模上验证。",
+      "importance": 8
+    },
+    {
+      "title": "云安全审计等 AI 智能体技能包开源",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending",
+      "summary": "Cloudflare 发布面向编码智能体的分阶段安全审计技能，输出可机器读取且可独立验证的结论；addyosmani/agent-skills 则提供生产级工程技能包，二者共同指向智能体技能的标准化复用。（多家报道）",
+      "importance": 7
+    },
+    {
+      "title": "Cloudflare 允许可被检索但禁止 AI 训练",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "source": "Cloudflare Blog",
+      "summary": "站点可在保持搜索引擎可发现的同时禁止 AI 训练抓取，新增控制项与「可问责」标识，并与苹果、谷歌、微软建立共同模型，试图把爬虫用途区分制度化。",
+      "importance": 7
+    },
+    {
+      "title": "压缩摘要带来自我生成的提示注入风险",
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "source": "Simon Willison",
+      "summary": "作者指出，上下文压缩摘要会原样保留其中的指令，使模型在后续轮次中自我生成提示注入，成为长上下文智能体链路中不易察觉的安全盲点。",
+      "importance": 7
+    },
+    {
+      "title": "Bonsai 2 27B：体积缩小九倍的近无损压缩",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "source": "Hacker News",
+      "summary": "该模型在 27B 参数规模下以近无损方式压缩至原有体积的约九分之一，讨论集中于端侧部署可行性与推理成本的进一步下降。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "今日多条新闻围绕同一问题：智能体能力扩张后，权限、审计与内容授权如何跟上。工具开源速度快于治理规则，值得持续跟踪。",
+  "keywords": [
+    "AI Agent",
+    "代码审查",
+    "Cloudflare",
+    "提示注入",
+    "模型压缩",
+    "开源工具",
+    "AI 爬虫授权"
+  ]
+}
