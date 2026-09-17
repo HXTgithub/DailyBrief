@@ -1,54 +1,54 @@
 {
-  "hero_headline": "阿里开源 LLM 代码审查工具，Cloudflare 收紧 AI 爬虫",
-  "daily_overview": "今日技术信号集中在 AI 工具链与内容治理两端：阿里开源确定性流水线加 LLM Agent 的代码审查工具；Cloudflare 推出兼顾搜索可发现性与禁止 AI 训练的爬虫控制；arXiv 论文称突破 1.58 位三元量化瓶颈，低位宽大模型精度改善；纯 C 引擎 colibri 可在自有硬件上流式加载运行前沿 MoE 模型；Claude 则整合 Cowork 与聊天入口。",
+  "hero_headline": "阿里开源代码审查工具，Cloudflare 密集更新安全能力",
+  "daily_overview": "当日技术资讯集中在 AI 工程化与安全两条主线：阿里开源混合架构代码审查工具，把确定性规则与 LLM Agent 结合；Cloudflare 密集更新，覆盖客户端安全检测、AI 爬虫授权与 Workers 细粒度权限；低比特量化再进一步，三元 LLM 突破 1.58 比特限制，端侧 MoE 推理出现零依赖实现；Anthropic 则把协作与聊天收敛为单一 Claude 入口。",
   "tech_briefs": [
     {
       "title": "阿里开源混合架构代码审查工具",
       "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending",
-      "summary": "阿里开源代码审查工具，采用确定性流水线加 LLM Agent 的混合架构，可输出精确到行的评论，内置多语言规则集，覆盖空指针、线程安全等常见缺陷，并称已在阿里规模下验证。",
+      "summary": "阿里开源 open-code-review，采用确定性流水线加 LLM Agent 的混合架构，可输出精确到行的审查意见，内置多语言规则集，据称已在阿里规模下经过验证。",
       "importance": 8
     },
     {
-      "title": "Cloudflare 推可发现但禁 AI 训练的爬虫控制",
+      "title": "Cloudflare 连发客户端安全与权限控制更新",
       "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
       "source": "Cloudflare Blog",
-      "summary": "Cloudflare 为站点提供新控制项与「可问责」标识，使网页保持搜索可发现性的同时禁止内容被用于 AI 训练，并与苹果、谷歌、微软建立共享认定模型。",
+      "summary": "Cloudflare 推出可问责的混合用途 AI 爬虫控制，让站点保持搜索可见的同时禁止 AI 训练抓取；同期更新客户端侧安全检测、Workers 细粒度授权与 CASB 自动修复策略。（多家报道）",
       "importance": 8
     },
     {
-      "title": "三元 LLM 突破 1.58 位量化瓶颈",
+      "title": "三元 LLM 突破 1.58 比特量化壁垒",
       "url": "https://arxiv.org/abs/2609.16338",
       "source": "Hacker News",
-      "summary": "arXiv 新论文提出突破 1.58 位三元量化限制的方法，在极低位宽下改善大模型精度表现，相关讨论在 Hacker News 获得 122 分关注。",
+      "summary": "新论文称突破三元 LLM 的 1.58 比特限制；同期 GitHub 项目 colibri 以纯 C、零依赖方式在自有硬件上运行 MoE 模型，专家权重从磁盘流式加载，降低本地部署门槛。（多家报道）",
       "importance": 8
     },
     {
-      "title": "colibri：纯 C 引擎本地运行前沿 MoE 模型",
-      "url": "https://github.com/JustVugg/colibri",
-      "source": "GitHub Trending",
-      "summary": "纯 C 编写、零依赖的推理引擎，专家权重从磁盘流式加载，让前沿 MoE 大模型能在自有硬件上运行。它降低本地部署门槛，无需高端显卡即可承载远超显存的稀疏专家模型。",
+      "title": "Anthropic 将 Cowork 与聊天合并为单一 Claude",
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "source": "Simon Willison",
+      "summary": "Simon Willison 记录 Anthropic 把 Cowork 与聊天入口整合为同一个 Claude，用户无需在对话与协作两种模式间切换，显示 AI 产品界面正收敛为统一入口。",
       "importance": 7
     },
     {
-      "title": "Claude 将 Cowork 与聊天合并为统一入口",
-      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
-      "source": "Simon Willison",
-      "summary": "Simon Willison 记录称，Claude 的 Cowork 与聊天界面已合并为同一个 Claude，反映 AI 助手产品线由多入口走向整合的趋势。",
-      "importance": 7
+      "title": "Laravel 新规：禁止提交 issue 只收 PR",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+      "source": "阮一峰的网络日志",
+      "summary": "阮一峰科技周刊第 412 期提到，PHP 框架 Laravel 宣布不再接受 issue，只接受 Pull Request，并讨论该做法对开源协作方式与维护者负担的影响。",
+      "importance": 6
     }
   ],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "开源代码审查与低位宽量化同日推进，AI 落地的关键瓶颈正从模型能力转向工程成本与内容授权规则。",
+  "editor_note": "工具链与安全能力的迭代速度明显快于治理共识，代码审查、爬虫授权与模型压缩同日推进，实际落地效果仍需观察。",
   "keywords": [
     "代码审查",
-    "AI Agent",
     "Cloudflare",
-    "AI 爬虫与授权",
-    "三元量化",
-    "MoE 推理",
+    "AI 爬虫",
+    "低比特量化",
+    "MoE",
     "Claude",
-    "开源工具"
+    "开源协作",
+    "Workers"
   ]
 }
