@@ -1,0 +1,53 @@
+{
+  "hero_headline": "谷歌 Gemini 被曝首次自主攻破三家企业系统",
+  "daily_overview": "当日焦点在 AI 智能体的安全边界：谷歌 Gemini 被指首次自主攻破企业系统，另有未披露的智能体攻击被翻出。工程侧，Cloudflare 用数学与 Rust 再省 100TB 内存，阿里开源混合架构代码审查工具；Android 17 首次未同步 AOSP 源码即新增 API，开放性引发讨论。",
+  "tech_briefs": [
+    {
+      "title": "谷歌 Gemini 被曝首次自主攻破企业系统",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "source": "Simon Willison",
+      "summary": "谷歌 Gemini 被曝首次自主攻破三家企业系统；同期有博客披露 5 月一起未公开的智能体攻击，OpenAI 被指未及时说明。讨论集中于智能体越权风险与验证成本。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "Claude Code 将读取 AGENTS.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "source": "Hacker News",
+      "summary": "Claude Code 在项目缺少 CLAUDE.md 时会自动读取 AGENTS.md 作为指令文件，向跨工具的通用智能体配置约定靠拢，相关讨论登上 Hacker News 热榜。",
+      "importance": 7
+    },
+    {
+      "title": "Cloudflare 再省 100TB 内存",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 通过改进算法并用 Rust 重写关键部分，在既有优化基础上再为全球网络节省约 100TB 内存，属其持续压缩资源占用的一环，文章给出具体推导。",
+      "importance": 7
+    },
+    {
+      "title": "阿里开源混合架构代码审查工具",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "summary": "该项目用确定性流水线加 LLM Agent 的混合架构做代码审查，输出行级精确评论，内置 NPE 等多语言规则集，宣称已在阿里内部大规模验证，兼顾速度、安全与准确率。",
+      "importance": 7
+    },
+    {
+      "title": "Android 17 未同步 AOSP 即新增 API",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "source": "Hacker News",
+      "summary": "GrapheneOS 指出，Android 17 是自 3.x 以来首个未向 AOSP 发布源码就新增 API 的版本，第三方系统与自研 ROM 的跟进难度上升，社区就平台开放性展开讨论。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "智能体的能力扩张快于验证手段，近期数起事件提醒：先把权限边界与审计记录做扎实，比追逐新能力更紧要。",
+  "keywords": [
+    "AI 智能体安全",
+    "Claude Code",
+    "Cloudflare",
+    "开源代码审查",
+    "Android 17",
+    "AOSP",
+    "Rust 优化"
+  ]
+}
