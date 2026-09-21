@@ -1,0 +1,53 @@
+{
+  "hero_headline": "Shopify 弃用 React Native，Cloudflare 省下 100TB 内存",
+  "daily_overview": "Shopify 宣布弃用 React Native，成为跨端框架在大规模电商场景的最新退场案例；Cloudflare 一边以数学方法削减 100TB 内存占用，一边推出新控制，让站点禁止 AI 训练的同时仍可被搜索收录；Google 开源 Agentic 编排器 Agent Executor，多智能体调度再添一个选项；Martin Fowler 则撰文反思 LLM 对软件职业的冲击与自身的复杂感受。",
+  "tech_briefs": [
+    {
+      "title": "Shopify 宣布弃用 React Native",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+      "source": "阮一峰的网络日志",
+      "summary": "阮一峰科技周刊第 413 期引述：Shopify 宣布放弃 React Native。此举被视为跨端框架在大型电商场景中维护成本与性能取舍的又一案例。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 用数学优化再省 100TB 内存",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 介绍如何以数学方法结合 Rust 实现，压缩其全球网络中的内存占用，在不牺牲功能的前提下削减基础设施资源开销。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 新控制：可禁 AI 训练仍保留搜索收录",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 推出新控制项与「Accountable」标识，允许站点在禁止 AI 训练爬取的同时维持搜索可见性，并与苹果、谷歌、微软建立共享模式。",
+      "importance": 7
+    },
+    {
+      "title": "Martin Fowler 撰文谈对 LLM 的复杂态度",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "source": "Martin Fowler",
+      "summary": "Martin Fowler 表示对 AI 与 LLM 感受复杂：既关注其对软件职业的影响，也认可生产力提升的潜力，同时给出保留意见与具体担忧。",
+      "importance": 7
+    },
+    {
+      "title": "Google 开源 Agentic 编排器 Agent Executor",
+      "url": "https://agentexecutor.io",
+      "source": "Hacker News",
+      "summary": "Google 发布开源 Agentic 编排器 Agent Executor，用于调度与执行多智能体工作流；该条目在 Hacker News 获得逾百点讨论，开发者关注其定位与实现路线。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "同一天里，基础设施效率优化与 AI 治理规则并行推进，而框架与工具的选择仍在被重新评估。",
+  "keywords": [
+    "React Native",
+    "Shopify",
+    "Cloudflare",
+    "AI 训练",
+    "Agent 编排",
+    "LLM",
+    "内存优化"
+  ]
+}
