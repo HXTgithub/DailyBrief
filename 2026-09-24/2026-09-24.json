@@ -1,0 +1,53 @@
+{
+  "hero_headline": "大模型价格战升温，Agent 工具链与边缘平台齐更新",
+  "daily_overview": "本期技术要点集中在三处：模型侧，Claude Opus 5.5、GPT-6 系列集中发布并引发新一轮降价；Agent 侧，Google ax 等编排与技能框架密集开源，应用基建加速成型；平台侧，Cloudflare 开放 Python Workers 正式版与隔离预览环境。此外 Shopify 弃用 React Native、骁龙 X2 将支持 Linux，跨端与终端栈仍在调整。",
+  "tech_briefs": [
+    {
+      "title": "新一代大模型密集发布并掀起价格战",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "source": "Simon Willison",
+      "summary": "Claude Opus 5.5、GPT-6 Sol 与 GPT-6 Luna 同周亮相，并伴随新一轮定价下调；同日 Mercury 2.5 以每秒 770 token 的推理速度进入讨论，竞争焦点转向成本与吞吐。",
+      "importance": 9
+    },
+    {
+      "title": "Google 开源 Agent 编排运行时 ax",
+      "url": "https://github.com/google/ax",
+      "source": "GitHub Trending",
+      "summary": "Google 发布开源 Agent 编排运行时 ax，用于统一多智能体调度；同期 agent-native 应用框架与 superpowers 技能框架登上 GitHub 热榜，反映 Agent 应用基建正快速成型。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 边缘平台多项更新面向 Agent",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 宣布 Python Workers 正式可用，可在边缘原生运行 Python Web 框架与 AI 编排库；同时上线每个分支独立隔离的 Worker Previews，并在缓存规则中支持长期被回避的 HTTP Vary 头。（多项官方更新）",
+      "importance": 7
+    },
+    {
+      "title": "Shopify 弃用 React Native 引发技术讨论",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+      "source": "阮一峰的网络日志",
+      "summary": "Shopify 宣布放弃 React Native，阮一峰科技周刊第 413 期以此为题，讨论跨端框架在大型项目中的维护成本、性能边界与迁移取舍。",
+      "importance": 7
+    },
+    {
+      "title": "骁龙 X2 系列将获得 Linux 支持",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "source": "Hacker News",
+      "summary": "高通在骁龙峰会上表示，Snapdragon X2 系列将提供 Linux 支持，此前 ARM 笔记本在开源系统上的驱动缺失与生态适配问题有望改善。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "模型迭代与价格下调同时加速，Agent 基建和边缘运行时也在补位，开发者需要重新评估技术选型与迁移成本。",
+  "keywords": [
+    "大模型价格战",
+    "Agent 编排",
+    "Cloudflare Workers",
+    "Python Workers",
+    "React Native",
+    "Snapdragon X2",
+    "边缘计算"
+  ]
+}
