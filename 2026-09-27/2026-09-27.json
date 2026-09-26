@@ -1,0 +1,53 @@
+{
+  "hero_headline": "DeepSeek 发布弹性计算论文，聚焦算力调度",
+  "daily_overview": "今日技术信号集中在三处：DeepSeek 发布弹性计算论文 DSec，算力调度再度受关注；Cloudflare 修复 Containers 跨租户数据残留漏洞，并推进 Worker Previews 等平台能力；Shopify 宣布放弃 React Native，GitHub 完成去 CSS-in-JS 的性能迁移。GitHub Trending 上，面向 AI Agent 的记忆与办公运行时项目持续走热。",
+  "tech_briefs": [
+    {
+      "title": "DeepSeek 发布弹性计算论文 DSec",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "source": "Hacker News",
+      "summary": "论文提出 DeepSeek Elastic Compute（DSec），在 Hacker News 获 107 分与 27 条讨论，讨论集中于其算力弹性调度与资源隔离的设计思路。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 修复 Containers 跨租户漏洞",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "source": "Cloudflare Blog",
+      "summary": "外部安全研究者发现 Cloudflare Containers 可能暴露上一工作负载的磁盘残留数据，官方披露漏洞成因与修复过程，提示多租户隔离需覆盖存储层。",
+      "importance": 8
+    },
+    {
+      "title": "Shopify 宣布放弃 React Native",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+      "source": "阮一峰的网络日志",
+      "summary": "科技周刊第 413 期记录，Shopify 宣布放弃 React Native。该决定为跨平台移动框架的长期维护成本再添一例行业样本，并引发社区对替代方案的讨论。",
+      "importance": 7
+    },
+    {
+      "title": "GitHub 弃用 CSS-in-JS 提升站点性能",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 工程团队完成 github.com 从 CSS-in-JS 的全量迁移，改为下发更多静态 CSS 以减少运行时开销，并公开迁移路径与性能收益。",
+      "importance": 7
+    },
+    {
+      "title": "开源项目 paperclip：统一管理 AI Agent",
+      "url": "https://github.com/paperclipai/paperclip",
+      "source": "GitHub Trending",
+      "summary": "paperclip 是登上 GitHub Trending 的开源应用，把团队内 AI Agent 的任务分派、运行与结果汇总收进同一界面，回应 Agent 数量增多后的统一管理需求。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "框架与平台层的取舍仍在继续：跨端方案退潮、前端构建回归静态资源，而 Agent 工具链正快速补上记忆与运行时。",
+  "keywords": [
+    "DeepSeek",
+    "Cloudflare",
+    "React Native",
+    "CSS-in-JS",
+    "AI Agent",
+    "GitHub Trending",
+    "跨端框架"
+  ]
+}
