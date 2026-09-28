@@ -1,0 +1,53 @@
+{
+  "hero_headline": "Shopify 弃用 React Native，AI 流量超人类",
+  "daily_overview": "本期技术信号集中在两条线：一是 AI 代理正在改写基础设施与开发流程，Cloudflare 年度创始人信披露自动化流量首次超过人类活动，其 Containers 服务也修复了跨租户数据残留漏洞；二是工具链的替换潮，Shopify 宣布放弃 React Native，GitHub 全面弃用 CSS-in-JS，开源项目 VoiceStudio 则给出全本地化的语音克隆方案。",
+  "tech_briefs": [
+    {
+      "title": "Shopify 弃用 React Native，周刊记录转向",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+      "source": "阮一峰的网络日志",
+      "summary": "科技爱好者周刊第 413 期以「再见了，React Native」为题，梳理 Shopify 宣布放弃 React Native 的背景与理由，并汇总本周其他值得关注的科技内容；下周五起因中秋与十一假期休刊。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 年信：自动化流量已超人类活动",
+      "url": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 在 2026 年度创始人信中指出，自动化流量已超过人类活动，公司回顾 AI 智能体兴起对互联网结构、内容创建方式与安全模型带来的变化。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 修复 Containers 跨租户数据残留漏洞",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "source": "Cloudflare Blog",
+      "summary": "外部安全研究者发现 Cloudflare Containers 存在可能导致前序工作负载残留磁盘数据暴露的漏洞，官方说明问题成因、修复过程及后续隔离与加固措施。",
+      "importance": 7
+    },
+    {
+      "title": "GitHub 弃用 CSS-in-JS 并优化超大 PR 渲染",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 工程博客介绍两项前端改造：github.com 完成从 CSS-in-JS 的整体迁移以改善页面性能；Copilot 应用重写 diff 视图，可打开百万行规模、含数百条行内评论的 PR。",
+      "importance": 6
+    },
+    {
+      "title": "VoiceStudio：全本地开源语音克隆工具",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending",
+      "summary": "GitHub 上的 VoiceStudio 定位为完全本地运行的 ElevenLabs 替代方案，支持语音克隆、语音设计、视频配音、听写、转写与有声书制作，宣称覆盖 646 种语言，数据不必上传云端。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "大厂从前端框架到运行时都在做减法，AI 带来的增量则先落在流量结构与安全边界上，值得持续观察。",
+  "keywords": [
+    "React Native",
+    "Cloudflare",
+    "AI 智能体",
+    "跨租户漏洞",
+    "CSS-in-JS",
+    "开源语音克隆",
+    "GitHub Trending"
+  ]
+}
