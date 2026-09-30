@@ -1,53 +1,53 @@
 {
-  "hero_headline": "AI 新模型密集发布，后量子迁移提速",
-  "daily_overview": "本期技术信号集中在三条线：一是 OpenAI 与 Anthropic 同周发布新模型，OpenAI DevDay 2026 同步举行，模型能力与价格竞争并行；二是 Cloudflare 一边用 AI 扫描代码库推进 2029 年后量子迁移，一边申请成为证书颁发机构；三是开源侧智能体基础设施升温，本地语音克隆与智能体安全运行时登上 GitHub 趋势榜，工程方法论讨论同步升温。",
+  "hero_headline": "Cloudflare 布局后量子证书，AI 模型密集更新",
+  "daily_overview": "今日技术动态围绕两条主线展开：一是 Cloudflare 集中公布后量子安全布局，涵盖自建证书颁发机构、Merkle Tree 证书以及 AI 驱动的密码学资产扫描工具；二是 AI 侧模型与智能体基础设施密集更新，GPT 6.1 Sol 与 Claude Sonnet 5.5 相继发布，NVIDIA 及社区项目则补齐智能体运行、记忆与本地语音能力。前端领域，Shopify 放弃 React Native 再度引发跨端方案讨论。",
   "tech_briefs": [
     {
-      "title": "OpenAI 与 Anthropic 新模型密集发布",
-      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-      "source": "Simon Willison",
-      "summary": "Simon Willison 记录 OpenAI DevDay 2026；同期 GPT 6.1 Sol 宣称以约五分之一价格提供接近 Astra 档位的智能，Claude Sonnet 5.5 亦已发布。（多家报道）",
+      "title": "Cloudflare 申请自建 CA，推进后量子迁移",
+      "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 宣布申请成为证书颁发机构，并以 Merkle Tree 证书构建后量子 CA；同时用内部 AI 工具 CryptoLabe 扫描代码库中的密码学依赖，目标 2029 年前完成全面迁移。（多家报道）",
       "importance": 9
     },
     {
-      "title": "Cloudflare 推进后量子迁移与自建 CA",
-      "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-      "source": "Cloudflare Blog",
-      "summary": "Cloudflare 推出内部 AI 工具 CryptoLabe，扫描代码库中的密码学依赖，目标 2029 年完成后量子迁移；同时宣布申请成为证书颁发机构，并以 Merkle 树证书压缩签名体积。（多家报道）",
+      "title": "GPT 6.1 Sol 与 Claude Sonnet 5.5 相继发布",
+      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+      "source": "Simon Willison",
+      "summary": "OpenAI DevDay 2026 期间推出 GPT 6.1 Sol，官方称以约五分之一价格接近此前顶级智能水平；Anthropic 同期发布 Claude Sonnet 5.5，头部模型迭代节奏继续加快。（多家报道）",
       "importance": 8
     },
     {
-      "title": "开源 VoiceStudio：本地运行的语音克隆工具",
-      "url": "https://github.com/debpalash/VoiceStudio",
+      "title": "NVIDIA 开源 OpenShell 智能体安全运行时",
+      "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending",
-      "summary": "VoiceStudio 是可在本机部署的 ElevenLabs 替代品，支持 646 种语言的语音克隆、视频配音、听写、转录与有声书生成，音频数据不出本地，适合对隐私与调用成本敏感的团队。",
+      "summary": "NVIDIA 开源 OpenShell，定位为自主 AI 智能体的安全私有运行时，主要解决智能体执行代码、访问外部系统时的隔离与权限控制问题，属于智能体落地的基础设施层项目。",
       "importance": 7
     },
     {
-      "title": "NVIDIA 开源 OpenShell 智能体运行时",
-      "url": "https://github.com/NVIDIA/OpenShell",
+      "title": "VoiceStudio：本地开源语音克隆工具",
+      "url": "https://github.com/debpalash/VoiceStudio",
       "source": "GitHub Trending",
-      "summary": "OpenShell 定位为自主 AI 智能体的安全私有运行时，为智能体提供隔离执行环境与权限边界；在智能体批量接入企业流程的当下，运行时沙箱正成为落地前提。",
+      "summary": "VoiceStudio 是完全本地运行的开源语音工具，覆盖语音克隆、音色设计、视频配音、听写与有声书制作，支持 646 种语言，被视作 ElevenLabs 的本地替代方案，音频数据无需上传云端。",
       "importance": 7
     },
     {
       "title": "阮一峰周刊：Shopify 放弃 React Native",
       "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
       "source": "阮一峰的网络日志",
-      "summary": "科技爱好者周刊第 413 期记录 Shopify 宣布放弃 React Native，并汇总本周值得关注的开发工具与技术文章；周刊因中秋与十一假期将于下周五休刊一期。",
+      "summary": "阮一峰科技周刊第 413 期以 Shopify 宣布放弃 React Native 为封面话题，讨论跨端框架在大型项目中的工程取舍，并汇总本周值得关注的科技内容与开源项目。",
       "importance": 6
     }
   ],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "模型迭代、密码学基础设施与开源智能体工具同期推进，安全与成本构成共同主线；相关方案多在早期验证阶段，实际效果仍需观察。",
+  "editor_note": "当日信号集中在 AI 基础设施：后量子证书、智能体运行时与本地语音模型同步推进，工程侧仍在为落地成本与安全边界做取舍。",
   "keywords": [
-    "AI 模型发布",
-    "后量子加密",
-    "证书颁发机构",
+    "后量子密码",
+    "Merkle Tree 证书",
     "AI 智能体",
     "语音克隆",
-    "开源工具",
-    "React Native"
+    "模型发布",
+    "React Native",
+    "开源项目"
   ]
 }

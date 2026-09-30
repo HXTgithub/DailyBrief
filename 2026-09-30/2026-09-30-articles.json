@@ -6,195 +6,190 @@
       "title": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "meta": "Python · ★ 48,078 · 🍴 5,389 · 📈 4,758 stars today",
+      "meta": "Python · ★ 48,103 · 🍴 5,392 · 📈 4,758 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源且完全本地运行的 ElevenLabs 替代方案，覆盖语音克隆、音色设计、视频配音、听写、转录与有声书制作，支持 646 种语言。模型与数据都不出本机，适合注重隐私、又想省下商业 TTS 订阅费的播客、视频团队和内容创作者自建语音流水线。"
+      "summary": "可完全本地部署的开源 ElevenLabs 替代方案，支持语音克隆、音色设计、视频配音、听写、转录与有声书制作，覆盖 646 种语言。适合注重数据隐私、想自建语音生成与转录能力的个人和团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "excerpt": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "meta": "Rust · ★ 10,579 · 🍴 1,420 · 📈 990 stars today",
+      "meta": "Rust · ★ 10,599 · 🍴 1,421 · 📈 990 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "NVIDIA 出品的自主 AI agent 安全运行时，为 agent 提供隔离、私有的执行环境，限制其对系统资源和数据的访问边界。适合在企业内网或本地部署 agent，又要求权限可控、数据不外泄的团队，作为 agent 落地的底层沙箱基础设施。"
+      "summary": "面向自主 AI agent 的安全私有运行时，为 agent 提供隔离沙箱与权限边界，避免其越权访问系统资源或泄露数据。适合在生产环境中部署自动化 agent、需要可控执行环境的开发者与企业团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "excerpt": "Hindsight: Agent Memory That Learns",
-      "meta": "Python · ★ 42,817 · 🍴 5,767 · 📈 2,575 stars today",
+      "meta": "Python · ★ 42,839 · 🍴 5,767 · 📈 2,575 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI agent 的记忆层，让 agent 在长期交互中不断积累并学习经验，而不是每轮对话都从零开始。可用于多轮助手、自动化工作流等需要跨会话保持上下文、记住用户偏好的场景，减少重复说明与上下文丢失。"
+      "summary": "面向 AI agent 的记忆层，让 agent 从历史交互中持续学习并检索长期记忆，改善多轮任务的一致性和效果。适合构建对话助手、长期运行 agent 的开发者，可与 RAG 及记忆检索流程配合使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "excerpt": "The open-source app everyone uses to manage agents at work",
-      "meta": "TypeScript · ★ 94,445 · 🍴 16,049 · 📈 2,458 stars today",
+      "meta": "TypeScript · ★ 94,459 · 🍴 16,049 · 📈 2,458 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用于在工作中管理 AI agent 的开源应用，把散落各处的 agent 集中到一个界面里调度、查看运行状态与产出结果。面向已把 agent 引入日常业务的团队，充当 agent 操作台，缓解多人协作时的可见性与管理混乱问题。"
+      "summary": "开源的工作场景 agent 管理应用，团队可统一创建、调度和监控各类 AI agent，把 agent 纳入日常业务流程。适合希望在公司内部共享和管理 agent、而非各自零散使用的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "excerpt": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和",
-      "meta": "Rust · ★ 21,976 · 🍴 2,087 · 📈 232 stars today",
+      "meta": "Rust · ★ 21,993 · 🍴 2,087 · 📈 232 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "仅 25 MB 的轻量跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server、达梦等 100 多种数据库，内置 AI 助手、MCP Server 与命令行，同时提供桌面端和 Dock 形态，适合需要在一个工具里连接多种数据源的开发者。"
+      "summary": "仅约 25MB 的轻量跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server、达梦等 100 多种数据库，内置 AI、MCP Server、CLI 与 Dock。适合开发者日常查询与 AI 辅助数据操作。"
     },
     {
       "sourceId": "github-trending",
       "title": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "excerpt": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "meta": "TypeScript · ★ 2,427 · 🍴 176 · 📈 737 stars today",
+      "meta": "TypeScript · ★ 2,437 · 🍴 177 · 📈 737 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "多 agent 编排框架，把 Claude Code 与 Codex 组合成同一套系统协同运行，让不同编码 agent 分工执行或互相校验。适合希望突破单一 agent 能力上限、在复杂编码任务上做并行处理与交叉验证的开发者。"
+      "summary": "多 agent 编排框架，把 Claude Code 与 Codex 作为同一系统协同运行，统一调度两个编码 agent 分工完成复杂开发任务。适合想组合多种编码 agent、提升自动化开发效率的工程团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "excerpt": "Self-hosted deployment platform",
-      "meta": "TypeScript · ★ 13,812 · 🍴 1,236 · 📈 437 stars today",
+      "meta": "TypeScript · ★ 13,820 · 🍴 1,236 · 📈 437 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管部署平台，把应用的构建与发布流程放在自己的服务器上运行，不依赖第三方托管服务。适合关注数据主权和长期成本、希望像用 Vercel 那样一键发布、又要求完全自主可控的团队与独立开发者。"
+      "summary": "自托管部署平台，让应用在你自己的服务器上完成构建、发布与运维，替代 Vercel、Netlify 一类托管方案的锁定。适合重视数据主权、需要私有化部署流程的团队和个人开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "averygan/reclip",
       "url": "https://github.com/averygan/reclip",
       "excerpt": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "meta": "HTML · ★ 10,085 · 🍴 1,536 · 📈 113 stars today",
+      "meta": "HTML · ★ 10,095 · 🍴 1,536 · 📈 113 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量级自托管媒体下载器，支持从几乎任意网站抓取视频，自带简洁的 Web 界面，部署在自己的服务器上即可使用。适合需要批量保存视频素材、又不想依赖第三方在线下载站点的用户和内容团队。"
+      "summary": "轻量级自托管媒体下载器，可从几乎所有网站抓取视频，附带简洁 Web 界面，部署在自己服务器上即可使用。适合需要批量保存在线视频、又在意隐私和可控性的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "cs341-illinois/coursebook",
       "url": "https://github.com/cs341-illinois/coursebook",
       "excerpt": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "meta": "TeX · ★ 3,092 · 🍴 275 · 📈 572 stars today",
+      "meta": "TeX · ★ 3,102 · 🍴 275 · 📈 572 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "伊利诺伊大学 CS341 课程开源的系统编程入门教材，讲解底层系统编程的核心概念与实践方法。面向计算机专业学生和自学系统方向的工程师，可作为操作系统、并发、内存管理等课程的配套阅读材料。"
+      "summary": "伊利诺伊大学 CS341 课程的开源系统编程入门教材，围绕 C 语言、内存管理、并发与底层系统概念展开讲解。适合高校师生作为课程参考，也适合自学者补足系统编程基础。"
     },
     {
       "sourceId": "github-trending",
       "title": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "excerpt": "Learn it. Build it. Ship it for others.",
-      "meta": "Python · ★ 61,346 · 🍴 10,528 · 📈 786 stars today",
+      "meta": "Python · ★ 61,364 · 🍴 10,531 · 📈 786 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套从零开始的 AI 工程学习资料，按「先学会、再动手构建、最后交付给别人用」的路径组织内容，帮助开发者把模型能力真正做成可上线的产品。适合想系统补齐 AI 工程实践能力的软件工程师。"
+      "summary": "从零开始学习 AI 工程的实践项目，强调边学边动手构建，并把成果交付给他人使用，覆盖 AI 应用开发的关键环节。适合希望以项目驱动方式系统掌握 AI 工程实践的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "excerpt": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "meta": "Python · ★ 37,343 · 🍴 3,262 · 📈 835 stars today",
+      "meta": "Python · ★ 37,371 · 🍴 3,262 · 📈 835 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 RAG 设计的文档索引方案，不用向量检索，而是靠推理方式定位文档中的相关内容，省去 embedding 与向量库带来的误差和运维成本。适合处理长文档、专业资料检索问答的开发者与知识库团队。"
+      "summary": "面向无向量检索的文档索引方案，用推理式 RAG 取代传统向量库，先构建文档层级结构，再让模型沿推理路径定位内容，提升长文档问答的准确性与可解释性。适合专业文档、报告类场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "willfaust/Madeira",
       "url": "https://github.com/willfaust/Madeira",
       "excerpt": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "meta": "C · ★ 1,094 · 🍴 188 · 📈 81 stars today",
+      "meta": "C · ★ 1,097 · 🍴 188 · 📈 81 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "在受限制的 iOS 设备上运行 x86-64 版 Windows PC 游戏：用 FEX-Emu 做指令翻译、Wine 提供 Windows 兼容层、DXMT 把 DirectX 转译为 Metal。面向想在 iPhone、iPad 上折腾 PC 游戏的玩家与模拟器爱好者。"
+      "summary": "在受限沙箱的 iOS 上运行 x86-64 Windows 游戏，组合 FEX-Emu 做指令翻译、Wine 提供 Windows API、DXMT 将 DirectX 转译为 Metal。适合想在 iPhone、iPad 上玩 PC 游戏的玩家尝试。"
     },
     {
       "sourceId": "github-trending",
       "title": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "excerpt": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "meta": "TypeScript · ★ 21,844 · 🍴 1,843 · 📈 696 stars today",
+      "meta": "TypeScript · ★ 21,851 · 🍴 1,843 · 📈 696 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI agent 的 Office 运行时，把电子表格、文档、幻灯片、画布、关系型表格和 PDF 统一在同一套引擎里，让 agent 可以直接读写和操作办公文件。适合在自家产品中嵌入在线表格，或让 agent 自动处理文档的开发者。"
+      "summary": "面向 AI agent 的 Office 运行时，将电子表格、文档、幻灯片、画布、关系型表格和 PDF 统一到同一套引擎中，agent 可直接读写与操作这些办公文件。适合开发 AI 办公助手与文档自动化产品的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "rakyll/hey",
       "url": "https://github.com/rakyll/hey",
       "excerpt": "HTTP load generator, ApacheBench (ab) replacement",
-      "meta": "Go · ★ 20,469 · 🍴 1,311 · 📈 34 stars today",
+      "meta": "Go · ★ 20,474 · 🍴 1,311 · 📈 34 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Go 编写的 HTTP 负载生成与压测工具，被视为 ApacheBench（ab）的现代替代品，支持设置并发数与请求总量，并输出 QPS、延迟分布等统计。适合后端工程师和 SRE 在接口上线前快速验证性能表现。"
+      "summary": "Go 编写的 HTTP 负载压测工具，作为 ApacheBench（ab）的替代品，支持并发请求、QPS 限速、延迟分布与状态码统计等。适合后端工程师和 SRE 对接口与服务做性能基准测试。"
     },
     {
       "sourceId": "hackernews",
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "excerpt": "752 points · 692 comments",
+      "excerpt": "763 points · 710 comments",
       "publishedAt": "2026-09-29T17:06:45.000Z",
       "category": "tech",
-      "score": 752,
-      "source": "Hacker News",
-      "summary": "OpenAI 发布 GPT 6.1 Sol，宣称以约五分之一的价格提供接近 Astra 级别的智能水平，帖子获 752 分、692 条评论。"
+      "score": 763,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Dots: Always-on agents",
       "url": "https://openai.com/index/introducing-dots/",
-      "excerpt": "449 points · 340 comments",
+      "excerpt": "456 points · 345 comments",
       "publishedAt": "2026-09-29T17:07:57.000Z",
       "category": "tech",
-      "score": 449,
-      "source": "Hacker News",
-      "summary": "OpenAI 推出 Dots，定位为常驻在线的 AI 智能体（always-on agents），帖子获 449 分、340 条评论。"
+      "score": 456,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "excerpt": "424 points · 248 comments",
+      "excerpt": "429 points · 249 comments",
       "publishedAt": "2026-09-29T12:43:29.000Z",
       "category": "tech",
-      "score": 424,
-      "source": "Hacker News",
-      "summary": "IEEE Spectrum 报道印度德里如何将电力损耗率从 50% 降至 5%，涉及电网改造与治理措施，帖获 424 分、248 条评论。"
+      "score": 429,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "excerpt": "406 points · 128 comments",
+      "excerpt": "407 points · 129 comments",
       "publishedAt": "2026-09-29T09:03:41.000Z",
       "category": "tech",
-      "score": 406,
-      "source": "Hacker News",
-      "summary": "一篇 PDF 论文分析网页端与移动端对话式 AI 智能体的隐私问题，考察其数据收集与追踪风险，帖获 406 分、128 条评论。"
+      "score": 407,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "America.gov",
       "url": "https://america.gov/",
-      "excerpt": "306 points · 247 comments",
+      "excerpt": "320 points · 258 comments",
       "publishedAt": "2026-09-29T14:04:57.000Z",
       "category": "tech",
-      "score": 306,
-      "source": "Hacker News",
-      "summary": "America.gov 这一网站链接在 HN 引发讨论，获 306 分、247 条评论，评论多围绕该站点的官方定位与用途展开。"
+      "score": 320,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
@@ -204,71 +199,66 @@
       "publishedAt": "2026-09-28T16:18:57.000Z",
       "category": "tech",
       "score": 257,
-      "source": "Hacker News",
-      "summary": "一篇技术文章介绍如何按叶序（phyllotaxis）几何排布制作音频响应的 LED 显示装置，帖获 257 分、43 条评论。"
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Tcl/Tk 9.1",
       "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "excerpt": "230 points · 78 comments",
+      "excerpt": "232 points · 80 comments",
       "publishedAt": "2026-09-29T17:13:38.000Z",
       "category": "tech",
-      "score": 230,
-      "source": "Hacker News",
-      "summary": "Tcl/Tk 发布 9.1 版本，官方网站给出下载与版本说明，帖子获 230 分、78 条评论，讨论围绕该脚本语言与 GUI 工具包的现状。"
+      "score": 232,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "PS5 Relapse Exploit",
       "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "excerpt": "223 points · 122 comments",
+      "excerpt": "224 points · 122 comments",
       "publishedAt": "2026-09-29T15:44:41.000Z",
       "category": "tech",
-      "score": 223,
-      "source": "Hacker News",
-      "summary": "GitHub 上出现 PS5 Relapse Exploit 项目，公开针对 PlayStation 5 的漏洞利用代码，帖获 223 分、122 条评论。"
+      "score": 224,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Jeeves. Reasoning improves Jev-like decision models",
       "url": "https://github.com/PostHog/jeeves",
-      "excerpt": "220 points · 85 comments",
+      "excerpt": "223 points · 85 comments",
       "publishedAt": "2026-09-29T11:13:54.000Z",
       "category": "tech",
-      "score": 220,
-      "source": "Hacker News",
-      "summary": "PostHog 开源项目 Jeeves，探索用推理能力改进类 Jev 决策模型，仓库帖获 220 分、85 条评论。"
+      "score": 223,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "A Staff Engineer's Guide to Inventing Work",
       "url": "https://sujithjay.com/inventing-work",
-      "excerpt": "176 points · 36 comments",
+      "excerpt": "178 points · 37 comments",
       "publishedAt": "2026-09-28T14:46:07.000Z",
       "category": "tech",
-      "score": 176,
-      "source": "Hacker News",
-      "summary": "一位资深工程师（Staff Engineer）撰写指南，讲述如何在组织内「发明工作」，即主动创造有价值的新项目，帖获 176 分、36 条评论。"
+      "score": 178,
+      "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
       "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "excerpt": "156 points · 84 comments",
+      "excerpt": "163 points · 86 comments",
       "publishedAt": "2026-09-29T19:30:17.000Z",
       "category": "tech",
-      "score": 156,
+      "score": 163,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "url": "https://github.com/ninjahawk/livenerf",
-      "excerpt": "120 points · 66 comments",
+      "excerpt": "147 points · 79 comments",
       "publishedAt": "2026-09-29T22:36:14.000Z",
       "category": "tech",
-      "score": 120,
+      "score": 147,
       "source": "Hacker News"
     },
     {
@@ -278,37 +268,37 @@
       "excerpt": "I&#x27;m plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi&#x2F;LitRPG goes, but entertaining enough. I&#x27;m also wrapping up Doctorow&#x27;s _Enshittification_, and I&#x27;m looking for something a little meaty to keep the brain working...",
       "publishedAt": "2026-09-29T13:44:43.000Z",
       "category": "tech",
-      "score": 120,
+      "score": 122,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "NAND-16: a computer built from 277,248 NAND gates",
       "url": "https://somethingbig.ai/computer",
-      "excerpt": "105 points · 55 comments",
+      "excerpt": "108 points · 56 comments",
       "publishedAt": "2026-09-27T21:26:06.000Z",
       "category": "tech",
-      "score": 105,
+      "score": 108,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
       "url": "https://space.bl2.net/",
-      "excerpt": "88 points · 24 comments",
+      "excerpt": "94 points · 25 comments",
       "publishedAt": "2026-09-29T19:08:01.000Z",
       "category": "tech",
-      "score": 88,
+      "score": 94,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Virus Stole a Human Gene and Won't Let Go of It",
       "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
-      "excerpt": "79 points · 28 comments",
+      "excerpt": "80 points · 31 comments",
       "publishedAt": "2026-09-28T20:07:14.000Z",
       "category": "tech",
-      "score": 79,
+      "score": 80,
       "source": "Hacker News"
     },
     {
@@ -318,67 +308,57 @@
       "excerpt": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX. NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one",
       "publishedAt": "2026-09-29T14:51:36.000Z",
       "category": "tech",
-      "score": 76,
+      "score": 78,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Backblaze drive stats for Q2 2026",
       "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "excerpt": "55 points · 4 comments",
+      "excerpt": "61 points · 7 comments",
       "publishedAt": "2026-09-29T13:34:20.000Z",
       "category": "tech",
-      "score": 55,
-      "source": "Hacker News"
-    },
-    {
-      "sourceId": "hackernews",
-      "title": "How our vibe coded website looks like a designer made it",
-      "url": "https://railcode.dev/blog/vibe-coded-website",
-      "excerpt": "46 points · 28 comments",
-      "publishedAt": "2026-09-29T22:59:28.000Z",
-      "category": "tech",
-      "score": 46,
+      "score": 61,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Vermont replacing power plants with home batteries",
       "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "excerpt": "43 points · 25 comments",
+      "excerpt": "58 points · 28 comments",
       "publishedAt": "2026-09-29T18:19:02.000Z",
       "category": "tech",
-      "score": 43,
+      "score": 58,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
-      "title": "Stuck in the Suez Canal – the short version (2021)",
-      "url": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
-      "excerpt": "36 points · 2 comments",
-      "publishedAt": "2026-09-27T12:17:39.000Z",
+      "title": "How our vibe coded website looks like a designer made it",
+      "url": "https://railcode.dev/blog/vibe-coded-website",
+      "excerpt": "50 points · 29 comments",
+      "publishedAt": "2026-09-29T22:59:28.000Z",
       "category": "tech",
-      "score": 36,
+      "score": 50,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "NASA asked several former SR-71A staffers to help secret restart",
       "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "excerpt": "31 points · 11 comments",
+      "excerpt": "44 points · 32 comments",
       "publishedAt": "2026-09-29T10:10:20.000Z",
       "category": "tech",
-      "score": 31,
+      "score": 44,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "We’re forgetting what darkness feels like",
       "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
-      "excerpt": "29 points · 18 comments",
+      "excerpt": "35 points · 28 comments",
       "publishedAt": "2026-09-29T18:22:40.000Z",
       "category": "tech",
-      "score": 29,
+      "score": 35,
       "source": "Hacker News"
     },
     {
@@ -388,57 +368,67 @@
       "excerpt": "I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work. I used Astra to build out the inner components through a combination of reference images, writing o",
       "publishedAt": "2026-09-29T17:15:56.000Z",
       "category": "tech",
-      "score": 21,
+      "score": 26,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Commodore 64: Mercenary",
       "url": "https://gamesexplained.com/c64/mercenary/",
-      "excerpt": "21 points · 4 comments",
+      "excerpt": "25 points · 5 comments",
       "publishedAt": "2026-09-26T19:00:46.000Z",
       "category": "tech",
-      "score": 21,
+      "score": 25,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Language models for text classification: From bag-of-words to Jev",
       "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "excerpt": "16 points · 0 comments",
+      "excerpt": "21 points · 0 comments",
       "publishedAt": "2026-09-29T11:06:25.000Z",
       "category": "tech",
-      "score": 16,
+      "score": 21,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "When oil prices spike, where does the money go?",
       "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
-      "excerpt": "15 points · 4 comments",
+      "excerpt": "21 points · 7 comments",
       "publishedAt": "2026-09-29T04:14:11.000Z",
       "category": "tech",
-      "score": 15,
+      "score": 21,
+      "source": "Hacker News"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Deser: Rethinking Rust Serialization",
+      "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+      "excerpt": "19 points · 6 comments",
+      "publishedAt": "2026-09-29T21:48:27.000Z",
+      "category": "tech",
+      "score": 19,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "Needed 1+1, built a functional programming language",
       "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-      "excerpt": "14 points · 1 comments",
+      "excerpt": "16 points · 2 comments",
       "publishedAt": "2026-09-29T16:18:26.000Z",
       "category": "tech",
-      "score": 14,
+      "score": 16,
       "source": "Hacker News"
     },
     {
       "sourceId": "hackernews",
       "title": "UnoDOS",
       "url": "https://github.com/hmofet/unodos",
-      "excerpt": "12 points · 7 comments",
+      "excerpt": "13 points · 7 comments",
       "publishedAt": "2026-09-29T22:10:23.000Z",
       "category": "tech",
-      "score": 12,
+      "score": 13,
       "source": "Hacker News"
     },
     {
@@ -448,7 +438,7 @@
       "excerpt": "This summer I got to intern on the backend of an AI agent and I noticed that it would run commands like tail -f or some random background jobs and exit without terminating any of these. I got curious and looked up how Claude Code handles stuff like this, and it turns out they have similar problems.T",
       "publishedAt": "2026-09-29T00:35:05.000Z",
       "category": "tech",
-      "score": 11,
+      "score": 12,
       "source": "Hacker News"
     },
     {
