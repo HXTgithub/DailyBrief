@@ -1,0 +1,53 @@
+{
+  "hero_headline": "AI 新模型密集发布，后量子迁移提速",
+  "daily_overview": "本期技术信号集中在三条线：一是 OpenAI 与 Anthropic 同周发布新模型，OpenAI DevDay 2026 同步举行，模型能力与价格竞争并行；二是 Cloudflare 一边用 AI 扫描代码库推进 2029 年后量子迁移，一边申请成为证书颁发机构；三是开源侧智能体基础设施升温，本地语音克隆与智能体安全运行时登上 GitHub 趋势榜，工程方法论讨论同步升温。",
+  "tech_briefs": [
+    {
+      "title": "OpenAI 与 Anthropic 新模型密集发布",
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "source": "Simon Willison",
+      "summary": "Simon Willison 记录 OpenAI DevDay 2026；同期 GPT 6.1 Sol 宣称以约五分之一价格提供接近 Astra 档位的智能，Claude Sonnet 5.5 亦已发布。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare 推进后量子迁移与自建 CA",
+      "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 推出内部 AI 工具 CryptoLabe，扫描代码库中的密码学依赖，目标 2029 年完成后量子迁移；同时宣布申请成为证书颁发机构，并以 Merkle 树证书压缩签名体积。（多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "开源 VoiceStudio：本地运行的语音克隆工具",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending",
+      "summary": "VoiceStudio 是可在本机部署的 ElevenLabs 替代品，支持 646 种语言的语音克隆、视频配音、听写、转录与有声书生成，音频数据不出本地，适合对隐私与调用成本敏感的团队。",
+      "importance": 7
+    },
+    {
+      "title": "NVIDIA 开源 OpenShell 智能体运行时",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending",
+      "summary": "OpenShell 定位为自主 AI 智能体的安全私有运行时，为智能体提供隔离执行环境与权限边界；在智能体批量接入企业流程的当下，运行时沙箱正成为落地前提。",
+      "importance": 7
+    },
+    {
+      "title": "阮一峰周刊：Shopify 放弃 React Native",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+      "source": "阮一峰的网络日志",
+      "summary": "科技爱好者周刊第 413 期记录 Shopify 宣布放弃 React Native，并汇总本周值得关注的开发工具与技术文章；周刊因中秋与十一假期将于下周五休刊一期。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "模型迭代、密码学基础设施与开源智能体工具同期推进，安全与成本构成共同主线；相关方案多在早期验证阶段，实际效果仍需观察。",
+  "keywords": [
+    "AI 模型发布",
+    "后量子加密",
+    "证书颁发机构",
+    "AI 智能体",
+    "语音克隆",
+    "开源工具",
+    "React Native"
+  ]
+}
