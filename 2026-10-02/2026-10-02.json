@@ -1,0 +1,54 @@
+{
+  "hero_headline": "Shopify 弃用 React Native，智能体基建成焦点",
+  "daily_overview": "当日技术信号集中在智能体基础设施与传统前端路线的双重调整。Cloudflare 开源决策模型 Clef 并开放托管智能体工作空间等候名单，NVIDIA 发布面向自主智能体的安全运行时 OpenShell，工具链正从模型层下沉到运行时与治理层。Shopify 宣布放弃 React Native，引发跨平台框架路线讨论；GitHub 分享弃用 CSS-in-JS 后的性能收益，业界同时争论编程智能体是否让软件工程变得更难。",
+  "tech_briefs": [
+    {
+      "title": "阮一峰周刊：Shopify 弃用 React Native",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+      "source": "阮一峰的网络日志",
+      "summary": "科技爱好者周刊第 413 期以再见了 React Native 为题，记录 Shopify 宣布放弃 React Native 的消息，并汇总当期值得关注的科技内容与开源项目。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 开源决策模型并推智能体工作空间",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 发布开源决策模型 Clef 与 Clef-flash，托管于 Workers AI，面向高速分类与智能体流程，并推出强化学习微调平台；同日开放托管版 Cloudflare OS 智能体工作空间的等候名单。",
+      "importance": 8
+    },
+    {
+      "title": "NVIDIA 开源 OpenShell：智能体安全运行时",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending",
+      "summary": "OpenShell 是 NVIDIA 开源的自主 AI 智能体运行时，主打安全与私有部署，为在受控环境中执行智能体任务提供基础组件，解决智能体直接访问系统带来的权限与隔离问题。",
+      "importance": 7
+    },
+    {
+      "title": "GitHub 工程：全面弃用 CSS-in-JS 提速",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 工程博客介绍如何将 github.com 从 CSS-in-JS 方案完整迁移出来，改为输出更多静态 CSS，以削减运行时样式计算开销并改善站点性能。",
+      "importance": 6
+    },
+    {
+      "title": "观点：编程智能体让软件工程更难",
+      "url": "https://martinfowler.com/fragments/2026-09-29.html",
+      "source": "Martin Fowler",
+      "summary": "Martin Fowler 站点收录 Simon Willison 的观点：与编程智能体协作时间越长，越认为它们让软件工程变得更难；能力虽强，但释放其价值依赖流程与协作方式的重新设计。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "智能体工具链正从模型能力竞争转向运行时、工作空间与安全治理，配套的权限隔离和工程流程问题开始浮出水面，落地节奏比演示更值得关注。",
+  "keywords": [
+    "AI 智能体",
+    "Cloudflare Clef",
+    "OpenShell",
+    "React Native",
+    "CSS-in-JS",
+    "软件工程",
+    "开源模型",
+    "GitHub 工程"
+  ]
+}
