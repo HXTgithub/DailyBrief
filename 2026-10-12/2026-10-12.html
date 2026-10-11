@@ -1,0 +1,1011 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日简报 · 2026-10-12</title>
+<style>
+  :root {
+    --bg: #F9FAFB;
+    --bg-elevated: #ffffff;
+    --fg: #1E2A3E;
+    --fg-soft: #4A5568;
+    --muted: #8B9CB0;
+    --rule: #EDF2F7;
+    --card: #F5F7FA;
+    --link: #6B9B6D;
+    --accent: #2D3748;
+    --accent-fg: #ffffff;
+    --rank-high-bg: #E6F0E8;
+    --rank-high-fg: #4A7C4F;
+    --rank-mid-bg: #FDF2E0;
+    --rank-mid-fg: #9A6B30;
+    --rank-low-bg: #E8EFF7;
+    --rank-low-fg: #4A6080;
+    --hero-grad-from: #F9FAFB;
+    --hero-grad-to: #F5F7FA;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0F1419;
+      --bg-elevated: #1A2027;
+      --fg: #E8ECF0;
+      --fg-soft: #B0BEC5;
+      --muted: #6B7D8B;
+      --rule: #263038;
+      --card: #1A2027;
+      --link: #8FBC94;
+      --accent: #D0D8E0;
+      --accent-fg: #0F1419;
+      --rank-high-bg: rgba(111,158,115,0.18);
+      --rank-high-fg: #8FBC94;
+      --rank-mid-bg: rgba(201,158,98,0.18);
+      --rank-mid-fg: #D4B87A;
+      --rank-low-bg: rgba(120,150,190,0.18);
+      --rank-low-fg: #96ADC8;
+      --hero-grad-from: #1A2027;
+      --hero-grad-to: #0F1419;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+      "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
+
+  /* ===== header ===== */
+  header.report-header { margin-bottom: 1.25rem; }
+  .eyebrow {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  h1.report-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0.4rem 0 1.2rem;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  .archive-link {
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--rule);
+    padding-bottom: 1px;
+  }
+  .archive-link:hover { color: var(--accent); border-bottom-style: solid; }
+  .hero-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--link);
+    padding: 1rem 1.4rem;
+    border-radius: 0.5rem;
+  }
+  .hero-eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .hero-headline {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0.35rem 0 0;
+    line-height: 1.45;
+    color: var(--fg);
+  }
+  .overview-card {
+    margin: 0.7rem 0 0;
+    padding: 0.7rem 1.1rem;
+    background: var(--bg-elevated);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--link);
+  }
+  .overview-card .eyebrow { display: block; margin-bottom: 0.3rem; }
+  .overview-text {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.75;
+    color: var(--fg-soft);
+  }
+
+  /* ===== primary tabs ===== */
+  .tabs {
+    display: flex;
+    gap: 0.25rem;
+    margin: 1.25rem 0 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    flex-wrap: wrap;
+  }
+  .tab {
+    background: none;
+    border: none;
+    padding: 0.7rem 1.1rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    font-family: inherit;
+    transition: color 0.15s;
+  }
+  .tab:hover { color: var(--fg); }
+  .tab.active {
+    color: var(--fg);
+    border-bottom-color: var(--accent);
+  }
+  .tab .count {
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  /* ===== digest (AI 简报) — compact ===== */
+  .digest-category { margin-bottom: 1.1rem; }
+  .category-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
+    margin: 0 0 0.55rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .category-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--fg);
+    margin: 0;
+    letter-spacing: 0.05em;
+  }
+  .category-count {
+    font-size: 0.7rem;
+    color: var(--muted);
+    background: var(--card);
+    padding: 0.12rem 0.45rem;
+    border-radius: 999px;
+  }
+  .brief-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  @media (min-width: 720px) {
+    .brief-list { grid-template-columns: 1fr 1fr; }
+  }
+  .brief {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.95rem;
+    transition: border-color 0.15s;
+  }
+  .brief:hover {
+    border-color: var(--link);
+  }
+  .brief-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.3rem;
+  }
+  .brief-source {
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+  }
+  .brief-rank {
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .brief-rank.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .brief-rank.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .brief-rank.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .brief-title {
+    font-size: 0.98rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem;
+    line-height: 1.35;
+  }
+  .brief-title a { color: var(--fg); text-decoration: none; }
+  .brief-title a:hover { color: var(--link); text-decoration: underline; }
+  .brief-summary {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.9rem;
+    line-height: 1.65;
+  }
+
+  .editor-card {
+    background: var(--bg-elevated);
+    border-left: 3px solid var(--link);
+    border-radius: 0.5rem;
+    padding: 1rem 1.3rem;
+    margin: 1.5rem 0 1.2rem;
+  }
+  .editor-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .editor-text {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    color: var(--fg-soft);
+  }
+  .keywords { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; }
+  .keyword {
+    background: var(--card);
+    color: var(--fg-soft);
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+  }
+
+  /* ===== L2 sub-tabs ===== */
+  .sub-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 1rem 0;
+  }
+  .sub-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1.05rem;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .sub-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .sub-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .sub-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .sub-content { display: none; }
+  .sub-content.active { display: block; }
+
+  /* ===== L3 source-tabs ===== */
+  .source-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.9rem 0 1.3rem;
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .source-tab {
+    background: none;
+    border: 1px solid var(--rule);
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    font-size: 0.83rem;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .source-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .source-tab.active {
+    background: var(--fg);
+    color: var(--bg);
+    border-color: var(--fg);
+  }
+  .source-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.3rem;
+  }
+  .source-content { display: none; }
+  .source-content.active { display: block; }
+
+  /* ===== article cards in raw panels ===== */
+  .article {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .article:first-child { padding-top: 0; }
+  .article:last-child { border-bottom: none; }
+  .article-title {
+    font-size: 1.05rem;
+    margin: 0 0 0.35rem;
+    font-weight: 600;
+    line-height: 1.45;
+  }
+  .article-title a { color: var(--fg); text-decoration: none; }
+  .article-title a:hover { color: var(--link); text-decoration: underline; }
+  .article-meta { color: var(--muted); font-size: 0.76rem; margin: 0 0 0.35rem; }
+  .article-stats {
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin: 0 0 0.4rem;
+    font-feature-settings: "tnum";
+  }
+  .article-heat {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+  .article-heat.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .article-heat.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .article-heat.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .article-excerpt {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.93rem;
+    line-height: 1.7;
+  }
+  .article-summary {
+    margin: 0.55rem 0 0;
+    padding: 0.65rem 0.9rem;
+    background: var(--card);
+    border-left: 2px solid var(--link);
+    border-radius: 0.3rem;
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: var(--fg-soft);
+  }
+  .summary-label {
+    display: inline-block;
+    font-size: 0.7rem;
+    color: var(--link);
+    margin-right: 0.4rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+  }
+
+  .empty {
+    color: var(--muted);
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 0.9rem;
+  }
+
+  /* ===== trading panel ===== */
+  .crypto-widgets {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.55rem;
+    margin: 0.4rem 0 1.2rem;
+  }
+  @media (min-width: 720px) {
+    .crypto-widgets { grid-template-columns: repeat(4, 1fr); }
+  }
+  .crypto-widget {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.85rem;
+    text-align: center;
+  }
+  .widget-label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.3rem;
+  }
+  .widget-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--fg);
+    line-height: 1.1;
+  }
+  .widget-sub {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+  }
+  .widget-sub.positive { color: #16a34a; }
+  .widget-sub.negative { color: #dc2626; }
+  @media (prefers-color-scheme: dark) {
+    .widget-sub.positive { color: #4ade80; }
+    .widget-sub.negative { color: #fca5a5; }
+  }
+  .crypto-widget.fg-fear-extreme { border-left: 4px solid #b91c1c; }
+  .crypto-widget.fg-fear-extreme .widget-value { color: #b91c1c; }
+  .crypto-widget.fg-fear { border-left: 4px solid #d97706; }
+  .crypto-widget.fg-fear .widget-value { color: #d97706; }
+  .crypto-widget.fg-neutral { border-left: 4px solid var(--muted); }
+  .crypto-widget.fg-greed { border-left: 4px solid #65a30d; }
+  .crypto-widget.fg-greed .widget-value { color: #65a30d; }
+  .crypto-widget.fg-greed-extreme { border-left: 4px solid #16a34a; }
+  .crypto-widget.fg-greed-extreme .widget-value { color: #16a34a; }
+  @media (prefers-color-scheme: dark) {
+    .crypto-widget.fg-fear-extreme .widget-value,
+    .crypto-widget.fg-fear .widget-value { color: #fca5a5; }
+    .crypto-widget.fg-greed .widget-value,
+    .crypto-widget.fg-greed-extreme .widget-value { color: #4ade80; }
+  }
+
+  .trading-overview-card {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.3rem;
+    background: var(--bg-elevated);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--link);
+  }
+  .trading-overview-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .trading-overview-text { font-size: 0.92rem; line-height: 1.75; color: var(--fg-soft); margin: 0; }
+
+  .trading-section-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 1.5rem 0 0.8rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--rule);
+    color: var(--fg);
+    letter-spacing: 0.05em;
+  }
+
+  /* picks (Sonnet's watchlist) */
+  .trading-picks {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
+  @media (min-width: 720px) {
+    .trading-picks { grid-template-columns: 1fr 1fr; }
+  }
+  .trading-pick {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--muted);
+    border-radius: 0.5rem;
+    padding: 0.8rem 1rem;
+  }
+  .trading-pick.stance-bull { border-left-color: #16a34a; }
+  .trading-pick.stance-bear { border-left-color: #dc2626; }
+  .trading-pick.stance-neutral { border-left-color: var(--muted); }
+  .pick-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.45rem;
+  }
+  .pick-symbol-block {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .pick-symbol { font-weight: 700; font-size: 1rem; color: var(--fg); }
+  .pick-name { color: var(--muted); font-size: 0.82rem; }
+  .pick-stance {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .pick-stance-bull { background: rgba(22,163,74,0.12); color: #16a34a; }
+  .pick-stance-bear { background: rgba(220,38,38,0.12); color: #dc2626; }
+  .pick-stance-neutral { background: var(--card); color: var(--muted); }
+  .pick-rationale { margin: 0; font-size: 0.88rem; line-height: 1.65; color: var(--fg-soft); }
+
+  /* asset-group tabs */
+  .trading-group-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.6rem 0 1.2rem;
+  }
+  .trading-group-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .trading-group-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .trading-group-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .trading-group-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .trading-group-content { display: none; }
+  .trading-group-content.active { display: block; }
+
+  /* ticker cards */
+  .ticker-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.55rem;
+    padding: 0.85rem 1.1rem;
+    margin-bottom: 0.7rem;
+  }
+  .ticker-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.65rem;
+  }
+  .ticker-id { min-width: 0; }
+  .ticker-symbol { margin: 0; font-size: 1rem; font-weight: 700; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; }
+  .ticker-name { margin: 0.15rem 0 0; font-size: 0.82rem; color: var(--muted); }
+  .ticker-price-block { text-align: right; flex-shrink: 0; }
+  .ticker-price { display: block; font-size: 1.05rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .ticker-pct { display: inline-block; font-size: 0.82rem; font-weight: 500; margin-top: 0.15rem; font-variant-numeric: tabular-nums; }
+  .ticker-pct.positive, .positive { color: #16a34a; }
+  .ticker-pct.negative, .negative { color: #dc2626; }
+
+  .ticker-indicators {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.35rem 0.9rem;
+    margin: 0;
+    font-size: 0.82rem;
+    color: var(--fg-soft);
+  }
+  @media (min-width: 720px) {
+    .ticker-indicators { grid-template-columns: repeat(3, 1fr); }
+  }
+  .ticker-indicators > div { display: flex; gap: 0.4rem; align-items: baseline; min-width: 0; }
+  .ticker-indicators dt { color: var(--muted); font-size: 0.74rem; margin: 0; white-space: nowrap; }
+  .ticker-indicators dd { margin: 0; font-variant-numeric: tabular-nums; font-weight: 500; color: var(--fg); }
+  .trend-bullish { color: #16a34a; }
+  .trend-bearish { color: #dc2626; }
+  .trend-neutral { color: var(--muted); }
+  .rsi-overbought { color: #d97706; }
+  .rsi-oversold { color: #2563eb; }
+
+  .ticker-signals {
+    margin-top: 0.65rem;
+    padding-top: 0.55rem;
+    border-top: 1px dashed var(--rule);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .signal-pill {
+    font-size: 0.72rem;
+    padding: 0.18rem 0.55rem;
+    border-radius: 999px;
+    font-weight: 500;
+  }
+  .signal-pill.tone-bull { background: rgba(22,163,74,0.13); color: #166534; }
+  .signal-pill.tone-bear { background: rgba(220,38,38,0.13); color: #991b1b; }
+  .signal-pill.tone-caution { background: rgba(217,119,6,0.15); color: #92400e; }
+  @media (prefers-color-scheme: dark) {
+    .signal-pill.tone-bull { color: #4ade80; }
+    .signal-pill.tone-bear { color: #fca5a5; }
+    .signal-pill.tone-caution { color: #fcd34d; }
+    .trend-bullish, .positive, .ticker-pct.positive { color: #4ade80; }
+    .trend-bearish, .negative, .ticker-pct.negative { color: #fca5a5; }
+    .rsi-overbought { color: #fcd34d; }
+    .rsi-oversold { color: #93c5fd; }
+    .trading-pick.stance-bull { border-left-color: #4ade80; }
+    .trading-pick.stance-bear { border-left-color: #fca5a5; }
+    .pick-stance-bull { background: rgba(74,222,128,0.15); color: #4ade80; }
+    .pick-stance-bear { background: rgba(252,165,165,0.15); color: #fca5a5; }
+  }
+  .signal-age { opacity: 0.7; font-weight: 400; }
+
+  .trading-risk {
+    margin: 1.5rem 0 0;
+    padding: 0.9rem 1.2rem;
+    background: var(--card);
+    border-radius: 0.45rem;
+    border-left: 3px solid #d97706;
+  }
+  .trading-risk .eyebrow { display: block; margin-bottom: 0.35rem; }
+  .trading-risk p { margin: 0; font-size: 0.82rem; line-height: 1.65; color: var(--fg-soft); }
+
+  footer {
+    margin-top: 2.5rem;
+    border-top: 1px solid var(--rule);
+    padding-top: 1.1rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+</style>
+</head>
+<body>
+<main>
+  <header class="report-header">
+    <span class="eyebrow">每日简报</span>
+    <h1 class="report-title">2026-10-12</h1>
+    <a class="archive-link" href="../archive.html">← 历史归档</a>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="tech">技术动态<span class="count">8</span></button>
+    
+    
+    
+    <button class="tab" data-tab="community">社区讨论<span class="count">30</span></button>
+  </nav>
+
+  <section class="panel active" data-panel="tech">
+    <div class="sub-content active" data-sub-content="github-trending" data-cat="tech">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="github-trending" data-sub="github-trending" data-cat="tech">
+    <article class="article">
+  <h3 class="article-title"><a href="https://github.com/morluto/rea" target="_blank" rel="noopener noreferrer">morluto/rea</a></h3>
+  <p class="article-stats">TypeScript · ★ 103,262 · 🍴 22,646 · 📈 25,585 stars today</p>
+  
+  <p class="article-excerpt">Reverse engineer anything with agents, from app behavior down to native binaries.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> rea 用 AI agent 驱动逆向工程流程，覆盖从应用层行为分析到底层原生二进制拆解。用户以自然语言编排 agent，逐步定位程序逻辑、协议与实现细节。适合安全研究员和二进制逆向工程师，用于恶意软件分析、协议还原与闭源软件研究。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/boykopovar/AnyPS5" target="_blank" rel="noopener noreferrer">boykopovar/AnyPS5</a></h3>
+  <p class="article-stats">C++ · ★ 30,036 · 🍴 2,580 · 📈 3,977 stars today</p>
+  
+  <p class="article-excerpt">Tool for automatic PS5 executables porting to Linux and Windows</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> AnyPS5 是自动把 PS5 可执行文件移植到 Linux 和 Windows 的工具，通过解析 PS5 平台的二进制格式与系统调用，转译为 PC 上可运行的版本。面向模拟器开发者、逆向爱好者，以及想在普通电脑上体验 PS5 游戏内容的用户，减少手动移植成本。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/storytold/artcraft" target="_blank" rel="noopener noreferrer">storytold/artcraft</a></h3>
+  <p class="article-stats">Rust · ★ 17,799 · 🍴 2,914 · 📈 2,956 stars today</p>
+  
+  <p class="article-excerpt">ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> ArtCraft 是面向艺术家、设计师和电影人的创作引擎，主打“有意为之”的创作流程，让创作者在生成与制作中保持对细节和方向的掌控，而非依赖随机出图。适合视觉开发、概念设计与影视前期制作等需要可复现工作流的场景。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/cathrynlavery/diagram-design" target="_blank" rel="noopener noreferrer">cathrynlavery/diagram-design</a></h3>
+  <p class="article-stats">HTML · ★ 50,299 · 🍴 3,196 · 📈 1,083 stars today</p>
+  
+  <p class="article-excerpt">Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 为 Claude Code、Codex、GitHub Copilot、Cursor 等 AI 编码工具提供编辑级图表设计规范：覆盖 44 种图表类型，输出自包含的 HTML + SVG，无阴影装饰，避免 Mermaid 那种模板化观感。适合需要把高质量图表直接写进文档和网页的开发者与设计师。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank" rel="noopener noreferrer">bilawalsidhu/gods-eye-view</a></h3>
+  <p class="article-stats">JavaScript · ★ 51,629 · 🍴 10,370 · 📈 872 stars today</p>
+  
+  <p class="article-excerpt">A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> god&#39;s-eye-view 把浏览器变成间谍卫星模拟器，但数据全部真实来自开源渠道：在逼真 3D 地球上叠加实时空间情报，可查看卫星轨迹与地理信息。面向开源情报（OSINT）研究者、地理数据爱好者，以及想直观了解全球空间态势的用户。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/pytorch/pytorch" target="_blank" rel="noopener noreferrer">pytorch/pytorch</a></h3>
+  <p class="article-stats">Python · ★ 104,471 · 🍴 32,112 · 📈 314 stars today</p>
+  
+  <p class="article-excerpt">Tensors and Dynamic neural networks in Python with strong GPU acceleration</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> PyTorch 是主流开源深度学习框架，以 Python 张量和动态计算图为核心，提供强大的 GPU 加速能力。相比静态图方案更易调试，广泛用于学术研究与工业界的神经网络训练和部署，是当前 AI 模型开发的基础设施之一。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/lyogavin/airllm" target="_blank" rel="noopener noreferrer">lyogavin/airllm</a></h3>
+  <p class="article-stats">Jupyter Notebook · ★ 36,456 · 🍴 3,817 · 📈 541 stars today</p>
+  
+  <p class="article-excerpt">AirLLM 70B inference with single 4GB GPU</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> AirLLM 通过分层加载与推理优化，让 70B 参数的大模型仅靠单张 4GB 显存 GPU 就能运行，无需多卡并行或极致量化牺牲效果。适合显存受限的个人开发者与研究者，在本地完成超大模型的推理与实验。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/chrislgarry/Apollo-11" target="_blank" rel="noopener noreferrer">chrislgarry/Apollo-11</a></h3>
+  <p class="article-stats">Assembly · ★ 74,233 · 🍴 8,099 · 📈 581 stars today</p>
+  
+  <p class="article-excerpt">Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 该仓库收录阿波罗 11 号制导计算机（AGC）指挥舱与登月舱的原始汇编源码，由 Margaret Hamilton 团队编写。对航天史爱好者、复古计算机与嵌入式开发者而言，是研究早期实时系统、容错设计和手写汇编的珍贵资料。</p>
+</article>
+  </div>
+    </div>
+  </div>
+  </section>
+  
+  
+  
+  <section class="panel" data-panel="community">
+    <div class="sub-content active" data-sub-content="overseas-community" data-cat="tech">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="hackernews" data-sub="overseas-community" data-cat="tech">
+    <article class="article">
+  <h3 class="article-title"><a href="https://ircv3.net/" target="_blank" rel="noopener noreferrer">IRCv3</a><span class="article-heat high">▲ 337</span></h3>
+  
+  <p class="article-meta">10/11 18:11</p>
+  <p class="article-excerpt">337 points · 288 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> IRCv3 是 IRC 聊天协议的现代化扩展规范集合，为这一历史悠久的老协议补充新特性；HN 上相关讨论达 288 条。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://nanolathe.gg" target="_blank" rel="noopener noreferrer">Total Annihilation, rebuilt for modern computers</a><span class="article-heat high">▲ 317</span></h3>
+  
+  <p class="article-meta">10/12 02:04</p>
+  <p class="article-excerpt">317 points · 135 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> nanolathe.gg 把 1997 年的经典即时战略游戏《横扫千军》（Total Annihilation）重制，使其能在现代电脑上运行，获 317 分。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.nyc.gov/main/click-to-cancel" target="_blank" rel="noopener noreferrer">NYC&#39;s &quot;Click to Cancel&quot; rule is now in effect</a><span class="article-heat high">▲ 313</span></h3>
+  
+  <p class="article-meta">10/12 02:01</p>
+  <p class="article-excerpt">313 points · 149 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 纽约市「一键取消」（Click to Cancel）规定正式生效，要求商家提供与订阅同样简便的退订渠道。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf" target="_blank" rel="noopener noreferrer">Terence Tao: Math 2.0 [pdf]</a><span class="article-heat high">▲ 297</span></h3>
+  
+  <p class="article-meta">10/11 21:16</p>
+  <p class="article-excerpt">297 points · 355 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 陶哲轩在 Caltech 的演讲幻灯片《Math 2.0》，探讨 AI 等计算工具如何改变数学研究的方式，附带 PDF 原文。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://theonion.com/archivehunt/" target="_blank" rel="noopener noreferrer">So, You’d Like To Sell Your Print Issues Of The Onion?</a><span class="article-heat high">▲ 223</span></h3>
+  
+  <p class="article-meta">10/12 03:43</p>
+  <p class="article-excerpt">223 points · 29 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 讽刺媒体《洋葱报》（The Onion）开设页面，向读者征集并收购其收藏的早期纸质印刷版刊物。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/" target="_blank" rel="noopener noreferrer">The tilde in your PATH may not be your HOME</a><span class="article-heat high">▲ 201</span></h3>
+  
+  <p class="article-meta">10/11 20:13</p>
+  <p class="article-excerpt">201 points · 140 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 技术文章指出 PATH 环境变量里的波浪号 ~ 并不总等于你的 HOME 目录，并解释其原因与可能踩到的坑。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://twitter.com/karpathy/status/2109361546505966046" target="_blank" rel="noopener noreferrer">The gap in shared understanding of LLM capability is widening</a><span class="article-heat high">▲ 181</span></h3>
+  
+  <p class="article-meta">10/12 04:20</p>
+  <p class="article-excerpt">181 points · 267 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Karpathy 发推称，人们对大语言模型能力的共同认知正在分化、差距不断拉大，引发 267 条评论讨论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://cartographers-nk.wonyoung.so/" target="_blank" rel="noopener noreferrer">Cartographers of North Korea</a><span class="article-heat high">▲ 153</span></h3>
+  
+  <p class="article-meta">10/12 03:46</p>
+  <p class="article-excerpt">153 points · 27 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 《Cartographers of North Korea》是一个交互式视觉项目，从制图与图像角度呈现朝鲜的地图面貌。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them" target="_blank" rel="noopener noreferrer">Passkeys are a trap. Do not use them</a><span class="article-heat high">▲ 146</span></h3>
+  
+  <p class="article-meta">10/12 05:59</p>
+  <p class="article-excerpt">146 points · 70 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 一篇 Substack 文章称 Passkeys 是个陷阱、建议不要使用，观点引发 70 条评论的争论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://betterwispr.com/" target="_blank" rel="noopener noreferrer">Show HN: BetterWispr – Free, open-source dictation for Mac</a><span class="article-heat high">▲ 140</span></h3>
+  
+  <p class="article-meta">10/11 20:01</p>
+  <p class="article-excerpt">140 points · 89 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Show HN：BetterWispr 是一款面向 Mac 的免费开源听写工具，可把语音转为文字，社区讨论 89 条。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://momo5502.com/posts/2026-10-09-game-decompilation/" target="_blank" rel="noopener noreferrer">500B tokens later: Letting AI agents decompile a first-person shooter</a><span class="article-heat high">▲ 136</span></h3>
+  
+  <p class="article-meta">10/11 10:02</p>
+  <p class="article-excerpt">136 points · 103 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://verdagon.dev/blog/valen-group-borrowing" target="_blank" rel="noopener noreferrer">Valen&#39;s Memory Safety: A New Kind of Borrow Checking</a><span class="article-heat high">▲ 130</span></h3>
+  
+  <p class="article-meta">10/11 20:06</p>
+  <p class="article-excerpt">130 points · 80 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963" target="_blank" rel="noopener noreferrer">A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her</a><span class="article-heat high">▲ 113</span></h3>
+  
+  <p class="article-meta">10/12 05:07</p>
+  <p class="article-excerpt">113 points · 72 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/" target="_blank" rel="noopener noreferrer">How I reverse engineered a commercial spatial audio effect</a><span class="article-heat mid">▲ 88</span></h3>
+  
+  <p class="article-meta">10/11 23:21</p>
+  <p class="article-excerpt">88 points · 31 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.ways-of-seeing.com/ch1" target="_blank" rel="noopener noreferrer">Chapter 1 of Ways of Seeing by John Berger</a><span class="article-heat mid">▲ 63</span></h3>
+  
+  <p class="article-meta">10/12 02:26</p>
+  <p class="article-excerpt">63 points · 10 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now" target="_blank" rel="noopener noreferrer">I guess I&#39;m using WebP now?</a><span class="article-heat mid">▲ 57</span></h3>
+  
+  <p class="article-meta">10/09 23:32</p>
+  <p class="article-excerpt">57 points · 62 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/rogerbinns/apsw" target="_blank" rel="noopener noreferrer">apsw: Another Python SQLite Wrapper</a><span class="article-heat mid">▲ 51</span></h3>
+  
+  <p class="article-meta">10/12 00:58</p>
+  <p class="article-excerpt">51 points · 13 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.playgrnd.tools/" target="_blank" rel="noopener noreferrer">Playgrnd – tiny tools for making weird, beautiful things</a><span class="article-heat mid">▲ 49</span></h3>
+  
+  <p class="article-meta">10/12 00:31</p>
+  <p class="article-excerpt">49 points · 9 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://blog.kammel.dev/post/nixos_vex/" target="_blank" rel="noopener noreferrer">The Unreasonable Effectiveness of Vex in NixOS</a><span class="article-heat mid">▲ 43</span></h3>
+  
+  <p class="article-meta">10/12 03:23</p>
+  <p class="article-excerpt">43 points · 1 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment" target="_blank" rel="noopener noreferrer">Google is illegaly cutting forest to build data centers</a><span class="article-heat mid">▲ 42</span></h3>
+  
+  <p class="article-meta">10/12 06:33</p>
+  <p class="article-excerpt">42 points · 6 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://pub.sakana.ai/mass/" target="_blank" rel="noopener noreferrer">Recursive self-improvement through collective intelligence</a><span class="article-heat low">▲ 29</span></h3>
+  
+  <p class="article-meta">10/12 06:22</p>
+  <p class="article-excerpt">29 points · 4 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://datacenters.google/locations/" target="_blank" rel="noopener noreferrer">Google Data Centers around the world</a><span class="article-heat low">▲ 28</span></h3>
+  
+  <p class="article-meta">10/12 06:45</p>
+  <p class="article-excerpt">28 points · 15 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://royfish.dev/fingerprints-are-the-new-cookies" target="_blank" rel="noopener noreferrer">Fingerprints Are the New Cookies</a><span class="article-heat low">▲ 23</span></h3>
+  
+  <p class="article-meta">10/12 06:33</p>
+  <p class="article-excerpt">23 points · 6 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/" target="_blank" rel="noopener noreferrer">Safe SIMD in Rust, even on the inside</a><span class="article-heat low">▲ 21</span></h3>
+  
+  <p class="article-meta">10/10 22:56</p>
+  <p class="article-excerpt">21 points · 1 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://tommyb3ll.github.io/FlowCE/" target="_blank" rel="noopener noreferrer">FlowCE: Calculus on your TI-84 Plus CE</a><span class="article-heat low">▲ 21</span></h3>
+  
+  <p class="article-meta">10/10 22:43</p>
+  <p class="article-excerpt">21 points · 6 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/clainstone/cbirds" target="_blank" rel="noopener noreferrer">Cbirds: A flock of birds in your terminal</a><span class="article-heat low">▲ 16</span></h3>
+  
+  <p class="article-meta">10/11 03:02</p>
+  <p class="article-excerpt">16 points · 9 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://news.ycombinator.com/item?id=50039291" target="_blank" rel="noopener noreferrer">Ask HN: Do you want a router that has DD-WRT pre-installed?</a><span class="article-heat low">▲ 5</span></h3>
+  
+  <p class="article-meta">10/11 10:37</p>
+  <p class="article-excerpt">I sometimes run across comments where someone says they want an open-source router. I wonder if this is a viable idea for someone to start as a small company. What makes me hesitant is that, first, it looks like this already exists in several wireless and non-wireless routers (like the GL.iNet Flint</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.americanscientist.org/article/whatever-became-of-holography" target="_blank" rel="noopener noreferrer">Whatever became of holography? (2011)</a><span class="article-heat low">▲ 4</span></h3>
+  
+  <p class="article-meta">10/12 07:50</p>
+  <p class="article-excerpt">4 points · 0 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/julianjohnson-web/julianflux-research" target="_blank" rel="noopener noreferrer">JulianFlux: Electrodynamic vector retrieval and causal routing for AI</a><span class="article-heat low">▲ 4</span></h3>
+  
+  <p class="article-meta">10/12 06:39</p>
+  <p class="article-excerpt">4 points · 0 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://jobs.ashbyhq.com/weave-os" target="_blank" rel="noopener noreferrer">Weave (YC W25) is hiring ML, AI, product, &amp; design engineers</a><span class="article-heat low">▲ 1</span></h3>
+  
+  <p class="article-meta">10/11 20:01</p>
+  <p class="article-excerpt">1 points · 0 comments</p>
+  
+</article>
+  </div>
+    </div>
+  </div>
+  </section>
+
+  <footer>
+    内容均来自原媒体，本站仅作摘要整理与回链。
+  </footer>
+</main>
+<script>
+  document.querySelectorAll('.tabs > .tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var target = btn.dataset.tab;
+      document.querySelectorAll('.tabs > .tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.panel').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.panel === target);
+      });
+    });
+  });
+  // Scope sub-tab / source-tab toggles to the parent .panel so two L1 panels
+  // can share the same data-cat (e.g. tech main + community both data-cat=tech)
+  // without stomping on each other's active state.
+  document.querySelectorAll('.sub-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var panel = btn.closest('.panel');
+      if (!panel) return;
+      var sub = btn.dataset.sub;
+      panel.querySelectorAll('.sub-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      panel.querySelectorAll('.sub-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.subContent === sub);
+      });
+    });
+  });
+  document.querySelectorAll('.source-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var subContent = btn.closest('.sub-content');
+      if (!subContent) return;
+      var src = btn.dataset.source;
+      subContent.querySelectorAll('.source-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      subContent.querySelectorAll('.source-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.sourceContent === src);
+      });
+    });
+  });
+  // Trading panel: asset-group sub-tabs (US/crypto/china/commodity)
+  document.querySelectorAll('.trading-group-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var grp = btn.dataset.group;
+      document.querySelectorAll('.trading-group-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.trading-group-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.group === grp);
+      });
+    });
+  });
+</script>
+</body>
+</html>

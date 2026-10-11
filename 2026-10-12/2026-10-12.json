@@ -1,0 +1,53 @@
+{
+  "hero_headline": "Deno 团队加入 Cloudflare，边缘运行时加速整合",
+  "daily_overview": "当日技术焦点在云平台与开发工具链。Cloudflare 宣布 Deno 团队加入，拟把 Workers 与 Durable Objects 的运行时原语延伸到自托管场景，并发布全模态模型 Clef-omni、下调 Clef-flash 价格。GitHub 着手重建 Git 基础设施，为 agent 规模开发铺路。开源社区则出现以 agent 驱动二进制逆向、以及移植 PS5 可执行文件到桌面平台的新工具。",
+  "tech_briefs": [
+    {
+      "title": "Deno 团队加入 Cloudflare，简化自托管 Workers",
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 宣布 Deno 团队加入，目标是把 Workers 与 Durable Objects 的自托管体验大幅简化，让开发者在更多环境中使用同一套运行时原语，降低边缘运行时的迁移成本。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare 发布全模态模型 Clef-omni",
+      "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+      "source": "Cloudflare Blog",
+      "summary": "Clef 决策模型家族新增 Clef-omni，可在同一条流水线内原生处理音频、视频、图像与文本；同时 Clef-flash 价格下调，Clef 推理速度提升。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub 重建 Git 基础设施，面向 agent 规模开发",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 在服务不中断的前提下重建底层 Git 基础设施，为大量自动化 agent 并发读写代码仓库做准备，目标是支撑 agent 规模的软件开发负载。",
+      "importance": 8
+    },
+    {
+      "title": "开源工具 rea：用 agent 逆向二进制程序",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub Trending",
+      "summary": "rea 是 GitHub Trending 上的逆向工程工具，用 agent 从应用运行行为逐层分析到原生二进制，把原本高度依赖人工的二进制分析流程自动化，可减少安全研究与遗留系统排查中重复的手工劳动。",
+      "importance": 6
+    },
+    {
+      "title": "AnyPS5：自动移植 PS5 程序到桌面平台",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "source": "GitHub Trending",
+      "summary": "AnyPS5 提供把 PS5 可执行文件自动移植到 Linux 与 Windows 的工具，意在降低主机程序在桌面平台运行的门槛，实际效果仍取决于兼容层与具体程序的适配情况。",
+      "importance": 5
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "几条消息指向同一方向：平台正把运行时、模型与代码基础设施打包供给，开发者上手更快，但对其依赖也在同步加深。",
+  "keywords": [
+    "Deno",
+    "Cloudflare",
+    "Clef-omni",
+    "GitHub",
+    "agent",
+    "GitHub Trending",
+    "二进制逆向"
+  ]
+}
