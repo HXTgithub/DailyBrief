@@ -1,0 +1,53 @@
+{
+  "hero_headline": "Deno 并入 Cloudflare，边缘运行时提速",
+  "daily_overview": "本期技术焦点落在边缘平台与 AI 代理基础设施。Deno 团队宣布加入 Cloudflare，将以同一套原语简化 Workers 与 Durable Objects 的自托管路径；Cloudflare 同时扩充 Clef 决策模型家族，新增原生处理音频、视频、图像与文本的 Clef-omni，并下调 Clef-flash 价格。GitHub 正于服务运行中重建 Git 底层设施，为代理规模开发铺路。开源社区则密集出现面向编码代理的上下文优化与逆向工程项目。",
+  "tech_briefs": [
+    {
+      "title": "Deno 团队加入 Cloudflare，简化自托管",
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 宣布 Deno 团队加入，目标是以同一套原语简化 Workers 与 Durable Objects 的自托管，让开发者在更多环境复用现有基础设施。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "Cloudflare 推出全模态模型 Clef-omni",
+      "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 扩充 Clef 决策模型家族，Clef-omni 在单一流水线中原生处理音频、视频、图像与文本；官方同时下调 Clef-flash 定价并提升 Clef 推理性能。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub 重建 Git 底层，面向代理规模开发",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 在不中断现有服务的前提下重构 Git 基础设施，为大规模 AI 代理参与的软件开发提供底层支撑，工程思路与架构取舍已在官方博客披露。",
+      "importance": 8
+    },
+    {
+      "title": "context-mode：压缩编码代理的上下文占用",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending",
+      "summary": "面向 AI 编码代理的上下文优化工具：用沙箱隔离工具输出可减少约 98% 的上下文占用，并借 MCP 与钩子在 17 个平台上持久化会话记忆、统一路由。",
+      "importance": 7
+    },
+    {
+      "title": "HelloGitHub 第 126 期开源月刊发布",
+      "url": "https://hellogithub.com/periodical/volume/126",
+      "source": "HelloGitHub 月刊",
+      "summary": "本期收录 39 个开源项目，覆盖 C、C#、C++、Go、JavaScript、Python、Rust、Swift 及人工智能等方向，其中人工智能与 Skills 类项目各占四到五个。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "平台并购与模型迭代同步推进，工具链竞争的重心正从模型能力本身，转向上下文管理与运行时效率这类工程细节。",
+  "keywords": [
+    "Deno",
+    "Cloudflare",
+    "Clef-omni",
+    "AI 编码代理",
+    "GitHub",
+    "上下文窗口",
+    "边缘计算"
+  ]
+}
