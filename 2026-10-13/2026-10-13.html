@@ -1,0 +1,1018 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日简报 · 2026-10-13</title>
+<style>
+  :root {
+    --bg: #F9FAFB;
+    --bg-elevated: #ffffff;
+    --fg: #1E2A3E;
+    --fg-soft: #4A5568;
+    --muted: #8B9CB0;
+    --rule: #EDF2F7;
+    --card: #F5F7FA;
+    --link: #6B9B6D;
+    --accent: #2D3748;
+    --accent-fg: #ffffff;
+    --rank-high-bg: #E6F0E8;
+    --rank-high-fg: #4A7C4F;
+    --rank-mid-bg: #FDF2E0;
+    --rank-mid-fg: #9A6B30;
+    --rank-low-bg: #E8EFF7;
+    --rank-low-fg: #4A6080;
+    --hero-grad-from: #F9FAFB;
+    --hero-grad-to: #F5F7FA;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0F1419;
+      --bg-elevated: #1A2027;
+      --fg: #E8ECF0;
+      --fg-soft: #B0BEC5;
+      --muted: #6B7D8B;
+      --rule: #263038;
+      --card: #1A2027;
+      --link: #8FBC94;
+      --accent: #D0D8E0;
+      --accent-fg: #0F1419;
+      --rank-high-bg: rgba(111,158,115,0.18);
+      --rank-high-fg: #8FBC94;
+      --rank-mid-bg: rgba(201,158,98,0.18);
+      --rank-mid-fg: #D4B87A;
+      --rank-low-bg: rgba(120,150,190,0.18);
+      --rank-low-fg: #96ADC8;
+      --hero-grad-from: #1A2027;
+      --hero-grad-to: #0F1419;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+      "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
+
+  /* ===== header ===== */
+  header.report-header { margin-bottom: 1.25rem; }
+  .eyebrow {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  h1.report-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0.4rem 0 1.2rem;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  .archive-link {
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--rule);
+    padding-bottom: 1px;
+  }
+  .archive-link:hover { color: var(--accent); border-bottom-style: solid; }
+  .hero-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--link);
+    padding: 1rem 1.4rem;
+    border-radius: 0.5rem;
+  }
+  .hero-eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .hero-headline {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0.35rem 0 0;
+    line-height: 1.45;
+    color: var(--fg);
+  }
+  .overview-card {
+    margin: 0.7rem 0 0;
+    padding: 0.7rem 1.1rem;
+    background: var(--bg-elevated);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--link);
+  }
+  .overview-card .eyebrow { display: block; margin-bottom: 0.3rem; }
+  .overview-text {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.75;
+    color: var(--fg-soft);
+  }
+
+  /* ===== primary tabs ===== */
+  .tabs {
+    display: flex;
+    gap: 0.25rem;
+    margin: 1.25rem 0 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    flex-wrap: wrap;
+  }
+  .tab {
+    background: none;
+    border: none;
+    padding: 0.7rem 1.1rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    font-family: inherit;
+    transition: color 0.15s;
+  }
+  .tab:hover { color: var(--fg); }
+  .tab.active {
+    color: var(--fg);
+    border-bottom-color: var(--accent);
+  }
+  .tab .count {
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  /* ===== digest (AI 简报) — compact ===== */
+  .digest-category { margin-bottom: 1.1rem; }
+  .category-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
+    margin: 0 0 0.55rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .category-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--fg);
+    margin: 0;
+    letter-spacing: 0.05em;
+  }
+  .category-count {
+    font-size: 0.7rem;
+    color: var(--muted);
+    background: var(--card);
+    padding: 0.12rem 0.45rem;
+    border-radius: 999px;
+  }
+  .brief-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  @media (min-width: 720px) {
+    .brief-list { grid-template-columns: 1fr 1fr; }
+  }
+  .brief {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.95rem;
+    transition: border-color 0.15s;
+  }
+  .brief:hover {
+    border-color: var(--link);
+  }
+  .brief-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.3rem;
+  }
+  .brief-source {
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+  }
+  .brief-rank {
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .brief-rank.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .brief-rank.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .brief-rank.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .brief-title {
+    font-size: 0.98rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem;
+    line-height: 1.35;
+  }
+  .brief-title a { color: var(--fg); text-decoration: none; }
+  .brief-title a:hover { color: var(--link); text-decoration: underline; }
+  .brief-summary {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.9rem;
+    line-height: 1.65;
+  }
+
+  .editor-card {
+    background: var(--bg-elevated);
+    border-left: 3px solid var(--link);
+    border-radius: 0.5rem;
+    padding: 1rem 1.3rem;
+    margin: 1.5rem 0 1.2rem;
+  }
+  .editor-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .editor-text {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    color: var(--fg-soft);
+  }
+  .keywords { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; }
+  .keyword {
+    background: var(--card);
+    color: var(--fg-soft);
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+  }
+
+  /* ===== L2 sub-tabs ===== */
+  .sub-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 1rem 0;
+  }
+  .sub-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1.05rem;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .sub-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .sub-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .sub-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .sub-content { display: none; }
+  .sub-content.active { display: block; }
+
+  /* ===== L3 source-tabs ===== */
+  .source-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.9rem 0 1.3rem;
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .source-tab {
+    background: none;
+    border: 1px solid var(--rule);
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    font-size: 0.83rem;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .source-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .source-tab.active {
+    background: var(--fg);
+    color: var(--bg);
+    border-color: var(--fg);
+  }
+  .source-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.3rem;
+  }
+  .source-content { display: none; }
+  .source-content.active { display: block; }
+
+  /* ===== article cards in raw panels ===== */
+  .article {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .article:first-child { padding-top: 0; }
+  .article:last-child { border-bottom: none; }
+  .article-title {
+    font-size: 1.05rem;
+    margin: 0 0 0.35rem;
+    font-weight: 600;
+    line-height: 1.45;
+  }
+  .article-title a { color: var(--fg); text-decoration: none; }
+  .article-title a:hover { color: var(--link); text-decoration: underline; }
+  .article-meta { color: var(--muted); font-size: 0.76rem; margin: 0 0 0.35rem; }
+  .article-stats {
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin: 0 0 0.4rem;
+    font-feature-settings: "tnum";
+  }
+  .article-heat {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+  .article-heat.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .article-heat.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .article-heat.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .article-excerpt {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.93rem;
+    line-height: 1.7;
+  }
+  .article-summary {
+    margin: 0.55rem 0 0;
+    padding: 0.65rem 0.9rem;
+    background: var(--card);
+    border-left: 2px solid var(--link);
+    border-radius: 0.3rem;
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: var(--fg-soft);
+  }
+  .summary-label {
+    display: inline-block;
+    font-size: 0.7rem;
+    color: var(--link);
+    margin-right: 0.4rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+  }
+
+  .empty {
+    color: var(--muted);
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 0.9rem;
+  }
+
+  /* ===== trading panel ===== */
+  .crypto-widgets {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.55rem;
+    margin: 0.4rem 0 1.2rem;
+  }
+  @media (min-width: 720px) {
+    .crypto-widgets { grid-template-columns: repeat(4, 1fr); }
+  }
+  .crypto-widget {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.85rem;
+    text-align: center;
+  }
+  .widget-label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.3rem;
+  }
+  .widget-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--fg);
+    line-height: 1.1;
+  }
+  .widget-sub {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+  }
+  .widget-sub.positive { color: #16a34a; }
+  .widget-sub.negative { color: #dc2626; }
+  @media (prefers-color-scheme: dark) {
+    .widget-sub.positive { color: #4ade80; }
+    .widget-sub.negative { color: #fca5a5; }
+  }
+  .crypto-widget.fg-fear-extreme { border-left: 4px solid #b91c1c; }
+  .crypto-widget.fg-fear-extreme .widget-value { color: #b91c1c; }
+  .crypto-widget.fg-fear { border-left: 4px solid #d97706; }
+  .crypto-widget.fg-fear .widget-value { color: #d97706; }
+  .crypto-widget.fg-neutral { border-left: 4px solid var(--muted); }
+  .crypto-widget.fg-greed { border-left: 4px solid #65a30d; }
+  .crypto-widget.fg-greed .widget-value { color: #65a30d; }
+  .crypto-widget.fg-greed-extreme { border-left: 4px solid #16a34a; }
+  .crypto-widget.fg-greed-extreme .widget-value { color: #16a34a; }
+  @media (prefers-color-scheme: dark) {
+    .crypto-widget.fg-fear-extreme .widget-value,
+    .crypto-widget.fg-fear .widget-value { color: #fca5a5; }
+    .crypto-widget.fg-greed .widget-value,
+    .crypto-widget.fg-greed-extreme .widget-value { color: #4ade80; }
+  }
+
+  .trading-overview-card {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.3rem;
+    background: var(--bg-elevated);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--link);
+  }
+  .trading-overview-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .trading-overview-text { font-size: 0.92rem; line-height: 1.75; color: var(--fg-soft); margin: 0; }
+
+  .trading-section-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 1.5rem 0 0.8rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--rule);
+    color: var(--fg);
+    letter-spacing: 0.05em;
+  }
+
+  /* picks (Sonnet's watchlist) */
+  .trading-picks {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
+  @media (min-width: 720px) {
+    .trading-picks { grid-template-columns: 1fr 1fr; }
+  }
+  .trading-pick {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--muted);
+    border-radius: 0.5rem;
+    padding: 0.8rem 1rem;
+  }
+  .trading-pick.stance-bull { border-left-color: #16a34a; }
+  .trading-pick.stance-bear { border-left-color: #dc2626; }
+  .trading-pick.stance-neutral { border-left-color: var(--muted); }
+  .pick-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.45rem;
+  }
+  .pick-symbol-block {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .pick-symbol { font-weight: 700; font-size: 1rem; color: var(--fg); }
+  .pick-name { color: var(--muted); font-size: 0.82rem; }
+  .pick-stance {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .pick-stance-bull { background: rgba(22,163,74,0.12); color: #16a34a; }
+  .pick-stance-bear { background: rgba(220,38,38,0.12); color: #dc2626; }
+  .pick-stance-neutral { background: var(--card); color: var(--muted); }
+  .pick-rationale { margin: 0; font-size: 0.88rem; line-height: 1.65; color: var(--fg-soft); }
+
+  /* asset-group tabs */
+  .trading-group-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.6rem 0 1.2rem;
+  }
+  .trading-group-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .trading-group-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .trading-group-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .trading-group-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .trading-group-content { display: none; }
+  .trading-group-content.active { display: block; }
+
+  /* ticker cards */
+  .ticker-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.55rem;
+    padding: 0.85rem 1.1rem;
+    margin-bottom: 0.7rem;
+  }
+  .ticker-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.65rem;
+  }
+  .ticker-id { min-width: 0; }
+  .ticker-symbol { margin: 0; font-size: 1rem; font-weight: 700; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; }
+  .ticker-name { margin: 0.15rem 0 0; font-size: 0.82rem; color: var(--muted); }
+  .ticker-price-block { text-align: right; flex-shrink: 0; }
+  .ticker-price { display: block; font-size: 1.05rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .ticker-pct { display: inline-block; font-size: 0.82rem; font-weight: 500; margin-top: 0.15rem; font-variant-numeric: tabular-nums; }
+  .ticker-pct.positive, .positive { color: #16a34a; }
+  .ticker-pct.negative, .negative { color: #dc2626; }
+
+  .ticker-indicators {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.35rem 0.9rem;
+    margin: 0;
+    font-size: 0.82rem;
+    color: var(--fg-soft);
+  }
+  @media (min-width: 720px) {
+    .ticker-indicators { grid-template-columns: repeat(3, 1fr); }
+  }
+  .ticker-indicators > div { display: flex; gap: 0.4rem; align-items: baseline; min-width: 0; }
+  .ticker-indicators dt { color: var(--muted); font-size: 0.74rem; margin: 0; white-space: nowrap; }
+  .ticker-indicators dd { margin: 0; font-variant-numeric: tabular-nums; font-weight: 500; color: var(--fg); }
+  .trend-bullish { color: #16a34a; }
+  .trend-bearish { color: #dc2626; }
+  .trend-neutral { color: var(--muted); }
+  .rsi-overbought { color: #d97706; }
+  .rsi-oversold { color: #2563eb; }
+
+  .ticker-signals {
+    margin-top: 0.65rem;
+    padding-top: 0.55rem;
+    border-top: 1px dashed var(--rule);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .signal-pill {
+    font-size: 0.72rem;
+    padding: 0.18rem 0.55rem;
+    border-radius: 999px;
+    font-weight: 500;
+  }
+  .signal-pill.tone-bull { background: rgba(22,163,74,0.13); color: #166534; }
+  .signal-pill.tone-bear { background: rgba(220,38,38,0.13); color: #991b1b; }
+  .signal-pill.tone-caution { background: rgba(217,119,6,0.15); color: #92400e; }
+  @media (prefers-color-scheme: dark) {
+    .signal-pill.tone-bull { color: #4ade80; }
+    .signal-pill.tone-bear { color: #fca5a5; }
+    .signal-pill.tone-caution { color: #fcd34d; }
+    .trend-bullish, .positive, .ticker-pct.positive { color: #4ade80; }
+    .trend-bearish, .negative, .ticker-pct.negative { color: #fca5a5; }
+    .rsi-overbought { color: #fcd34d; }
+    .rsi-oversold { color: #93c5fd; }
+    .trading-pick.stance-bull { border-left-color: #4ade80; }
+    .trading-pick.stance-bear { border-left-color: #fca5a5; }
+    .pick-stance-bull { background: rgba(74,222,128,0.15); color: #4ade80; }
+    .pick-stance-bear { background: rgba(252,165,165,0.15); color: #fca5a5; }
+  }
+  .signal-age { opacity: 0.7; font-weight: 400; }
+
+  .trading-risk {
+    margin: 1.5rem 0 0;
+    padding: 0.9rem 1.2rem;
+    background: var(--card);
+    border-radius: 0.45rem;
+    border-left: 3px solid #d97706;
+  }
+  .trading-risk .eyebrow { display: block; margin-bottom: 0.35rem; }
+  .trading-risk p { margin: 0; font-size: 0.82rem; line-height: 1.65; color: var(--fg-soft); }
+
+  footer {
+    margin-top: 2.5rem;
+    border-top: 1px solid var(--rule);
+    padding-top: 1.1rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+</style>
+</head>
+<body>
+<main>
+  <header class="report-header">
+    <span class="eyebrow">每日简报</span>
+    <h1 class="report-title">2026-10-13</h1>
+    <a class="archive-link" href="../archive.html">← 历史归档</a>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="tech">技术动态<span class="count">9</span></button>
+    
+    
+    
+    <button class="tab" data-tab="community">社区讨论<span class="count">30</span></button>
+  </nav>
+
+  <section class="panel active" data-panel="tech">
+    <div class="sub-content active" data-sub-content="github-trending" data-cat="tech">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="github-trending" data-sub="github-trending" data-cat="tech">
+    <article class="article">
+  <h3 class="article-title"><a href="https://github.com/morluto/rea" target="_blank" rel="noopener noreferrer">morluto/rea</a></h3>
+  <p class="article-stats">TypeScript · ★ 154,434 · 🍴 35,538 · 📈 45,495 stars today</p>
+  
+  <p class="article-excerpt">Reverse engineer anything with agents, from app behavior down to native binaries.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 面向 AI agent 的通用逆向工程工具，覆盖从应用行为分析到底层原生二进制拆解的全流程。借助 agent 自动完成反汇编、行为追踪与逻辑还原，降低手动逆向门槛，适合安全研究、漏洞分析与兼容性调试人员使用。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank" rel="noopener noreferrer">bilawalsidhu/gods-eye-view</a></h3>
+  <p class="article-stats">JavaScript · ★ 53,575 · 🍴 10,596 · 📈 1,903 stars today</p>
+  
+  <p class="article-excerpt">A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 把间谍卫星模拟器搬进浏览器：以逼真 3D 地球为底图，叠加实时开源空间情报数据，而非虚构内容。用户可旋转缩放地球查看真实卫星影像与地理事件，适合 OSINT 研究者、记者和地理情报爱好者做空间态势感知。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener noreferrer">mksglu/context-mode</a></h3>
+  <p class="article-stats">TypeScript · ★ 27,240 · 🍴 1,941 · 📈 394 stars today</p>
+  
+  <p class="article-excerpt">Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 针对 AI 编码 agent 的上下文窗口优化方案：把工具输出放进沙箱隔离，最高削减 98% 的 token 占用，同时持久化会话记忆。通过 MCP 与 hooks 在 17 个平台统一路由上下文，适合重度使用编码 agent 的开发者控制成本、提升长任务稳定性。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/storytold/artcraft" target="_blank" rel="noopener noreferrer">storytold/artcraft</a></h3>
+  <p class="article-stats">Rust · ★ 21,806 · 🍴 3,533 · 📈 4,106 stars today</p>
+  
+  <p class="article-excerpt">ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 面向艺术家、设计师与电影人的创作引擎，强调有意图的创作流程，帮助把构想稳定转化为视觉作品。适合需要掌控画面细节、而非依赖随机生成的研究型创作者，具体功能与技术栈可参考项目文档。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/open-webui/open-webui" target="_blank" rel="noopener noreferrer">open-webui/open-webui</a></h3>
+  <p class="article-stats">Python · ★ 154,930 · 🍴 22,637 · 📈 142 stars today</p>
+  
+  <p class="article-excerpt">User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 开源自托管的 AI 对话界面，界面友好、开箱即用，兼容 Ollama 本地模型与 OpenAI API 等多家服务。支持多模型切换、对话历史管理与文档问答，适合希望私有化部署、在本地或内网使用大模型而不依赖商业云服务的个人与团队。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/cathrynlavery/diagram-design" target="_blank" rel="noopener noreferrer">cathrynlavery/diagram-design</a></h3>
+  <p class="article-stats">HTML · ★ 52,505 · 🍴 3,318 · 📈 2,100 stars today</p>
+  
+  <p class="article-excerpt">Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 为 Claude Code、Codex、GitHub Copilot、Cursor 等编码 agent 提供的编辑级图表设计规范，内置 44 种图表类型，输出自包含 HTML + SVG，风格克制无阴影，可替代 Mermaid 的粗糙渲染。适合在文档与幻灯片中追求排版质感的工程师、设计师。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/lyogavin/airllm" target="_blank" rel="noopener noreferrer">lyogavin/airllm</a></h3>
+  <p class="article-stats">Jupyter Notebook · ★ 37,490 · 🍴 3,869 · 📈 886 stars today</p>
+  
+  <p class="article-excerpt">AirLLM 2.8T LLM inference with single 4GB GPU</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 让大模型推理摆脱显存限制：通过分层加载与逐层计算，在单张 4GB 显存 GPU 上运行 2.8T 参数级别的大语言模型。适合显存有限又想本地部署超大模型的开发者与研究者，用于验证与推理实验，而非高吞吐生产服务。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/microsoft/BitNet" target="_blank" rel="noopener noreferrer">microsoft/BitNet</a></h3>
+  <p class="article-stats">C++ · ★ 40,889 · 🍴 3,807 · 📈 134 stars today</p>
+  
+  <p class="article-excerpt">Official inference framework for 1-bit LLMs</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 微软推出的 1-bit LLM 官方推理框架，针对 BitNet 系列极低比特量化模型做算子与内核级优化，可在 CPU 上高效运行。适合关注模型压缩、端侧部署与低功耗推理的研究者和工程师，验证 1-bit 量化在真实场景中的速度与精度。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank" rel="noopener noreferrer">Alishahryar1/free-claude-code</a></h3>
+  <p class="article-stats">Python · ★ 59,043 · 🍴 9,306 · 📈 705 stars today</p>
+  
+  <p class="article-excerpt">Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 让 Claude Code、Codex、VSCode、Pi、OpenCode 等十余种编码 agent 免费使用，提供 1.3B+ 免费 token，可从终端、桌面应用、IDE、手机乃至浏览器原生会话接入。适合想低成本体验各家 AI 编程工具、又不愿逐个付费订阅的开发者。</p>
+</article>
+  </div>
+    </div>
+  </div>
+  </section>
+  
+  
+  
+  <section class="panel" data-panel="community">
+    <div class="sub-content active" data-sub-content="overseas-community" data-cat="tech">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="hackernews" data-sub="overseas-community" data-cat="tech">
+    <article class="article">
+  <h3 class="article-title"><a href="https://research.meta.ai/blog/muse-wonder" target="_blank" rel="noopener noreferrer">Muse Wonder</a><span class="article-heat high">▲ 484</span></h3>
+  
+  <p class="article-meta">10/13 00:48</p>
+  <p class="article-excerpt">484 points · 259 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Meta 研究博客发布「Muse Wonder」项目，HN 上获 484 分、259 条评论，摘要中未提供更多技术细节。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/openai/codex/issues/48195" target="_blank" rel="noopener noreferrer">Codex CLI installs a persistent, self-updating background daemon by default</a><span class="article-heat high">▲ 401</span></h3>
+  
+  <p class="article-meta">10/13 02:29</p>
+  <p class="article-excerpt">401 points · 217 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 有 issue 指出 Codex CLI 默认会安装一个常驻且可自我更新的后台守护进程，引发争议，该帖获 401 分、217 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://z.ai/blog/glm-legal" target="_blank" rel="noopener noreferrer">GLM-Legal</a><span class="article-heat high">▲ 384</span></h3>
+  
+  <p class="article-meta">10/13 00:11</p>
+  <p class="article-excerpt">384 points · 220 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 智谱 AI（Z.ai）发布面向法律领域的模型 GLM-Legal，HN 上获 384 分、220 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387" target="_blank" rel="noopener noreferrer">QGIS enacts moratorium on AI contributions</a><span class="article-heat high">▲ 360</span></h3>
+  
+  <p class="article-meta">10/12 19:22</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;lists.osgeo.org&amp;#x2F;pipermail&amp;#x2F;qgis-developer&amp;#x2F;2026-Septem...</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 开源地理信息系统 QGIS 通过提案，暂停接受 AI 生成的贡献代码，相关讨论同步发布于 osgeo 邮件列表。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident" target="_blank" rel="noopener noreferrer">Hackers activate automatic defrosting in supermarket fridges across Europe</a><span class="article-heat high">▲ 359</span></h3>
+  
+  <p class="article-meta">10/12 20:16</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;www.reuters.com&amp;#x2F;business&amp;#x2F;retail-consumer&amp;#x2F;french-supe..., https:&amp;#x2F;&amp;#x2F;www.bbc.com&amp;#x2F;news&amp;#x2F;articles&amp;#x2F;crq5nzxv9q4yo, https:&amp;#x2F;&amp;#x2F;www.lemonde.fr&amp;#x2F;en&amp;#x2F;france&amp;#x2F;article&amp;#x2F;2026&amp;#x2F;10&amp;#x2F;12&amp;#x2F;french-s...Related:https:&amp;#x2F;&amp;#x2F;ww</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 欧洲多家超市的联网冷柜遭网络攻击，黑客远程开启自动除霜功能，配送与门店商品价格也受到影响。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://prophitt.me/writing/a-modern-web-app-in-c" target="_blank" rel="noopener noreferrer">A Modern Web App in C</a><span class="article-heat high">▲ 341</span></h3>
+  
+  <p class="article-meta">10/13 00:13</p>
+  <p class="article-excerpt">341 points · 152 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 一篇博客展示如何仅用 C 语言构建现代 Web 应用，HN 上获 341 分、152 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/" target="_blank" rel="noopener noreferrer">AI coding agents generate more code, but not more software</a><span class="article-heat high">▲ 288</span></h3>
+  
+  <p class="article-meta">10/13 01:14</p>
+  <p class="article-excerpt">288 points · 243 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Ars Technica 文章指出，AI 编码代理产出了更多代码，却没有带来更多真正意义上的软件，HN 上获 288 分、243 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/snuri00/ps2-web-recomp" target="_blank" rel="noopener noreferrer">Show HN: PS2 games statically recompiled to WebAssembly</a><span class="article-heat high">▲ 257</span></h3>
+  
+  <p class="article-meta">10/12 14:46</p>
+  <p class="article-excerpt">257 points · 138 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Show HN：项目 ps2-web-recomp 将 PS2 游戏静态重编译为 WebAssembly，HN 上获 257 分、138 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.bbc.com/news/articles/c620r33plgppo" target="_blank" rel="noopener noreferrer">Citroen revives the 2CV for an electric age</a><span class="article-heat high">▲ 239</span></h3>
+  
+  <p class="article-meta">10/12 20:09</p>
+  <p class="article-excerpt">239 points · 285 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 雪铁龙（Citroen）复活经典车型 2CV，推出面向电动时代的版本，HN 上获 239 分、285 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html" target="_blank" rel="noopener noreferrer">Type-safe HTML templating in Zig</a><span class="article-heat high">▲ 233</span></h3>
+  
+  <p class="article-meta">10/12 13:02</p>
+  <p class="article-excerpt">233 points · 82 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 一篇博客介绍如何在 Zig 语言中实现类型安全的 HTML 模板，HN 上获 233 分、82 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/h0m3us3r/w1700k-sdr" target="_blank" rel="noopener noreferrer">Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver</a><span class="article-heat high">▲ 231</span></h3>
+  
+  <p class="article-meta">10/12 20:41</p>
+  <p class="article-excerpt">231 points · 56 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search" target="_blank" rel="noopener noreferrer">Secret of Orange Cats Revealed After 60-Year Search</a><span class="article-heat high">▲ 215</span></h3>
+  
+  <p class="article-meta">10/11 06:10</p>
+  <p class="article-excerpt">215 points · 170 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/" target="_blank" rel="noopener noreferrer">The Making Of Super Mario 64 – full Giles Goddard interview (2001)</a><span class="article-heat high">▲ 208</span></h3>
+  
+  <p class="article-meta">10/11 03:28</p>
+  <p class="article-excerpt">208 points · 81 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.spinellis.gr/blog/20261008/?li261008" target="_blank" rel="noopener noreferrer">Thinking will become a hobby</a><span class="article-heat high">▲ 195</span></h3>
+  
+  <p class="article-meta">10/13 00:54</p>
+  <p class="article-excerpt">195 points · 260 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e" target="_blank" rel="noopener noreferrer">&#39;AI&#39; Is Not a Tool by Rich Hickey</a><span class="article-heat high">▲ 150</span></h3>
+  
+  <p class="article-meta">10/13 02:00</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;gist.github.com&amp;#x2F;svieira&amp;#x2F;619d60dea942a8d4498cba3bb6b1...</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/" target="_blank" rel="noopener noreferrer">AI Is a Tool. Using It Well Takes Skill.</a><span class="article-heat high">▲ 133</span></h3>
+  
+  <p class="article-meta">10/13 05:40</p>
+  <p class="article-excerpt">133 points · 113 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://taylor.town/kk-ai-2026" target="_blank" rel="noopener noreferrer">Kevin Kelly&#39;s 2016 AI Predictions, 10 Years Later</a><span class="article-heat high">▲ 110</span></h3>
+  
+  <p class="article-meta">10/12 23:16</p>
+  <p class="article-excerpt">110 points · 35 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback" target="_blank" rel="noopener noreferrer">Publishers Killed the Paperback, Then Blamed Readers</a><span class="article-heat mid">▲ 89</span></h3>
+  
+  <p class="article-meta">10/13 02:27</p>
+  <p class="article-excerpt">89 points · 63 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy" target="_blank" rel="noopener noreferrer">Solar panels that plug into your wall</a><span class="article-heat mid">▲ 81</span></h3>
+  
+  <p class="article-meta">10/12 22:19</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;NEPz3</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://news.ycombinator.com/item?id=50059096" target="_blank" rel="noopener noreferrer">Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents</a><span class="article-heat mid">▲ 78</span></h3>
+  
+  <p class="article-meta">10/13 00:46</p>
+  <p class="article-excerpt">Hey HN, I’m Vishnu from Agent37 (https:&amp;#x2F;&amp;#x2F;agent37.com). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37&amp;#x2F;month per sandbox.You can view a video walkthrough of the product here: https:&amp;#x2F;&amp;#x2F;youtu.b</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm" target="_blank" rel="noopener noreferrer">My Reddit AMA on the Law of Web Scraping</a><span class="article-heat mid">▲ 73</span></h3>
+  
+  <p class="article-meta">10/13 02:02</p>
+  <p class="article-excerpt">73 points · 11 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://sebsite.pw/w/20261009-strtod.html" target="_blank" rel="noopener noreferrer">No portable way to detect string-to-float conversion errors in standard C</a><span class="article-heat mid">▲ 62</span></h3>
+  
+  <p class="article-meta">10/10 23:39</p>
+  <p class="article-excerpt">62 points · 80 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.markround.com/blog/2026/zx-spectrum-intro" target="_blank" rel="noopener noreferrer">Writing a Demoscene Intro for the ZX Spectrum</a><span class="article-heat mid">▲ 53</span></h3>
+  
+  <p class="article-meta">10/13 03:40</p>
+  <p class="article-excerpt">53 points · 6 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/SaarthurR/atticus-mac" target="_blank" rel="noopener noreferrer">Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p</a><span class="article-heat mid">▲ 49</span></h3>
+  
+  <p class="article-meta">10/12 08:15</p>
+  <p class="article-excerpt">Hi HN! I&amp;#x27;m Saarth. I&amp;#x27;m in 9th grade, and I built Atticus.Atticus is a fast and cheap Mac assistant that can do tasks for you. You hold down Control-Option-Space, speak or type your task, be it complex or a simple browser search, and Atticus will get on it.The interesting part is that simpl</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/" target="_blank" rel="noopener noreferrer">Who Is Vfmaddrnd231pd?</a><span class="article-heat mid">▲ 48</span></h3>
+  
+  <p class="article-meta">10/13 05:12</p>
+  <p class="article-excerpt">48 points · 0 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html" target="_blank" rel="noopener noreferrer">Making big downloads resumable in Firefox</a><span class="article-heat mid">▲ 45</span></h3>
+  
+  <p class="article-meta">10/13 03:36</p>
+  <p class="article-excerpt">45 points · 5 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332" target="_blank" rel="noopener noreferrer">Breaking Bad star RJ Mitte dies aged 34</a><span class="article-heat mid">▲ 37</span></h3>
+  
+  <p class="article-meta">10/13 06:15</p>
+  <p class="article-excerpt">37 points · 4 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://phreak.ing/" target="_blank" rel="noopener noreferrer">Phreak.ing – Internet Phone Switch</a><span class="article-heat mid">▲ 30</span></h3>
+  
+  <p class="article-meta">10/13 05:39</p>
+  <p class="article-excerpt">30 points · 3 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://brickbrag.com/" target="_blank" rel="noopener noreferrer">Show HN: Brickbrag – A multiplayer brick-building world in the browser</a><span class="article-heat low">▲ 12</span></h3>
+  
+  <p class="article-meta">10/13 05:03</p>
+  <p class="article-excerpt">12 points · 6 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.thetravel.com/americas-longest-highway-tunnel-not-for-faint-of-heart/" target="_blank" rel="noopener noreferrer">America&#39;s Longest Highway Tunnel (2025)</a><span class="article-heat low">▲ 6</span></h3>
+  
+  <p class="article-meta">10/12 03:12</p>
+  <p class="article-excerpt">6 points · 4 comments</p>
+  
+</article>
+  </div>
+    </div>
+  </div>
+  </section>
+
+  <footer>
+    内容均来自原媒体，本站仅作摘要整理与回链。
+  </footer>
+</main>
+<script>
+  document.querySelectorAll('.tabs > .tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var target = btn.dataset.tab;
+      document.querySelectorAll('.tabs > .tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.panel').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.panel === target);
+      });
+    });
+  });
+  // Scope sub-tab / source-tab toggles to the parent .panel so two L1 panels
+  // can share the same data-cat (e.g. tech main + community both data-cat=tech)
+  // without stomping on each other's active state.
+  document.querySelectorAll('.sub-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var panel = btn.closest('.panel');
+      if (!panel) return;
+      var sub = btn.dataset.sub;
+      panel.querySelectorAll('.sub-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      panel.querySelectorAll('.sub-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.subContent === sub);
+      });
+    });
+  });
+  document.querySelectorAll('.source-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var subContent = btn.closest('.sub-content');
+      if (!subContent) return;
+      var src = btn.dataset.source;
+      subContent.querySelectorAll('.source-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      subContent.querySelectorAll('.source-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.sourceContent === src);
+      });
+    });
+  });
+  // Trading panel: asset-group sub-tabs (US/crypto/china/commodity)
+  document.querySelectorAll('.trading-group-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var grp = btn.dataset.group;
+      document.querySelectorAll('.trading-group-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.trading-group-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.group === grp);
+      });
+    });
+  });
+</script>
+</body>
+</html>
