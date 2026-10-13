@@ -1,0 +1,1018 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日简报 · 2026-10-14</title>
+<style>
+  :root {
+    --bg: #F9FAFB;
+    --bg-elevated: #ffffff;
+    --fg: #1E2A3E;
+    --fg-soft: #4A5568;
+    --muted: #8B9CB0;
+    --rule: #EDF2F7;
+    --card: #F5F7FA;
+    --link: #6B9B6D;
+    --accent: #2D3748;
+    --accent-fg: #ffffff;
+    --rank-high-bg: #E6F0E8;
+    --rank-high-fg: #4A7C4F;
+    --rank-mid-bg: #FDF2E0;
+    --rank-mid-fg: #9A6B30;
+    --rank-low-bg: #E8EFF7;
+    --rank-low-fg: #4A6080;
+    --hero-grad-from: #F9FAFB;
+    --hero-grad-to: #F5F7FA;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0F1419;
+      --bg-elevated: #1A2027;
+      --fg: #E8ECF0;
+      --fg-soft: #B0BEC5;
+      --muted: #6B7D8B;
+      --rule: #263038;
+      --card: #1A2027;
+      --link: #8FBC94;
+      --accent: #D0D8E0;
+      --accent-fg: #0F1419;
+      --rank-high-bg: rgba(111,158,115,0.18);
+      --rank-high-fg: #8FBC94;
+      --rank-mid-bg: rgba(201,158,98,0.18);
+      --rank-mid-fg: #D4B87A;
+      --rank-low-bg: rgba(120,150,190,0.18);
+      --rank-low-fg: #96ADC8;
+      --hero-grad-from: #1A2027;
+      --hero-grad-to: #0F1419;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+      "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
+
+  /* ===== header ===== */
+  header.report-header { margin-bottom: 1.25rem; }
+  .eyebrow {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  h1.report-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0.4rem 0 1.2rem;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  .archive-link {
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--rule);
+    padding-bottom: 1px;
+  }
+  .archive-link:hover { color: var(--accent); border-bottom-style: solid; }
+  .hero-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--link);
+    padding: 1rem 1.4rem;
+    border-radius: 0.5rem;
+  }
+  .hero-eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .hero-headline {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0.35rem 0 0;
+    line-height: 1.45;
+    color: var(--fg);
+  }
+  .overview-card {
+    margin: 0.7rem 0 0;
+    padding: 0.7rem 1.1rem;
+    background: var(--bg-elevated);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--link);
+  }
+  .overview-card .eyebrow { display: block; margin-bottom: 0.3rem; }
+  .overview-text {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.75;
+    color: var(--fg-soft);
+  }
+
+  /* ===== primary tabs ===== */
+  .tabs {
+    display: flex;
+    gap: 0.25rem;
+    margin: 1.25rem 0 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    flex-wrap: wrap;
+  }
+  .tab {
+    background: none;
+    border: none;
+    padding: 0.7rem 1.1rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    font-family: inherit;
+    transition: color 0.15s;
+  }
+  .tab:hover { color: var(--fg); }
+  .tab.active {
+    color: var(--fg);
+    border-bottom-color: var(--accent);
+  }
+  .tab .count {
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  /* ===== digest (AI 简报) — compact ===== */
+  .digest-category { margin-bottom: 1.1rem; }
+  .category-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
+    margin: 0 0 0.55rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .category-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--fg);
+    margin: 0;
+    letter-spacing: 0.05em;
+  }
+  .category-count {
+    font-size: 0.7rem;
+    color: var(--muted);
+    background: var(--card);
+    padding: 0.12rem 0.45rem;
+    border-radius: 999px;
+  }
+  .brief-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  @media (min-width: 720px) {
+    .brief-list { grid-template-columns: 1fr 1fr; }
+  }
+  .brief {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.95rem;
+    transition: border-color 0.15s;
+  }
+  .brief:hover {
+    border-color: var(--link);
+  }
+  .brief-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.3rem;
+  }
+  .brief-source {
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+  }
+  .brief-rank {
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .brief-rank.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .brief-rank.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .brief-rank.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .brief-title {
+    font-size: 0.98rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem;
+    line-height: 1.35;
+  }
+  .brief-title a { color: var(--fg); text-decoration: none; }
+  .brief-title a:hover { color: var(--link); text-decoration: underline; }
+  .brief-summary {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.9rem;
+    line-height: 1.65;
+  }
+
+  .editor-card {
+    background: var(--bg-elevated);
+    border-left: 3px solid var(--link);
+    border-radius: 0.5rem;
+    padding: 1rem 1.3rem;
+    margin: 1.5rem 0 1.2rem;
+  }
+  .editor-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .editor-text {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    color: var(--fg-soft);
+  }
+  .keywords { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; }
+  .keyword {
+    background: var(--card);
+    color: var(--fg-soft);
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+  }
+
+  /* ===== L2 sub-tabs ===== */
+  .sub-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 1rem 0;
+  }
+  .sub-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1.05rem;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .sub-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .sub-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .sub-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .sub-content { display: none; }
+  .sub-content.active { display: block; }
+
+  /* ===== L3 source-tabs ===== */
+  .source-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.9rem 0 1.3rem;
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .source-tab {
+    background: none;
+    border: 1px solid var(--rule);
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    font-size: 0.83rem;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .source-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .source-tab.active {
+    background: var(--fg);
+    color: var(--bg);
+    border-color: var(--fg);
+  }
+  .source-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.3rem;
+  }
+  .source-content { display: none; }
+  .source-content.active { display: block; }
+
+  /* ===== article cards in raw panels ===== */
+  .article {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .article:first-child { padding-top: 0; }
+  .article:last-child { border-bottom: none; }
+  .article-title {
+    font-size: 1.05rem;
+    margin: 0 0 0.35rem;
+    font-weight: 600;
+    line-height: 1.45;
+  }
+  .article-title a { color: var(--fg); text-decoration: none; }
+  .article-title a:hover { color: var(--link); text-decoration: underline; }
+  .article-meta { color: var(--muted); font-size: 0.76rem; margin: 0 0 0.35rem; }
+  .article-stats {
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin: 0 0 0.4rem;
+    font-feature-settings: "tnum";
+  }
+  .article-heat {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+  .article-heat.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .article-heat.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .article-heat.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .article-excerpt {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.93rem;
+    line-height: 1.7;
+  }
+  .article-summary {
+    margin: 0.55rem 0 0;
+    padding: 0.65rem 0.9rem;
+    background: var(--card);
+    border-left: 2px solid var(--link);
+    border-radius: 0.3rem;
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: var(--fg-soft);
+  }
+  .summary-label {
+    display: inline-block;
+    font-size: 0.7rem;
+    color: var(--link);
+    margin-right: 0.4rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+  }
+
+  .empty {
+    color: var(--muted);
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 0.9rem;
+  }
+
+  /* ===== trading panel ===== */
+  .crypto-widgets {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.55rem;
+    margin: 0.4rem 0 1.2rem;
+  }
+  @media (min-width: 720px) {
+    .crypto-widgets { grid-template-columns: repeat(4, 1fr); }
+  }
+  .crypto-widget {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.85rem;
+    text-align: center;
+  }
+  .widget-label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.3rem;
+  }
+  .widget-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--fg);
+    line-height: 1.1;
+  }
+  .widget-sub {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+  }
+  .widget-sub.positive { color: #16a34a; }
+  .widget-sub.negative { color: #dc2626; }
+  @media (prefers-color-scheme: dark) {
+    .widget-sub.positive { color: #4ade80; }
+    .widget-sub.negative { color: #fca5a5; }
+  }
+  .crypto-widget.fg-fear-extreme { border-left: 4px solid #b91c1c; }
+  .crypto-widget.fg-fear-extreme .widget-value { color: #b91c1c; }
+  .crypto-widget.fg-fear { border-left: 4px solid #d97706; }
+  .crypto-widget.fg-fear .widget-value { color: #d97706; }
+  .crypto-widget.fg-neutral { border-left: 4px solid var(--muted); }
+  .crypto-widget.fg-greed { border-left: 4px solid #65a30d; }
+  .crypto-widget.fg-greed .widget-value { color: #65a30d; }
+  .crypto-widget.fg-greed-extreme { border-left: 4px solid #16a34a; }
+  .crypto-widget.fg-greed-extreme .widget-value { color: #16a34a; }
+  @media (prefers-color-scheme: dark) {
+    .crypto-widget.fg-fear-extreme .widget-value,
+    .crypto-widget.fg-fear .widget-value { color: #fca5a5; }
+    .crypto-widget.fg-greed .widget-value,
+    .crypto-widget.fg-greed-extreme .widget-value { color: #4ade80; }
+  }
+
+  .trading-overview-card {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.3rem;
+    background: var(--bg-elevated);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--link);
+  }
+  .trading-overview-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .trading-overview-text { font-size: 0.92rem; line-height: 1.75; color: var(--fg-soft); margin: 0; }
+
+  .trading-section-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 1.5rem 0 0.8rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--rule);
+    color: var(--fg);
+    letter-spacing: 0.05em;
+  }
+
+  /* picks (Sonnet's watchlist) */
+  .trading-picks {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
+  @media (min-width: 720px) {
+    .trading-picks { grid-template-columns: 1fr 1fr; }
+  }
+  .trading-pick {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--muted);
+    border-radius: 0.5rem;
+    padding: 0.8rem 1rem;
+  }
+  .trading-pick.stance-bull { border-left-color: #16a34a; }
+  .trading-pick.stance-bear { border-left-color: #dc2626; }
+  .trading-pick.stance-neutral { border-left-color: var(--muted); }
+  .pick-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.45rem;
+  }
+  .pick-symbol-block {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .pick-symbol { font-weight: 700; font-size: 1rem; color: var(--fg); }
+  .pick-name { color: var(--muted); font-size: 0.82rem; }
+  .pick-stance {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .pick-stance-bull { background: rgba(22,163,74,0.12); color: #16a34a; }
+  .pick-stance-bear { background: rgba(220,38,38,0.12); color: #dc2626; }
+  .pick-stance-neutral { background: var(--card); color: var(--muted); }
+  .pick-rationale { margin: 0; font-size: 0.88rem; line-height: 1.65; color: var(--fg-soft); }
+
+  /* asset-group tabs */
+  .trading-group-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.6rem 0 1.2rem;
+  }
+  .trading-group-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .trading-group-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .trading-group-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .trading-group-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .trading-group-content { display: none; }
+  .trading-group-content.active { display: block; }
+
+  /* ticker cards */
+  .ticker-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.55rem;
+    padding: 0.85rem 1.1rem;
+    margin-bottom: 0.7rem;
+  }
+  .ticker-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.65rem;
+  }
+  .ticker-id { min-width: 0; }
+  .ticker-symbol { margin: 0; font-size: 1rem; font-weight: 700; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; }
+  .ticker-name { margin: 0.15rem 0 0; font-size: 0.82rem; color: var(--muted); }
+  .ticker-price-block { text-align: right; flex-shrink: 0; }
+  .ticker-price { display: block; font-size: 1.05rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .ticker-pct { display: inline-block; font-size: 0.82rem; font-weight: 500; margin-top: 0.15rem; font-variant-numeric: tabular-nums; }
+  .ticker-pct.positive, .positive { color: #16a34a; }
+  .ticker-pct.negative, .negative { color: #dc2626; }
+
+  .ticker-indicators {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.35rem 0.9rem;
+    margin: 0;
+    font-size: 0.82rem;
+    color: var(--fg-soft);
+  }
+  @media (min-width: 720px) {
+    .ticker-indicators { grid-template-columns: repeat(3, 1fr); }
+  }
+  .ticker-indicators > div { display: flex; gap: 0.4rem; align-items: baseline; min-width: 0; }
+  .ticker-indicators dt { color: var(--muted); font-size: 0.74rem; margin: 0; white-space: nowrap; }
+  .ticker-indicators dd { margin: 0; font-variant-numeric: tabular-nums; font-weight: 500; color: var(--fg); }
+  .trend-bullish { color: #16a34a; }
+  .trend-bearish { color: #dc2626; }
+  .trend-neutral { color: var(--muted); }
+  .rsi-overbought { color: #d97706; }
+  .rsi-oversold { color: #2563eb; }
+
+  .ticker-signals {
+    margin-top: 0.65rem;
+    padding-top: 0.55rem;
+    border-top: 1px dashed var(--rule);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .signal-pill {
+    font-size: 0.72rem;
+    padding: 0.18rem 0.55rem;
+    border-radius: 999px;
+    font-weight: 500;
+  }
+  .signal-pill.tone-bull { background: rgba(22,163,74,0.13); color: #166534; }
+  .signal-pill.tone-bear { background: rgba(220,38,38,0.13); color: #991b1b; }
+  .signal-pill.tone-caution { background: rgba(217,119,6,0.15); color: #92400e; }
+  @media (prefers-color-scheme: dark) {
+    .signal-pill.tone-bull { color: #4ade80; }
+    .signal-pill.tone-bear { color: #fca5a5; }
+    .signal-pill.tone-caution { color: #fcd34d; }
+    .trend-bullish, .positive, .ticker-pct.positive { color: #4ade80; }
+    .trend-bearish, .negative, .ticker-pct.negative { color: #fca5a5; }
+    .rsi-overbought { color: #fcd34d; }
+    .rsi-oversold { color: #93c5fd; }
+    .trading-pick.stance-bull { border-left-color: #4ade80; }
+    .trading-pick.stance-bear { border-left-color: #fca5a5; }
+    .pick-stance-bull { background: rgba(74,222,128,0.15); color: #4ade80; }
+    .pick-stance-bear { background: rgba(252,165,165,0.15); color: #fca5a5; }
+  }
+  .signal-age { opacity: 0.7; font-weight: 400; }
+
+  .trading-risk {
+    margin: 1.5rem 0 0;
+    padding: 0.9rem 1.2rem;
+    background: var(--card);
+    border-radius: 0.45rem;
+    border-left: 3px solid #d97706;
+  }
+  .trading-risk .eyebrow { display: block; margin-bottom: 0.35rem; }
+  .trading-risk p { margin: 0; font-size: 0.82rem; line-height: 1.65; color: var(--fg-soft); }
+
+  footer {
+    margin-top: 2.5rem;
+    border-top: 1px solid var(--rule);
+    padding-top: 1.1rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+</style>
+</head>
+<body>
+<main>
+  <header class="report-header">
+    <span class="eyebrow">每日简报</span>
+    <h1 class="report-title">2026-10-14</h1>
+    <a class="archive-link" href="../archive.html">← 历史归档</a>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="tech">技术动态<span class="count">9</span></button>
+    
+    
+    
+    <button class="tab" data-tab="community">社区讨论<span class="count">30</span></button>
+  </nav>
+
+  <section class="panel active" data-panel="tech">
+    <div class="sub-content active" data-sub-content="github-trending" data-cat="tech">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="github-trending" data-sub="github-trending" data-cat="tech">
+    <article class="article">
+  <h3 class="article-title"><a href="https://github.com/morluto/rea" target="_blank" rel="noopener noreferrer">morluto/rea</a></h3>
+  <p class="article-stats">TypeScript · ★ 205,617 · 🍴 50,062 · 📈 54,706 stars today</p>
+  
+  <p class="article-excerpt">Reverse engineer anything with agents, from app behavior down to native binaries.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 面向 AI Agent 的逆向工程工具，可从应用行为一路分析到原生二进制文件，把原本需要人工反复试错的逆向流程交给 Agent 自动完成。适合安全研究、漏洞分析和二进制审计人员，用于排查闭源程序逻辑、定位崩溃或理解第三方 SDK 行为。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank" rel="noopener noreferrer">bilawalsidhu/gods-eye-view</a></h3>
+  <p class="article-stats">JavaScript · ★ 55,295 · 🍴 10,816 · 📈 1,961 stars today</p>
+  
+  <p class="article-excerpt">A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 浏览器里的间谍卫星模拟器，但用的是真实数据：在写实级 3D 地球上叠加开源空间情报，支持实时浏览与分析。适合 OSINT 研究者、记者和地理信息爱好者，用于观察热点地区动态、核对卫星影像与公开数据。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreferrer">debpalash/VoiceStudio</a></h3>
+  <p class="article-stats">Python · ★ 63,123 · 🍴 7,022 · 📈 2,277 stars today</p>
+  
+  <p class="article-excerpt">VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 完全本地运行的开源 ElevenLabs 替代品，集成声音克隆、音色设计、视频配音、听写转写与有声书制作，覆盖 646 种语言。模型和数据不出本地，适合对隐私敏感的创作者、播客与视频团队处理配音和转写任务。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener noreferrer">mksglu/context-mode</a></h3>
+  <p class="article-stats">TypeScript · ★ 28,187 · 🍴 1,988 · 📈 978 stars today</p>
+  
+  <p class="article-excerpt">Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 针对 AI 编码 Agent 的上下文窗口优化工具，通过沙箱化工具输出可减少约 98% 的 token 占用，同时持久化会话记忆，并借助 MCP 与 hooks 在 17 个平台上统一路由。适合长时间、多工具协作的编程 Agent 用户控制上下文成本。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/cathrynlavery/diagram-design" target="_blank" rel="noopener noreferrer">cathrynlavery/diagram-design</a></h3>
+  <p class="article-stats">HTML · ★ 54,027 · 🍴 3,429 · 📈 1,813 stars today</p>
+  
+  <p class="article-excerpt">Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 面向 Claude Code、Codex、GitHub Copilot、Cursor 等编码 Agent 的编辑级图表设计技能，内置 44 种图表类型，输出自包含的 HTML + SVG，风格克制、不用 Mermaid 套路图。适合需要把架构或流程画成可直接发布示意图的工程师与设计者。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/vercel-labs/skills" target="_blank" rel="noopener noreferrer">vercel-labs/skills</a></h3>
+  <p class="article-stats">TypeScript · ★ 34,459 · 🍴 2,950 · 📈 187 stars today</p>
+  
+  <p class="article-excerpt">The open agent skills tool - npx skills</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Vercel Labs 推出的开源 Agent 技能工具，通过 npx skills 安装和管理面向 AI Agent 的技能包，让不同编码助手复用同一套能力定义。适合需要为团队 Agent 统一配置工具与技能的开发者，具体能力以仓库文档为准。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/lyogavin/airllm" target="_blank" rel="noopener noreferrer">lyogavin/airllm</a></h3>
+  <p class="article-stats">Jupyter Notebook · ★ 38,293 · 🍴 3,916 · 📈 1,004 stars today</p>
+  
+  <p class="article-excerpt">AirLLM 2.8T LLM inference with single 4GB GPU</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 大模型推理的内存优化方案，宣称可在单张 4GB 显存的 GPU 上运行高达 2.8 万亿参数的模型，核心思路是分层加载、按需换入参数，避免整个模型常驻显存。适合显存有限、又想本地跑超大模型的研究者与个人开发者。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/storytold/artcraft" target="_blank" rel="noopener noreferrer">storytold/artcraft</a></h3>
+  <p class="article-stats">Rust · ★ 25,531 · 🍴 4,011 · 📈 4,078 stars today</p>
+  
+  <p class="article-excerpt">ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 面向艺术家、设计师与电影制作人的创作引擎，主打可控、可预期的创作流程。仓库描述较简短，具体能力需查阅文档；从定位看，适合需要把创意到成品流程串联起来的内容创作者与影视前期团队。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/xtool-org/xtool" target="_blank" rel="noopener noreferrer">xtool-org/xtool</a></h3>
+  <p class="article-stats">Swift · ★ 9,277 · 🍴 393 · 📈 1,182 stars today</p>
+  
+  <p class="article-excerpt">Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 跨平台的 Xcode 替代方案，让开发者用 SwiftPM 在 Linux、Windows 和 macOS 上构建并部署 iOS 应用，摆脱必须依赖 macOS 与 Xcode 的限制。适合需要在非苹果环境搭建 CI 或做跨平台开发的 iOS 团队。</p>
+</article>
+  </div>
+    </div>
+  </div>
+  </section>
+  
+  
+  
+  <section class="panel" data-panel="community">
+    <div class="sub-content active" data-sub-content="overseas-community" data-cat="tech">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="hackernews" data-sub="overseas-community" data-cat="tech">
+    <article class="article">
+  <h3 class="article-title"><a href="https://deepmind.google/models/gemini/" target="_blank" rel="noopener noreferrer">Gemini 4 Argon</a><span class="article-heat high">▲ 879</span></h3>
+  
+  <p class="article-meta">10/14 00:03</p>
+  <p class="article-excerpt">See also: Gemini 4 Argon for Robotics - https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=50074869</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Google DeepMind 上线 Gemini 4 Argon 模型页面，同期还有面向机器人方向的 Gemini 4 Argon 相关讨论，HN 上另有独立帖子跟进。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/rust-lang/rust/issues/164250" target="_blank" rel="noopener noreferrer">11 year old unsoundness bugs found in Rust borrow checker</a><span class="article-heat high">▲ 646</span></h3>
+  
+  <p class="article-meta">10/13 18:27</p>
+  <p class="article-excerpt">646 points · 362 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Rust 官方仓库 issue 披露，在借用检查器（borrow checker）中发现存在约 11 年之久的不健全性（unsoundness）缺陷，相关讨论已获 646 分、362 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.apple.com/apple-homeview/" target="_blank" rel="noopener noreferrer">Apple HomeView</a><span class="article-heat high">▲ 624</span></h3>
+  
+  <p class="article-meta">10/13 21:02</p>
+  <p class="article-excerpt">624 points · 752 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 苹果官网上线 Apple HomeView 产品页面，HN 讨论热度较高，共 624 分、752 条评论，具体功能与定位尚待页面信息进一步说明。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.firefox.com/en-US/enterprise/" target="_blank" rel="noopener noreferrer">Firefox Enterprise</a><span class="article-heat high">▲ 597</span></h3>
+  
+  <p class="article-meta">10/13 20:00</p>
+  <p class="article-excerpt">597 points · 251 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Mozilla 推出 Firefox 企业版（Firefox Enterprise）页面，面向企业部署场景，HN 上获得 597 分、251 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.anthropic.com/engineering/redesigning-source-control" target="_blank" rel="noopener noreferrer">Redesigning source control at Anthropic</a><span class="article-heat high">▲ 453</span></h3>
+  
+  <p class="article-meta">10/13 23:49</p>
+  <p class="article-excerpt">453 points · 452 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Anthropic 工程团队发文介绍其内部对源代码版本控制系统的重新设计思路，HN 讨论热度较高，453 分、452 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://eg2.haku.sh/" target="_blank" rel="noopener noreferrer">We turned EmbeddingGemma 2 into a speech-to-text model</a><span class="article-heat high">▲ 375</span></h3>
+  
+  <p class="article-meta">10/13 19:27</p>
+  <p class="article-excerpt">375 points · 84 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 作者将 EmbeddingGemma 2 嵌入模型改造为语音转文字（speech-to-text）模型，并公开了实现与效果，HN 上获 375 分、84 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/" target="_blank" rel="noopener noreferrer">Ledger confirms spy chip implant behind wallet crypto thefts</a><span class="article-heat high">▲ 345</span></h3>
+  
+  <p class="article-meta">10/12 18:09</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;www.heise.de&amp;#x2F;en&amp;#x2F;news&amp;#x2F;Crypto-thieves-sell-hardware-wa...https:&amp;#x2F;&amp;#x2F;crypto.news&amp;#x2F;ledger-confirms-hidden-chip-in-crypto-wa...https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=8JnHdr30v4ghttps:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=Nf4FEFlgv3Qhttps:&amp;#x2F;&amp;#x2F;</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Ledger 证实部分硬件钱包中被植入间谍芯片，不法分子借此窃取用户加密货币资产，多家安全媒体与视频频道对此进行了报道。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/" target="_blank" rel="noopener noreferrer">OpenAI engineer arrested in bugging of executive conference room</a><span class="article-heat high">▲ 300</span></h3>
+  
+  <p class="article-meta">10/14 04:23</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;OpenAINewsroom&amp;#x2F;status&amp;#x2F;2110095403198849132</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 据旧金山标准报报道，OpenAI 一名工程师因涉嫌在高管会议室安装窃听装置被捕，OpenAI 官方新闻账号也发布了相关声明。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/" target="_blank" rel="noopener noreferrer">Thunderbird for iOS</a><span class="article-heat high">▲ 294</span></h3>
+  
+  <p class="article-meta">10/13 23:07</p>
+  <p class="article-excerpt">294 points · 121 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Thunderbird 官方博客首次展示正在开发中的 iOS 原生 iPhone 邮件应用，HN 上获 294 分、121 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://blog.character.ai/an-update-on-character-ai/" target="_blank" rel="noopener noreferrer">Character.ai has initiated voluntary Chapter 11 bankruptcy</a><span class="article-heat high">▲ 265</span></h3>
+  
+  <p class="article-meta">10/13 15:28</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;www.theverge.com&amp;#x2F;ai-artificial-intelligence&amp;#x2F;1009802&amp;#x2F;... https:&amp;#x2F;&amp;#x2F;techcrunch.com&amp;#x2F;2026&amp;#x2F;10&amp;#x2F;13&amp;#x2F;just-5-years-in-interactiv... https:&amp;#x2F;&amp;#x2F;www.reuters.com&amp;#x2F;legal&amp;#x2F;litigation&amp;#x2F;characterai-files-b... https:&amp;#x2F;&amp;#x2F;variety.co</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Character.ai 在官方博客宣布自愿申请美国破产法第 11 章破产保护，成立仅约五年；The Verge、TechCrunch 与路透社等媒体均有跟进报道。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/" target="_blank" rel="noopener noreferrer">New Apple TV 4K</a><span class="article-heat high">▲ 260</span></h3>
+  
+  <p class="article-meta">10/13 21:21</p>
+  <p class="article-excerpt">260 points · 508 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic" target="_blank" rel="noopener noreferrer">I posted to HN, and then my website was flooded with AI bot traffic</a><span class="article-heat high">▲ 220</span></h3>
+  
+  <p class="article-meta">10/13 23:25</p>
+  <p class="article-excerpt">220 points · 139 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://machinelearning.apple.com/research/distributed-gpu-cloud" target="_blank" rel="noopener noreferrer">A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices</a><span class="article-heat high">▲ 216</span></h3>
+  
+  <p class="article-meta">10/13 20:26</p>
+  <p class="article-excerpt">216 points · 91 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://guitoro.com/" target="_blank" rel="noopener noreferrer">Show HN: Guitoro, a virtual guitar you strum with your keyboard</a><span class="article-heat high">▲ 183</span></h3>
+  
+  <p class="article-meta">10/14 03:11</p>
+  <p class="article-excerpt">Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners.</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak" target="_blank" rel="noopener noreferrer">The United Kingdom generates less electricity per person than in the 1970s</a><span class="article-heat high">▲ 170</span></h3>
+  
+  <p class="article-meta">10/13 23:12</p>
+  <p class="article-excerpt">170 points · 241 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://developers.googleblog.com/gemini-4-argon-for-robotics/" target="_blank" rel="noopener noreferrer">Gemini 4 Argon for Robotics</a><span class="article-heat high">▲ 170</span></h3>
+  
+  <p class="article-meta">10/14 00:55</p>
+  <p class="article-excerpt">Main thread: Gemini 4 Argon - https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=50073879</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/" target="_blank" rel="noopener noreferrer">Apple&#39;s new &#39;Switch to Safari&#39; campaign details why you should ditch Chrome</a><span class="article-heat high">▲ 155</span></h3>
+  
+  <p class="article-meta">10/13 22:26</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;www.apple.com&amp;#x2F;safari&amp;#x2F;switch&amp;#x2F;</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002" target="_blank" rel="noopener noreferrer">MIT class project turns into an FDA-cleared treatment for tremors</a><span class="article-heat high">▲ 119</span></h3>
+  
+  <p class="article-meta">10/13 03:28</p>
+  <p class="article-excerpt">119 points · 19 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code" target="_blank" rel="noopener noreferrer">How to engineer an AI harness for game development</a><span class="article-heat high">▲ 112</span></h3>
+  
+  <p class="article-meta">10/13 22:14</p>
+  <p class="article-excerpt">112 points · 50 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html" target="_blank" rel="noopener noreferrer">Worlds more habitable than Earth?</a><span class="article-heat mid">▲ 76</span></h3>
+  
+  <p class="article-meta">10/13 20:23</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;archive.is&amp;#x2F;yIYpb</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://lab.specr.net/rigged-draw/" target="_blank" rel="noopener noreferrer">Show HN: How Random Are You?</a><span class="article-heat mid">▲ 65</span></h3>
+  
+  <p class="article-meta">10/14 00:57</p>
+  <p class="article-excerpt">65 points · 35 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/LargeModGames/spotatui" target="_blank" rel="noopener noreferrer">Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits</a><span class="article-heat mid">▲ 36</span></h3>
+  
+  <p class="article-meta">10/13 19:32</p>
+  <p class="article-excerpt">About 11 months ago i revived the amazing but unfortunately unmaintained spotify-tui. Since then I have been working on it almost non stop, finding a lot of problems on the way.One of the main issues I ran into were the Spotify web API rate limits. Third party clients like spotatui are dependent on </p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses" target="_blank" rel="noopener noreferrer">Hiking the world in search of rare cheeses</a><span class="article-heat mid">▲ 32</span></h3>
+  
+  <p class="article-meta">10/13 01:15</p>
+  <p class="article-excerpt">32 points · 9 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://parsimony.lasu.dev/" target="_blank" rel="noopener noreferrer">Show HN: Parsimony – an open-source benchmark for how much code AI models add</a><span class="article-heat low">▲ 26</span></h3>
+  
+  <p class="article-meta">10/14 03:50</p>
+  <p class="article-excerpt">Existing benchmarks measure solve rate and token output&amp;#x2F;cost, but don&amp;#x27;t punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.Method: it takes the patches that benchmarks already publish (DeepS</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians" target="_blank" rel="noopener noreferrer">The Four Colour Theorem: The first time machines mogged mathematicians</a><span class="article-heat low">▲ 22</span></h3>
+  
+  <p class="article-meta">10/14 03:17</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;celebratio.org&amp;#x2F;Appel_KI&amp;#x2F;article&amp;#x2F;796&amp;#x2F;#sender</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://blog.plover.com/prog/git/history-proposal.html" target="_blank" rel="noopener noreferrer">Maybe a better way to track the release history of a Git repo</a><span class="article-heat low">▲ 14</span></h3>
+  
+  <p class="article-meta">10/13 14:47</p>
+  <p class="article-excerpt">14 points · 2 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://alpha-nist.github.io/" target="_blank" rel="noopener noreferrer">AlphaNIST</a><span class="article-heat low">▲ 12</span></h3>
+  
+  <p class="article-meta">10/14 05:57</p>
+  <p class="article-excerpt">12 points · 0 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://wrla.ch/log/2026/10/idrs-as-records-of-intent/" target="_blank" rel="noopener noreferrer">IDRs as Records of Intent</a><span class="article-heat low">▲ 12</span></h3>
+  
+  <p class="article-meta">10/13 00:20</p>
+  <p class="article-excerpt">12 points · 1 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.pi.website/blog/api-beta" target="_blank" rel="noopener noreferrer">Physical Intelligence API Beta: Frontier Models for Every Robot</a><span class="article-heat low">▲ 7</span></h3>
+  
+  <p class="article-meta">10/14 05:55</p>
+  <p class="article-excerpt">7 points · 0 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0" target="_blank" rel="noopener noreferrer">PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery</a><span class="article-heat low">▲ 1</span></h3>
+  
+  <p class="article-meta">10/14 05:01</p>
+  <p class="article-excerpt">1 points · 0 comments</p>
+  
+</article>
+  </div>
+    </div>
+  </div>
+  </section>
+
+  <footer>
+    内容均来自原媒体，本站仅作摘要整理与回链。
+  </footer>
+</main>
+<script>
+  document.querySelectorAll('.tabs > .tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var target = btn.dataset.tab;
+      document.querySelectorAll('.tabs > .tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.panel').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.panel === target);
+      });
+    });
+  });
+  // Scope sub-tab / source-tab toggles to the parent .panel so two L1 panels
+  // can share the same data-cat (e.g. tech main + community both data-cat=tech)
+  // without stomping on each other's active state.
+  document.querySelectorAll('.sub-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var panel = btn.closest('.panel');
+      if (!panel) return;
+      var sub = btn.dataset.sub;
+      panel.querySelectorAll('.sub-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      panel.querySelectorAll('.sub-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.subContent === sub);
+      });
+    });
+  });
+  document.querySelectorAll('.source-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var subContent = btn.closest('.sub-content');
+      if (!subContent) return;
+      var src = btn.dataset.source;
+      subContent.querySelectorAll('.source-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      subContent.querySelectorAll('.source-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.sourceContent === src);
+      });
+    });
+  });
+  // Trading panel: asset-group sub-tabs (US/crypto/china/commodity)
+  document.querySelectorAll('.trading-group-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var grp = btn.dataset.group;
+      document.querySelectorAll('.trading-group-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.trading-group-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.group === grp);
+      });
+    });
+  });
+</script>
+</body>
+</html>
