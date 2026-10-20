@@ -1,0 +1,53 @@
+{
+  "hero_headline": "DeepSeek 开源推理引擎，谷歌云故障波及银行",
+  "daily_overview": "今日技术焦点集中在推理成本与基础设施韧性。DeepSeek 开源自研推理引擎 DeepInfer；Cloudflare 通过提示缓存与智能模型路由，把 AI 代码审查的推理账单削减 68%；谷歌云故障导致多家欧美银行服务中断；NetScaler 网关曝出可预认证执行的漏洞；代理规模化开发正推动 GitHub 重构 Git 底层。",
+  "tech_briefs": [
+    {
+      "title": "DeepSeek 开源自研推理引擎 DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "Hacker News",
+      "summary": "DeepSeek 在 GitHub 开源推理引擎 DeepInfer，该帖登上 Hacker News 热度首位，获 748 分、259 条评论，社区主要关注其推理性能与实际部署成本。",
+      "importance": 9
+    },
+    {
+      "title": "谷歌云故障致汇丰、Revolut 等银行服务中断",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "source": "Hacker News",
+      "summary": "谷歌云发生故障，汇丰、Revolut、苏格兰银行、劳埃德及 Equifax 等服务受影响；Hacker News 上的讨论集中在单一云依赖带来的可用性风险。",
+      "importance": 8
+    },
+    {
+      "title": "Cloudflare 将 AI 代码审查推理成本降 68%",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "source": "Cloudflare Blog",
+      "summary": "AI 代码审查单次运行成本翻倍后，Cloudflare 排查 token 消耗结构，借助提示缓存与智能模型路由，在效果基本不变的情况下把推理账单削减 68%。",
+      "importance": 7
+    },
+    {
+      "title": "NetScaler 网关曝预认证命令执行漏洞",
+      "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 解析 CVE-2026-88771：攻击者可在登录前于 NetScaler Gateway 执行命令。考虑到补丁周期漫长，建议把登录鉴权移到存在漏洞的代码之前。",
+      "importance": 7
+    },
+    {
+      "title": "Orca：用自有订阅统一调度多款编码代理",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending",
+      "summary": "开源项目 Orca 提供代理集群工作台，可用自己的订阅运行 Claude Code、Grok Bot 等编码代理，并支持桌面、移动与远程运行时，主要解决多代理并行编排与统一管理的问题。",
+      "importance": 5
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "推理降本与开源引擎是今日主线，但云服务中断和网关漏洞提醒我们：成本优化之外，系统韧性同样需要投入。",
+  "keywords": [
+    "DeepSeek",
+    "推理引擎",
+    "推理成本优化",
+    "谷歌云故障",
+    "Agent 开发",
+    "网络安全",
+    "Cloudflare"
+  ]
+}
