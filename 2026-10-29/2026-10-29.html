@@ -1,0 +1,1053 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日简报 · 2026-10-29</title>
+<style>
+  :root {
+    --bg: #F9FAFB;
+    --bg-elevated: #ffffff;
+    --fg: #1E2A3E;
+    --fg-soft: #4A5568;
+    --muted: #8B9CB0;
+    --rule: #EDF2F7;
+    --card: #F5F7FA;
+    --link: #6B9B6D;
+    --accent: #2D3748;
+    --accent-fg: #ffffff;
+    --rank-high-bg: #E6F0E8;
+    --rank-high-fg: #4A7C4F;
+    --rank-mid-bg: #FDF2E0;
+    --rank-mid-fg: #9A6B30;
+    --rank-low-bg: #E8EFF7;
+    --rank-low-fg: #4A6080;
+    --hero-grad-from: #F9FAFB;
+    --hero-grad-to: #F5F7FA;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0F1419;
+      --bg-elevated: #1A2027;
+      --fg: #E8ECF0;
+      --fg-soft: #B0BEC5;
+      --muted: #6B7D8B;
+      --rule: #263038;
+      --card: #1A2027;
+      --link: #8FBC94;
+      --accent: #D0D8E0;
+      --accent-fg: #0F1419;
+      --rank-high-bg: rgba(111,158,115,0.18);
+      --rank-high-fg: #8FBC94;
+      --rank-mid-bg: rgba(201,158,98,0.18);
+      --rank-mid-fg: #D4B87A;
+      --rank-low-bg: rgba(120,150,190,0.18);
+      --rank-low-fg: #96ADC8;
+      --hero-grad-from: #1A2027;
+      --hero-grad-to: #0F1419;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+      "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
+
+  /* ===== header ===== */
+  header.report-header { margin-bottom: 1.25rem; }
+  .eyebrow {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  h1.report-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0.4rem 0 1.2rem;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  .archive-link {
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--rule);
+    padding-bottom: 1px;
+  }
+  .archive-link:hover { color: var(--accent); border-bottom-style: solid; }
+  .hero-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--link);
+    padding: 1rem 1.4rem;
+    border-radius: 0.5rem;
+  }
+  .hero-eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .hero-headline {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0.35rem 0 0;
+    line-height: 1.45;
+    color: var(--fg);
+  }
+  .overview-card {
+    margin: 0.7rem 0 0;
+    padding: 0.7rem 1.1rem;
+    background: var(--bg-elevated);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--link);
+  }
+  .overview-card .eyebrow { display: block; margin-bottom: 0.3rem; }
+  .overview-text {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.75;
+    color: var(--fg-soft);
+  }
+
+  /* ===== primary tabs ===== */
+  .tabs {
+    display: flex;
+    gap: 0.25rem;
+    margin: 1.25rem 0 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    flex-wrap: wrap;
+  }
+  .tab {
+    background: none;
+    border: none;
+    padding: 0.7rem 1.1rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    font-family: inherit;
+    transition: color 0.15s;
+  }
+  .tab:hover { color: var(--fg); }
+  .tab.active {
+    color: var(--fg);
+    border-bottom-color: var(--accent);
+  }
+  .tab .count {
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  /* ===== digest (AI 简报) — compact ===== */
+  .digest-category { margin-bottom: 1.1rem; }
+  .category-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
+    margin: 0 0 0.55rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .category-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--fg);
+    margin: 0;
+    letter-spacing: 0.05em;
+  }
+  .category-count {
+    font-size: 0.7rem;
+    color: var(--muted);
+    background: var(--card);
+    padding: 0.12rem 0.45rem;
+    border-radius: 999px;
+  }
+  .brief-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  @media (min-width: 720px) {
+    .brief-list { grid-template-columns: 1fr 1fr; }
+  }
+  .brief {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.95rem;
+    transition: border-color 0.15s;
+  }
+  .brief:hover {
+    border-color: var(--link);
+  }
+  .brief-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.3rem;
+  }
+  .brief-source {
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+  }
+  .brief-rank {
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .brief-rank.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .brief-rank.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .brief-rank.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .brief-title {
+    font-size: 0.98rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem;
+    line-height: 1.35;
+  }
+  .brief-title a { color: var(--fg); text-decoration: none; }
+  .brief-title a:hover { color: var(--link); text-decoration: underline; }
+  .brief-summary {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.9rem;
+    line-height: 1.65;
+  }
+
+  .editor-card {
+    background: var(--bg-elevated);
+    border-left: 3px solid var(--link);
+    border-radius: 0.5rem;
+    padding: 1rem 1.3rem;
+    margin: 1.5rem 0 1.2rem;
+  }
+  .editor-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .editor-text {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    color: var(--fg-soft);
+  }
+  .keywords { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; }
+  .keyword {
+    background: var(--card);
+    color: var(--fg-soft);
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+  }
+
+  /* ===== L2 sub-tabs ===== */
+  .sub-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 1rem 0;
+  }
+  .sub-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1.05rem;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .sub-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .sub-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .sub-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .sub-content { display: none; }
+  .sub-content.active { display: block; }
+
+  /* ===== L3 source-tabs ===== */
+  .source-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.9rem 0 1.3rem;
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .source-tab {
+    background: none;
+    border: 1px solid var(--rule);
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    font-size: 0.83rem;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .source-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .source-tab.active {
+    background: var(--fg);
+    color: var(--bg);
+    border-color: var(--fg);
+  }
+  .source-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.3rem;
+  }
+  .source-content { display: none; }
+  .source-content.active { display: block; }
+
+  /* ===== article cards in raw panels ===== */
+  .article {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .article:first-child { padding-top: 0; }
+  .article:last-child { border-bottom: none; }
+  .article-title {
+    font-size: 1.05rem;
+    margin: 0 0 0.35rem;
+    font-weight: 600;
+    line-height: 1.45;
+  }
+  .article-title a { color: var(--fg); text-decoration: none; }
+  .article-title a:hover { color: var(--link); text-decoration: underline; }
+  .article-meta { color: var(--muted); font-size: 0.76rem; margin: 0 0 0.35rem; }
+  .article-stats {
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin: 0 0 0.4rem;
+    font-feature-settings: "tnum";
+  }
+  .article-heat {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+  .article-heat.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .article-heat.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .article-heat.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .article-excerpt {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.93rem;
+    line-height: 1.7;
+  }
+  .article-summary {
+    margin: 0.55rem 0 0;
+    padding: 0.65rem 0.9rem;
+    background: var(--card);
+    border-left: 2px solid var(--link);
+    border-radius: 0.3rem;
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: var(--fg-soft);
+  }
+  .summary-label {
+    display: inline-block;
+    font-size: 0.7rem;
+    color: var(--link);
+    margin-right: 0.4rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+  }
+
+  .empty {
+    color: var(--muted);
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 0.9rem;
+  }
+
+  /* ===== trading panel ===== */
+  .crypto-widgets {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.55rem;
+    margin: 0.4rem 0 1.2rem;
+  }
+  @media (min-width: 720px) {
+    .crypto-widgets { grid-template-columns: repeat(4, 1fr); }
+  }
+  .crypto-widget {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.85rem;
+    text-align: center;
+  }
+  .widget-label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.3rem;
+  }
+  .widget-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--fg);
+    line-height: 1.1;
+  }
+  .widget-sub {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+  }
+  .widget-sub.positive { color: #16a34a; }
+  .widget-sub.negative { color: #dc2626; }
+  @media (prefers-color-scheme: dark) {
+    .widget-sub.positive { color: #4ade80; }
+    .widget-sub.negative { color: #fca5a5; }
+  }
+  .crypto-widget.fg-fear-extreme { border-left: 4px solid #b91c1c; }
+  .crypto-widget.fg-fear-extreme .widget-value { color: #b91c1c; }
+  .crypto-widget.fg-fear { border-left: 4px solid #d97706; }
+  .crypto-widget.fg-fear .widget-value { color: #d97706; }
+  .crypto-widget.fg-neutral { border-left: 4px solid var(--muted); }
+  .crypto-widget.fg-greed { border-left: 4px solid #65a30d; }
+  .crypto-widget.fg-greed .widget-value { color: #65a30d; }
+  .crypto-widget.fg-greed-extreme { border-left: 4px solid #16a34a; }
+  .crypto-widget.fg-greed-extreme .widget-value { color: #16a34a; }
+  @media (prefers-color-scheme: dark) {
+    .crypto-widget.fg-fear-extreme .widget-value,
+    .crypto-widget.fg-fear .widget-value { color: #fca5a5; }
+    .crypto-widget.fg-greed .widget-value,
+    .crypto-widget.fg-greed-extreme .widget-value { color: #4ade80; }
+  }
+
+  .trading-overview-card {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.3rem;
+    background: var(--bg-elevated);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--link);
+  }
+  .trading-overview-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .trading-overview-text { font-size: 0.92rem; line-height: 1.75; color: var(--fg-soft); margin: 0; }
+
+  .trading-section-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 1.5rem 0 0.8rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--rule);
+    color: var(--fg);
+    letter-spacing: 0.05em;
+  }
+
+  /* picks (Sonnet's watchlist) */
+  .trading-picks {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
+  @media (min-width: 720px) {
+    .trading-picks { grid-template-columns: 1fr 1fr; }
+  }
+  .trading-pick {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--muted);
+    border-radius: 0.5rem;
+    padding: 0.8rem 1rem;
+  }
+  .trading-pick.stance-bull { border-left-color: #16a34a; }
+  .trading-pick.stance-bear { border-left-color: #dc2626; }
+  .trading-pick.stance-neutral { border-left-color: var(--muted); }
+  .pick-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.45rem;
+  }
+  .pick-symbol-block {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .pick-symbol { font-weight: 700; font-size: 1rem; color: var(--fg); }
+  .pick-name { color: var(--muted); font-size: 0.82rem; }
+  .pick-stance {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .pick-stance-bull { background: rgba(22,163,74,0.12); color: #16a34a; }
+  .pick-stance-bear { background: rgba(220,38,38,0.12); color: #dc2626; }
+  .pick-stance-neutral { background: var(--card); color: var(--muted); }
+  .pick-rationale { margin: 0; font-size: 0.88rem; line-height: 1.65; color: var(--fg-soft); }
+
+  /* asset-group tabs */
+  .trading-group-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.6rem 0 1.2rem;
+  }
+  .trading-group-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .trading-group-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .trading-group-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .trading-group-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .trading-group-content { display: none; }
+  .trading-group-content.active { display: block; }
+
+  /* ticker cards */
+  .ticker-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.55rem;
+    padding: 0.85rem 1.1rem;
+    margin-bottom: 0.7rem;
+  }
+  .ticker-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.65rem;
+  }
+  .ticker-id { min-width: 0; }
+  .ticker-symbol { margin: 0; font-size: 1rem; font-weight: 700; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; }
+  .ticker-name { margin: 0.15rem 0 0; font-size: 0.82rem; color: var(--muted); }
+  .ticker-price-block { text-align: right; flex-shrink: 0; }
+  .ticker-price { display: block; font-size: 1.05rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .ticker-pct { display: inline-block; font-size: 0.82rem; font-weight: 500; margin-top: 0.15rem; font-variant-numeric: tabular-nums; }
+  .ticker-pct.positive, .positive { color: #16a34a; }
+  .ticker-pct.negative, .negative { color: #dc2626; }
+
+  .ticker-indicators {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.35rem 0.9rem;
+    margin: 0;
+    font-size: 0.82rem;
+    color: var(--fg-soft);
+  }
+  @media (min-width: 720px) {
+    .ticker-indicators { grid-template-columns: repeat(3, 1fr); }
+  }
+  .ticker-indicators > div { display: flex; gap: 0.4rem; align-items: baseline; min-width: 0; }
+  .ticker-indicators dt { color: var(--muted); font-size: 0.74rem; margin: 0; white-space: nowrap; }
+  .ticker-indicators dd { margin: 0; font-variant-numeric: tabular-nums; font-weight: 500; color: var(--fg); }
+  .trend-bullish { color: #16a34a; }
+  .trend-bearish { color: #dc2626; }
+  .trend-neutral { color: var(--muted); }
+  .rsi-overbought { color: #d97706; }
+  .rsi-oversold { color: #2563eb; }
+
+  .ticker-signals {
+    margin-top: 0.65rem;
+    padding-top: 0.55rem;
+    border-top: 1px dashed var(--rule);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .signal-pill {
+    font-size: 0.72rem;
+    padding: 0.18rem 0.55rem;
+    border-radius: 999px;
+    font-weight: 500;
+  }
+  .signal-pill.tone-bull { background: rgba(22,163,74,0.13); color: #166534; }
+  .signal-pill.tone-bear { background: rgba(220,38,38,0.13); color: #991b1b; }
+  .signal-pill.tone-caution { background: rgba(217,119,6,0.15); color: #92400e; }
+  @media (prefers-color-scheme: dark) {
+    .signal-pill.tone-bull { color: #4ade80; }
+    .signal-pill.tone-bear { color: #fca5a5; }
+    .signal-pill.tone-caution { color: #fcd34d; }
+    .trend-bullish, .positive, .ticker-pct.positive { color: #4ade80; }
+    .trend-bearish, .negative, .ticker-pct.negative { color: #fca5a5; }
+    .rsi-overbought { color: #fcd34d; }
+    .rsi-oversold { color: #93c5fd; }
+    .trading-pick.stance-bull { border-left-color: #4ade80; }
+    .trading-pick.stance-bear { border-left-color: #fca5a5; }
+    .pick-stance-bull { background: rgba(74,222,128,0.15); color: #4ade80; }
+    .pick-stance-bear { background: rgba(252,165,165,0.15); color: #fca5a5; }
+  }
+  .signal-age { opacity: 0.7; font-weight: 400; }
+
+  .trading-risk {
+    margin: 1.5rem 0 0;
+    padding: 0.9rem 1.2rem;
+    background: var(--card);
+    border-radius: 0.45rem;
+    border-left: 3px solid #d97706;
+  }
+  .trading-risk .eyebrow { display: block; margin-bottom: 0.35rem; }
+  .trading-risk p { margin: 0; font-size: 0.82rem; line-height: 1.65; color: var(--fg-soft); }
+
+  footer {
+    margin-top: 2.5rem;
+    border-top: 1px solid var(--rule);
+    padding-top: 1.1rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+</style>
+</head>
+<body>
+<main>
+  <header class="report-header">
+    <span class="eyebrow">每日简报</span>
+    <h1 class="report-title">2026-10-29</h1>
+    <a class="archive-link" href="../archive.html">← 历史归档</a>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="tech">技术动态<span class="count">14</span></button>
+    
+    
+    
+    <button class="tab" data-tab="community">社区讨论<span class="count">30</span></button>
+  </nav>
+
+  <section class="panel active" data-panel="tech">
+    <div class="sub-content active" data-sub-content="github-trending" data-cat="tech">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="github-trending" data-sub="github-trending" data-cat="tech">
+    <article class="article">
+  <h3 class="article-title"><a href="https://github.com/JetBrains/thinkrail" target="_blank" rel="noopener noreferrer">JetBrains/thinkrail</a></h3>
+  <p class="article-stats">TypeScript · ★ 5,520 · 🍴 280 · 📈 1,068 stars today</p>
+  
+  <p class="article-excerpt">Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> JetBrains 推出的轻量级真实 IDE，主打 vibe coding：编辑器会围绕你的工作方式自我定制，而不是让人去适应固定布局。适合希望以自然语言驱动编码、又不想放弃 IDE 调试与补全能力的开发者，用于快速原型和日常开发。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/elayadesign/ai-design-skills" target="_blank" rel="noopener noreferrer">elayadesign/ai-design-skills</a></h3>
+  <p class="article-stats">★ 11,554 · 🍴 833 · 📈 2,139 stars today</p>
+  
+  
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 面向 AI 编码代理的设计技能集合，把设计规范与判断沉淀为可调用的 skill，供 Claude Code 等工具在生成界面时参考。适合需要让 AI 产出更符合设计品味、少一些模板感的前端与产品团队参考使用。仓库未提供说明，具体内容需查看目录。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/obra/superpowers" target="_blank" rel="noopener noreferrer">obra/superpowers</a></h3>
+  <p class="article-stats">Shell · ★ 307,773 · 🍴 27,372 · 📈 1,095 stars today</p>
+  
+  <p class="article-excerpt">An agentic skills framework &amp; software development methodology that works.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 一套面向 AI Agent 的技能框架，同时给出配套的软件开发方法论：把任务拆解、工具调用和验证流程固化成可复用的 skill，让代理按既定工序推进而非即兴发挥。适合用 Claude Code 等代理做工程化落地的团队，规范协作与产出质量。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/HKUDS/DeepTutor" target="_blank" rel="noopener noreferrer">HKUDS/DeepTutor</a></h3>
+  <p class="article-stats">Python · ★ 48,789 · 🍴 6,045 · 📈 2,371 stars today</p>
+  
+  <p class="article-excerpt">DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 港大数据智能实验室（HKUDS）推出的个性化教学系统，主打终身学习场景：围绕学习者长期积累的知识状态做诊断与辅导，而非一次性问答。适合教育科技研究者和需要自建智能助教、个性化学习路径的产品团队。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/macro-inc/macro" target="_blank" rel="noopener noreferrer">macro-inc/macro</a></h3>
+  <p class="article-stats">Rust · ★ 5,593 · 🍴 527 · 📈 117 stars today</p>
+  
+  <p class="article-excerpt">Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 面向团队的统一工作台，把邮件、聊天、文档、任务、通话、CRM 与 AI Agent 收进同一个界面，各模块通过 @ 互相引用，并共享同一份 AI 记忆。适合想摆脱多工具切换、让上下文在销售与协作流程中贯通的团队。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/Nutlope/hallmark" target="_blank" rel="noopener noreferrer">Nutlope/hallmark</a></h3>
+  <p class="article-stats">CSS · ★ 41,235 · 🍴 2,140 · 📈 2,110 stars today</p>
+  
+  <p class="article-excerpt">Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 一个反「AI 味」的设计技能，可装进 Claude Code、Cursor、Codex，约束生成界面的配色、排版与组件选择，减少千篇一律的模板感。适合用 AI 快速出前端但又不想要同质化视觉的开发者与独立产品作者。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/pbakaus/impeccable" target="_blank" rel="noopener noreferrer">pbakaus/impeccable</a></h3>
+  <p class="article-stats">Rust · ★ 93,761 · 🍴 5,535 · 📈 1,472 stars today</p>
+  
+  <p class="article-excerpt">The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 给编码代理补上设计词汇：用 polish、bolder 等指令调优视觉，用 critique、audit 复查界面，尽量在上线前拦住 AI 生成的粗糙设计。适合把 AI 当作主要实现手段、但需要把控设计质量的前端与设计工程师。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/makecindy/cindy" target="_blank" rel="noopener noreferrer">makecindy/cindy</a></h3>
+  <p class="article-stats">TypeScript · ★ 8,385 · 🍴 981 · 📈 728 stars today</p>
+  
+  <p class="article-excerpt">Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 开源、开箱即用的 AI Agent，定位是接到需求就直接执行，省去繁琐配置和编排。适合想快速把日常任务交给代理处理的个人开发者与小团队，用于尝试自主完成操作类工作流。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/nightly-labs/openbot" target="_blank" rel="noopener noreferrer">nightly-labs/openbot</a></h3>
+  <p class="article-stats">TypeScript · ★ 3,504 · 🍴 335 · 📈 1,054 stars today</p>
+  
+  <p class="article-excerpt">A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 本地优先的桌面工作台，用来养常驻的 AI 队友：为 Codex、Claude、Grok 分别开独立工作区，配任务队列、文件共享、浏览器控制与代理间协作。适合希望数据留在本地、又要多代理并行处理复杂流程的开发者。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/togg53192-cmd/jailbreaks" target="_blank" rel="noopener noreferrer">togg53192-cmd/jailbreaks</a></h3>
+  <p class="article-stats">★ 7,686 · 🍴 1,085 · 📈 1,477 stars today</p>
+  
+  <p class="article-excerpt">LIST OF ALL MY JAILBREAKS</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 作者收集的个人越狱提示词（jailbreak prompts）清单，属于大模型安全与提示词对抗方向的资料汇编。适合研究提示注入、对齐边界与红队测试的人员参考，普通产品开发中不建议直接使用。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/hmjz100/LinkSwift" target="_blank" rel="noopener noreferrer">hmjz100/LinkSwift</a></h3>
+  <p class="article-stats">JavaScript · ★ 35,764 · 🍴 2,537 · 📈 1,616 stars today</p>
+  
+  <p class="article-excerpt">一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 基于 JavaScript 的网盘直链获取脚本，改自「网盘直链下载助手」，支持百度、阿里云、移动云、天翼、迅雷、夸克、UC、123 共八家网盘，把分享页文件解析成可交给 IDM、aria2 等工具下载的直链。适合需要批量、多线程下载网盘资源的用户。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/expo/skills" target="_blank" rel="noopener noreferrer">expo/skills</a></h3>
+  <p class="article-stats">Shell · ★ 3,707 · 🍴 235 · 📈 90 stars today</p>
+  
+  <p class="article-excerpt">A collection of AI agent skills for working with Expo projects and Expo Application Services</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Expo 官方维护的 AI Agent 技能集合，覆盖 Expo 项目开发与 EAS（构建、更新、提交）流程，让代理理解框架约定与命令。适合用 React Native + Expo 做跨端应用、想让 Claude Code 等工具少犯配置错误的开发者。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/ruvnet/RuView" target="_blank" rel="noopener noreferrer">ruvnet/RuView</a></h3>
+  <p class="article-stats">Rust · ★ 101,368 · 🍴 13,179 · 📈 557 stars today</p>
+  
+  <p class="article-excerpt">π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 利用普通 WiFi 信号的 CSI 变化做实时空间感知、存在检测与呼吸心率等体征监测，全程不采集任何视频画面。适合关注隐私的养老看护、智能家居与室内人员检测场景，技术栈偏向无线信号处理与边缘推理。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://github.com/xiaolai/the-craft-of-selfteaching" target="_blank" rel="noopener noreferrer">xiaolai/the-craft-of-selfteaching</a></h3>
+  <p class="article-stats">Jupyter Notebook · ★ 18,747 · 🍴 17,916 · 📈 148 stars today</p>
+  
+  <p class="article-excerpt">One has no future if one couldn&#39;t teach themself.</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 李笑来《自学是门手艺》的开源书稿，以「不会自学的人没有未来」为出发点，讲如何拆解知识、建立自学流程并长期坚持。适合想系统提升自学能力的读者，也可作为编程入门者的方法论读物。</p>
+</article>
+  </div>
+    </div>
+  </div>
+  </section>
+  
+  
+  
+  <section class="panel" data-panel="community">
+    <div class="sub-content active" data-sub-content="overseas-community" data-cat="tech">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="hackernews" data-sub="overseas-community" data-cat="tech">
+    <article class="article">
+  <h3 class="article-title"><a href="https://nullpt.rs/fingerprinting-bioweapons" target="_blank" rel="noopener noreferrer">Why is this fingerprinting script creating bioweapons?</a><span class="article-heat high">▲ 1152</span></h3>
+  
+  <p class="article-meta">10/29 01:13</p>
+  <p class="article-excerpt">1152 points · 222 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 一篇逆向分析文章：作者发现某浏览器指纹识别脚本会生成与生物武器相关的字符串，并追查其来源与用途，引发千余点讨论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://emudhra.we-have-a-problem.com/apple.html" target="_blank" rel="noopener noreferrer">Apple&#39;s git still trusts the compromised eMudhra certificates</a><span class="article-heat high">▲ 1123</span></h3>
+  
+  <p class="article-meta">10/28 19:03</p>
+  <p class="article-excerpt">1123 points · 394 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 文章指出 Apple 的 git 仍信任已遭入侵的 eMudhra 证书，梳理证书信任链问题及潜在风险，获 1100 余点、近 400 条评论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/" target="_blank" rel="noopener noreferrer">Gemini 4 Carbon</a><span class="article-heat high">▲ 917</span></h3>
+  
+  <p class="article-meta">10/29 01:01</p>
+  <p class="article-excerpt">917 points · 739 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Google 在官方博客发布 Gemini 4 Carbon 模型，介绍其能力与研究进展，帖子获 900 余点、739 条评论热议。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.apple.com/macbook-pro/proled-xdr-display/" target="_blank" rel="noopener noreferrer">MacBook Pro with PROLED XDR Display and Touch</a><span class="article-heat high">▲ 572</span></h3>
+  
+  <p class="article-meta">10/29 01:10</p>
+  <p class="article-excerpt">https:&amp;#x2F;&amp;#x2F;www.apple.com&amp;#x2F;newsroom&amp;#x2F;2026&amp;#x2F;10&amp;#x2F;apple-unveils-groundb...</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Apple 官网页面介绍新款 MacBook Pro：搭载 PROLED XDR 显示屏并首次支持触控，新闻稿同步公布相关细节。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.circuithub.com/post/unveiling-the-grid" target="_blank" rel="noopener noreferrer">The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand</a><span class="article-heat high">▲ 494</span></h3>
+  
+  <p class="article-meta">10/26 21:13</p>
+  <p class="article-excerpt">494 points · 223 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> CircuitHub 介绍名为 The Grid 的工厂级机器人：位于马萨诸塞州，可远程按需生产 PCB，文章讲述其设计与落地过程。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://carmelitegothic.com/cnc-stone-carving/" target="_blank" rel="noopener noreferrer">CNC Stone Carving</a><span class="article-heat high">▲ 465</span></h3>
+  
+  <p class="article-meta">10/28 22:38</p>
+  <p class="article-excerpt">465 points · 130 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 一篇博客介绍如何用 CNC 数控设备雕刻石材，记录从建模到加工的具体流程与工具经验，获 460 余点。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://divagr.com/blog/qwenputer" target="_blank" rel="noopener noreferrer">Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5</a><span class="article-heat high">▲ 411</span></h3>
+  
+  <p class="article-meta">10/29 08:25</p>
+  <p class="article-excerpt">411 points · 86 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 作者在 Qwen3.5 大模型内部构建出一个可运行且确定性的 RISC-V CPU，名为 Qwenputer，并撰文说明实现思路。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1" target="_blank" rel="noopener noreferrer">StackOverflow now gets fewer than 1000 questions a month</a><span class="article-heat high">▲ 392</span></h3>
+  
+  <p class="article-meta">10/29 07:35</p>
+  <p class="article-excerpt">392 points · 329 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> Stack Exchange 数据查询图表显示，Stack Overflow 每月新增提问数已跌破 1000 条，引发对问答社区现状的讨论。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce" target="_blank" rel="noopener noreferrer">Claude Code regularly sends each background agent’s transcript to its model</a><span class="article-heat high">▲ 333</span></h3>
+  
+  <p class="article-meta">10/29 11:33</p>
+  <p class="article-excerpt">333 points · 102 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 一份 gist 分析指出，Claude Code 会定期把每个后台 agent 的完整对话记录发送给其模型，作者附上抓包与复现记录。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://furbo.org/2026/10/28/a-health-update/" target="_blank" rel="noopener noreferrer">A Health Update</a><span class="article-heat high">▲ 235</span></h3>
+  
+  <p class="article-meta">10/29 05:13</p>
+  <p class="article-excerpt">235 points · 36 comments</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> furbo.org 博主发布个人健康近况更新，向读者说明当前身体状况与后续安排。</p>
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://surgehq.ai/blog/dayjob-tax" target="_blank" rel="noopener noreferrer">Dayjob: Tax – evaluating AI agents on 50 professional tax assignments</a><span class="article-heat high">▲ 230</span></h3>
+  
+  <p class="article-meta">10/28 23:46</p>
+  <p class="article-excerpt">230 points · 148 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://wiki.alpinebsd.org" target="_blank" rel="noopener noreferrer">AlpineBSD</a><span class="article-heat high">▲ 212</span></h3>
+  
+  <p class="article-meta">10/28 22:30</p>
+  <p class="article-excerpt">212 points · 193 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://formlabs.com/products/form-studio-1-basic-founders-edition/" target="_blank" rel="noopener noreferrer">Formlabs Studio 1 $699 Resin Printer</a><span class="article-heat high">▲ 179</span></h3>
+  
+  <p class="article-meta">10/29 05:19</p>
+  <p class="article-excerpt">179 points · 113 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html" target="_blank" rel="noopener noreferrer">GitLab Security Incident: Attempted Exploitation of CVE-2026-97229</a><span class="article-heat high">▲ 172</span></h3>
+  
+  <p class="article-meta">10/29 07:45</p>
+  <p class="article-excerpt">172 points · 78 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864" target="_blank" rel="noopener noreferrer">Why birds can fly over Mount Everest (2020)</a><span class="article-heat high">▲ 147</span></h3>
+  
+  <p class="article-meta">10/24 21:17</p>
+  <p class="article-excerpt">147 points · 28 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://cursor.com/blog/agent-sdk" target="_blank" rel="noopener noreferrer">The Agent SDK</a><span class="article-heat high">▲ 124</span></h3>
+  
+  <p class="article-meta">10/28 22:02</p>
+  <p class="article-excerpt">124 points · 121 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/" target="_blank" rel="noopener noreferrer">OpenAI&#39;s agents talked to each other through the CPU Cache</a><span class="article-heat high">▲ 109</span></h3>
+  
+  <p class="article-meta">10/27 05:24</p>
+  <p class="article-excerpt">109 points · 43 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1" target="_blank" rel="noopener noreferrer">Scaling Hierarchical Networks</a><span class="article-heat mid">▲ 65</span></h3>
+  
+  <p class="article-meta">10/29 02:07</p>
+  <p class="article-excerpt">65 points · 3 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/" target="_blank" rel="noopener noreferrer">Spiders Spin &#39;Silk Dope&#39; into Nature&#39;s Toughest Material</a><span class="article-heat mid">▲ 61</span></h3>
+  
+  <p class="article-meta">10/29 01:45</p>
+  <p class="article-excerpt">61 points · 6 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired" target="_blank" rel="noopener noreferrer">Nixpkgs for the Front End Impaired</a><span class="article-heat mid">▲ 60</span></h3>
+  
+  <p class="article-meta">10/26 23:00</p>
+  <p class="article-excerpt">60 points · 11 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.benjoffe.com/fast-floordiv" target="_blank" rel="noopener noreferrer">A new faster algorithm to compute 64-bit signed floor division</a><span class="article-heat mid">▲ 52</span></h3>
+  
+  <p class="article-meta">10/27 17:13</p>
+  <p class="article-excerpt">52 points · 5 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/" target="_blank" rel="noopener noreferrer">Zillow to pay $212.5M to settle class action for real estate venture</a><span class="article-heat mid">▲ 38</span></h3>
+  
+  <p class="article-meta">10/29 11:48</p>
+  <p class="article-excerpt">38 points · 9 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.nature.com/articles/s41467-026-78272-8" target="_blank" rel="noopener noreferrer">Human-enhanced tsunami hazard in large lakes</a><span class="article-heat mid">▲ 33</span></h3>
+  
+  <p class="article-meta">10/26 21:00</p>
+  <p class="article-excerpt">33 points · 3 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html" target="_blank" rel="noopener noreferrer">Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027</a><span class="article-heat low">▲ 27</span></h3>
+  
+  <p class="article-meta">10/29 15:52</p>
+  <p class="article-excerpt">27 points · 35 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://cp-algorithms.com/data_structures/treap.html" target="_blank" rel="noopener noreferrer">Treap (Cartesian Tree)</a><span class="article-heat low">▲ 22</span></h3>
+  
+  <p class="article-meta">10/26 19:19</p>
+  <p class="article-excerpt">22 points · 2 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/" target="_blank" rel="noopener noreferrer">Getting debug access on a Brother printer over Telnet</a><span class="article-heat low">▲ 21</span></h3>
+  
+  <p class="article-meta">10/26 21:54</p>
+  <p class="article-excerpt">21 points · 3 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/" target="_blank" rel="noopener noreferrer">Forging a Microsoft Edge Full Chain with Logic Bugs Only</a><span class="article-heat low">▲ 19</span></h3>
+  
+  <p class="article-meta">10/29 14:47</p>
+  <p class="article-excerpt">19 points · 2 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion" target="_blank" rel="noopener noreferrer">TLP Is Not a Suggestion</a><span class="article-heat low">▲ 17</span></h3>
+  
+  <p class="article-meta">10/28 19:16</p>
+  <p class="article-excerpt">17 points · 3 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://smsofdeath.com/" target="_blank" rel="noopener noreferrer">Zero click, silent, remote Android DoS</a><span class="article-heat low">▲ 15</span></h3>
+  
+  <p class="article-meta">10/29 15:08</p>
+  <p class="article-excerpt">15 points · 8 comments</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://nango.dev/careers" target="_blank" rel="noopener noreferrer">Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel</a><span class="article-heat low">▲ 1</span></h3>
+  
+  <p class="article-meta">10/29 05:00</p>
+  <p class="article-excerpt">1 points · 0 comments</p>
+  
+</article>
+  </div>
+    </div>
+  </div>
+  </section>
+
+  <footer>
+    内容均来自原媒体，本站仅作摘要整理与回链。
+  </footer>
+</main>
+<script>
+  document.querySelectorAll('.tabs > .tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var target = btn.dataset.tab;
+      document.querySelectorAll('.tabs > .tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.panel').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.panel === target);
+      });
+    });
+  });
+  // Scope sub-tab / source-tab toggles to the parent .panel so two L1 panels
+  // can share the same data-cat (e.g. tech main + community both data-cat=tech)
+  // without stomping on each other's active state.
+  document.querySelectorAll('.sub-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var panel = btn.closest('.panel');
+      if (!panel) return;
+      var sub = btn.dataset.sub;
+      panel.querySelectorAll('.sub-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      panel.querySelectorAll('.sub-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.subContent === sub);
+      });
+    });
+  });
+  document.querySelectorAll('.source-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var subContent = btn.closest('.sub-content');
+      if (!subContent) return;
+      var src = btn.dataset.source;
+      subContent.querySelectorAll('.source-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      subContent.querySelectorAll('.source-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.sourceContent === src);
+      });
+    });
+  });
+  // Trading panel: asset-group sub-tabs (US/crypto/china/commodity)
+  document.querySelectorAll('.trading-group-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var grp = btn.dataset.group;
+      document.querySelectorAll('.trading-group-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.trading-group-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.group === grp);
+      });
+    });
+  });
+</script>
+</body>
+</html>
