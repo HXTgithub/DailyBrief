@@ -1,0 +1,53 @@
+{
+  "hero_headline": "智能体基础设施成为今日技术主线",
+  "daily_overview": "智能体基础设施成为今日主线：Anthropic 开源 Agent Skills，GitHub 重构 Git 存储以承载海量机器提交，Cloudflare 收紧智能体流量管控。成本侧亚马逊用自研调度模型替代 Sonnet 省下数百万美元；Fireworks AI 入侵暴露第三方供应链风险。",
+  "tech_briefs": [
+    {
+      "title": "Anthropic 开源 Agent 技能库",
+      "url": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending",
+      "summary": "Anthropic 在 GitHub 公开 Agent Skills 仓库，把工具调用与工作流程封装成可复用、可加载的技能模块，让开发者无需从零编排即可搭建可部署的智能体应用。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub 重构 Git 存储支撑智能体写入",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "source": "GitHub Engineering",
+      "summary": "GitHub 工程团队披露新的 Git 存储架构，目标是让成千上万个智能体同时向同一仓库推送代码，意味着平台容量规划正从人工提交节奏转向机器写入量级。",
+      "importance": 7
+    },
+    {
+      "title": "Cloudflare 收紧智能体身份与流量管控",
+      "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+      "source": "Cloudflare Blog",
+      "summary": "Cloudflare 连续发文，界定 AI 智能体代用户访问网站时的身份识别难题，并向站点提供区分自动化与真人流量的可见性与控制手段，探索可信的代理授权机制。（多家报道）",
+      "importance": 7
+    },
+    {
+      "title": "亚马逊以自研调度模型替代 Sonnet 降本",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "source": "Hacker News",
+      "summary": "亚马逊披露用 Strands 的 Decider 模型承接部分原本由 Sonnet 4.6 处理的任务，称由此节省数百万美元，引发关于模型路由与小模型承担主力负载的讨论。",
+      "importance": 7
+    },
+    {
+      "title": "Fireworks AI 入侵波及 Notion",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "source": "Hacker News",
+      "summary": "Notion 发布安全事件说明，称第三方 AI 供应商 Fireworks AI 遭入侵并影响 Notion 及其客户，再度提示外部模型服务已成为企业数据链路中的风险环节。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "智能体的写操作、身份认证与调用成本正在同时重塑基础设施，效率红利与供应链风险一并放大，值得持续跟踪。",
+  "keywords": [
+    "智能体基础设施",
+    "Agent Skills",
+    "Git 存储架构",
+    "智能体身份",
+    "模型成本优化",
+    "AI 供应链安全",
+    "Notion"
+  ]
+}
